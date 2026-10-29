@@ -263,3 +263,43 @@ main { max-width: 1100px; margin: 0 auto; padding: 16px; }
   .mapa-panel .chip, .mapa-panel .interruptor { flex: none; }
   #mapaVias { height: 64vh; }
 }
+
+/* Mapa claro con estaciones, trenes con flecha y buscador */
+.busca-mapa { pointer-events: auto; display: flex; gap: 6px; max-width: 420px; }
+.busca-mapa input { flex: 1; min-width: 0; padding: 10px 14px; border-radius: 12px; border: 1px solid #cfd6e2; background: #fff; color: #172033; font: inherit; font-size: 16px; box-shadow: 0 4px 14px rgba(0, 0, 0, .15); outline: none; }
+.busca-mapa input:focus { border-color: var(--azul); }
+.busca-mapa button { border: 0; border-radius: 12px; padding: 0 16px; background: var(--rojo); color: #fff; font-weight: 700; box-shadow: 0 4px 14px rgba(0, 0, 0, .15); }
+.nota-busca { pointer-events: auto; font-size: 12.5px; color: #172033; background: rgba(255, 255, 255, .92); border-radius: 8px; padding: 3px 9px; width: fit-content; }
+.nota-busca:empty { display: none; }
+#mapaVias { background: #e9eef3; }
+.mapa-panel .chip, .mapa-panel .interruptor { background: rgba(255, 255, 255, .95); color: #172033; border-color: #d5dbe5; box-shadow: 0 2px 8px rgba(0, 0, 0, .12); }
+.mapa-panel .chip.apagado { opacity: .55; }
+.leyenda { background: rgba(255, 255, 255, .94); color: #172033; box-shadow: 0 2px 8px rgba(0, 0, 0, .15); }
+.pt-est { border-color: #d4145a; background: #fff; }
+.pin-estacion { width: 16px; height: 20px; position: relative; }
+.pin-estacion::before { content: ""; position: absolute; left: 1px; top: 0; width: 14px; height: 14px; border-radius: 50% 50% 50% 0; transform: rotate(-45deg); background: #fff; border: 2.5px solid #8a1d5b; box-sizing: border-box; }
+.pin-estacion::after { content: ""; position: absolute; left: 6px; top: 5px; width: 4px; height: 4px; border-radius: 50%; background: #8a1d5b; }
+.tren-flecha { position: relative; width: 22px; height: 22px; }
+.tren-flecha i { position: absolute; inset: 0; transition: transform .8s linear; }
+.tren-flecha i::before { content: ""; position: absolute; left: 50%; top: -7px; margin-left: -6px; border-style: solid; border-width: 0 6px 9px 6px; border-color: transparent transparent var(--c) transparent; }
+.tren-flecha::after { content: ""; position: absolute; inset: 2px; border-radius: 50%; background: var(--c); border: 3px solid #fff; box-shadow: 0 1px 6px rgba(0, 0, 0, .45); box-sizing: border-box; }
+.tren-flecha.parado::after { background: #fff; border-color: var(--c); }
+.tren-flecha.espera::after { background: #fff; border-color: var(--c); border-style: dashed; }
+.tren-flecha b { position: absolute; left: 24px; top: 2px; font: 600 10.5px "IBM Plex Mono", monospace; color: #172033; background: rgba(255, 255, 255, .9); padding: 0 4px; border-radius: 4px; white-space: nowrap; display: none; }
+.leaflet-zoom-anim .tren-flecha i { transition: none; }
+.zoom-cerca .tren-flecha b { display: block; }
+.marca-tren.vivo { border: 2px solid #fff; box-shadow: 0 1px 5px rgba(0, 0, 0, .4); }
+.leaflet-popup-content-wrapper, .leaflet-popup-tip { background: #fff; color: #172033; border-color: #d5dbe5; }
+.leaflet-popup-content .mini { color: #5b6880; }
+.btn-renfe { display: inline-block; margin-top: 8px; background: #8a1d5b; color: #fff !important; text-decoration: none; padding: 6px 10px; border-radius: 8px; font-weight: 600; font-size: 12.5px; }
+.fila-est { display: grid; grid-template-columns: 44px 1fr auto; gap: 8px; padding: 4px 0; border-top: 1px solid #eef1f5; font-size: 12.5px; }
+.fila-est .h { font: 600 12.5px "IBM Plex Mono", monospace; }
+.fila-est .e { font-weight: 600; font-size: 11.5px; }
+.etiqueta-mapa { background: #fff !important; color: #172033 !important; border-color: #d5dbe5 !important; }
+.leaflet-control-attribution { background: rgba(255, 255, 255, .8) !important; color: #5b6880 !important; }
+.leaflet-control-attribution a { color: #2b5bb5 !important; }
+.leaflet-bar a { background: #fff; color: #172033; border-color: #d5dbe5; }
+.mapa-panel { grid-template-columns: minmax(0, 1fr); }
+.mapa-panel > * { min-width: 0; }
+.busca-mapa button { flex: none; }
+.mapa-envoltura.con-popup .mapa-panel .filtros { display: none; }

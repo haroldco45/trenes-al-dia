@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T05:50:00-05:00",
+  "actualizado": "2026-10-29T07:30:00-05:00",
   "titulo": {
     "es": "Choque de trenes en Urda (Toledo)",
     "en": "Train collision in Urda (Toledo)"
@@ -11,17 +11,17 @@
   "cifras": [
     {
       "id": "fallecidos",
-      "valor": 64,
-      "mas": true,
-      "es": "personas fallecidas (cifra en revisión; algunos medios reportan 68)",
-      "en": "people killed (figure under review; some outlets report 68)"
+      "valor": 69,
+      "mas": false,
+      "es": "personas fallecidas, según las autoridades (29 de octubre)",
+      "en": "people killed, according to the authorities (29 October)"
     },
     {
       "id": "heridos",
-      "valor": 107,
+      "valor": 110,
       "mas": false,
-      "es": "personas ingresadas en hospitales de Castilla-La Mancha",
-      "en": "people admitted to hospitals in Castilla-La Mancha"
+      "es": "heridos ingresados en Castilla-La Mancha; 60 ya recibieron el alta",
+      "en": "injured admitted in Castilla-La Mancha; 60 already discharged"
     },
     {
       "id": "pasajeros",
@@ -132,6 +132,12 @@
       "aprox": true,
       "es": "Unos 50 pasajeros evacuados llegan en autobús a Sevilla-Santa Justa.",
       "en": "About 50 evacuated passengers arrive by bus at Seville-Santa Justa."
+    },
+    {
+      "hora": "2026-10-29T10:50:00+01:00",
+      "aprox": true,
+      "es": "Las cifras suben a 69 fallecidos. De los 110 heridos ingresados en Castilla-La Mancha, 60 ya recibieron el alta.",
+      "en": "The toll rises to 69 dead. Of the 110 injured admitted in Castilla-La Mancha, 60 have been discharged."
     }
   ],
   "punto": {
@@ -151,6 +157,14 @@
     {
       "titulo": "¡HOLA! — Choque de trenes en Toledo",
       "url": "https://www.hola.com/actualidad/20261028931711/ultima-hora-accidente-trenes-toledo/"
+    },
+    {
+      "titulo": "Europa Press — Suben a 69 los muertos; 60 de los 110 heridos dados de alta",
+      "url": "https://www.europapress.es/castilla-lamancha/noticia-elevan-69-fallecidos-60-110-heridos-ingresados-lm-ya-sido-dados-alta-20261029105040.html"
+    },
+    {
+      "titulo": "La Vanguardia — Ascienden a 69 los muertos en el accidente de trenes en Toledo",
+      "url": "https://www.lavanguardia.com/vida/20261029/11670831/choque-de-trenes-toledo-iryo-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html"
     }
   ]
 }

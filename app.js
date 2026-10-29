@@ -17,7 +17,7 @@ const T = {
     notaMapa: 'Las vías son las reales (OpenRailwayMap). Los trenes de alta velocidad se ubican según su horario oficial, no por GPS. Para la posición oficial consulta el', visorRenfe: 'visor de Renfe en tiempo real',
     buscaTren: 'Busca tu tren: número, destino o línea', buscaNoticia: 'Buscar en vivo: víctimas, Adif, Iryo, investigación…',
     queSabe: 'Qué se sabe', causa: 'La causa', cronologia: 'Cronología', telefonos: 'Teléfonos para familiares', fuentes: 'Fuentes', videos: 'Videos',
-    hecho: 'Software por', creditos: 'Datos: Renfe Data (CC BY 4.0), OpenStreetMap y OpenRailwayMap (ODbL / CC BY-SA), fotos de Wikimedia Commons y de los medios citados.',
+    buscar: 'Buscar', hecho: 'Software por', verRenfe: 'Ver posición oficial en Renfe del', proxSalidas: 'Próximas salidas', sinSalidas: 'No hay más salidas hoy en esta estación.', noEncontrado: 'Ese tren no circula ahora o no está en los corredores de la app. Prueba en el visor oficial de Renfe.', buscaMapa: 'Número de tren o línea', creditos: 'Datos: Renfe Data (CC BY 4.0), OpenStreetMap y OpenRailwayMap (ODbL / CC BY-SA), fotos de Wikimedia Commons y de los medios citados.',
     e_en_marcha: 'En marcha', e_en_estacion: 'En estación', e_por_salir: 'Por salir', e_programado: 'Programado', e_llego: 'Llegó', e_suspendido: 'Suspendido', e_confirmar: 'Confirma con tu operador', e_llegando: 'Llegando', e_retraso: 'Retraso',
     todos: 'Todos', cercanias: 'Cercanías en vivo', proxima: 'Próxima parada', salida: 'Salida', llegada: 'Llegada', verMapa: 'Ver en el mapa', minRetraso: 'min de retraso', puntual: 'puntual',
     sinHorarios: 'Los horarios de hoy aparecen cuando el robot los baja de Renfe (cada mañana). Mientras tanto puedes ver los trenes de Cercanías en vivo y el estado de la red.',
@@ -45,7 +45,7 @@ const T = {
     notaMapa: 'Tracks are real (OpenRailwayMap). High-speed trains are placed using their official timetable, not GPS. For the official position check the', visorRenfe: 'Renfe live viewer',
     buscaTren: 'Find your train: number, destination or line', buscaNoticia: 'Live search: victims, Adif, Iryo, investigation…',
     queSabe: 'What we know', causa: 'The cause', cronologia: 'Timeline', telefonos: 'Phone lines for families', fuentes: 'Sources', videos: 'Videos',
-    hecho: 'Software by', creditos: 'Data: Renfe Data (CC BY 4.0), OpenStreetMap and OpenRailwayMap (ODbL / CC BY-SA), photos from Wikimedia Commons and the media cited.',
+    buscar: 'Search', hecho: 'Software by', verRenfe: 'See official Renfe position of', proxSalidas: 'Next departures', sinSalidas: 'No more departures today from this station.', noEncontrado: 'That train is not running now or is not on the app corridors. Try the official Renfe viewer.', buscaMapa: 'Train number or line', creditos: 'Data: Renfe Data (CC BY 4.0), OpenStreetMap and OpenRailwayMap (ODbL / CC BY-SA), photos from Wikimedia Commons and the media cited.',
     e_en_marcha: 'Running', e_en_estacion: 'At station', e_por_salir: 'Departing soon', e_programado: 'Scheduled', e_llego: 'Arrived', e_suspendido: 'Suspended', e_confirmar: 'Check with your operator', e_llegando: 'Arriving', e_retraso: 'Delay',
     todos: 'All', cercanias: 'Live commuter', proxima: 'Next stop', salida: 'Departure', llegada: 'Arrival', verMapa: 'Show on map', minRetraso: 'min late', puntual: 'on time',
     sinHorarios: "Today's timetables appear once the robot downloads them from Renfe (every morning). Meanwhile you can see live commuter trains and the network status.",
@@ -213,17 +213,17 @@ function situacion(v, ahora) {
   const r = restriccion(v, ahora.iso);
   const m = ahora.min;
   let s;
-  if (m < ini) s = { ...base, estado: ini - m <= 20 ? 'por_salir' : 'programado', pos: coord(p[0]), sig: nombre(p[0]), sigHora: ini };
+  if (m < ini) s = { ...base, estado: ini - m <= 20 ? 'por_salir' : 'programado', pos: coord(p[0]), sig: nombre(p[0]), sigHora: ini, rumbo: rumbo(coord(p[0]), coord(p[1])) };
   else if (m >= fin) s = { ...base, estado: 'llego', pos: coord(p[p.length - 1]), prog: 1, sig: nombre(p[p.length - 1]), sigHora: fin, hace: m - fin };
   else {
     for (let i = 0; i < p.length; i++) {
       const [, ll, sa] = p[i];
-      if (m >= ll && m <= sa) { s = { ...base, estado: 'en_estacion', pos: coord(p[i]), sig: nombre(p[i]), sigHora: sa }; break; }
+      if (m >= ll && m <= sa) { s = { ...base, estado: 'en_estacion', pos: coord(p[i]), sig: nombre(p[i]), sigHora: sa, rumbo: p[i + 1] ? rumbo(coord(p[i]), coord(p[i + 1])) : null }; break; }
       const q = p[i + 1];
       if (q && m > sa && m < q[1]) {
         const f = (m - sa) / Math.max(1, q[1] - sa);
         const a = coord(p[i]), b = coord(q);
-        s = { ...base, estado: 'en_marcha', pos: [a[0] + (b[0] - a[0]) * f, a[1] + (b[1] - a[1]) * f], sig: nombre(q), sigHora: q[1] };
+        s = { ...base, estado: 'en_marcha', pos: [a[0] + (b[0] - a[0]) * f, a[1] + (b[1] - a[1]) * f], sig: nombre(q), sigHora: q[1], rumbo: rumbo(a, b) };
         break;
       }
     }
@@ -232,6 +232,14 @@ function situacion(v, ahora) {
   }
   if (r) { s.restriccion = r; if (r === 'suspendido') { s.estado = 'suspendido'; s.prog = 0; s.sig = s.origen; s.sigHora = s.sale; } }
   return s;
+}
+
+// Hacia dónde va el tren, en grados (0 = norte)
+function rumbo(a, b) {
+  const r = Math.PI / 180;
+  const y = Math.sin((b[1] - a[1]) * r) * Math.cos(b[0] * r);
+  const x = Math.cos(a[0] * r) * Math.sin(b[0] * r) - Math.sin(a[0] * r) * Math.cos(b[0] * r) * Math.cos((b[1] - a[1]) * r);
+  return (Math.atan2(y, x) / r + 360) % 360;
 }
 
 function trenesDelDia() {
@@ -358,7 +366,10 @@ function iniciarMapa() {
   const m = L.map('mapaVias', { zoomControl: false }).setView([39.9, -3.9], 6);
   S.mapa = m;
   L.control.zoom({ position: 'bottomright' }).addTo(m);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  const env = m.getContainer().parentElement;
+  m.on('popupopen', () => env.classList.add('con-popup'));
+  m.on('popupclose', () => env.classList.remove('con-popup'));
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
     maxZoom: 19, subdomains: 'abcd', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
   }).addTo(m);
   S.capas.vias = L.tileLayer('https://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png', {
@@ -368,12 +379,19 @@ function iniciarMapa() {
   for (const c of S.corredores) {
     const g = L.layerGroup();
     for (const tramo of [c.estaciones, ...(c.ramales || [])]) {
-      L.polyline(tramo.map((e) => [e[1], e[2]]), { color: c.color, weight: 4, opacity: 0.55, dashArray: '1 7', lineCap: 'round' }).addTo(g);
-      for (const e of tramo) L.circleMarker([e[1], e[2]], { radius: 4, color: c.color, weight: 2, fillColor: '#0b0f17', fillOpacity: 1 }).bindTooltip(e[0], { className: 'etiqueta-mapa', direction: 'top' }).addTo(g);
+      L.polyline(tramo.map((e) => [e[1], e[2]]), { color: c.color, weight: 3, opacity: 0.45, dashArray: '2 8', lineCap: 'round' }).addTo(g);
     }
     g.addTo(m);
     S.capas.corr[c.id] = g;
   }
+  S.capas.estaciones = L.layerGroup();
+  pintarEstaciones();
+  const verEstaciones = () => {
+    m.getZoom() >= 7 ? S.capas.estaciones.addTo(m) : m.removeLayer(S.capas.estaciones);
+    m.getContainer().classList.toggle('zoom-cerca', m.getZoom() >= 9);
+  };
+  m.on('zoomend', verEstaciones);
+  verEstaciones();
   S.capas.est = L.layerGroup().addTo(m);
   S.capas.vivo = L.layerGroup().addTo(m);
   const pc = S.caso?.punto;
@@ -382,6 +400,9 @@ function iniciarMapa() {
       .bindPopup(`<b>${esc(t('choque'))}</b><br>${esc(t('choqueTxt'))}`).addTo(m);
   }
   pintarFiltrosMapa();
+  $('#buscaMapa').addEventListener('keydown', (e) => { if (e.key === 'Enter') { e.preventDefault(); buscarEnMapa(e.target.value); } });
+  $('#buscaMapa').addEventListener('search', (e) => buscarEnMapa(e.target.value));
+  $('#btnBuscaMapa').onclick = () => buscarEnMapa($('#buscaMapa').value);
   $('#fVias').onchange = (e) => (e.target.checked ? S.capas.vias.addTo(m) : m.removeLayer(S.capas.vias));
   $('#fEstimados').onchange = (e) => (e.target.checked ? S.capas.est.addTo(m) : m.removeLayer(S.capas.est));
   $('#fVivo').onchange = (e) => (e.target.checked ? S.capas.vivo.addTo(m) : m.removeLayer(S.capas.vivo));
@@ -397,7 +418,8 @@ function popupTren(v, s) {
   const e = s.estado;
   return `<b>${esc(v.tipo)} ${esc(v.tren)}</b><br>${esc(s.origen)} → ${esc(s.destino)}<br>
     <span style="color:${COLOR_ESTADO[e]}">${esc(t('e_' + e))}</span>${s.restriccion === 'confirmar' ? ` · <span style="color:var(--ambar)">${esc(t('e_confirmar'))}</span>` : ''}<br>
-    ${esc(t('proxima'))}: ${esc(s.sig)} · ${hhmm(s.sigHora)} ${esc(t('horaES'))}<br><span class="mini">${esc(t('lEst'))}</span>`;
+    ${esc(t('proxima'))}: ${esc(s.sig)} · ${hhmm(s.sigHora)} ${esc(t('horaES'))}<br><span class="mini">${esc(t('lEst'))}</span>
+    ${/renfe|ave|avlo|alvia|avant|md|regional|reg|euromed|intercity/i.test(v.tipo) ? `<a class="btn-renfe" href="https://tiempo-real.largorecorrido.renfe.com" target="_blank" rel="noopener">${esc(t('verRenfe'))} ${esc(v.tren)}</a>` : ''}`;
 }
 
 function moverTrenes() {
@@ -408,20 +430,79 @@ function moverTrenes() {
     const visible = S.filtroCorr.has(v.corredor) && (s.estado === 'en_marcha' || s.estado === 'en_estacion' || s.estado === 'por_salir');
     if (!visible) continue;
     vivos.add(v.id);
-    const cls = `marca-tren${s.estado === 'en_estacion' ? ' estacion' : ''}`;
+    const cls = `tren-flecha${s.estado === 'en_estacion' ? ' parado' : ''}${s.estado === 'por_salir' ? ' espera' : ''}`;
     let mk = S.marcas.get(v.id);
+    const icono = () => L.divIcon({ className: '', html: `<div class="${cls}" style="--c:${colorCorr(v.corredor)}"><i></i><b>${esc(v.tren)}</b></div>`, iconSize: [22, 22], iconAnchor: [11, 11], popupAnchor: [0, -10] });
     if (!mk) {
-      mk = L.marker(s.pos, { icon: L.divIcon({ className: '', html: `<div class="${cls}" style="--c:${colorCorr(v.corredor)};width:14px;height:14px"></div>`, iconSize: [14, 14] }) })
-        .bindPopup('').addTo(S.capas.est);
+      mk = L.marker(s.pos, { icon: icono(), zIndexOffset: 500 }).bindPopup('', { autoPanPaddingTopLeft: [20, 90] }).addTo(S.capas.est);
       mk._cls = cls;
+      mk._v = v;
       S.marcas.set(v.id, mk);
     } else {
       mk.setLatLng(s.pos);
-      if (mk._cls !== cls) { mk.setIcon(L.divIcon({ className: '', html: `<div class="${cls}" style="--c:${colorCorr(v.corredor)};width:14px;height:14px"></div>`, iconSize: [14, 14] })); mk._cls = cls; }
+      if (mk._cls !== cls) { mk.setIcon(icono()); mk._cls = cls; }
     }
+    const flecha = mk.getElement()?.querySelector('i');
+    if (flecha) { flecha.style.transform = `rotate(${s.rumbo ?? 0}deg)`; flecha.style.opacity = s.rumbo == null ? 0 : 1; }
     mk.setPopupContent(popupTren(v, s));
   }
   for (const [id, mk] of S.marcas) if (!vivos.has(id)) { S.capas.est.removeLayer(mk); S.marcas.delete(id); }
+}
+
+// Estaciones reales de los horarios de hoy, con sus próximas salidas
+function pintarEstaciones() {
+  const P = S.horarios?.paradas || {};
+  S.capas.estaciones.clearLayers();
+  const usadas = new Set((S.horarios?.viajes || []).flatMap((v) => v.p.map((x) => x[0])));
+  for (const id of usadas) {
+    const e = P[id];
+    if (!e) continue;
+    L.marker([e[1], e[2]], { icon: L.divIcon({ className: '', html: '<div class="pin-estacion"></div>', iconSize: [16, 20], iconAnchor: [8, 20], popupAnchor: [0, -18] }) })
+      .bindTooltip(e[0], { className: 'etiqueta-mapa', direction: 'top', offset: [0, -18] })
+      .bindPopup(() => popupEstacion(id))
+      .addTo(S.capas.estaciones);
+  }
+}
+
+function popupEstacion(id) {
+  const P = S.horarios.paradas;
+  const ahora = ahoraMadrid();
+  const prox = trenesDelDia()
+    .map(({ v, s }) => ({ v, s, x: v.p.find((q) => q[0] === id) }))
+    .filter(({ x, s }) => x && x[2] >= ahora.min - 2 && s.estado !== 'llego')
+    .sort((a, b) => a.x[2] - b.x[2]).slice(0, 6);
+  const filas = prox.map(({ v, s, x }) => `<div class="fila-est"><span class="h">${hhmm(x[2])}</span><span>${esc(v.tipo)} ${esc(v.tren)} → ${esc(s.destino)}</span><span class="e" style="color:${COLOR_ESTADO[s.estado]}">${esc(t('e_' + s.estado))}</span></div>`).join('');
+  return `<b>${esc(P[id][0])}</b><div class="mini" style="margin:2px 0 6px">${esc(t('proxSalidas'))} · ${esc(t('horaES'))}</div>${filas || `<span class="mini">${esc(t('sinSalidas'))}</span>`}`;
+}
+
+// Busca un tren por número (o línea de Cercanías) y lo muestra en el mapa
+function buscarEnMapa(texto) {
+  const q = String(texto || '').trim().toLowerCase();
+  const nota = $('#notaBuscaMapa');
+  if (!q) { nota.textContent = ''; return; }
+  const dia = trenesDelDia();
+  const hit = dia.find(({ v }) => v.tren === q || v.tren.replace(/^0+/, '') === q.replace(/^0+/, '')) ||
+    dia.find(({ v }) => v.tren.includes(q));
+  if (hit) {
+    const { v, s } = hit;
+    if (!S.filtroCorr.has(v.corredor)) { S.filtroCorr.add(v.corredor); S.capas.corr[v.corredor]?.addTo(S.mapa); pintarFiltrosMapa(); }
+    if (!S.mapa.hasLayer(S.capas.est)) { S.capas.est.addTo(S.mapa); $('#fEstimados').checked = true; }
+    moverTrenes();
+    S.mapa.flyTo(s.pos, 10, { duration: 1.2 });
+    const mk = S.marcas.get(v.id);
+    if (mk) setTimeout(() => mk.openPopup(), 1300);
+    else L.popup().setLatLng(s.pos).setContent(popupTren(v, s)).openOn(S.mapa);
+    nota.textContent = `${v.tipo} ${v.tren} · ${t('e_' + s.estado)}`;
+    return;
+  }
+  const vivo = S.vivo.find((x) => x.etiqueta.toLowerCase().includes(q) || (x.linea || '').toLowerCase() === q);
+  if (vivo) {
+    S.mapa.flyTo([vivo.lat, vivo.lon], 13, { duration: 1.2 });
+    setTimeout(() => S.marcasVivo.get(vivo.id)?.openPopup(), 1300);
+    nota.textContent = `${vivo.linea} ${vivo.etiqueta}`;
+    return;
+  }
+  nota.textContent = t('noEncontrado');
 }
 
 function pintarVivo() {
@@ -488,7 +569,7 @@ function pintarTrenes() {
       <div class="ruta">${esc(s.origen)} → ${esc(s.destino)}${s.restriccion === 'confirmar' ? ` · <span style="color:var(--ambar)">${esc(t('e_confirmar'))}</span>` : ''}</div>
       <div class="progreso"><i style="width:${Math.round(s.prog * 100)}%"></i></div>
       <div class="pie-tren"><span>${esc(t('salida'))} ${hhmm(s.sale)} · ${esc(t('llegada'))} ${hhmm(s.llega)} ${esc(t('horaES'))}</span>
-        ${s.estado === 'en_marcha' || s.estado === 'en_estacion' ? `<button class="ver" data-ver="${s.pos[0]},${s.pos[1]}">${esc(t('verMapa'))}</button>` : `<span>${esc(t('proxima'))}: ${esc(s.sig)}</span>`}</div>
+        ${s.estado === 'en_marcha' || s.estado === 'en_estacion' ? `<button class="ver" data-tren="${esc(v.tren)}">${esc(t('verMapa'))}</button>` : `<span>${esc(t('proxima'))}: ${esc(s.sig)}</span>`}</div>
     </div>`).join('') : `<div class="vacio">${t('sinTrenes')}</div>`;
 }
 
@@ -559,6 +640,7 @@ document.addEventListener('click', (e) => {
     if (S.mapa) { const g = S.capas.corr[id]; S.filtroCorr.has(id) ? g.addTo(S.mapa) : S.mapa.removeLayer(g); pintarFiltrosMapa(); moverTrenes(); }
     if (S.tab === 'trenes') { pintarFiltrosEstado(); pintarTrenes(); }
   } else if (b.dataset.estado) { S.filtroEstado = b.dataset.estado; pintarFiltrosEstado(); pintarTrenes(); }
+  else if (b.dataset.tren) { abrir('mapa'); $('#buscaMapa').value = b.dataset.tren; setTimeout(() => buscarEnMapa(b.dataset.tren), 150); }
   else if (b.dataset.ver) {
     const [la, lo] = b.dataset.ver.split(',').map(Number);
     abrir('mapa');
