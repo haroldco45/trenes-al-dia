@@ -369,11 +369,20 @@ function iniciarMapa() {
   const env = m.getContainer().parentElement;
   m.on('popupopen', () => env.classList.add('con-popup'));
   m.on('popupclose', () => env.classList.remove('con-popup'));
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    maxZoom: 19, subdomains: 'abcd', attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+  // Mapa base claro sin clave (Esri); si falla, OpenStreetMap
+  const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
+  const base = L.tileLayer(ESRI + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
+    maxZoom: 16, attribution: 'Mapa &copy; Esri, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(m);
+  const nombres = L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, pane: 'shadowPane' }).addTo(m);
+  let fallos = 0;
+  base.on('tileerror', () => {
+    if (++fallos !== 6) return;
+    m.removeLayer(base); m.removeLayer(nombres);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', { maxZoom: 19, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>' }).addTo(m).bringToBack();
+  });
   S.capas.vias = L.tileLayer('https://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png', {
-    maxZoom: 19, subdomains: 'abc', opacity: 0.75, attribution: '<a href="https://www.openrailwaymap.org/">OpenRailwayMap</a> CC-BY-SA'
+    maxZoom: 19, subdomains: 'abc', opacity: 0.6, attribution: '<a href="https://www.openrailwaymap.org/">OpenRailwayMap</a> CC-BY-SA'
   }).addTo(m);
   S.capas.corr = {};
   for (const c of S.corredores) {

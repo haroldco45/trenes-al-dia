@@ -1,5 +1,5 @@
 // Trenes al Día — funciona sin conexión con lo último que se vio.
-const VERSION = 'td-v2';
+const VERSION = 'td-v3';
 const BASE = ['./', 'index.html', 'styles.css', 'app.js', 'manifest.json', 'img/app-192.png', 'img/app-512.png'];
 
 self.addEventListener('install', (e) => {
