@@ -1,0 +1,156 @@
+{
+  "actualizado": "2026-10-29T05:50:00-05:00",
+  "titulo": {
+    "es": "Choque de trenes en Urda (Toledo)",
+    "en": "Train collision in Urda (Toledo)"
+  },
+  "resumen": {
+    "es": "El miércoles 28 de octubre de 2026, hacia las 8:54 (hora de España), un AVE de Renfe y un tren de Iryo chocaron en el kilómetro 118 de la línea de alta velocidad Madrid–Sevilla, entre Mora, Los Yébenes y Urda (Toledo). Adif habló de una colisión por alcance: según fuentes del caso, el AVE habría embestido por detrás al Iryo, que estaba detenido. Hasta cuatro coches descarrilaron y cayeron por un terraplén.",
+    "en": "On Wednesday 28 October 2026, at about 8:54 (Spain time), a Renfe AVE and an Iryo train collided at kilometre 118 of the Madrid–Seville high-speed line, between Mora, Los Yébenes and Urda (Toledo). Adif described a rear-end collision: according to sources, the AVE hit the Iryo train, which was stopped on the track. Up to four cars derailed and fell down an embankment."
+  },
+  "cifras": [
+    {
+      "id": "fallecidos",
+      "valor": 64,
+      "mas": true,
+      "es": "personas fallecidas (cifra en revisión; algunos medios reportan 68)",
+      "en": "people killed (figure under review; some outlets report 68)"
+    },
+    {
+      "id": "heridos",
+      "valor": 107,
+      "mas": false,
+      "es": "personas ingresadas en hospitales de Castilla-La Mancha",
+      "en": "people admitted to hospitals in Castilla-La Mancha"
+    },
+    {
+      "id": "pasajeros",
+      "valor": 544,
+      "mas": false,
+      "es": "pasajeros viajaban en los dos trenes",
+      "en": "passengers were on board the two trains"
+    },
+    {
+      "id": "km",
+      "valor": 118,
+      "mas": false,
+      "es": "kilómetro de la línea Madrid–Sevilla donde ocurrió",
+      "en": "kilometre point on the Madrid–Seville line"
+    }
+  ],
+  "causa": {
+    "es": "La causa no está confirmada. El ministro Óscar Puente atribuye el accidente a una decisión errónea del centro de control de Atocha que habría permitido al AVE avanzar con la señal en rojo. Audios publicados por la Cadena SER recogen la instrucción de Adif al maquinista, tras un fallo del sistema de señalización en cabina (LZB), de reanudar la marcha. La jueza de Orgaz decretó el secreto de las actuaciones y la incautación de las cajas negras.",
+    "en": "The cause has not been confirmed. Transport Minister Óscar Puente blames a wrong decision by the Atocha control centre that allegedly let the AVE move forward on a red signal. Audio published by Cadena SER captures Adif telling the driver, after a failure of the in-cab signalling system (LZB), to resume running. The Orgaz judge sealed the proceedings and ordered the black boxes seized."
+  },
+  "estadoRed": [
+    {
+      "corredor": "andalucia",
+      "estado": "suspendido",
+      "desde": "2026-10-28",
+      "hasta": "2026-10-29",
+      "exceptoTipos": [
+        "AVANT"
+      ],
+      "es": "Alta velocidad Madrid–Andalucía suspendida el jueves 29 de octubre, incluidos los trenes de Barcelona y Valencia hacia Sevilla y Málaga. Renfe recomienda no viajar salvo necesidad.",
+      "en": "Madrid–Andalusia high-speed services suspended on Thursday 29 October, including Barcelona and Valencia trains to Seville and Malaga. Renfe advises travelling only if necessary."
+    },
+    {
+      "corredor": "andalucia",
+      "estado": "alterado",
+      "desde": "2026-10-30",
+      "hasta": "2026-12-13",
+      "es": "Plan alternativo de Renfe desde el viernes 30. Venta de billetes del corredor bloqueada hasta el 13 de diciembre. Iryo canceló sus salidas de Atocha hacia el sur y Ouigo suspendió el corredor al menos hasta el lunes 2 de noviembre. Confirma tu tren con tu operador.",
+      "en": "Renfe alternative plan from Friday 30. Ticket sales on the corridor blocked until 13 December. Iryo cancelled its departures from Atocha to the south and Ouigo suspended the corridor at least until Monday 2 November. Check your train with your operator."
+    },
+    {
+      "corredor": "andalucia",
+      "estado": "parcial",
+      "desde": "2026-10-28",
+      "hasta": "2026-12-13",
+      "tipos": [
+        "AVANT"
+      ],
+      "es": "Renfe mantiene un Avant por vía convencional Madrid–Ciudad Real–Puertollano.",
+      "en": "Renfe keeps an Avant service on conventional track Madrid–Ciudad Real–Puertollano."
+    }
+  ],
+  "telefonos": [
+    {
+      "es": "Renfe — atención a afectados y familiares",
+      "en": "Renfe — help for those affected and families",
+      "numero": "+34 900 10 10 20"
+    },
+    {
+      "es": "Iryo — atención a afectados",
+      "en": "Iryo — help for those affected",
+      "numero": "+34 900 001 403"
+    },
+    {
+      "es": "112 Castilla-La Mancha — información a familiares",
+      "en": "112 Castilla-La Mancha — family information line",
+      "numero": "+34 900 122 112"
+    },
+    {
+      "es": "Emergencias en España",
+      "en": "Emergencies in Spain",
+      "numero": "112"
+    }
+  ],
+  "cronologia": [
+    {
+      "hora": "2026-10-28T08:54:00+01:00",
+      "es": "Colisión entre el AVE de Renfe y el Iryo en el km 118 de la línea Madrid–Sevilla.",
+      "en": "Collision between the Renfe AVE and the Iryo train at km 118 of the Madrid–Seville line."
+    },
+    {
+      "hora": "2026-10-28T19:41:00+01:00",
+      "es": "107 heridos ingresados en hospitales de Castilla-La Mancha, 15 en código rojo.",
+      "en": "107 injured admitted to hospitals in Castilla-La Mancha, 15 in critical condition."
+    },
+    {
+      "hora": "2026-10-28T19:52:00+01:00",
+      "es": "La jueza de Orgaz ordena las primeras diligencias; el TSJCLM activa el protocolo de víctimas múltiples.",
+      "en": "The Orgaz judge orders the first proceedings; the regional High Court activates its multiple-victims protocol."
+    },
+    {
+      "hora": "2026-10-28T19:59:00+01:00",
+      "es": "Renfe suspende la alta velocidad Madrid–Andalucía para el jueves 29.",
+      "en": "Renfe suspends Madrid–Andalusia high-speed services for Thursday 29."
+    },
+    {
+      "hora": "2026-10-28T20:27:00+01:00",
+      "es": "La Cadena SER publica los audios entre Adif y el maquinista del AVE.",
+      "en": "Cadena SER publishes audio between Adif and the AVE driver."
+    },
+    {
+      "hora": "2026-10-28T20:33:00+01:00",
+      "es": "Secreto de actuaciones e incautación de las cajas negras.",
+      "en": "Proceedings sealed and black boxes seized."
+    },
+    {
+      "hora": "2026-10-28T21:00:00+01:00",
+      "aprox": true,
+      "es": "Unos 50 pasajeros evacuados llegan en autobús a Sevilla-Santa Justa.",
+      "en": "About 50 evacuated passengers arrive by bus at Seville-Santa Justa."
+    }
+  ],
+  "punto": {
+    "lat": 39.47,
+    "lon": -3.8,
+    "aprox": true
+  },
+  "fuentes": [
+    {
+      "titulo": "Infobae — Accidente de trenes en Toledo, en directo",
+      "url": "https://www.infobae.com/espana/2026/10/28/en-directo-accidente-ferroviario-en-toledo-numerosos-heridos-tras-el-choque-de-dos-trenes-en-la-linea-madrid-andalucia/"
+    },
+    {
+      "titulo": "CNN en Español — Última hora del accidente de trenes",
+      "url": "https://cnnespanol.cnn.com/2026/10/28/espana/live-news/accidente-trenes-pasajeros-espana-vivo-trax"
+    },
+    {
+      "titulo": "¡HOLA! — Choque de trenes en Toledo",
+      "url": "https://www.hola.com/actualidad/20261028931711/ultima-hora-accidente-trenes-toledo/"
+    }
+  ]
+}

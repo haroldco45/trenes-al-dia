@@ -1,0 +1,60 @@
+{
+  "nota": "Coordenadas de respaldo. El robot las reemplaza con las de los horarios oficiales de Renfe (GTFS) en data/horarios-hoy.json.",
+  "corredores": [
+    {
+      "id": "andalucia",
+      "color": "#e5484d",
+      "es": "Madrid – Andalucía (Sevilla, Málaga, Granada)",
+      "en": "Madrid – Andalusia (Seville, Malaga, Granada)",
+      "estaciones": [
+        ["Madrid-Puerta de Atocha", 40.4065, -3.6895],
+        ["Ciudad Real", 38.986, -3.9218],
+        ["Puertollano", 38.693, -4.1098],
+        ["Villanueva de Córdoba-Los Pedroches", 38.3166, -4.608],
+        ["Córdoba", 37.8888, -4.7893],
+        ["Sevilla-Santa Justa", 37.392, -5.9753]
+      ],
+      "ramales": [
+        [["Córdoba", 37.8888, -4.7893], ["Puente Genil-Herrera", 37.36, -4.77], ["Antequera-Santa Ana", 37.0226, -4.5817], ["Málaga-María Zambrano", 36.7117, -4.4325]],
+        [["Antequera-Santa Ana", 37.0226, -4.5817], ["Loja", 37.17, -4.15], ["Granada", 37.1839, -3.6095]]
+      ]
+    },
+    {
+      "id": "toledo",
+      "color": "#f5a524",
+      "es": "Madrid – Toledo",
+      "en": "Madrid – Toledo",
+      "estaciones": [
+        ["Madrid-Puerta de Atocha", 40.4065, -3.6895],
+        ["Toledo", 39.8623, -4.0136]
+      ]
+    },
+    {
+      "id": "levante",
+      "color": "#3e9bff",
+      "es": "Madrid – Valencia",
+      "en": "Madrid – Valencia",
+      "estaciones": [
+        ["Madrid-Puerta de Atocha", 40.4065, -3.6895],
+        ["Cuenca Fernando Zóbel", 40.043, -2.155],
+        ["Requena-Utiel", 39.491, -1.105],
+        ["València-Joaquín Sorolla", 39.46, -0.383]
+      ]
+    },
+    {
+      "id": "noreste",
+      "color": "#30a46c",
+      "es": "Madrid – Zaragoza – Barcelona",
+      "en": "Madrid – Zaragoza – Barcelona",
+      "estaciones": [
+        ["Madrid-Puerta de Atocha", 40.4065, -3.6895],
+        ["Guadalajara-Yebes", 40.602, -3.111],
+        ["Calatayud", 41.353, -1.643],
+        ["Zaragoza-Delicias", 41.658, -0.911],
+        ["Lleida", 41.62, 0.633],
+        ["Camp de Tarragona", 41.166, 1.274],
+        ["Barcelona-Sants", 41.379, 2.14]
+      ]
+    }
+  ]
+}

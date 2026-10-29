@@ -1,0 +1,17 @@
+{
+  "name": "trenes-al-dia",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trenes al Día — app ciudadana de Vibras Positivas HM para ver las vías y el estado de los trenes en España, y seguir el caso del choque de Urda (Toledo).",
+  "type": "module",
+  "scripts": {
+    "robot": "node scripts/robot.mjs",
+    "horarios": "node scripts/horarios.mjs --forzar"
+  },
+  "dependencies": {
+    "gtfs-realtime-bindings": "^2.2.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

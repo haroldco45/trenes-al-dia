@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Trenes al Día</title>
+  <meta name="description" content="App ciudadana para ver las vías y el estado de los trenes en España, y seguir el caso del choque de trenes de Urda (Toledo). Por Vibras Positivas HM.">
+  <meta name="theme-color" content="#0b0f17">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="img/app-192.png">
+  <link rel="apple-touch-icon" href="img/app-192.png">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="Trenes al Día — vías, trenes y el caso de Toledo">
+  <meta property="og:description" content="Mira por dónde va cada tren, el estado de la red y las noticias del choque de Urda (Toledo), actualizadas solas.">
+  <meta property="og:url" content="https://trenes-al-dia.netlify.app/">
+  <meta property="og:image" content="https://trenes-al-dia.netlify.app/img/og-image.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="https://trenes-al-dia.netlify.app/img/og-image.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="barra">
+    <div class="marca">
+      <span class="logo">TD</span>
+      <div>
+        <strong>Trenes al Día</strong>
+        <small data-t="lema">Vías, trenes y el caso de Toledo</small>
+      </div>
+    </div>
+    <div class="relojes">
+      <span><b data-t="hEspana">España</b> <em id="relojES">--:--</em></span>
+      <span><b data-t="hColombia">Colombia</b> <em id="relojCO">--:--</em></span>
+    </div>
+    <div class="acciones">
+      <button id="btnIdioma" class="btn-suave" aria-label="Cambiar idioma">EN</button>
+      <button id="btnActualizar" class="btn-vivo"><span class="pulso"></span><span data-t="actualizar">Actualizar</span></button>
+    </div>
+  </header>
+
+  <div class="ticker" aria-live="polite"><div class="ticker-pista" id="ticker"></div></div>
+
+  <nav class="pestanas" id="pestanas">
+    <button data-tab="hoy" class="activa" data-t="tHoy">Hoy</button>
+    <button data-tab="mapa" data-t="tMapa">Mapa de vías</button>
+    <button data-tab="trenes" data-t="tTrenes">Trenes</button>
+    <button data-tab="caso" data-t="tCaso">El caso</button>
+    <button data-tab="noticias" data-t="tNoticias">Noticias</button>
+    <button data-tab="seguro" data-t="tSeguro">Viaja seguro</button>
+  </nav>
+
+  <main>
+    <!-- HOY -->
+    <section id="hoy" class="vista activa">
+      <div class="heroe">
+        <div class="heroe-fotos" id="heroeFotos"></div>
+        <div class="heroe-velo"></div>
+        <div class="heroe-texto">
+          <span class="chip-rojo" data-t="enSeguimiento">En seguimiento</span>
+          <h1 id="casoTitulo">Choque de trenes en Urda (Toledo)</h1>
+          <p id="hoyFecha"></p>
+        </div>
+        <div class="credito" id="heroeCredito"></div>
+      </div>
+
+      <div class="cifras" id="cifras"></div>
+
+      <div class="bloque">
+        <div class="bloque-cab">
+          <h2 data-t="enEsteMomento">En este momento</h2>
+          <span class="mini" id="hoyHora"></span>
+        </div>
+        <div class="tablero">
+          <div class="dato"><b id="nVivo">0</b><span data-t="dVivo">trenes de Cercanías con posición en vivo</span></div>
+          <div class="dato"><b id="nMarcha">0</b><span data-t="dMarcha">trenes de larga distancia en marcha según horario</span></div>
+          <div class="dato"><b id="nSusp">0</b><span data-t="dSusp">trenes del día afectados por suspensión</span></div>
+          <div class="dato"><b id="nHoyNot">0</b><span data-t="dNoticias">noticias del caso en las últimas 24 horas</span></div>
+        </div>
+      </div>
+
+      <div class="bloque">
+        <div class="bloque-cab"><h2 data-t="estadoRed">Estado de la red</h2></div>
+        <div id="estadoRed" class="lista-estado"></div>
+      </div>
+
+      <div class="bloque">
+        <div class="bloque-cab">
+          <h2 data-t="ultimas">Lo último</h2>
+          <button class="enlace" data-ir="noticias" data-t="verTodas">Ver todas</button>
+        </div>
+        <div id="hoyNoticias" class="tarjetas"></div>
+      </div>
+
+      <div class="bloque" id="hoyVideoBloque" hidden>
+        <div class="bloque-cab"><h2 data-t="videoDia">Video</h2></div>
+        <div id="hoyVideo"></div>
+      </div>
+
+      <div class="aviso">
+        <strong data-t="avisoTit">Esta app no es un sistema de seguridad.</strong>
+        <span data-t="avisoTxt">Muestra datos abiertos de Renfe y horarios oficiales. Las posiciones de alta velocidad son estimadas. Sigue siempre las indicaciones del personal, de Adif, de tu operador y del 112.</span>
+      </div>
+    </section>
+
+    <!-- MAPA -->
+    <section id="mapa" class="vista">
+      <div class="mapa-envoltura">
+        <div id="mapaVias"></div>
+        <div class="mapa-panel">
+          <div class="filtros" id="filtrosCorredor"></div>
+          <div class="filtros">
+            <label class="interruptor"><input type="checkbox" id="fVias" checked><span data-t="fVias">Vías reales</span></label>
+            <label class="interruptor"><input type="checkbox" id="fEstimados" checked><span data-t="fEstimados">Larga distancia (estimado)</span></label>
+            <label class="interruptor"><input type="checkbox" id="fVivo" checked><span data-t="fVivo">Cercanías en vivo</span></label>
+          </div>
+        </div>
+        <div class="leyenda">
+          <span><i class="pt pt-est"></i><span data-t="lEst">Según horario</span></span>
+          <span><i class="pt pt-vivo"></i><span data-t="lVivo">Posición real</span></span>
+          <span><i class="pt pt-retraso"></i><span data-t="lRetraso">Con retraso</span></span>
+          <span><i class="pt pt-choque"></i><span data-t="lChoque">Lugar del choque (aprox.)</span></span>
+        </div>
+      </div>
+      <p class="nota-mapa"><span data-t="notaMapa">Las vías son las reales (OpenRailwayMap). Los trenes de alta velocidad se ubican según su horario oficial, no por GPS. Para la posición oficial consulta el</span> <a href="https://tiempo-real.largorecorrido.renfe.com" target="_blank" rel="noopener" data-t="visorRenfe">visor de Renfe en tiempo real</a>.</p>
+      <p class="nota-mapa" id="notaVivo" hidden></p>
+    </section>
+
+    <!-- TRENES -->
+    <section id="trenes" class="vista">
+      <div class="buscador">
+        <input id="buscaTren" type="search" autocomplete="off" data-tp="buscaTren" placeholder="Busca tu tren: número, destino o línea">
+      </div>
+      <div class="filtros" id="filtrosEstado"></div>
+      <p class="mini" id="trenesResumen"></p>
+      <div id="listaTrenes" class="lista-trenes"></div>
+    </section>
+
+    <!-- CASO -->
+    <section id="caso" class="vista">
+      <div class="caso-foto" id="casoFoto"><div class="credito" id="casoCredito"></div></div>
+      <div class="bloque"><h2 data-t="queSabe">Qué se sabe</h2><p id="casoResumen" class="parrafo"></p></div>
+      <div class="bloque"><h2 data-t="causa">La causa</h2><p id="casoCausa" class="parrafo"></p></div>
+      <div class="bloque"><h2 data-t="cronologia">Cronología</h2><ol id="cronologia" class="linea-tiempo"></ol></div>
+      <div class="bloque"><h2 data-t="telefonos">Teléfonos para familiares</h2><div id="telefonos" class="telefonos"></div></div>
+      <div class="bloque"><h2 data-t="fuentes">Fuentes</h2><ul id="casoFuentes" class="fuentes"></ul></div>
+    </section>
+
+    <!-- NOTICIAS -->
+    <section id="noticias" class="vista">
+      <div class="buscador">
+        <input id="buscaNoticia" type="search" autocomplete="off" data-tp="buscaNoticia" placeholder="Buscar en vivo: víctimas, Adif, Iryo, investigación…">
+        <span class="estado-busqueda" id="estadoBusqueda"></span>
+      </div>
+      <div id="listaNoticias" class="tarjetas"></div>
+      <div class="bloque" id="videosBloque" hidden>
+        <div class="bloque-cab"><h2 data-t="videos">Videos</h2></div>
+        <div id="listaVideos" class="videos"></div>
+      </div>
+    </section>
+
+    <!-- VIAJA SEGURO -->
+    <section id="seguro" class="vista">
+      <div id="seguroContenido"></div>
+    </section>
+  </main>
+
+  <footer class="pie">
+    <p><span data-t="hecho">Software por</span> <a href="https://vibraspositivashm.com" target="_blank" rel="noopener">Vibras Positivas HM</a> · <span id="pieActualizado"></span></p>
+    <p class="mini" data-t="creditos">Datos: Renfe Data (CC BY 4.0), OpenStreetMap y OpenRailwayMap (ODbL / CC BY-SA), fotos de Wikimedia Commons y de los medios citados.</p>
+  </footer>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+{
+  "actualizado": "2026-10-29T10:50:00.000Z",
+  "noticias": [
+    {
+      "titulo": "Accidente de trenes en Toledo, en directo: choque entre un Iryo y un AVE en la línea Madrid-Andalucía",
+      "url": "https://www.infobae.com/espana/2026/10/28/en-directo-accidente-ferroviario-en-toledo-numerosos-heridos-tras-el-choque-de-dos-trenes-en-la-linea-madrid-andalucia/",
+      "fuente": "Infobae",
+      "fecha": "2026-10-28T21:57:00.000Z",
+      "imagen": "",
+      "resumen": ""
+    },
+    {
+      "titulo": "Última hora del accidente de trenes de pasajeros en España",
+      "url": "https://cnnespanol.cnn.com/2026/10/28/espana/live-news/accidente-trenes-pasajeros-espana-vivo-trax",
+      "fuente": "CNN en Español",
+      "fecha": "2026-10-28T20:00:00.000Z",
+      "imagen": "",
+      "resumen": ""
+    },
+    {
+      "titulo": "Choque de trenes en Toledo: colisión de un AVE y un Iryo en Urda",
+      "url": "https://www.hola.com/actualidad/20261028931711/ultima-hora-accidente-trenes-toledo/",
+      "fuente": "¡HOLA!",
+      "fecha": "2026-10-28T12:00:00.000Z",
+      "imagen": "",
+      "resumen": ""
+    }
+  ],
+  "videos": []
+}

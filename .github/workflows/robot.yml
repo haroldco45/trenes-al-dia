@@ -1,0 +1,42 @@
+name: Robot de noticias y horarios
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # cada 30 minutos
+  workflow_dispatch:          # botón "Run workflow" para correrlo a mano
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/robot.yml', 'data/corredores.json']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robot-trenes
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Horarios del día (una vez al día)
+        run: node scripts/horarios.mjs
+        continue-on-error: true
+      - name: Noticias y videos
+        run: node scripts/robot.mjs
+      - name: Guardar si hay cambios
+        run: |
+          git config user.name "robot-vibras"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "Nada nuevo"
+          else
+            git commit -m "Robot $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia"
+            git pull --rebase
+            git push
+          fi
