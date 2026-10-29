@@ -372,9 +372,9 @@ function iniciarMapa() {
   // Mapa base claro sin clave (Esri); si falla, OpenStreetMap
   const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
   const base = L.tileLayer(ESRI + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', {
-    maxZoom: 16, attribution: 'Mapa &copy; Esri, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    maxNativeZoom: 16, maxZoom: 19, attribution: 'Mapa &copy; Esri, HERE, Garmin, &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(m);
-  const nombres = L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, pane: 'shadowPane' }).addTo(m);
+  const nombres = L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxNativeZoom: 16, maxZoom: 19, pane: 'shadowPane' }).addTo(m);
   let fallos = 0;
   base.on('tileerror', () => {
     if (++fallos !== 6) return;
