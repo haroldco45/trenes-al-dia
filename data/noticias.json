@@ -1,6 +1,133 @@
 {
-  "actualizado": "2026-11-02T20:10:36.385Z",
+  "actualizado": "2026-11-03T02:34:38.007Z",
   "noticias": [
+    {
+      "titulo": "Accidente de tren y actualidad política, en directo hoy | Vídeo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUdBUzAtYlhNVTJNNlBOaVB0Q0hfTVRDelJwbVdjN21wMS1GdkxBMFg3VmRISllodFFtZVVEdjdDLWRYYzNlSEtaR21zQXp0LVhrSUxiNFpkRGwwRF92LXZpWURWbG5lZmduMjdYc2hfNVlYdmY1aFREZ2d2YTBUTUkzSDVNZ3dOdFJ1WlNTaGpyb0Y3RzhidHpCbVBZaW9YV1RfVVhPeXJ6aUE?oc=5",
+      "fuente": "RTVE.es",
+      "fecha": "2026-11-03T01:35:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUdBUzAtYlhNVTJNNlBOaVB0Q0hfTVRDelJwbVdjN21wMS1GdkxBMFg3VmRISllodFFtZVVEdjdDLWRYYzNlSEtaR21zQXp0LVhrSUxiNFpkRGwwRF92LXZpWURWbG5lZmduMjdYc2hfNVlYdmY1aFREZ2d2YTBUTUkzSDVNZ3dOdFJ1WlNTaGpyb0Y3RzhidHpCbVBZaW9YV1RfVVhPeXJ6aU",
+      "idioma": "es"
+    },
+    {
+      "titulo": "El tren ya había perdido 37 millones de viajeros este año antes de la tragedia de Urda",
+      "url": "https://www.abc.es/economia/alta-velocidad-perdido-ano-millones-viajeros-tras-20261028010949-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-03T00:41:23.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/10/28/tren-ave-RptLy989kOI7xMrHCleWmJO-1200x840@diario_abc.jpg",
+      "resumen": "La tragedia ferroviaria se repite de nuevo en España, esta vez en Urda (Toledo). Antes fue en enero con el accidente de Adamuz , todavía bajo investigación y con las pruebas clave sin analizar en un cajón, como publicó ABC. Todo ello no ha hecho otra cosa estos meses que dejar to"
+    },
+    {
+      "titulo": "La juez del accidente de Urda aprende de Adamuz para que Adif no contamine el escenario",
+      "url": "https://www.abc.es/espana/juez-accidente-urda-aprende-adamuz-adif-contamine-20261103012906-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-03T00:29:29.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/03/1519486476-R7GlHmFP4uUcUUaLxJsAMOO-1200x840@diario_abc.jpg",
+      "resumen": "Cristina Pastor Recover, la magistrada que investiga el accidente de Adamuz y Aristea Afroditi Ortiz Tiliakou, la juez que instruye la tragedia de Urda compartieron promoción en la Escuela Judicial . La titular de Orgaz (Toledo) decretó ya unas primeras medidas en la causa que va"
+    },
+    {
+      "titulo": "Los supervivientes del accidente: «Tenemos derecho a confiar en la seguridad del transporte, pero nos engañan»",
+      "url": "https://www.abc.es/sociedad/secuelas-supervivientes-accidente-tren-urda-necesito-pausa-20261102011329-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-03T00:13:29.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/11/02/juan-fraile-RqBRBM67sTjrPaeIultKpAJ-1200x840@diario_abc.jpg",
+      "resumen": "Astrid trabaja para una importante tecnológica y, casi todos los miércoles, viaja en AVE a Córdoba para reunirse con su equipo. Esta última semana, tenía billete para el que salía de Atocha a las 8.03 horas; en concreto, para el asiento 8B del vagón 5. Durante media hora aproxima"
+    },
+    {
+      "titulo": "Adif reconoció en julio problemas críticos en sus telecomunicaciones de la alta velocidad",
+      "url": "https://www.abc.es/economia/adif-reconoce-problemas-criticos-red-telecomunicaciones-alta-20261103010911-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-03T00:09:11.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/03/centro-control-RkECX9yXMdavqvQMGiJ4glL-1200x840@diario_abc.jpg",
+      "resumen": "En el accidente de Urda (Toledo) , según el primer parte de incidencia realizado por Adif, desvelado por ABC, no solo se produjo la caída del sistema de seguridad LZB . También confluyeron, entre otros, fallos en la redes de telecomunicaciones GSM-R que conectan a maquinistas y c"
+    },
+    {
+      "titulo": "Accidente de tren en Toledo, en directo: última hora de las víctimas, las ayudas y la investigación del accidente de Urda",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQUNaRlp1cWVQR056aXpDZklGUWc5MGZhS2VOT0tkbWt5OWFMSnd6UHpISDFqbk5aemUzVWM1LUw1ZmhuZW5lUUlQS1lGX296S1ExUGlxMEVLc1c0N2M3Z05MM3BIMUxiLUJkQUlWbF9uMnR2MEsxN2k3M3pkWnhCb1d4R1ItbU9YSF9YUnY1S0MyTjNUMXRTUXExX3dYQVBlYjJiVU9namotZFY5R3VrY1lxZGZQUXkxRC1xMkRfUWdWR1RaZmItRE9HM2szc1M1eW4wenNOOWFCbEpEbnI4cG91NXlDRnVBdEhDbg?oc=5",
+      "fuente": "La Razón",
+      "fecha": "2026-11-02T22:45:15.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQUNaRlp1cWVQR056aXpDZklGUWc5MGZhS2VOT0tkbWt5OWFMSnd6UHpISDFqbk5aemUzVWM1LUw1ZmhuZW5lUUlQS1lGX296S1ExUGlxMEVLc1c0N2M3Z05MM3BIMUxiLUJkQUlWbF9uMnR2MEsxN2k3M3pkWnhCb1d4R1ItbU9YSF9YUnY1S0MyTjNUMXRTUXExX3dYQVBlYjJiVU9namotZF",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Spain train crash: Investigators examine earlier signalling failures as Renfe tightens safety rules",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pQk5LSldMcGpSWFBCVVRXQ1A1SzNBanJwVGhZR0dCLWRYQ01PSmVaaEF6YkZoR0hXNDhuUjhiZ1c4NFhmRU1FdEtLelVkYTNZeVZwd0lvRzA5dlBOdnUtSWxidm5YZUs2QnhCTGxER2ctSHYzOHFxeUtxWWNfZw?oc=5",
+      "fuente": "fish4news.co.uk",
+      "fecha": "2026-11-02T22:09:06.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5pQk5LSldMcGpSWFBCVVRXQ1A1SzNBanJwVGhZR0dCLWRYQ01PSmVaaEF6YkZoR0hXNDhuUjhiZ1c4NFhmRU1FdEtLelVkYTNZeVZwd0lvRzA5dlBOdnUtSWxidm5YZUs2QnhCTGxER2ctSHYzOHFxeUtxWWNfZw?oc=5\" target=\"_blank\">Spain train crash: Investigators exam",
+      "idioma": "en"
+    },
+    {
+      "titulo": "Los votantes del PSOE también se alejan de Puente: el 41% pide su dimisión por la tragedia de Urda",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/02/6ae8b293e9cf4a904c8b4572.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-02T21:45:13.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936456537010.jpg",
+      "resumen": "El 66% de los españoles opina que el ministro tiene que irse tras los dos accidentes que han hecho que siete de cada 10 ciudadanos no confíen en el tren Leer"
+    },
+    {
+      "titulo": "\"Puente debe dimitir por empatía y humanidad con las víctimas del accidente\"",
+      "url": "https://www.elmundo.es/cataluna/2026/11/02/6ae8f133e9cf4a27488b45a4.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-02T21:44:57.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936508878424.jpg",
+      "resumen": "La candidata del Frente Amplio denuncia los 13.000 millones gastados en aeropuertos a costa del mantenimiento de la red ferroviaria. \"Es el momento de invertir, no de recortar. El tren no puede ser un motivo de miedo\", critica Leer"
+    },
+    {
+      "titulo": "Identificadas las 69 víctimas mortales del accidente ferroviario de Urda",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUlfUHVxdEMwa2VuVEdmNHYtWjI1b0JRMXVfRE1oYkZmdVFYM1dOZGFTQWdDSnhrYkU0b2NHcnA4UDlJaVZaOHMyb29VeEZhNTFlSHlVMlp1c2NPOUZsa1drNlU2ME1HZGxYRTBvYUNWQ3BMYXVBZzBFVUdaWXhfd3l6bFdVc3A5anJvek1HYUxIUF9yWklFMEwyeHNETGk1QzkzalZKZ18zdw?oc=5",
+      "fuente": "Radio Televisión Canaria",
+      "fecha": "2026-11-02T21:42:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSUlfUHVxdEMwa2VuVEdmNHYtWjI1b0JRMXVfRE1oYkZmdVFYM1dOZGFTQWdDSnhrYkU0b2NHcnA4UDlJaVZaOHMyb29VeEZhNTFlSHlVMlp1c2NPOUZsa1drNlU2ME1HZGxYRTBvYUNWQ3BMYXVBZzBFVUdaWXhfd3l6bFdVc3A5anJvek1HYUxIUF9yWklFMEwyeHNETGk1QzkzalZKZ18zdw",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Concluidas las labores de identificación de los 69 fallecidos en el accidente de tren de Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNUFFVm9KX0Q0Zk5yMlEzeEtKNUIzZUd3M1V6a3NNTnVobzY3aHRzazMzNkJmWjVJSXFncjIzbUp6QzI5Y05GTG5sUXhPR0g0aDBOZGlya0c5MzVBV3kteXB5ZmswekE3Y3VVUzA1Y3MyZWVZSjlHeHExbnREamxGay12ajRLalRyTFgwT1dkVTlYSV9DQ3FPZ05qY1BrZFZUeVp3UTVfRVR2bG4xdG5Rbk5Lel9qZllxNXhjclhrMV9WeFo0MlZXaXl6dXNBbWFxbXFIa0xhTUZPaEstRzhJcU5ObkpHb1lHeDQyd0Yta3VYd0ha0gGIAkFVX3lxTFBkX1dydUYwRnFDTG4yYUxKMmNYZi1UZ3J1VWItTmZxTkVqbU0wVDc5SWhtLXFCUGhhX244b0xlMnVENjl5ajZnSGh5aUpGVFBncHZEOHRPel9hMjNMSEg2cGk1cjN0YVgtY2g3blcyNWZ5dXZJMlF1QU1XNG5Td3BxVm5zbnpKNGE5UHVISDZDNE9iQW8wR2t6NnZkZlBBN0RVeDNXTWRtY3FBUVJOZjJ0U3pIbUsyQUJJX3BUY0tKczZKdFU5UFZsYzdqZmdXTElSSWZscE1rX0FxR1VOVV9zWkpwa05qTGJVN2x3OFhmel8wa0FCaWMxQUtuWTF3dENMMms1RzlEbw?oc=5",
+      "fuente": "Cadena SER",
+      "fecha": "2026-11-02T21:41:57.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNUFFVm9KX0Q0Zk5yMlEzeEtKNUIzZUd3M1V6a3NNTnVobzY3aHRzazMzNkJmWjVJSXFncjIzbUp6QzI5Y05GTG5sUXhPR0g0aDBOZGlya0c5MzVBV3kteXB5ZmswekE3Y3VVUzA1Y3MyZWVZSjlHeHExbnREamxGay12ajRLalRyTFgwT1dkVTlYSV9DQ3FPZ05qY1BrZFZUeVp3UTVfRVR2bG",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Identificados los 69 fallecidos en el accidente ferroviario de Urda",
+      "url": "https://www.lavanguardia.com/vida/20261102/11674507/identificados-69-fallecidos-accidente-ferroviario-urda.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-02T21:38:23.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/10/29/6ae36e0e84b09.r_d.2508-1714-0.jpeg",
+      "resumen": "Según el balance provisional, 54 de las personas fallecidas son de nacionalidad española y 15 son ciudadanos extranjeros"
+    },
+    {
+      "titulo": "Identificadas las 69 personas fallecidas en el accidente ferroviario de Urda",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/identificadas-69-personas-fallecidas-accidente-ferroviario-urda_1_13632599.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-02T21:29:04.000Z",
+      "imagen": "https://static.eldiario.es/clip/3afaddaf-0e28-40ec-9917-45e4285e6aa9_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "Se trata de 40 hombres y 29 mujeres, todos ellos mayores de edad, de los que 54 eran de nacionalidad española y el resto extranjeros. Todas las familias han sido ya notificadas de la muerte de sus seres queridos El Gobierno anticipará las indemnizaciones y doblará las ayudas obli"
+    },
+    {
+      "titulo": "Accidente de tren y actualidad: concluye la retirada del Iryo",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXE0QjdaZjdSaGVOYmJ3UmVaUWFJM1NYRUpDZE43dUJOaE5fTmxScHRnT2RnRHNfYVdCWXZLTFRzUDhiQ0pLcE9jN1BtMVJ2NjN1QlBYb0VZNW95a3puSmpvallNemRKdXg3Uk5aNTBaNVE4ZUZrbjdlWjQtTlZnVndlOE50RlY5d3NsU1haLTVmWEdQOWhpTHhTbjVRMzNRaUZWczFSUGFZdmxBaERKb0hWWE9nUnZ0N2ZSbTJaR1JJTnNoNWUwLUNZOUdXc0k2ZUFtaFl1MEhkU01EcGE0QmpTWHVwZTlpWmNVbTFZbWloWGhE?oc=5",
+      "fuente": "RTVE.es",
+      "fecha": "2026-11-02T21:02:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXE0QjdaZjdSaGVOYmJ3UmVaUWFJM1NYRUpDZE43dUJOaE5fTmxScHRnT2RnRHNfYVdCWXZLTFRzUDhiQ0pLcE9jN1BtMVJ2NjN1QlBYb0VZNW95a3puSmpvallNemRKdXg3Uk5aNTBaNVE4ZUZrbjdlWjQtTlZnVndlOE50RlY5d3NsU1haLTVmWEdQOWhpTHhTbjVRMzNRaUZWczFSUGFZdm",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los fallos en el sistema LZB y el análisis de las cajas negras: la investigación por el accidente de trenes en Urda continúa abierta",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbDJram45VXE1eGhoUEVDODNaamFScURuZ0ZfdEEtUmRBN0s2OW4td2pXMi1wYlExZjhCekFUMWxpakxFMXdQeWQ2TmJtdDFDSmxhSk9WWUlWMk9TdTN3SUpNeEZjdDFIaXdyNU03Nk9RMVllOGJmdUk5bUtXaWpjTFNHU1IzV3ZGWm5PUFZKcGhPY1J2Z2FBOS13S1llUFNTMDBqSTNyRjZPbU9Dc1k2NHJoVXdxenN1QzY2ak1Kd0hxaDFab2VKRzZ1d3g4NDh4V3dOdkVPZVNYa2F6V29mZXJ4Z3FWVG5xeTNreVF2THdTankzM3dlY9IB-AFBVV95cUxQcUdUc2wxWEhNWlB1cFVXSXlBTGoxTDBDdy1seWVsTWVfbDF3T3NraS0wUVhxNWpTXzZvODg0dHdqRmhkVGlZa0oteDFTSWF0Q0tzcXZhYlJLMnBUQ0EzWnppZ1VTd3prbVdxbVd3MmNwc3QtOG1zaEVvbXlULUROM0FWLVJOVjdzY0tkUkxOYkpLUERvMGY3em9KdVY2WFpTRElnYzZjV1kyM18wMnlSN3JKQ0RxRFpwVWRpZmVBVWpMSHE3eFp4ODBGSlRQS3BLYWl0dVRpSnNCNllSdHR5d0hBcmt6cGZuNHBDa2tuUEozMlU4QWhkZQ?oc=5",
+      "fuente": "Antena 3 Noticias",
+      "fecha": "2026-11-02T20:13:52.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbDJram45VXE1eGhoUEVDODNaamFScURuZ0ZfdEEtUmRBN0s2OW4td2pXMi1wYlExZjhCekFUMWxpakxFMXdQeWQ2TmJtdDFDSmxhSk9WWUlWMk9TdTN3SUpNeEZjdDFIaXdyNU03Nk9RMVllOGJmdUk5bUtXaWpjTFNHU1IzV3ZGWm5PUFZKcGhPY1J2Z2FBOS13S1llUFNTMDBqSTNyRjZPbU",
+      "idioma": "es"
+    },
     {
       "titulo": "Retirados de las vías todos los vagones de los trenes implicados en accidente en España",
       "url": "https://www.infobae.com/america/agencias/2026/11/02/retirados-de-las-vias-todos-los-vagones-de-los-trenes-implicados-en-accidente-en-espana/",
@@ -48,6 +175,15 @@
       "fecha": "2026-11-02T19:18:33.000Z",
       "imagen": "https://static.eldiario.es/clip/d52d3a0e-704a-4632-91a8-7c6e5a76d6a0_16-9-discover-aspect-ratio_default_0_x493y525.jpg",
       "resumen": "\"La gente estaba recibiendo ayuda humanitaria allí\", escribió el presidente ucraniano, Volodímir Zelenski, en sus redes sociales al condenar el atentado Un ataque ruso contra una estación de tren en Ucrania mata a 13 personas Al menos 24 personas han muerto este lunes en la local"
+    },
+    {
+      "titulo": "Última hora del accidente de trenes en Urda, en directo | Los forenses ya han identificado a 66 de los 69 fallecidos",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPN1Y5VnE2dXBZbU5JUFJWbC1ubmswV21lcVl1cXRsOWNiRUF5eldrTlpoNlU0T05HYUsxSm52Ukl6RE1Rd2RoTk5tT1V0WkUtQmhGWjFOUTVHN3ZaOWVpWTAyY3pHbWtiTlp5WjFMcGstOFN5Mm9CVDlwcnRXMXVvd0dCSlbSAYoBQVVfeXFMTTNKM1o3cGw4VzNQMEtEaVJkMzVaNm5DUksxcmpzbVRMSFJFSVJXdkZBdlZVU1kyQkFoTURCejRmV3J2VXByZUt0UVIyd1BZNm93cWg1VWdsUmhUc0RLR3RjSXhtdWtqRGxHYXJwbTEwLTR6OWl3TzJ0ZVMtaW41R0s5QV9rY3hxSFVR?oc=5",
+      "fuente": "Diario Público",
+      "fecha": "2026-11-02T19:10:44.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPN1Y5VnE2dXBZbU5JUFJWbC1ubmswV21lcVl1cXRsOWNiRUF5eldrTlpoNlU0T05HYUsxSm52Ukl6RE1Rd2RoTk5tT1V0WkUtQmhGWjFOUTVHN3ZaOWVpWTAyY3pHbWtiTlp5WjFMcGstOFN5Mm9CVDlwcnRXMXVvd0dCSlbSAYoBQVVfeXFMTTNKM1o3cGw4VzNQMEtEaVJkMzVaNm5DUksxcm",
+      "idioma": "es"
     },
     {
       "titulo": "Vox persevera en su mensaje de dureza contra el Gobierno: “Subirse al tren es una ruleta rusa”",
@@ -106,21 +242,58 @@
       "resumen": "La reconocida experta en emergencias ha gestionado 'el día después' de terremotos, atentados y accidentes brutales de la magnitud del ferroviario ocurrido en Toledo en todo el mundo Leer"
     },
     {
-      "titulo": "Accidente de tren y actualidad política, en directo hoy | Vídeo",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXE0QjdaZjdSaGVOYmJ3UmVaUWFJM1NYRUpDZE43dUJOaE5fTmxScHRnT2RnRHNfYVdCWXZLTFRzUDhiQ0pLcE9jN1BtMVJ2NjN1QlBYb0VZNW95a3puSmpvallNemRKdXg3Uk5aNTBaNVE4ZUZrbjdlWjQtTlZnVndlOE50RlY5d3NsU1haLTVmWEdQOWhpTHhTbjVRMzNRaUZWczFSUGFZdmxBaERKb0hWWE9nUnZ0N2ZSbTJaR1JJTnNoNWUwLUNZOUdXc0k2ZUFtaFl1MEhkU01EcGE0QmpTWHVwZTlpWmNVbTFZbWloWGhE?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-02T16:34:00.000Z",
+      "titulo": "Concluye la retirada de los vagones del accidente de trenes en Urda y preparan una última búsqueda de restos biológicos",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbE1WdnpFWXg0VHpxNFpoeVJCcWRDdEEtSXliNXp2YnJVZDJ5ZmhYV050YU1Nc1BKZElxeHloZ0FSNEw0dHZPNmFzSXN5MmVBTlBPenZvNmk0ZFRPSUNfc2k5VUoxbVBOYVdhMXlFNzVLMDAtV2pFSmxPQkkyS3NNT2hRZVVTaU9WMzFYdGdWeEFUTjE5MmRIN25DaUp3TlJWTnpxX3hmY1Jjak5jdDNBT2dmSmFPR2s1MTQzVkY3VnJEX3ZBNVNrS2owZ0Z6UVV4U0l4M2wwV1lLc1RaMm54RzVIY1NwcWRJZ1J1bS1kamRJZ9IB8gFBVV95cUxNMEtXUmY2WUhCd2w5Y2M4TFN4bVl0aHJkVktla3pmV2FER2htNHhoellRZ2ZRcmpMbnIwZXIzSTk4TUxMdnJDQnJsUmItNThWcTVLcC16cmpkX2gybXJCWHJRaDFMbWU1Y19WMThzRF9NLVNvSS03MkFGY0dBNk9zX1VoTUQ5TUdxWThvaVdmNHhqbkZmMnd5cUgzRHlYQlNaWWZ0ZUc2a1VCVTZHdzlpVDJVZHo0YUt0VWxJNS1oMGpnU1VZT212ZURVcUotRW0yM0RmTjFhTlBvTkRCckJtMFVjX3NqU2tySU16Snc5UkVkdw?oc=5",
+      "fuente": "Antena 3 Noticias",
+      "fecha": "2026-11-02T16:38:38.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLXE0QjdaZjdSaGVOYmJ3UmVaUWFJM1NYRUpDZE43dUJOaE5fTmxScHRnT2RnRHNfYVdCWXZLTFRzUDhiQ0pLcE9jN1BtMVJ2NjN1QlBYb0VZNW95a3puSmpvallNemRKdXg3Uk5aNTBaNVE4ZUZrbjdlWjQtTlZnVndlOE50RlY5d3NsU1haLTVmWEdQOWhpTHhTbjVRMzNRaUZWczFSUGFZdm",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbE1WdnpFWXg0VHpxNFpoeVJCcWRDdEEtSXliNXp2YnJVZDJ5ZmhYV050YU1Nc1BKZElxeHloZ0FSNEw0dHZPNmFzSXN5MmVBTlBPenZvNmk0ZFRPSUNfc2k5VUoxbVBOYVdhMXlFNzVLMDAtV2pFSmxPQkkyS3NNT2hRZVVTaU9WMzFYdGdWeEFUTjE5MmRIN25DaUp3TlJWTnpxX3hmY1Jjak",
       "idioma": "es"
     },
     {
-      "titulo": "Colau propone un pacto de Estado sobre trenes que permita \"reunificar\" Renfe y Adif",
-      "url": "https://www.eldiario.es/catalunya/colau-propone-pacto-trenes-permita-reunificar-renfe-adif_1_13632096.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-02T15:09:51.000Z",
-      "imagen": "https://static.eldiario.es/clip/dfe4bf93-21b0-4d1c-8b0e-dee4fca03aa3_16-9-discover-aspect-ratio_default_0_x985y300.jpg",
-      "resumen": "La candidata del Frente Amplio reclama \"responsabilidades políticas\" por el accidente, aunque deja en manos del ministro Puente o del presidente Sánchez el cese del titular de Transportes El Gobierno enfría la salida de Óscar Puente a pesar de la presión de socios y oposición par"
+      "titulo": "Así gestionó Renfe la crisis del accidente de tren en Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE5SZHduSnZpZldpSGF2QldYRDdlMzdBSnFMZlRKVHlGaXNlcXFIazJSTk9XZXRjY1BkOFpBUHRra2ZiQzV1YWh5YjlYdU5DUFJxQ3FkeW1lWkk0elRKMmxERklUM25XZ1huT0JsUnlwZUZlQlQ4bkxVNzU2a3NYQVpyVW5xbjRFUnVnMEQ5TXhPdw?oc=5",
+      "fuente": "Reason Why",
+      "fecha": "2026-11-02T16:04:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE5SZHduSnZpZldpSGF2QldYRDdlMzdBSnFMZlRKVHlGaXNlcXFIazJSTk9XZXRjY1BkOFpBUHRra2ZiQzV1YWh5YjlYdU5DUFJxQ3FkeW1lWkk0elRKMmxERklUM25XZ1huT0JsUnlwZUZlQlQ4bkxVNzU2a3NYQVpyVW5xbjRFUnVnMEQ5TXhPdw?oc=5\" target=\"_blank\">Así gesti",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Así gestionó Iryo la crisis del accidente de tren en Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWgtbWNJWUtoWFNYZDN6RWtqRjFmWUZwakluOU05cUFBVTJsYlEwejdCeXd3WWc1YXNFWG9LVzNpRFZOYzMxQ0l6WnlFTmQ4b3FZNl9rMWNiazk0Qkc3SURuRGpnMnBBOGpRREI4T0wwanlabWNSWXBzWGtEUURqR29MMTRwbnRPZENwaXV5Uzd2QQ?oc=5",
+      "fuente": "Reason Why",
+      "fecha": "2026-11-02T16:03:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWgtbWNJWUtoWFNYZDN6RWtqRjFmWUZwakluOU05cUFBVTJsYlEwejdCeXd3WWc1YXNFWG9LVzNpRFZOYzMxQ0l6WnlFTmQ4b3FZNl9rMWNiazk0Qkc3SURuRGpnMnBBOGpRREI4T0wwanlabWNSWXBzWGtEUURqR29MMTRwbnRPZENwaXV5Uzd2QQ?oc=5\" target=\"_blank\">Así gesti",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Los expertos responden a las preguntas sobre el trágico suceso en Urda: \"¿Por qué no freno el AVE el segundo sistema de seguridad?\"",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMGIxdF81Z1FWVHVEMUF5c0FLQ2JPTXRzSExhT1JfUlFBMWlzSGpHZFhzdEdrWWFvNWNYekdvbFQ2bHBOMF9oT0paLTB6bTh2aXoxM0RKYTlRd1JMVWp2Z1A4cUstdlFNUUNjXzhHYmZyTVBtblcxX3JFV0ZIUzduY3ZoTUlKRUl6SkZrN1hmOHNYQUNMcGsyZ2F4SXYtTWhVdEdnMGlHck40YVdZRXplRDlqRXc2MVNjSDFfbVBFdExBaVY1R1BhZ3dzZWxveWtfbnEtVzQ4V0xMLURFZWZDT2EyVzd0ZkxBX1FINXBYd0UyU0xKcXJEbUcyZjNlRHpZRUZGWXFiZzQwRXI0cTJFcjV30gGSAkFVX3lxTE9OMWc5UkJ6X3Z2b0NYNjBqeGJNMUFiMWNueUFxaFJhU0xLcUVwbENLNWZyakpaN0JpM1lrOWJuZHl2RUUxam1jSzdNTl91Zk5EUEhTbGdpdjJONGZaakF2dHVVY3pBeVpROHFHZjFwZDVFcWljWmVLc3V4blg5VUM0SWZ0NVFtZkxLQVFERW9jRUhZVjVMa0VCTmExMHpBZmM1WUJOYkllTGgyZldLT3lRam5hNFNVZFp0NDZkSzd6VlA4bnd5SWx1cEF2ZmZIN3MwLUlLWF85RjZETFVhQWNIMHFhV2pBVTlUV2FESThOVVFrLWpsN2RlNTN6Vmc2MVJnNExWeDVmZTl1Y2tRLTNncEE?oc=5",
+      "fuente": "Antena 3",
+      "fecha": "2026-11-02T13:53:30.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPMGIxdF81Z1FWVHVEMUF5c0FLQ2JPTXRzSExhT1JfUlFBMWlzSGpHZFhzdEdrWWFvNWNYekdvbFQ2bHBOMF9oT0paLTB6bTh2aXoxM0RKYTlRd1JMVWp2Z1A4cUstdlFNUUNjXzhHYmZyTVBtblcxX3JFV0ZIUzduY3ZoTUlKRUl6SkZrN1hmOHNYQUNMcGsyZ2F4SXYtTWhVdEdnMGlHck40YV",
+      "idioma": "es"
+    },
+    {
+      "titulo": "5 incógnitas sin resolver tras el accidente ferroviario de Urda: todo lo que falló el 28 el octubre para que el AVE chocara contra el Iryo",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODczVlpjVHVyQkVZNFc1TGdBUUtxbGtzRFE4NTlCbUhvVko1TGNibktjMEF4VzZLcktXbUt6Mmh2Q2wyZDJlOWtDZlJuak5GNWdJR0pLeVRMRFozMzVVcVhzYWJDOVBScklDVlBPOC1GemQzYTZfYjI2b09hOXVwY1BjcXlUdlc2b3kzNTRCelM1aEVHb25kenA5RzV6RkNiLXhpczYtNDVhWHlqQW5JWHR6Rno1YUhKbGRRRm9nQmdHVDQ3OXBEVVk4UF9IcE0zWlk1M1NIU3RjelFOeFNJNXRPYzJHQUNh?oc=5",
+      "fuente": "Lecturas",
+      "fecha": "2026-11-02T13:50:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODczVlpjVHVyQkVZNFc1TGdBUUtxbGtzRFE4NTlCbUhvVko1TGNibktjMEF4VzZLcktXbUt6Mmh2Q2wyZDJlOWtDZlJuak5GNWdJR0pLeVRMRFozMzVVcVhzYWJDOVBScklDVlBPOC1GemQzYTZfYjI2b09hOXVwY1BjcXlUdlc2b3kzNTRCelM1aEVHb25kenA5RzV6RkNiLXhpczYtNDVhWH",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Retirados dos de los cuatro vagones del Iryo que permanecían en la vía en Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzBFLUdudzk0UV9vd2NEcXg5SEwydXVhQUtOejdrNy03VjBoZUp6cHIxMEZxNzFJcFBhZjB4VW1LamtnMHA2dFdhT0ZqeDg0LWhmcGRfZ3d2S1ZVTU1SNlAxc1pwc0lON1NKbFB4aVhKa29JMERIM3o4bnMycUJxaFcxWGJHWDRhSHhNaWxidVBCMEJZaEFGbEV0M2FRTFdQRHU5Y1J5UmpnaTJvUXhaRWdnSE54QklCYUdsUFB1dmpVM0Q1NTJSdW9MY9IBywFBVV95cUxOVnk5TFNGOTY4a19TNGVHTFE1SW5raFhWRzNHS2xSSjlpbFM5OWJMbmZhMWdwZi1wUjV0OExVckNaMDhvY05ORXFWczh1N2U0QTFmZmdFeFFGZnN2WmQ2TGVQMkpEQnJmaUpvekcxX1IxRS1SbGRxUmpYZlJkUENpU3lrekVjcmZHVW94LU9Sck5EUTVqTTNtTUhuZlV1ZnAtdFdnUUYwcW5fTTNyUXRhUExha3l5YnpUTVh6b1I3SUJ6WmQyeXM0TVFzZw?oc=5",
+      "fuente": "Ultima Hora",
+      "fecha": "2026-11-02T13:49:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzBFLUdudzk0UV9vd2NEcXg5SEwydXVhQUtOejdrNy03VjBoZUp6cHIxMEZxNzFJcFBhZjB4VW1LamtnMHA2dFdhT0ZqeDg0LWhmcGRfZ3d2S1ZVTU1SNlAxc1pwc0lON1NKbFB4aVhKa29JMERIM3o4bnMycUJxaFcxWGJHWDRhSHhNaWxidVBCMEJZaEFGbEV0M2FRTFdQRHU5Y1J5UmpnaT",
+      "idioma": "es"
     },
     {
       "titulo": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
@@ -129,6 +302,23 @@
       "fecha": "2026-11-02T13:28:55.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SDSHU25UP5DLDDNR4YRQSCPA6Q.jpg?auth=b8edf54010b48f673a24e419eb6c9dc15b13213762529fe3de76fdc36a85b0c5",
       "resumen": "La operadora afirma contar con la misma tecnología que Renfe y Ouigo para conectarse al sistema de seguridad LZB, que se cayó el miércoles en Urda 23 minutos antes del siniestro"
+    },
+    {
+      "titulo": "Retiran uno de los vagones siniestrados en el accidente de tren de Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREV1Qk1kQkJJTU9ZSE4yNXdIYnNZRXZVd1M1cGE5UGh1ZmxON1dOVlNxVzJBbkVQVFpPdDR5NFA2WkI0VDVYN01YdGdKbHhkbUJ3RmlJLWgxb1llMml3OXVGelRxcDQ1RlBfZUNIVFNjcE9LYnBoaHE1OGwxbHlIQXlpRzhOSmU4ZFEzbkRWSGR6amNrekt4Qm82cXV4RnBycTBBcjVLbw?oc=5",
+      "fuente": "ABC",
+      "fecha": "2026-11-02T13:09:40.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNREV1Qk1kQkJJTU9ZSE4yNXdIYnNZRXZVd1M1cGE5UGh1ZmxON1dOVlNxVzJBbkVQVFpPdDR5NFA2WkI0VDVYN01YdGdKbHhkbUJ3RmlJLWgxb1llMml3OXVGelRxcDQ1RlBfZUNIVFNjcE9LYnBoaHE1OGwxbHlIQXlpRzhOSmU4ZFEzbkRWSGR6amNrekt4Qm82cXV4RnBycTBBcjVLbw?oc=",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Colau propone un \"pacto de Estado\" sobre trenes que permita \"reunificar\" Renfe y Adif",
+      "url": "https://www.elconfidencial.com/espana/2026-11-02/pacto-estado-sistema-ferroviario-1tps_4457489/",
+      "fuente": "El Confidencial",
+      "fecha": "2026-11-02T13:02:00.000Z",
+      "imagen": "https://images.ecestaticos.com/pyC0rTNIT64f7gHIXWQWJW1pWEs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdef%2F6c2%2Fc46%2Fdef6c2c46693e31ec00464167af3abae.jpg",
+      "resumen": "Tras el accidente de Urda, reclama cooperación política y soluciones para recuperar la confianza ciudadana en el transporte público"
     },
     {
       "titulo": "Junts denuncia a Renfe y Adif por el accidente de Rodalies en Gelida: \"El sistema ha colapsado\"",
@@ -163,12 +353,47 @@
       "resumen": "La formación posconvergente anunció la demanda hace unas semanas en sede parlamentaria y solicitó al Govern de Salvador Illa que diera este paso tras el accidente mortal de Gelida del pasado mes de enero<span class=\"\" contenteditable=\"false\" aria-hidden=\"true\" tabindex=\"-1\" style"
     },
     {
+      "titulo": "Nueve gráficos que explican el accidente ferroviario en Toledo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWExwUTQ3cHBqSFlCQ1JCTXBhRVJzU0ZxU0NiVVh1dVZyN1NYNE9JLVRuYnFpV3FMS2RWOFdPN0FPdzQ5OFVSeEoydzItNGU2UmJja1VaQ3dZOHZraDhaTm1oRVZUM2NTcy1YTU42dVJIaUllRndLRWFLZTFndWxNOVZoY3dvTFV1SkY4LXM0WlU5ekZaLWV6UjNURG1nU01hVk1CQnBkcFlPaHJ2UXRBMHluSHVpRzJ5VjdnUF9VSkkzSFFmSGRyZWV30gHmAUFVX3lxTE83NmxmZDM1VE1pTjQ5MTNRZzJqcjVNVlhIQ3VySERzN2tMRGpHQWlZOFBscGVLTWpVb0ptcXdBd2tOYk9BQnRoZUVVRklsNTlGMzY0dUh3SDVOWHZRQnV4OFFxSkMxcVVycVFDdVZjLXpfUEhham1XaHhNdTFzS3dWRW5sQ1BxRjh0SDlCOFJXSGVvS3dpZkptUldaaldXeVFLN04xTjNQNEx2MWlkY1Z3YThXS0NfX2tFMHFJLVRpekNnX1BXSF9mMTYtdEFvUzlIYXhBVlF5YWYyUlp5RUZDR1locDRn?oc=5",
+      "fuente": "La Voz de Galicia",
+      "fecha": "2026-11-02T11:35:05.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPWExwUTQ3cHBqSFlCQ1JCTXBhRVJzU0ZxU0NiVVh1dVZyN1NYNE9JLVRuYnFpV3FMS2RWOFdPN0FPdzQ5OFVSeEoydzItNGU2UmJja1VaQ3dZOHZraDhaTm1oRVZUM2NTcy1YTU42dVJIaUllRndLRWFLZTFndWxNOVZoY3dvTFV1SkY4LXM0WlU5ekZaLWV6UjNURG1nU01hVk1CQnBkcFlPaH",
+      "idioma": "es"
+    },
+    {
       "titulo": "Iryo pide a la Agencia de Seguridad Ferroviaria limitar a 40 km/h la velocidad cuando falle el sistema LZB",
       "url": "https://www.europapress.es/economia/transportes-00343/noticia-iryo-pide-agencia-seguridad-ferroviaria-limitar-40-km-velocidad-cuando-falle-sistema-lzb-20261102120750.html",
       "fuente": "Europa Press",
       "fecha": "2026-11-02T11:07:50.000Z",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261102120750_120.jpg",
       "resumen": "Iryo ha remitido una misiva a la Agencia Estatal de Seguridad Ferroviaria (AESF) para reclamar nuevos protocolos de seguridad tras el accidente de Urda (Toledo) y, en concreto, limitar a 40 km/h la velocidad cuando falle el sistema LZB."
+    },
+    {
+      "titulo": "Muere la farmacéutica de la Aemps Cristina Ferris, víctima del accidente de tren en Toledo",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVTBMUnZ1SjV0WVpVcEk3U1pGcFN4U2x2SWYzRlR0LUpLd1ZXdEcxUXhRZ1V3NEY4X21FR2FEaWtNOTFaRkgyaXBTTGlic3lBN0dvWUhCSUJNcjhjMWlkUmhSRDQ2NjU1UFJTUDFpVVdzQWNyUnJnM2VQZEphaVVzeGlaZTMwOW1QSU12VGdSdGxRUkV6MmNQN184eElBUTZZcWVmbWU3aEQ4anIyYlpwdXBqVkhzTWhadEFPNjRMRG45RExLQktTbkJzQjlzR0F5M0R4cXVKTGpYTUlSdzRTMHk1V2dQeGhGRUJkMDZzOWFpV3PSAfgBQVVfeXFMTzJ4V1pFU1hOUUh0R09JcURFaXJTNUdlcTdPOHRlc09LUWplbkVpblAzQTFGNk5Sc0R1MlN3NzBfLU1ZUTNwTWo1cWxSaG82c0ZkR3lNWU5wQ1hNSnFtZTNMRTZsLU9FV3IwVXByVGVKRHlxN01lN2dLWEUwZGFwZk4xVnNYeTh6a0Y5NXpIcWxoOUcxY2xiYzl5SVlGTkp5dUVobUFudUlpWDMybm5Ic3Q3MGFSc2Z4djd6a24xSW95bW9XelRyQUZjVmhFOVRVY3B4VEFzZzlZWmpOUUh5SGl4cDFfNWxsWE5tcGVXcGdTeVlMN1VnQl8?oc=5",
+      "fuente": "Redacción médica",
+      "fecha": "2026-11-02T11:01:46.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVTBMUnZ1SjV0WVpVcEk3U1pGcFN4U2x2SWYzRlR0LUpLd1ZXdEcxUXhRZ1V3NEY4X21FR2FEaWtNOTFaRkgyaXBTTGlic3lBN0dvWUhCSUJNcjhjMWlkUmhSRDQ2NjU1UFJTUDFpVVdzQWNyUnJnM2VQZEphaVVzeGlaZTMwOW1QSU12VGdSdGxRUkV6MmNQN184eElBUTZZcWVmbWU3aEQ4an",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Identificados ya todos los fallecidos en el accidente ferroviario",
+      "url": "https://www.20minutos.es/nacional/los-forenses-ya-han-identificado-66-los-69-fallecidos-siniestro-ferroviario-urda_7056152_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-02T10:50:59.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/02/6ae9123a141e75-81506369.webp",
+      "resumen": "El balance provisional en este momento sigue siendo de 69 fallecidos."
+    },
+    {
+      "titulo": "El Gobierno aprobará este martes ayudas para las víctimas del accidente de tren en Urda y recuperará la confianza \"cueste lo que cueste\"",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRDVWV1hXM0VPMU9iVTFvSDJFX0VKWTZqd3lUOVFrRi1UZmRyYmdCeTVmRWlCcFUzQnVOWW9HVzJWc2IxbEpjTWxwb0hoMjZHX2JrMnZ4YXFlMS1JOXBRLXA0X3dnODVaZE51U2E2N1hFd2xLalVfWTRwMG9rN0NLOUlOaVd3blgxMmZQVU9WZHVUSmtjb0NxMlliM2FCQWFHeEZFZzdoeUljcWUyTjhjOHRNN0lDdlFEWElqRTdwUmJPczVPWDRBRnVoSm9qZV81QUY0bHA2QWNRLTV4d3A1ZWZQUEHSAeoBQVVfeXFMT3dndVoyUFR2X3BCdDZnN1NYR0lNSWsxNlpjbXhVYmxVcGt1dzVjMnN1dWwyTVc1Ym4tZGozUUI2ZW9MV0xwSmJtTUdPR2ZONlFDb1YxVHJnQjAwY0ZyUUpkcWwwUEhJeGJITjlxc1NieWNqdkVFTVZqb1ZWQmtRRkRGN09DeURacnBsV1ZiREZ5cHBqZDRjb2FfUkstLUItai1UX0ZLdUpjZlU5cGVqMXo2UmtWV2ZKU2dXM0J4cVhWbmZjMXRGNzVndG9jV0tiZ1l4ckpQZFg3bmN0WG1TNWlBM2JBZnVTNVB3?oc=5",
+      "fuente": "heraldo.es",
+      "fecha": "2026-11-02T10:30:58.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRDVWV1hXM0VPMU9iVTFvSDJFX0VKWTZqd3lUOVFrRi1UZmRyYmdCeTVmRWlCcFUzQnVOWW9HVzJWc2IxbEpjTWxwb0hoMjZHX2JrMnZ4YXFlMS1JOXBRLXA0X3dnODVaZE51U2E2N1hFd2xLalVfWTRwMG9rN0NLOUlOaVd3blgxMmZQVU9WZHVUSmtjb0NxMlliM2FCQWFHeEZFZzdoeUljcW",
+      "idioma": "es"
     },
     {
       "titulo": "DOCUMENTO | Así es la propuesta de Renfe para limitar velocidad a 40 km/hora ante fallos de seguridad",
@@ -194,6 +419,15 @@
       "fecha": "2026-11-02T09:26:14.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/OLN4K4Q2KZA6XLCUSXCJ63GRJM.jpg?auth=925a05fd7063cfb3eea88368693f7192631a0f02a21498a07b6d0a4001456fff&smart=true&width=1600&height=1067",
       "resumen": "Las encuestas sitúan al bloque de PP y Vox por encima de los 200 diputados, un resultado muy superior a los 176 que marca la mayoría absoluta"
+    },
+    {
+      "titulo": "¿Hay miedo a ir en AVE? El accidente ferroviario amenaza con enfriar la demanda de la alta velocidad en Asturias",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZE1ubVVlNDdfUHEzRTVKcm5Jc3MxeFlnRzdYNUZLNFZ1ZlI3N09DVEFaYUFoVEI4X1FzX1lJTnVIbHNBTThycmY3Wkk3U2JzTnptbDBrQUZEaW5BdGVEdTdKeVJuTUhpX0lhejVNdlM1X29QWjMzTWV6TE5rQ0FiNkV6NmpqX1JhTmxBVk94R0JhRFd10gGUAUFVX3lxTE16RGJKamJtRGhKTjNDVDFoeThPbUZXRWhyZk00MWgzYmJKUC1pTUJvZkh5NVJqdUo3ZlJEVUJ3a2tPVVlzZVJrV2FCTkRRVExZLWd3STFGNXYySlBXV1NXanh2Vi14OVEwSTVyMHVST2NIa3ZSQ2x4NUhVbFd6WE5WalhUQjMyTll5bHF5a0tlY2VhTUQ?oc=5",
+      "fuente": "El Periódico",
+      "fecha": "2026-11-02T09:24:13.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPZE1ubVVlNDdfUHEzRTVKcm5Jc3MxeFlnRzdYNUZLNFZ1ZlI3N09DVEFaYUFoVEI4X1FzX1lJTnVIbHNBTThycmY3Wkk3U2JzTnptbDBrQUZEaW5BdGVEdTdKeVJuTUhpX0lhejVNdlM1X29QWjMzTWV6TE5rQ0FiNkV6NmpqX1JhTmxBVk94R0JhRFd10gGUAUFVX3lxTE16RGJKamJtRGhKTj",
+      "idioma": "es"
     },
     {
       "titulo": "El emotivo mensaje de la botica de Urda",
@@ -236,6 +470,15 @@
       "fecha": "2026-11-02T08:00:21.000Z",
       "imagen": "https://www.encastillalamancha.es/wp-content/uploads/2026/10/urda-tren-accidente-34-1200x628.jpg",
       "resumen": "... The post Última hora del accidente de tren en Urda: un alta en Castilla-La Mancha, hay 29 ingresados, 9 en UCI appeared first on ENCLM ."
+    },
+    {
+      "titulo": "Diego Marqueta, perito judicial, sobre el accidente de trenes: \"Las cajas negras nos darán una idea precisa de lo que se comunicó\"",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQN09VcVZXMFBlV3FrRG41bXhVdkVXc1RWTm4xUkljRm05TW95d3psMVpHa1lQRFcxLXNkQmpMdWZ5VGcwQlpESUdIZUdMNXVudGRVeVRfLVZQYW5SQVlranljM0JncnVyajZ4cjBFWk1pbDM5Zms2d21iaUcwTktYTDY1NmdOYjlIajdRUkpVZzFJY0NIT1Uxa0hKS1g4YkJKaTJtXzdpanZ1MTVIYmFRVVlMeUNrcXUtZUhpc012Z1I0eVVjQng2YzNnWGQyb3NncnR3b1F2YWszaXdiemllT05lM3F3UEVlSUlvOWkxejQ5ZTVvS3dVT3V2YVdnQ1RzN1BUV29qZ9IBhwJBVV95cUxNNllZdXpRTWIzekF6Tk1oTjA0aG9CNWxiV3dqVmdxQUdIWVNiYjFhQXJ2ZERpd3QzYmtQQjVRQlJ1d0hwUUpGYUQxUmtBYUtseTg4TzlhenJBYWQ0ZVVQZHRyUnFQeGZsZWlVcWNUYndwTjlOQTE4eVBCcWFFd09fZUpCcGZGd3RWTklFMjdKcjBvQUZvTDJZbjdsRk5UWHRScU1yS0hQU1NHZW53andmbndOS0RjYjQxNllIX2taTlYxM3BPMXRzcWpLRDI1ODdNd2VhbW9fYmhWRFUwY19uVTg0LXdYRldhLXBhcnBWUHg2a3hfcmREUWFJYTNNS096ajk5QVE2dw?oc=5",
+      "fuente": "Antena 3 Noticias",
+      "fecha": "2026-11-02T07:57:47.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihwJBVV95cUxQN09VcVZXMFBlV3FrRG41bXhVdkVXc1RWTm4xUkljRm05TW95d3psMVpHa1lQRFcxLXNkQmpMdWZ5VGcwQlpESUdIZUdMNXVudGRVeVRfLVZQYW5SQVlranljM0JncnVyajZ4cjBFWk1pbDM5Zms2d21iaUcwTktYTDY1NmdOYjlIajdRUkpVZzFJY0NIT1Uxa0hKS1g4YkJKaTJtXzdpanZ1MT",
+      "idioma": "es"
     },
     {
       "titulo": "El presidente de Adif rechazó duplicar el gasto en mantenimiento justo antes de Adamuz",
@@ -287,15 +530,6 @@
       "resumen": "La crisis ferroviaria obliga a los partidos a reorientar sus prioridades y mensajes<span class=\"xai-icon\" contenteditable=\"false\" aria-hidden=\"true\" tabindex=\"-1\" style=\"user-select: none; pointer-events: auto;\"></span>"
     },
     {
-      "titulo": "¿Hay miedo a ir en AVE? El accidente ferroviario amenaza con enfriar la demanda de la alta velocidad en Asturias",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3JuQjg2LWkzRDliNGthYjUtdWJ1eWxJc0xHQ0VoZm9TM1Y1Qld3TlhjWEUzTUR0UVlVQWNNQXc2WGZ4ME13Q1ExSG5DeWNvNVh4YU95SUE2WGxaWFRMc2JiRXZGR1Y5UVlrdGlnTGlGQU9Ya2w3TGVOWXdmNUhVbEpoUnZrUDNSUl9WeldJMDJBQjTSAZgBQVVfeXFMTWx3Q3g2RnVXd1BVdjEwU0NZRXB4WUZja3NPRnZOTzl3LWMwRDdGYUJPMWctNFItZVJQeldKcy1UMUlzVkVlc2hNNi01X3BQb2hvb2tmVkdQdUNEbDZ5ako5NUp5VXlVdFZwX0JnMV90UDZKY0E3R1NYZUgxdnJlX0JLVVNlZzdwRXpIM3JCMEtWblF6c19VYWQ?oc=5",
-      "fuente": "La Nueva España",
-      "fecha": "2026-11-02T04:59:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNY3JuQjg2LWkzRDliNGthYjUtdWJ1eWxJc0xHQ0VoZm9TM1Y1Qld3TlhjWEUzTUR0UVlVQWNNQXc2WGZ4ME13Q1ExSG5DeWNvNVh4YU95SUE2WGxaWFRMc2JiRXZGR1Y5UVlrdGlnTGlGQU9Ya2w3TGVOWXdmNUhVbEpoUnZrUDNSUl9WeldJMDJBQjTSAZgBQVVfeXFMTWx3Q3g2RnVXd1BVdj",
-      "idioma": "es"
-    },
-    {
       "titulo": "Una reconciliación antes del final",
       "url": "https://elpais.com/espana/madrid/2026-11-02/una-reconciliacion-antes-del-final.html",
       "fuente": "El País",
@@ -305,19 +539,21 @@
     },
     {
       "titulo": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
-      "url": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html",
-      "fuente": "El País",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQklFUHoxSkN1Q2Q1b1dWQ2l4QWF4NjhBOElWYXc2bml2SWZWT2l3c3NxemdsZU9kYXFrY0dYNFM3bXRESkFkTExBVmREcmNKUXNaU0FwRmNUNE5jdEtUOHFVOEtmOXdFSGtNUXgwNTlIQk5rZGxGRkJ4aTlvRHhPX29pbUNLcHVaWHFmZnJWZnhhYVhHNHg4UDlaTTVHY0FsT0tDSWlxOU9uNWVXUlpDM3cxQ05SR25rZHo1WmhOOWZSSm16dkF4VXlNa9IB3wFBVV95cUxQZG95cDM5bDFFZGJGOWdMdWwwcWNqZzFwbDdQWWEtX0QtMXVSR25kamZJd0hiSWhVcVdwem5TTmlXQlJpNWRjZS1ORzlseXQtSzF0SmxsdVAxRnk4d3cwVlpudHNtRTdvczUyMjgzTDFLZkhuemZTNHM4aEFEU2tDLTdkOTZ0Q1FhY3lBcjJWVnZCRWdlOHBES3NUWDhVTFJEVHgwc1hpUFBFdnIyS01DLVI4TlZiblNFRW5ZMDFsY3JRdkpDVVlxY25UUmVkYWdCaUtoNWpkSWZWak8tc1c0?oc=5",
+      "fuente": "EL PAÍS",
       "fecha": "2026-11-02T04:30:01.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KCBE54UYRRECJOLHDV6LLNHBLQ.jpg?auth=ff2b1a8e0255a331c37b39a476df928096d25b95ead38d3ea27f21d18844b2c9",
-      "resumen": "Los técnicos y la Guardia Civil intentan aclarar si la orden que recibió el AVE de avanzar a marcha normal tras la caída del sistema LZB fue un fallo puntual o se aplica de forma habitual"
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNQklFUHoxSkN1Q2Q1b1dWQ2l4QWF4NjhBOElWYXc2bml2SWZWT2l3c3NxemdsZU9kYXFrY0dYNFM3bXRESkFkTExBVmREcmNKUXNaU0FwRmNUNE5jdEtUOHFVOEtmOXdFSGtNUXgwNTlIQk5rZGxGRkJ4aTlvRHhPX29pbUNLcHVaWHFmZnJWZnhhYVhHNHg4UDlaTTVHY0FsT0tDSWlxOU9uNW",
+      "idioma": "es"
     },
     {
-      "titulo": "El número de fallecidos se mantiene en 69 y 41 heridos siguen en hospitales mientras no cesa la búsqueda de restos biológicos en los trenes",
-      "url": "https://www.20minutos.es/nacional/cifra-fallecidos-se-mantiene-69-41-heridos-siguen-hospitales-mientras-no-cesa-busqueda-restos-biologicos-los-trenes_7056066_0.html",
-      "fuente": "20minutos",
+      "titulo": "Identifican entre las víctimas del accidente de tren de Urda a una mujer con raíces en Pedrafita",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON29vWGxxaV9iMDZRYmd0RW9pekZTTTdwN09SMF8zZ2xyNVdnWEg2cGVtY0U4M1prN29hMGVVVjNFV0ZubWljdHhhcmNocmI5RE5lWTJST0hkMG9LNkstcFlHeHpqbDkzd2VoWEdJWVJaVHVLNFY2Qlo1NG9pZERnWkNaYzhRNGhTYXlfQkthdEktMG1FNWVKSC1DdEJ2d3NpZmxVS3hVY05zOS15WkpqM1pnclVFdmNqenUtYk930gHDAUFVX3lxTE1tY1o3ZFJpQnBsWHVxcTVteHFkc3dDNEJZVldESkY3ZnBONFBLV3h6TElpRUhFbFF5ZFFGdkg4R2dxLWRrT2paZEpmQWpPRXB6YkF6d3pzdTJ1NS1XMGdlVE9ndS0tT0VvOEVpanpiR2ZNVnVfLUFHMkFSOXdwbUdmUjJhelZRRWJxYW1fdmIzWTdOdW1QTDZ4VVpkT3J0ZWVDeDR4eXdhZ1RrN2MxVDlJR2RsZTJUa3UxQTV5bERVLWswcw?oc=5",
+      "fuente": "El Progreso de Lugo",
       "fecha": "2026-11-02T04:00:00.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/01/6ae793d6a3d058-34789868.jpeg",
-      "resumen": "En el lugar del siniestro, blindado por la Guardia Civil, se ha iniciado ya el traslado de los vagones accidentados."
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxON29vWGxxaV9iMDZRYmd0RW9pekZTTTdwN09SMF8zZ2xyNVdnWEg2cGVtY0U4M1prN29hMGVVVjNFV0ZubWljdHhhcmNocmI5RE5lWTJST0hkMG9LNkstcFlHeHpqbDkzd2VoWEdJWVJaVHVLNFY2Qlo1NG9pZERnWkNaYzhRNGhTYXlfQkthdEktMG1FNWVKSC1DdEJ2d3NpZmxVS3hVY05zOS",
+      "idioma": "es"
     },
     {
       "titulo": "Los expertos sobre el accidente de tren en Urda: \"No ha fallado un señor, ha fallado todo. El sistema está en ruinas\"",
@@ -327,6 +563,14 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWnBySXZqQk5OMm9SNXhweE92NmZ6WU84RnRqQXZ1U2lfa2xFM3dRWFlEWDR1cnNQMGFaNjJLS3c0eUFUZzcyMTVqa1ZDLXU2bjVnaTA4cjcyb0JGakZrTWFON0JwY0MxTE82R3dkUVlCX181eWVVYlhFZ3dJaW5rcHQ3LW5VOUNFQWtjMUFOTHprNFVCd25TSHNaLTlZQ2h3QVVzV0lWal9JTk",
       "idioma": "es"
+    },
+    {
+      "titulo": "El número de fallecidos se mantiene en 69 y 41 heridos siguen en hospitales mientras no cesa la búsqueda de restos biológicos en los trenes",
+      "url": "https://www.20minutos.es/nacional/cifra-fallecidos-se-mantiene-69-41-heridos-siguen-hospitales-mientras-no-cesa-busqueda-restos-biologicos-los-trenes_7056066_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-02T04:00:00.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/01/6ae793d6a3d058-34789868.jpeg",
+      "resumen": "En el lugar del siniestro, blindado por la Guardia Civil, se ha iniciado ya el traslado de los vagones accidentados."
     },
     {
       "titulo": "Señor Sánchez, yo quiero involucionar",
@@ -369,6 +613,15 @@
       "fecha": "2026-11-01T23:43:10.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNdlBNbzUwdHpMa3BHMzF3aEx1V3dWZ1ZjS0xEbDRQY1NEY2hXLTJLSzRyd01jT1pXbUxldW9YVGFYN01MYnBqWFBvQlVhTGlZXy1taEVocUI5TnpLb2VvS0dKdWV0MC1WLVpLZzVVVXZFQzhlVm5hejRGYkItOVpUTmdjS3ZOakc3X0k4S0pxS1kwNWdpYWJfRDJjNDIwRkJKcmMyUm9VWGtZQn",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Concluye la identificación de las 69 víctimas mortales de la tragedia ferroviaria en Urda",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVB3T3lvblhwYlNLMzF2NE9wemZLb29xLXpqZUZkdkJYN0xMdXNOMTJ2Mlpla0pYUmlFbDh3MDlEZzlQNGN4V042VnhMRHpNWU80cmxrajRLZzRISTJHYkl6VThnZXFTMnkxVUhxNzByWnd5LUl0b21NOHJYOTVDMnc1TldaTkdiUHNrOEZnTFc1dDcxcEt3Q0lXbw?oc=5",
+      "fuente": "RTVE.es",
+      "fecha": "2026-11-01T23:35:05.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVB3T3lvblhwYlNLMzF2NE9wemZLb29xLXpqZUZkdkJYN0xMdXNOMTJ2Mlpla0pYUmlFbDh3MDlEZzlQNGN4V042VnhMRHpNWU80cmxrajRLZzRISTJHYkl6VThnZXFTMnkxVUhxNzByWnd5LUl0b21NOHJYOTVDMnc1TldaTkdiUHNrOEZnTFc1dDcxcEt3Q0lXbw?oc=5\" target=\"_blan",
       "idioma": "es"
     },
     {
@@ -421,246 +674,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXF3X3JBSkZxcEhLTE92bEIyS0FhMGRHR1NoaW5haXc5TG5IZm5FZHN6YVh6alk1ZU9GcDdaeGpubXJYcm1xN3N4SlNUejdjdnJnUmctQWFKY0JmQkRwUmJ5Umt2THgwUF8zek01WmExTjlpN1pDLWRUTHNHbENKQnhJT0J5SkVLNmNkNWNJb2RVaUJIcmRxOE1uNmjSAaIBQVVfeXFMUGZFOF",
       "idioma": "es"
-    },
-    {
-      "titulo": "Guardia Civil mantiene activo el dispositivo en la zona cero del accidente con vigilancia y protección",
-      "url": "https://www.europapress.es/castilla-lamancha/noticia-guardia-civil-mantiene-activo-dispositivo-zona-cero-accidente-vigilancia-proteccion-20261101201827.html",
-      "fuente": "Europa Press",
-      "fecha": "2026-11-01T19:18:27.000Z",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261101201827_120.jpg",
-      "resumen": "La Guardia Civil mantiene activo a las 20.00 horas de este domingo el dispositivo desplegado en la zona cero del accidente ferroviario del pasado miércoles en Urda (Toledo)."
-    },
-    {
-      "titulo": "El accidente de Urda destapa una cadena de fallos en la red ferroviaria: \"El sistema está quebrado\"",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRHpLOVYyRmp5SGhZTU9oemhHTUQ4eHBhQWVRMnJPamZ0UThDWnVkbHV3cXZOY3k2aDR0UFVFcnkxU2lTUFpZRlV6c2ZhTkNyVTJUM1JGQS1qQnFDMTB6ZDY2LU12Y1l4YTJUZHh1Z001eHAxaFZlbHdvYzRIYXBJbFJJWHluZEJnVlEzWGpieTNaS3Z1QW9mbkZLdXVoT1N4MkdKRG1rd1JCaERRVHlYQmo2V2lTanF6anVLMlEtQ1h4XzJXNFFiUEtIckdOVjlyRVczWTd3TXJJWWJDeVYteXdwMHQ2TTh4OVHSAeoBQVVfeXFMUHRjWi00Zng5YVczbEpoRFpJOTVwZ1I0aXlPWUR4c1RQRVlBb2xCUktQYmkzSnRzNDFJbUNBaUxnRUIzb0dMSUVPZEo0SHN0dC1yV0tldGtaQy1FbXZXc25HTG8xU1RORGN2YnkxVi1aRzRPZlZkbWdXc01tTEFQZXRQRlNuc0tFdlpuSGRfMEZpUUNyc1Ytb1dkMXJ3aGFvcHpPMEFYRjRWREJZSVhoSXlDbEVPMHg0bUtKLWZOS1pEb19wZHdoOGJDZ29ZX0xwWFpubmdWNERIUEZiZVhRcWdCbm5GNktmOUt3?oc=5",
-      "fuente": "LaSexta",
-      "fecha": "2026-11-01T18:37:30.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRHpLOVYyRmp5SGhZTU9oemhHTUQ4eHBhQWVRMnJPamZ0UThDWnVkbHV3cXZOY3k2aDR0UFVFcnkxU2lTUFpZRlV6c2ZhTkNyVTJUM1JGQS1qQnFDMTB6ZDY2LU12Y1l4YTJUZHh1Z001eHAxaFZlbHdvYzRIYXBJbFJJWHluZEJnVlEzWGpieTNaS3Z1QW9mbkZLdXVoT1N4MkdKRG1rd1JCaE",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Dos científicas leonesas, dos jóvenes guardias civiles y un reconocido inspector de Hacienda: lista de los 46 fallecidos confirmados en el accidente de trenes",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMWF3bjBkZ2RkUnBuVGZqb0QwaUxGX0hfc29hcWVxRTkwcHBkeUc1NlZ0RmZLQzIyd2JNOE1ZdUdsbmVRbjFHM2tGaS1uX29MMHM1dGR2ZlVQTVo5ajNVN3BMbFExaXNPbkx0RXNES3hrSDVyUk9tUkpFWXFNSVcwNlZGaHYzUnFobGxRMHFVVU5SdUg0M2YxdDNXM1kwNUtlYXhSYWxhX0XSAagBQVVfeXFMTlpYR2FGUTNqN1A4Z01NckhySXRhQk1JSi1wWkdDWlBVelNLTDNQMTRNSHVuNG0taldwaXhYRWRuY0N5NGF6QlJKRnBUeW8zeE8yRWp0QUJEUDdYcE9OaXB1Uy01c2VDdlZaeUVVQWoyUGZfM1g0M0pRSDN2bnduTjJPelVoNTcycDFReEtvd28wR25BNnh3RExMcFI5czF1VW1KVVF3QTNf?oc=5",
-      "fuente": "El Periódico",
-      "fecha": "2026-11-01T17:45:10.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMWF3bjBkZ2RkUnBuVGZqb0QwaUxGX0hfc29hcWVxRTkwcHBkeUc1NlZ0RmZLQzIyd2JNOE1ZdUdsbmVRbjFHM2tGaS1uX29MMHM1dGR2ZlVQTVo5ajNVN3BMbFExaXNPbkx0RXNES3hrSDVyUk9tUkpFWXFNSVcwNlZGaHYzUnFobGxRMHFVVU5SdUg0M2YxdDNXM1kwNUtlYXhSYWxhX0XSAa",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Renfe prepara instrucciones de velocidad máxima y circulación para sus maquinistas",
-      "url": "https://www.abc.es/economia/renfe-prepara-instrucciones-velocidad-circulacion-maquinistas-evitar-20261101140411-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T15:51:55.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/01/tren-atocha-RHumAf6LDVsI3uXZM4VgKPJ-1200x840@diario_abc.jpg",
-      "resumen": "Renfe prepara medidas de seguridad urgentes para sus maquinistas tras el accidente del pasado miércoles en Urda (Toledo) que suponen en realidad añadir un escalón más de desconfianza hacia la gestión de la circulación que realiza Adif. El operador ferroviario, según un borrador a"
-    },
-    {
-      "titulo": "Albiol acusa a TVE de aplazar un debate por intereses del PSOE y avisa que no irá a otro",
-      "url": "https://www.20minutos.es/nacional/albiol-acusa-tve-aplazar-un-debate-por-intereses-psoe-avisa-que-no-ira-otro_7056005_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-01T15:01:19.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2023/05/13/el-candidato-del-pp-a-la-alcaldia-de-badalona-xavier-garcia-albiol-en-una-imagen-de-archivo.r_d.1809-63-5487.jpeg",
-      "resumen": "El candidato del PP rechaza la justificación del duelo por el accidente ferroviario de Urda y acusa a la cadena pública de favorecer los intereses electorales del PSOE."
-    },
-    {
-      "titulo": "TVE aplaza el debate electoral de los candidatos por Barcelona del 29-N y Albiol acusa al ente público de ayudar al PSOE: \"No quieren debatir\"",
-      "url": "https://www.elmundo.es/cataluna/2026/11/01/6ae73a0b21efa06e278b4581.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-01T14:37:59.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935385382728.jpg",
-      "resumen": "El cabeza de lista del PP señala a Televisión Española por buscar \"un clima más favorable para el Partido Socialista\" tras el accidente de tren en Urda Leer"
-    },
-    {
-      "titulo": "Accidente de trenes en Toledo: última hora y reacciones en directo | La jueza que instruye el caso de Urda pide acelerar las labores de búsqueda, más operarios y que se trabaje de noche",
-      "url": "https://elpais.com/espana/2026-11-01/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html",
-      "fuente": "El País",
-      "fecha": "2026-11-01T14:09:42.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/KCBE54UYRRECJOLHDV6LLNHBLQ.jpg?auth=ff2b1a8e0255a331c37b39a476df928096d25b95ead38d3ea27f21d18844b2c9",
-      "resumen": "Baja a 41 la cifra de ingresados en hospitales por el accidente de Urda | Castilla-La Mancha atiende a 31 heridos y la Comunidad de Madrid, a 10 | El PP anuncia que se personará en la causa judicial sobre el accidente"
-    },
-    {
-      "titulo": "La jueza exige reforzar los turnos de grúas para mantener «de manera ininterrumpida» la búsqueda en Urda",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/jueza-exige-reforzar-turnos-gruas-mantener-manera-20261101142525-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T14:09:24.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/01/gruas-RHiortJ8y7ns1an2KIGqujK-1200x840@diario_abc.jpg",
-      "resumen": "La titular de la plaza número 2 de la Sección Civil y de Instrucción del Tribunal de Instancia de Orgaz (Toledo) ha dictado providencia en la tarde de ayer por la que se requiere de «forma urgente» a la empresa de grúas contratada por Adif Renfe para que disponga de los operarios"
-    },
-    {
-      "titulo": "PP y Vox se personarán en la causa del accidente de Urda",
-      "url": "https://www.abc.es/espana/pp-vox-personaran-causa-accidente-urda-20261101140437-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T14:04:55.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/01/1519438252-RwXhygf0Sjd3EBMOd2GVfyK-1200x840@diario_abc.JPG",
-      "resumen": "La oposición comienza a mover ficha en el ámbito judicial para dirimir responsabilidades por el trágico accidente ferroviario en Urda que ha dejado, de momento, 69 muertos y más de 200 heridos . Tras varios días en los que la moderación e institucionalidad en la clase política ha"
-    },
-    {
-      "titulo": "León de luto por la muerte de la científica Marta Shahbazi en el accidente de tren de Urda (Toledo)",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObGJSTHpiaW1uNVpjV1hQV3VER2I5OWhTelZKUjluaEk1eGZ3bnB4a3djM1FZRU9RdVJiX2pTb0JYRmFJLTZaYzZDQkZPcHFCNHJkTWlYZEtYc3ZXcW41cjcyNUVDVVRFZjRCSTBFbUFIaUhQdXRaQ1ZFQVRzTTlCU2gyVmZTS19sc2wzbkExWEdidEZUZUxNdkVzWS0yR3NwY05FejN2N1JnVnNka0tUVkl2TWg3V3gyaEF3eERVS2szSVpZVHJJaXAteFJYSXI0a0NmX3VVNmYtTVMxSDFJ0gHzAUFVX3lxTE9TeEExRC1aelBLbzVYai1URTJIQk1IQU9WR2huUGM0R2h1eXkwNTRReWVSa3JSVU45YjdWb0FzR0o2RFNKdm1XUi00OVVWWWFnWUVaNGhrak1pTkhTblpHQVVjeWo3RVVGUVF3VXBVSHBadlp3Q1dOYlowY2dxbjgwb2pJWjJZUU5hcWloWWhZdWZiNkFqckszRWNFYVFMeFVUZjdNYTNacHFqZDY3Qlg0TndvT1ZYVGJ0OG1VdENOU2otWDFWVVBXVVVTOGZYaGRiT2d3VXNNMjVUcHVuUlpwVHh4RXZOeWN0Q2RQdmNjLW53aw?oc=5",
-      "fuente": "La Razón",
-      "fecha": "2026-11-01T14:00:19.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxObGJSTHpiaW1uNVpjV1hQV3VER2I5OWhTelZKUjluaEk1eGZ3bnB4a3djM1FZRU9RdVJiX2pTb0JYRmFJLTZaYzZDQkZPcHFCNHJkTWlYZEtYc3ZXcW41cjcyNUVDVVRFZjRCSTBFbUFIaUhQdXRaQ1ZFQVRzTTlCU2gyVmZTS19sc2wzbkExWEdidEZUZUxNdkVzWS0yR3NwY05FejN2N1JnVn",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La jueza urge a Adif que disponga de más operarios para trabajar de forma \"ininterrumpida\"",
-      "url": "https://www.20minutos.es/nacional/jueza-accidente-urda-urge-adif-que-disponga-mas-operarios-para-trabajar-forma-ininterrumpida-localizar-restos_7055995_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-01T13:43:58.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/01/6ae779e03c1405-76829350.png",
-      "resumen": "A través de un auto, la jueza también ha prohibido la obtención, divulgación o publicación de información o imágenes de las víctimas o sus familias."
-    },
-    {
-      "titulo": "Confirman la muerte de Ana Avilés, la mujer que viajaba a Sevilla para acudir a la boda de su hija, en el accidente de trenes de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDhGUngydnhqMi10X21nbENuazcwYm9ROU9rc3IxTFBLUEdUWWd3VVhQVm9MOUlEalFNTVFEMF9mRkszcGk5NDhoSlowV0FucGk2X3AyeEdoaHdBbTJrSjlxSWxoOVlNSzl3MHk5TXBiVnlGbXBmVnQwWEs4V3g2eWlWSW81LXRqZW9aaTZqejFUVExsSnR2M09mNFBwalA2b2FQQUtVN0ZzMnVKSUpsRGNUQ19ZVGRI0gG4AUFVX3lxTE1aMTZPRkI3LUFUX3luMkpzemJVZXlIcmRpX1pBZnFVdkRpdUdOOXM5Z21ac2RFWFdUdFZsc0txdWFGMUpyeURGeUZreUNWY0xlbFNmcjNSX2ZZczNwNE9FbXVTSUNvdHNOdl9reXBqX0RKUFJBU05qZ0JXaWRVZDRZenlSQWdKVzBLajZrdGdYVm5Qbldka1VUd2tXUW41NjNTUHB4Z0RIR05rZ1RGTmVkSDhLeFZVSmo?oc=5",
-      "fuente": "El Periódico",
-      "fecha": "2026-11-01T13:42:34.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDhGUngydnhqMi10X21nbENuazcwYm9ROU9rc3IxTFBLUEdUWWd3VVhQVm9MOUlEalFNTVFEMF9mRkszcGk5NDhoSlowV0FucGk2X3AyeEdoaHdBbTJrSjlxSWxoOVlNSzl3MHk5TXBiVnlGbXBmVnQwWEs4V3g2eWlWSW81LXRqZW9aaTZqejFUVExsSnR2M09mNFBwalA2b2FQQUtVN0ZzMn",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Antonio, José Manuel, Ana... Las historias detrás de la tragedia ferroviaria en Urda",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDRpWDNaeGpUcmJua0ZrRDZXTEJpWUpFMG84bE8wcEhQS05VNDZPemc2RE1yRW51ZnNuRHJHZFhvZmxnN0JWMlh1elFtYlZTbGh3YXprQm94NUJpNGdkSUNreXA3TElkZzZUNkh4Q0pLOW85ZkRwTkN5Z09ZNW15Y0w4MVpCTDFyQk1wSTh2VzRLZFlBLVpkLTJyMmtJN3lDY1HSAacBQVVfeXFMTlQxak1Ec3hiTDhjUTlmMkRyWC16YkMyXzJiSXlocDE3QTE5ZEZrYkRhQ2tldk55cHFvNDBOQi1fSEV4ck9PLTRpeU8za1dKZWpSQXRIYlhHdldIeURCOC1YZ3loREVrWmxiWkZMVFk4dFNQdlRhSkprOFpCLVZ6eHVlMk9EenB3emxMdWwwamd1SVJZS29hdS01ampCVmpzVy1LUDlRc0E?oc=5",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T13:34:37.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDRpWDNaeGpUcmJua0ZrRDZXTEJpWUpFMG84bE8wcEhQS05VNDZPemc2RE1yRW51ZnNuRHJHZFhvZmxnN0JWMlh1elFtYlZTbGh3YXprQm94NUJpNGdkSUNreXA3TElkZzZUNkh4Q0pLOW85ZkRwTkN5Z09ZNW15Y0w4MVpCTDFyQk1wSTh2VzRLZFlBLVpkLTJyMmtJN3lDY1HSAacBQVVfeX",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La tragedia convulsiona el 29N: el PSOE se hunde en el desánimo y el PP gira hacia la gestión",
-      "url": "https://www.abc.es/espana/accidente-urda-convulsiona-29n-psoe-hunde-desanimo-20261101013929-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T13:30:38.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/01/1519527351-RVpgEaMJVK877DJ9Pt8zhhJ-1200x840@diario_abc.jpg",
-      "resumen": "La tragedia ferroviaria de Urda , además de conmocionar por completo a la sociedad española por segunda vez en menos de diez meses, ha dinamitado la convocatoria electoral tal y como estaba prevista. Hay un antes y un después. La campaña ya no podrá ser la misma. El PSOE está arr"
-    },
-    {
-      "titulo": "Qué dice el segundo informe sobre el accidente ferroviario de Urda",
-      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/dice-segundo-informe-accidente-ferroviario-urda_1_13630575.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-01T13:27:46.000Z",
-      "imagen": "https://static.eldiario.es/clip/8f8ccac5-dc5a-4ffb-a373-eac722ef1355_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "El documento repasa la secuencia del accidente, detalla la cadena de fallos tras la avería del sistema LZB y explica la investigación de las comunicaciones, pero con todas las hipótesis abiertas Sigue en directo toda la información sobre el accidente de Urda Este domingo, el Mini"
-    },
-    {
-      "titulo": "La jueza exige más operarios para mantener «de manera ininterrumpida» la búsqueda en Urda",
-      "url": "https://www.abc.es/espana/castilla-la-mancha/jueza-exige-reforzar-turnos-gruas-mantener-manera-20261101142525-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T13:25:25.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/01/gruas-RHiortJ8y7ns1an2KIGqujK-1200x840@diario_abc.jpg",
-      "resumen": "La titular de la plaza número 2 de la Sección Civil y de Instrucción del Tribunal de Instancia de Orgaz (Toledo) ha dictado providencia en la tarde de ayer por la que se requiere de «forma urgente» a la empresa de grúas contratada por Adif Renfe para que disponga de los operarios"
-    },
-    {
-      "titulo": "La cantante Clara Montes evoluciona favorablemente tras el accidente de tren en Urda (Toledo): \"Las noticias son buenas\"",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORjlBNEs2UmFYbE5kZFpGZ1ZQVVpYd0Fic2g3OFpSeTc2Z3FkbFRrR3BYNVFKZUVNZ0tJQUtHdnVSbDR1MmdOOVVVb2ZuOGxFRFotUlBEd3JPR1c3S1pFUTc4c2tDaDBRbFRLRVBJQjhfMENwNDIzbmtyd3lQdXZpSHJmdFlCQlliNUt2Z3JWNVFNTVRzOERsYTZvcEN4cFFFQmZ6dHBUcGI4THM1d0MzYU9SQ29ZLVRhMkRPMmhrSmF3ZkstakhiSXNPYnJXLTJSLVZuNGNDTWhxUjhGaTNJal9MZ1pJbmZ4blNjYW84YktWbmNaYUlxUjFXWGVRNDBBVTNXemxXWm7SAZwCQVVfeXFMT2w2cExIa1hXNkdGaGxvVGVSazMzVmRHQ3Z0R3NmWVktYlNhUU1KbUQ1TGFmZG1iNk9paEVkLWtDaVE0LVkyRFA0bi1EQ2tXVXNQbGt5S1BScThibXBjdzZaY3gzSjUyMVVMOHU3djk0MWx0T0VWVFU3MkRpaEpfOG9hdjNiUnM1ZEZzRmYyUkVyUFZTTm9pZ2VUQzhHUzlkejRkRWg3VndjNjZSanhZNUVoU21KQlBoV0lybWpSeGhRbE1xUG4wNjdFbVBxWnVCRGNrbHFHMTRZRWVxVmFqZEVIaWRkVFJrWF9WVzNZRzVoTFFjRDM4NW0zTndIbEs0Q0xfbFJMYlJMbS1YeVlqSVpMWEwzM1FlN3hIOS0?oc=5",
-      "fuente": "Cadena SER",
-      "fecha": "2026-11-01T13:10:40.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxORjlBNEs2UmFYbE5kZFpGZ1ZQVVpYd0Fic2g3OFpSeTc2Z3FkbFRrR3BYNVFKZUVNZ0tJQUtHdnVSbDR1MmdOOVVVb2ZuOGxFRFotUlBEd3JPR1c3S1pFUTc4c2tDaDBRbFRLRVBJQjhfMENwNDIzbmtyd3lQdXZpSHJmdFlCQlliNUt2Z3JWNVFNTVRzOERsYTZvcEN4cFFFQmZ6dHBUcGI4TH",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Gobierno prepara el cese del presidente de Adif para proteger a Puente y a Sánchez",
-      "url": "https://www.abc.es/espana/gobierno-preve-dejar-caer-presidente-adif-cortafuegos-20261030014015-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T13:08:50.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/30/1509078776-RY84Paq3FXDhKlhH3a03mvO-1200x840@diario_abc.jpg",
-      "resumen": "El Gobierno busca cabezas que entregar para asumir las responsabilidades políticas que prometió, durante su visita al Centro de Mando Avanzado de Urda (Toledo) el pasado miércoles, el presidente Pedro Sánchez. Descartada, por ahora, la dimisión del ministro de Transportes y Movil"
-    },
-    {
-      "titulo": "Así identifica la Guardia Civil a las víctimas del accidente ferroviario de Urda (Toledo) mediante huella dactilar y ADN",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObFp0Mmt1WDYtVENoMzg2WHRMNnhua0NIRkdycnp3ZWNUMktpdF9GUXZCYmp0SWRxX0lOX1NqenFYNnlycEZQb21VaUR6alR2THFQekxqdmRrTmFpM3J4cjh1R3NtLTlIcHBDZ2RMRktuanNXamFpcWJlMGx5VDlyaGdn0gGCAUFVX3lxTE5ZTkE0Rjk1OURGZkZyYzdyamdOUXlqTjFrNDVlalNuMGR5a3QyNV9rSjRQVkdIUV8zQmdWYzR5S05ldjlhTTZfOXItUXN4Nk9lUUlWUjJlcjhUY0xRZXdRaE9DSDRsYnNkX3U4dmNjLWdWUGRNZlhNaEdzRHBPeDBFMnc?oc=5",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-01T13:05:31.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxObFp0Mmt1WDYtVENoMzg2WHRMNnhua0NIRkdycnp3ZWNUMktpdF9GUXZCYmp0SWRxX0lOX1NqenFYNnlycEZQb21VaUR6alR2THFQekxqdmRrTmFpM3J4cjh1R3NtLTlIcHBDZ2RMRktuanNXamFpcWJlMGx5VDlyaGdn0gGCAUFVX3lxTE5ZTkE0Rjk1OURGZkZyYzdyamdOUXlqTjFrNDVlal",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Renfe se suma a la desconfianza sobre las normas de seguridad de Adif y aplica desde hoy un nuevo protocolo a sus maquinistas que eleva los controles",
-      "url": "https://www.elmundo.es/economia/2026/11/01/6ae73056e9cf4a74618b4595.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-01T12:55:32.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935375539281.jpg",
-      "resumen": "La operadora pública establece sus propias instrucciones de seguridad ante los fallos del LZB después de desvincularse de la responsabilidad por los accidentes de Adamuz y Urda y dejar claro que la infraestructura es cosa de Adif Leer"
-    },
-    {
-      "titulo": "El Gobierno aprobará el martes ayudas para los afectados por el accidente ferroviario de Urda",
-      "url": "https://www.encastillalamancha.es/castilla-la-mancha-cat/toledo/el-gobierno-aprobara-el-martes-ayudas-para-los-afectados-por-el-accidente-ferroviario-de-urda/",
-      "fuente": "encastillalamancha",
-      "fecha": "2026-11-01T12:38:10.000Z",
-      "imagen": "https://www.encastillalamancha.es/wp-content/uploads/2026/10/urda-tren-accidente-26-1-1200x628.jpg",
-      "resumen": "... The post El Gobierno aprobará el martes ayudas para los afectados por el accidente ferroviario de Urda appeared first on ENCLM ."
-    },
-    {
-      "titulo": "El PP se personará en la causa por el accidente de Urda y exige al Gobierno que asuma responsabilidades",
-      "url": "https://www.europapress.es/nacional/noticia-pp-personara-causa-accidente-urda-exige-gobierno-asuma-responsabilidades-20261101131641.html",
-      "fuente": "Europa Press",
-      "fecha": "2026-11-01T12:16:41.000Z",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261101131641_120.jpg",
-      "resumen": "El Partido Popular se personará en la causa judicial por el accidente ferroviario de Urda (Toledo) para que se investiguen los hechos hasta el final y se depuren las responsabilidades que correspondan, según ha anunciado este domingo la vicesecretaria de Regeneración Instituciona"
-    },
-    {
-      "titulo": "Juan del Val: «Feijóo sacará mayoría absoluta, pero la proporción es importante, según las sondeos»",
-      "url": "https://www.abc.es/play/television/noticias/juan-val-segun-encuestas-elecciones-feijoo-sacara-20261101093000-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-01T11:56:25.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/10/23/del-val-khKE-U302385334187qIB-1200x840@diario_abc.jpg",
-      "resumen": "Queda menos de un mes para las elecciones generales y el panorama político se intensifica, sobre todo después de la tragedia ferroviaria de Urda, que ha dejado decenas de muertos.El próximo domingo 29 de noviembre , los españoles acudirán a las urnas para decidir el futuro del pa"
-    },
-    {
-      "titulo": "La Policía confirma la muerte de su compañero Iván Romano Ramos en el accidente de Urda",
-      "url": "https://www.elconfidencial.com/espana/2026-11-01/policia-muerte-companero-ivan-romano-ramos-accidente-urda_4457149/",
-      "fuente": "El Confidencial",
-      "fecha": "2026-11-01T11:53:00.000Z",
-      "imagen": "https://images.ecestaticos.com/jkJWC_smoT2cV13M1RmXtmI1fLg=/0x0:2272x1278/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F713%2F68b%2F257%2F71368b25780dab50d439fda256c41ba1.jpg",
-      "resumen": "El agente viajaba en el vagón 8 del tren AVE y regresaba a Sevilla para reunirse con su esposa y su hijo"
-    },
-    {
-      "titulo": "41 personas permanecen hospitalizadas por el accidente de tren en Urda, 16 de ellas en la UCI",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelVjN3NDWTRmRVpGSF9SMmY0ekhTNkRxNjdEU0hNanZNT3M1cHdtNzI1b3g5akM3aXRkZW5PbDNRQ2hOU0pJNEhESGt0dVpEbHVJbDFaeGJDdU1LWExmY3REaUxWajhmbDlqQWZ5X0NUT0lFa0Y4VVRDcEhKSHNfcVhDcW9KNTNlWGFJOEdxQWl1ZkRjYjVhT2Q3X1JyUQ?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-01T11:25:19.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQelVjN3NDWTRmRVpGSF9SMmY0ekhTNkRxNjdEU0hNanZNT3M1cHdtNzI1b3g5akM3aXRkZW5PbDNRQ2hOU0pJNEhESGt0dVpEbHVJbDFaeGJDdU1LWExmY3REaUxWajhmbDlqQWZ5X0NUT0lFa0Y4VVRDcEhKSHNfcVhDcW9KNTNlWGFJOEdxQWl1ZkRjYjVhT2Q3X1JyUQ?oc=5\" target=\"_",
-      "idioma": "es"
-    },
-    {
-      "titulo": "A la Alta Velocidad le caben aún más trenes: el sistema permite cuadruplicarlos en los 63 km hacia Urda",
-      "url": "https://www.20minutos.es/nacional/alta-velocidad-confianza-quebrada-le-caben-aun-mas-trenes-sistema-permite-cuadruplicar-los-3-fila-63km-hacia-urda_7055928_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-01T11:23:02.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/31/6ae61d538abcd3-77368982.jpeg",
-      "resumen": "Adif incentiva la Alta Velocidad con bonificaciones a las operadoras por aumentar el tráfico de pasajeros o penalizando el incumplimiento de sus compromisos para poner trenes. Por la línea Madrid-Barcelona circulan 90 trenes cada día, mientras que por la París-Lyon van 200, pero "
-    },
-    {
-      "titulo": "Madrid ha atendido en sus hospitales a 76 heridos del accidente de tren de Urda",
-      "url": "https://www.lavanguardia.com/local/madrid/20261101/11673320/madrid-atendido-hospitales-76-heridos-accidente-ferroviario-urda.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-01T11:09:14.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/01/6ae71a2b63691.jpeg",
-      "resumen": "&nbsp;Todavía siguen hospitalizados diez, de los cuales tres están en la UCI"
-    },
-    {
-      "titulo": "Madrid ha atendido en sus hospitales a al menos 76 heridos del accidente de tren de Urda",
-      "url": "https://www.lavanguardia.com/local/madrid/20261101/11673320/madrid-atendido-hospitales-76-heridos-accidente-ferroviario-urda.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-01T11:09:14.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/01/6ae71a2b63691.jpeg",
-      "resumen": "&nbsp;Todavía siguen hospitalizados diez, de los cuales tres están en la UCI"
-    },
-    {
-      "titulo": "Renfe dará consignas a los maquinistas para reanudar la marcha a 40 km/hora si cae el sistema de seguridad LZB",
-      "url": "https://www.eldiario.es/castilla-la-mancha/social/renfe-dara-consignas-maquinistas-reanudar-marcha-40-km-h-si-cae-sistema-lzb_1_13630359.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-01T11:05:50.000Z",
-      "imagen": "https://static.eldiario.es/clip/695cfba1-00d7-4b6b-a3bd-5040646b9ac8_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "La operadora ferroviaria trabaja en un documento de instrucciones en el que incluirá nuevas medidas destinadas a reforzar la protección tras el accidente de Urda Sigue en directo las últimas noticias sobre el accidente de Urda Renfe trabaja en un documento de instrucciones para s"
     }
   ],
   "videos": [
