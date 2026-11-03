@@ -1,6 +1,62 @@
 {
-  "actualizado": "2026-11-03T18:20:52.177Z",
+  "actualizado": "2026-11-03T23:35:56.023Z",
   "noticias": [
+    {
+      "titulo": "Los momentos clave de Óscar Puente como ministro de Transportes",
+      "url": "https://elpais.com/videos/2026-11-03/los-momentos-clave-de-oscar-puente-como-ministro-de-transportes.html",
+      "fuente": "El País",
+      "fecha": "2026-11-03T22:54:04.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/KS2QXOWC7NA5XD3SSTZDZULHII.jpg?auth=b9d1f7b6e0d29e02a44a0e78907c94a88d36cd4957d9c8a8e77c295ac783ba74",
+      "resumen": "El responsable anuncia su dimisión tras intervenir en la Diputación Permanente por el accidente ferroviario en Urda (Toledo)"
+    },
+    {
+      "titulo": "Óscar Puente, el político que aspiraba a suceder a Pedro Sánchez en el PSOE y dimite tras dos accidentes de trenes con 115 muertos",
+      "url": "https://www.elmundo.es/espana/2026/11/03/6aea425ae85ecedd2a8b4588.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-03T21:59:34.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937377011868.jpg",
+      "resumen": "Hasta el siniestro de Urda, había hecho tándem con el presidente en la precampaña ante la ausencia de Zapatero Leer"
+    },
+    {
+      "titulo": "Dimisión de Óscar Puente como ministro de Transportes tras el accidente de tren de Toledo: reacciones y última hora en directo",
+      "url": "https://www.lavanguardia.com/vida/20261103/11674702/dimision-oscar-puente-ministro-de-transporte-ultima-hora-en-directo.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-03T21:52:32.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/11/03/6aea4010b6813.r_d.3149-2027-0.jpeg",
+      "resumen": ""
+    },
+    {
+      "titulo": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Óscar Puente dimite: “Un ministro no puede continuar en su puesto con un accidente de este tipo”",
+      "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
+      "fuente": "El País",
+      "fecha": "2026-11-03T21:38:19.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/WFL3CPHYQZFHBCJ4GSN5HGDIRQ.jpg?auth=c05e832bcac9f4d921c275d10515122cec6d5f4db0022ba1623e86f5ef03712c",
+      "resumen": "Sánchez elogia a Puente: “Ha dado la cara y, después, un paso al lado” | El ministro ha comunicado su decisión al presidente minutos antes de hacerla pública | Tampoco irá en las listas del PSOE al 29-N | El PP achaca la dimisión al cálculo político"
+    },
+    {
+      "titulo": "Óscar Puente, el escudo político de Sánchez que cayó en desgracia por su gestión ferroviaria a las puertas de unas generales",
+      "url": "https://www.20minutos.es/nacional/oscar-puente-escudo-politico-sanchez-que-cayo-desgracia-por-su-gestion-ferroviaria-las-puertas-unas-generales_7055002_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-03T20:42:08.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/30/6ae4bdee0de135-60842032.jpeg",
+      "resumen": "La dimisión de Puente llega tras la petición de responsabilidades tras el accidente de Urda (Toledo). Se produce, además, a tan solo unas semanas de las elecciones generales del 29-N, en las que el ministro iba encabezando la lista por Valladolid, donde fue alcalde."
+    },
+    {
+      "titulo": "Tres vagones chocan contra una locomotora de mercancías en Martorell",
+      "url": "https://www.lavanguardia.com/vida/20261103/11675324/tres-vagones-chocan-locomotora-mercancias-martorell.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-03T19:31:59.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/03/6aea365a2ca86.jpeg",
+      "resumen": "El maquinista que se los ha encontrado de cara ha sido hospitalizado tras la colisión<span class=\"xai-icon\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-events: auto;\" tabindex=\"-1\"></span>"
+    },
+    {
+      "titulo": "Herido leve un maquinista tras chocar tres vagones contra su tren en Martorell",
+      "url": "https://elpais.com/espana/catalunya/2026-11-03/hospitalizado-un-maquinista-tras-chocar-tres-vagones-contra-su-tren-en-martorell.html",
+      "fuente": "El País",
+      "fecha": "2026-11-03T19:28:54.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/JNGWY4NDDPITTOMSGEJMK4G2KI.jpg?auth=cb57f9d61e8fbef306878238c60ca04e7537d551f935fba7b04058957a98a6e9",
+      "resumen": "Los vagones, cargados de cereal, han descarrilado tras la colisión"
+    },
     {
       "titulo": "Óscar Puente comparece en el Congreso por el accidente de trenes de Urda, en directo: el ministro reconstruye los hechos del siniestro y asegura que “la línea Madrid-Andalucía no está abandonada”",
       "url": "https://www.infobae.com/espana/2026/11/03/oscar-puente-comparece-en-el-congreso-por-el-accidente-de-trenes-de-urda-en-directo-ultima-hora-del-consejo-de-ministros-y-las-primeras-medidas-tras-la-tragedia/",
@@ -49,6 +105,14 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUdBUzAtYlhNVTJNNlBOaVB0Q0hfTVRDelJwbVdjN21wMS1GdkxBMFg3VmRISllodFFtZVVEdjdDLWRYYzNlSEtaR21zQXp0LVhrSUxiNFpkRGwwRF92LXZpWURWbG5lZmduMjdYc2hfNVlYdmY1aFREZ2d2YTBUTUkzSDVNZ3dOdFJ1WlNTaGpyb0Y3RzhidHpCbVBZaW9YV1RfVVhPeXJ6aU",
       "idioma": "es"
+    },
+    {
+      "titulo": "Puente acude a la solución frustrada en el Madrid-Málaga: trenes por vía convencional de Madrid a Ciudad Real y a Sevilla en AVE",
+      "url": "https://www.20minutos.es/nacional/puente-acude-solucion-frustrada-madrid-malaga-trenes-por-via-convencional-sevilla-ciudad-real-madrid-ave_7056746_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-03T17:06:18.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/03/6aea121fb0b888-12204226.webp",
+      "resumen": "Adif termina la retirada de los trenes de la vía en Urda y solicita al juzgado entrar a reparar las vías. El ministro indica en el Congreso que estarían listas 10 días naturales después de tener luz verde."
     },
     {
       "titulo": "Los trenes circularán por vía convencional de Sevilla a Ciudad Real y hasta Madrid, en alta velocidad",
@@ -129,6 +193,15 @@
       "fecha": "2026-11-03T11:52:52.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzhnLWYzNnVQMlRTNW5nX0ZGbWpIQ3poTFZXaDNjX1lIRmN5Z0xVaFVscm9KOHdTVEVSTE85TzhWWXlBSTBRenlqVlcteHZtWFdIWXRkcnQ1M0ZST21kTHh6alNMb1dLREZnWU5hb0ZMVGRuSER5bkZ0OUF6SnpNcTlIa3FLSVpq0gGIAUFVX3lxTE5jVVE2bkVPaERoSHdFY3R1TmluYWh5MF",
+      "idioma": "es"
+    },
+    {
+      "titulo": "El padre de un joven fallecido en el accidente de tren en Toledo, a Óscar Puente: \"Que asuma de una santa vez la responsabilidad\"",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DenZVZmRSd2Myc1Ewclc4X1JWR3NGQTZKRlNQTERIMHJ5bHNoRG93QVI1TmdNUUhRSm1PQ251TkdaeUJWTkZhSFhjMFhBME9sbVdWc20xSDB2VWJ5NDJ6SEZZQjZOaHo1clRiMU95NDFpOFMtRnZrRXBR0gF6QVVfeXFMTXE1X25lOVFrXzMxRXBhV3NWRGlneWJ5NzJhalpINVFrMkxPck5lMjVwR1NLd2NZZkM0emxUZmJkMXVoQjctdllDR3Y2NDNweVhGMi1vOUduUENTR21EcGdhN1ZLSllfbVFlWVZjckdJdHN4bloyNTNoYXc?oc=5",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-03T11:11:49.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5DenZVZmRSd2Myc1Ewclc4X1JWR3NGQTZKRlNQTERIMHJ5bHNoRG93QVI1TmdNUUhRSm1PQ251TkdaeUJWTkZhSFhjMFhBME9sbVdWc20xSDB2VWJ5NDJ6SEZZQjZOaHo1clRiMU95NDFpOFMtRnZrRXBR0gF6QVVfeXFMTXE1X25lOVFrXzMxRXBhV3NWRGlneWJ5NzJhalpINVFrMkxPck5lMj",
       "idioma": "es"
     },
     {
@@ -242,6 +315,14 @@
       "fecha": "2026-11-03T08:30:19.000Z",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/03/6ae99b5a96310.jpeg",
       "resumen": "El líder del PP avisa que si siguen adelante con el parón, las organizaciones convocantes “ligarán su imagen a Pedro Sánchez para siempre”"
+    },
+    {
+      "titulo": "El PP, sobre la dimisión del ministro de Transportes: \"Llega 116 muertos tarde\"",
+      "url": "https://www.20minutos.es/nacional/directo-accidente-tren-urda-oscar-puente-congreso-ultima-hora_7056385_6.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-03T07:15:23.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/03/6aea0a4927fa27-11588583.png",
+      "resumen": "El ministro de Transportes anuncia su dimisión tras comparecer en el Congreso para dar explicaciones por el accidente de tren en Urda que ha dejado al menos 69 muertos."
     },
     {
       "titulo": "El PP tacha a Puente de \"frívolo\": \"Qué bien se le da explicar por qué muere la gente en los trenes\"",
@@ -570,93 +651,6 @@
       "fecha": "2026-11-02T17:07:40.000Z",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261102180740_120.jpg",
       "resumen": "La Secretaría de Relaciones Exteriores de México ha informado este lunes del fallecimiento de una persona de nacionalidad mexicana que permanecía desaparecida tras el accidente ferroviario de Urda (Toledo), que se ha saldado provisionalmente con 69 muertos."
-    },
-    {
-      "titulo": "Esta mujer es la última en llegar al escenario de una catástrofe: \"En ocho semanas la solidaridad con las víctimas del tren habrá desaparecido\"",
-      "url": "https://www.elmundo.es/papel/historias/2026/11/02/6ae4e4c9e4d4d8182e8b457c.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-02T17:07:19.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933878382194.jpg",
-      "resumen": "La reconocida experta en emergencias ha gestionado 'el día después' de terremotos, atentados y accidentes brutales de la magnitud del ferroviario ocurrido en Toledo en todo el mundo Leer"
-    },
-    {
-      "titulo": "Concluye la retirada de los vagones del accidente de trenes en Urda y preparan una última búsqueda de restos biológicos",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbE1WdnpFWXg0VHpxNFpoeVJCcWRDdEEtSXliNXp2YnJVZDJ5ZmhYV050YU1Nc1BKZElxeHloZ0FSNEw0dHZPNmFzSXN5MmVBTlBPenZvNmk0ZFRPSUNfc2k5VUoxbVBOYVdhMXlFNzVLMDAtV2pFSmxPQkkyS3NNT2hRZVVTaU9WMzFYdGdWeEFUTjE5MmRIN25DaUp3TlJWTnpxX3hmY1Jjak5jdDNBT2dmSmFPR2s1MTQzVkY3VnJEX3ZBNVNrS2owZ0Z6UVV4U0l4M2wwV1lLc1RaMm54RzVIY1NwcWRJZ1J1bS1kamRJZ9IB8gFBVV95cUxNMEtXUmY2WUhCd2w5Y2M4TFN4bVl0aHJkVktla3pmV2FER2htNHhoellRZ2ZRcmpMbnIwZXIzSTk4TUxMdnJDQnJsUmItNThWcTVLcC16cmpkX2gybXJCWHJRaDFMbWU1Y19WMThzRF9NLVNvSS03MkFGY0dBNk9zX1VoTUQ5TUdxWThvaVdmNHhqbkZmMnd5cUgzRHlYQlNaWWZ0ZUc2a1VCVTZHdzlpVDJVZHo0YUt0VWxJNS1oMGpnU1VZT212ZURVcUotRW0yM0RmTjFhTlBvTkRCckJtMFVjX3NqU2tySU16Snc5UkVkdw?oc=5",
-      "fuente": "Antena 3 Noticias",
-      "fecha": "2026-11-02T16:38:38.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbE1WdnpFWXg0VHpxNFpoeVJCcWRDdEEtSXliNXp2YnJVZDJ5ZmhYV050YU1Nc1BKZElxeHloZ0FSNEw0dHZPNmFzSXN5MmVBTlBPenZvNmk0ZFRPSUNfc2k5VUoxbVBOYVdhMXlFNzVLMDAtV2pFSmxPQkkyS3NNT2hRZVVTaU9WMzFYdGdWeEFUTjE5MmRIN25DaUp3TlJWTnpxX3hmY1Jjak",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Así gestionó Renfe la crisis del accidente de tren en Urda (Toledo)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE5SZHduSnZpZldpSGF2QldYRDdlMzdBSnFMZlRKVHlGaXNlcXFIazJSTk9XZXRjY1BkOFpBUHRra2ZiQzV1YWh5YjlYdU5DUFJxQ3FkeW1lWkk0elRKMmxERklUM25XZ1huT0JsUnlwZUZlQlQ4bkxVNzU2a3NYQVpyVW5xbjRFUnVnMEQ5TXhPdw?oc=5",
-      "fuente": "Reason Why",
-      "fecha": "2026-11-02T16:04:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNE5SZHduSnZpZldpSGF2QldYRDdlMzdBSnFMZlRKVHlGaXNlcXFIazJSTk9XZXRjY1BkOFpBUHRra2ZiQzV1YWh5YjlYdU5DUFJxQ3FkeW1lWkk0elRKMmxERklUM25XZ1huT0JsUnlwZUZlQlQ4bkxVNzU2a3NYQVpyVW5xbjRFUnVnMEQ5TXhPdw?oc=5\" target=\"_blank\">Así gesti",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Así gestionó Iryo la crisis del accidente de tren en Urda (Toledo)",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWgtbWNJWUtoWFNYZDN6RWtqRjFmWUZwakluOU05cUFBVTJsYlEwejdCeXd3WWc1YXNFWG9LVzNpRFZOYzMxQ0l6WnlFTmQ4b3FZNl9rMWNiazk0Qkc3SURuRGpnMnBBOGpRREI4T0wwanlabWNSWXBzWGtEUURqR29MMTRwbnRPZENwaXV5Uzd2QQ?oc=5",
-      "fuente": "Reason Why",
-      "fecha": "2026-11-02T16:03:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQRWgtbWNJWUtoWFNYZDN6RWtqRjFmWUZwakluOU05cUFBVTJsYlEwejdCeXd3WWc1YXNFWG9LVzNpRFZOYzMxQ0l6WnlFTmQ4b3FZNl9rMWNiazk0Qkc3SURuRGpnMnBBOGpRREI4T0wwanlabWNSWXBzWGtEUURqR29MMTRwbnRPZENwaXV5Uzd2QQ?oc=5\" target=\"_blank\">Así gesti",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los expertos responden a las preguntas sobre el trágico suceso en Urda: \"¿Por qué no freno el AVE el segundo sistema de seguridad?\"",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMGIxdF81Z1FWVHVEMUF5c0FLQ2JPTXRzSExhT1JfUlFBMWlzSGpHZFhzdEdrWWFvNWNYekdvbFQ2bHBOMF9oT0paLTB6bTh2aXoxM0RKYTlRd1JMVWp2Z1A4cUstdlFNUUNjXzhHYmZyTVBtblcxX3JFV0ZIUzduY3ZoTUlKRUl6SkZrN1hmOHNYQUNMcGsyZ2F4SXYtTWhVdEdnMGlHck40YVdZRXplRDlqRXc2MVNjSDFfbVBFdExBaVY1R1BhZ3dzZWxveWtfbnEtVzQ4V0xMLURFZWZDT2EyVzd0ZkxBX1FINXBYd0UyU0xKcXJEbUcyZjNlRHpZRUZGWXFiZzQwRXI0cTJFcjV30gGSAkFVX3lxTE9OMWc5UkJ6X3Z2b0NYNjBqeGJNMUFiMWNueUFxaFJhU0xLcUVwbENLNWZyakpaN0JpM1lrOWJuZHl2RUUxam1jSzdNTl91Zk5EUEhTbGdpdjJONGZaakF2dHVVY3pBeVpROHFHZjFwZDVFcWljWmVLc3V4blg5VUM0SWZ0NVFtZkxLQVFERW9jRUhZVjVMa0VCTmExMHpBZmM1WUJOYkllTGgyZldLT3lRam5hNFNVZFp0NDZkSzd6VlA4bnd5SWx1cEF2ZmZIN3MwLUlLWF85RjZETFVhQWNIMHFhV2pBVTlUV2FESThOVVFrLWpsN2RlNTN6Vmc2MVJnNExWeDVmZTl1Y2tRLTNncEE?oc=5",
-      "fuente": "Antena 3",
-      "fecha": "2026-11-02T13:53:30.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxPMGIxdF81Z1FWVHVEMUF5c0FLQ2JPTXRzSExhT1JfUlFBMWlzSGpHZFhzdEdrWWFvNWNYekdvbFQ2bHBOMF9oT0paLTB6bTh2aXoxM0RKYTlRd1JMVWp2Z1A4cUstdlFNUUNjXzhHYmZyTVBtblcxX3JFV0ZIUzduY3ZoTUlKRUl6SkZrN1hmOHNYQUNMcGsyZ2F4SXYtTWhVdEdnMGlHck40YV",
-      "idioma": "es"
-    },
-    {
-      "titulo": "5 incógnitas sin resolver tras el accidente ferroviario de Urda: todo lo que falló el 28 el octubre para que el AVE chocara contra el Iryo",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODczVlpjVHVyQkVZNFc1TGdBUUtxbGtzRFE4NTlCbUhvVko1TGNibktjMEF4VzZLcktXbUt6Mmh2Q2wyZDJlOWtDZlJuak5GNWdJR0pLeVRMRFozMzVVcVhzYWJDOVBScklDVlBPOC1GemQzYTZfYjI2b09hOXVwY1BjcXlUdlc2b3kzNTRCelM1aEVHb25kenA5RzV6RkNiLXhpczYtNDVhWHlqQW5JWHR6Rno1YUhKbGRRRm9nQmdHVDQ3OXBEVVk4UF9IcE0zWlk1M1NIU3RjelFOeFNJNXRPYzJHQUNh?oc=5",
-      "fuente": "Lecturas",
-      "fecha": "2026-11-02T13:50:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPODczVlpjVHVyQkVZNFc1TGdBUUtxbGtzRFE4NTlCbUhvVko1TGNibktjMEF4VzZLcktXbUt6Mmh2Q2wyZDJlOWtDZlJuak5GNWdJR0pLeVRMRFozMzVVcVhzYWJDOVBScklDVlBPOC1GemQzYTZfYjI2b09hOXVwY1BjcXlUdlc2b3kzNTRCelM1aEVHb25kenA5RzV6RkNiLXhpczYtNDVhWH",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Retirados dos de los cuatro vagones del Iryo que permanecían en la vía en Urda (Toledo)",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzBFLUdudzk0UV9vd2NEcXg5SEwydXVhQUtOejdrNy03VjBoZUp6cHIxMEZxNzFJcFBhZjB4VW1LamtnMHA2dFdhT0ZqeDg0LWhmcGRfZ3d2S1ZVTU1SNlAxc1pwc0lON1NKbFB4aVhKa29JMERIM3o4bnMycUJxaFcxWGJHWDRhSHhNaWxidVBCMEJZaEFGbEV0M2FRTFdQRHU5Y1J5UmpnaTJvUXhaRWdnSE54QklCYUdsUFB1dmpVM0Q1NTJSdW9MY9IBywFBVV95cUxOVnk5TFNGOTY4a19TNGVHTFE1SW5raFhWRzNHS2xSSjlpbFM5OWJMbmZhMWdwZi1wUjV0OExVckNaMDhvY05ORXFWczh1N2U0QTFmZmdFeFFGZnN2WmQ2TGVQMkpEQnJmaUpvekcxX1IxRS1SbGRxUmpYZlJkUENpU3lrekVjcmZHVW94LU9Sck5EUTVqTTNtTUhuZlV1ZnAtdFdnUUYwcW5fTTNyUXRhUExha3l5YnpUTVh6b1I3SUJ6WmQyeXM0TVFzZw?oc=5",
-      "fuente": "Ultima Hora",
-      "fecha": "2026-11-02T13:49:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOYzBFLUdudzk0UV9vd2NEcXg5SEwydXVhQUtOejdrNy03VjBoZUp6cHIxMEZxNzFJcFBhZjB4VW1LamtnMHA2dFdhT0ZqeDg0LWhmcGRfZ3d2S1ZVTU1SNlAxc1pwc0lON1NKbFB4aVhKa29JMERIM3o4bnMycUJxaFcxWGJHWDRhSHhNaWxidVBCMEJZaEFGbEV0M2FRTFdQRHU5Y1J5UmpnaT",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Iryo defiende la fiabilidad de sus trenes, incluido el siniestrado, en la línea Madrid-Sevilla",
-      "url": "https://elpais.com/espana/2026-11-02/iryo-defiende-la-fiabilidad-de-sus-trenes-incluido-el-siniestrado-en-la-linea-madrid-sevilla.html",
-      "fuente": "El País",
-      "fecha": "2026-11-02T13:28:55.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SDSHU25UP5DLDDNR4YRQSCPA6Q.jpg?auth=b8edf54010b48f673a24e419eb6c9dc15b13213762529fe3de76fdc36a85b0c5",
-      "resumen": "La operadora afirma contar con la misma tecnología que Renfe y Ouigo para conectarse al sistema de seguridad LZB, que se cayó el miércoles en Urda 23 minutos antes del siniestro"
-    },
-    {
-      "titulo": "Retiran uno de los vagones siniestrados en el accidente de tren de Urda (Toledo)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNREV1Qk1kQkJJTU9ZSE4yNXdIYnNZRXZVd1M1cGE5UGh1ZmxON1dOVlNxVzJBbkVQVFpPdDR5NFA2WkI0VDVYN01YdGdKbHhkbUJ3RmlJLWgxb1llMml3OXVGelRxcDQ1RlBfZUNIVFNjcE9LYnBoaHE1OGwxbHlIQXlpRzhOSmU4ZFEzbkRWSGR6amNrekt4Qm82cXV4RnBycTBBcjVLbw?oc=5",
-      "fuente": "ABC",
-      "fecha": "2026-11-02T13:09:40.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNREV1Qk1kQkJJTU9ZSE4yNXdIYnNZRXZVd1M1cGE5UGh1ZmxON1dOVlNxVzJBbkVQVFpPdDR5NFA2WkI0VDVYN01YdGdKbHhkbUJ3RmlJLWgxb1llMml3OXVGelRxcDQ1RlBfZUNIVFNjcE9LYnBoaHE1OGwxbHlIQXlpRzhOSmU4ZFEzbkRWSGR6amNrekt4Qm82cXV4RnBycTBBcjVLbw?oc=",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Colau propone un \"pacto de Estado\" sobre trenes que permita \"reunificar\" Renfe y Adif",
-      "url": "https://www.elconfidencial.com/espana/2026-11-02/pacto-estado-sistema-ferroviario-1tps_4457489/",
-      "fuente": "El Confidencial",
-      "fecha": "2026-11-02T13:02:00.000Z",
-      "imagen": "https://images.ecestaticos.com/pyC0rTNIT64f7gHIXWQWJW1pWEs=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fdef%2F6c2%2Fc46%2Fdef6c2c46693e31ec00464167af3abae.jpg",
-      "resumen": "Tras el accidente de Urda, reclama cooperación política y soluciones para recuperar la confianza ciudadana en el transporte público"
     }
   ],
   "videos": [
