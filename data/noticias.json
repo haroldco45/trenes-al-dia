@@ -1,6 +1,70 @@
 {
-  "actualizado": "2026-11-05T01:25:20.074Z",
+  "actualizado": "2026-11-05T08:23:29.449Z",
   "noticias": [
+    {
+      "titulo": "Accidente de Urda y elecciones generales 29-N, en directo: última hora de la actualidad en España tras la dimisión de Óscar Puente",
+      "url": "https://www.infobae.com/espana/2026/11/05/accidente-de-urda-y-elecciones-generales-29-n-en-directo-ultima-hora-de-la-actualidad-en-espana-tras-la-dimision-de-oscar-puente/",
+      "fuente": "Infobae",
+      "fecha": "2026-11-05T08:11:28.000Z",
+      "imagen": "https://www.infobae.com/resizer/v2/ZLDY6KAZSNGJHFDEJIIDNXPUPM.jpg?auth=400be61e6147d52600a63899bea227e7809d43df6bd93b3f752f1061547cf3d3&smart=true&width=1600&height=1067",
+      "resumen": "Con el exministro ya dimitido y Carlos Cuerpo como nuevo titular de Transportes, Podemos y Frente Amplio reclaman la renacionalización del sistema ferroviario, mientras PP y Vox señalan a Pedro Sánchez como responsable último de la tragedia de Urda. Todas las encuestas, anteriore"
+    },
+    {
+      "titulo": "Las sombras de la peor tragedia ferroviaria de España que el franquismo quiso ocultar",
+      "url": "https://www.abc.es/cultura/sombras-peor-tragedia-ferroviaria-espana-20261104011418-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-05T07:34:27.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/11/04/28502035-RFAO0yuoz6nrHAnxOUsaQRP-1200x840@diario_abc.jpg",
+      "resumen": "«Noticias recibidas de León dan cuenta de haberse producido un importante accidente ferroviario a las 13:20 horas de ayer en la estación de Torre». La primera nota sobre la peor tragedia de la historia del ferrocarril en España se publicó en este periódico el 4 de enero de 1944. "
+    },
+    {
+      "titulo": "La Reina Letizia, con vestido de Delpozo adornado con una flor XXL, en la Cumbre Iberoamericana",
+      "url": "https://www.abc.es/estilo/moda/reina-letizia-preside-inauguracion-cumbre-iberoamericana-vestido-20261105075858-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-05T07:00:38.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/11/05/reyes-cumbre-iberoamericana-RdDCVZalweqjRpUX1IwoekK-1200x840@diario_abc.jpg",
+      "resumen": "Con el trasfondo de la tragedia ferroviaria de Urda, los Reyes Felipe VI y Letizia se han convertido en los anfitriones de la XXX Cumbre Iberoamericana que reúne en Madrid solo a 7 líderes de los 19 invitados. La cita comenzó el miércoles en el Teatro Real para a continuación cel"
+    },
+    {
+      "titulo": "Cuerpo fulmina al presidente de Adif tras el accidente de Urda",
+      "url": "https://www.abc.es/espana/cesa-presidente-adif-tras-accidente-urda-20261104183950-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-05T06:01:40.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/04/1509078776-RZt2zjyKayY9DmmjSK4VRXK-1200x840@diario_abc.jpg",
+      "resumen": "El presidente de Adif, Luis Pedro Marco de la Peña, ha cesado este miércoles en su cargo según confirman fuentes del administrador ferroviario a ABC. El dirigente, ha sido fulminado por el nuevo ministro de Transportes tras una reunión de urgencia con Carlos Cuerpo , y el secreta"
+    },
+    {
+      "titulo": "Llueve sobre mojado",
+      "url": "https://www.eldiario.es/piedrasdepapel/llueve-mojado_132_13637725.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-05T05:01:57.000Z",
+      "imagen": "https://static.eldiario.es/clip/bfb1ed61-1131-40fd-8c6e-f0bcfd33739a_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "Identificar errores humanos no basta para explicar una tragedia ferroviaria. La seguridad exige investigar por qué fallaron las barreras técnicas que debían impedirla Las crisis ponen a prueba a gobiernos de todo signo pol&iacute;tico. A veces refuerzan a quienes se encuentran al"
+    },
+    {
+      "titulo": "Las vidas que se pararon para siempre en Urda",
+      "url": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html",
+      "fuente": "El País",
+      "fecha": "2026-11-05T04:30:01.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/7QMXYBXQ65AYPKUSHYVLEFJXQE.jpg?auth=fa313f8dc94810472a3c47f703ea7d6d2f40cf1bb7bb486c381d42b4f89bd5dc",
+      "resumen": "Tras una semana de identificaciones y certificaciones, estas son las víctimas del trágico accidente de tren que ha conmocionado a España"
+    },
+    {
+      "titulo": "LZB, ERTMS y CDI 113 + 200: una semana descifrando los 17 minutos del accidente de Urda",
+      "url": "https://elpais.com/espana/2026-11-05/lzb-ertms-y-cdi-113-200-una-semana-descifrando-los-17-minutos-del-accidente-de-urda.html",
+      "fuente": "El País",
+      "fecha": "2026-11-05T04:30:01.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/QCK75HMGYBAYNKSNT4XKKRHHGM.jpg?auth=e84b4f2aff17246d596dc9807de917417962bb1154dc066342fd1de69199068e",
+      "resumen": "Ocho días después de la tragedia, las claves de lo ocurrido están en los audios completos del centro de Atocha, los datos de sus pantallas y los interrogatorios a una veintena de personas"
+    },
+    {
+      "titulo": "Voy a echar de menos a Marta, esa persona extraordinaria",
+      "url": "https://elpais.com/ciencia/2026-11-05/voy-a-echar-de-menos-a-marta-esa-persona-extraordinaria.html",
+      "fuente": "El País",
+      "fecha": "2026-11-05T04:30:01.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/DO4RJWP2SZBKNDHNBYL5IIQ4OA.jpeg?auth=25f480f0fc11e49bd88847d65b8ac3550c9aab0a74cb467752d3ce89ad3a44c5",
+      "resumen": "Una de las mejores científicas españolas, Marta Shahbazi, murió en la colisión de trenes en Urda. Su directora de tesis recuerda que “tenía una curiosidad que parecía no agotarse nunca, pero también una cualidad menos frecuente: sabía qué hacer con ella”"
+    },
     {
       "titulo": "El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña",
       "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
@@ -48,14 +112,6 @@
       "fecha": "2026-11-04T20:16:45.000Z",
       "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
       "resumen": ""
-    },
-    {
-      "titulo": "Cuerpo fulmina al presidente de Adif tras el accidente de Urda",
-      "url": "https://www.abc.es/espana/cesa-presidente-adif-tras-accidente-urda-20261104183950-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-04T20:09:56.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/04/1509078776-RZt2zjyKayY9DmmjSK4VRXK-1200x840@diario_abc.jpg",
-      "resumen": "El presidente de Adif, Luis Pedro Marco de la Peña, ha cesado este miércoles en su cargo según confirman fuentes del administrador ferroviario a ABC. El dirigente, ha sido fulminado por el nuevo ministro de Transportes tras una reunión de urgencia con Carlos Cuerpo , y el secreta"
     },
     {
       "titulo": "Spanish rail infrastructure chief steps down after Toledo train crash",
@@ -611,67 +667,15 @@
       "fecha": "2026-11-03T20:42:08.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/30/6ae4bdee0de135-60842032.jpeg",
       "resumen": "La dimisión de Puente llega tras la petición de responsabilidades tras el accidente de Urda (Toledo). Se produce, además, a tan solo unas semanas de las elecciones generales del 29-N, en las que el ministro iba encabezando la lista por Valladolid, donde fue alcalde."
-    },
-    {
-      "titulo": "El ministro de Transportes de España dimite tras el accidente ferroviario de Urda, que dejó 69 muertos",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMGstdHV6Y3BHRDhhX2VIWGlSdm1UWE1yMUtnbXFmWjB4SnVoSWJOdTVlRU0zNFdxSzByNlFDVEpYVHpDY3luXzg5b3p3bG9zcGdvZnI2QmpMMDZuN3p4NEFMY05lM2JONjJ4SVZEanozVTJOSG9UdTZTRFNfSENUNE81UHlQQ1REN3pfMjVMMi1oTU1JWDNoM2xKR0FROWk1a0hhOGJEWGhESHYyS1dPXy12RVJGVjFUOFBJT1BiRUZfMWdqOGxLV0RNLXBXVV9mbzI1aTRubDZJQngtWmwxRUVQYlNxZ0lEU2hwZExIVEZjY2FOV1E?oc=5",
-      "fuente": "France 24",
-      "fecha": "2026-11-03T20:28:11.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMGstdHV6Y3BHRDhhX2VIWGlSdm1UWE1yMUtnbXFmWjB4SnVoSWJOdTVlRU0zNFdxSzByNlFDVEpYVHpDY3luXzg5b3p3bG9zcGdvZnI2QmpMMDZuN3p4NEFMY05lM2JONjJ4SVZEanozVTJOSG9UdTZTRFNfSENUNE81UHlQQ1REN3pfMjVMMi1oTU1JWDNoM2xKR0FROWk1a0hhOGJEWGhESH",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La 'zona cero' del accidente de Urda: \"Hay vecinos que no duermen por no haber podido ayudar\"",
-      "url": "https://www.eldiario.es/castilla-la-mancha/social/zona-cero-accidente-urda-hay-vecinos-no-duermen-no-haber-podido-ayudar_1_13634393.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-03T20:12:18.000Z",
-      "imagen": "https://static.eldiario.es/clip/62059e06-0a29-484d-9863-e93e12b7b9cd_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "En la zona cero donde se produjo el choque entre en tren Iryo y el AVE el pasado 28 de octubre se han colocado varias coronas y ramos de flores junto a una gran encina. Un homenaje a las 69 víctimas y más de 200 heridos en la tragedia, según el balance provisional. Algunos se rec"
-    },
-    {
-      "titulo": "Tres vagones chocan contra una locomotora de mercancías en Martorell",
-      "url": "https://www.lavanguardia.com/vida/20261103/11675324/tres-vagones-chocan-locomotora-mercancias-martorell.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-03T19:31:59.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/03/6aea365a2ca86.jpeg",
-      "resumen": "El maquinista que se los ha encontrado de cara ha sido hospitalizado tras la colisión<span class=\"xai-icon\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-events: auto;\" tabindex=\"-1\"></span>"
-    },
-    {
-      "titulo": "Herido leve un maquinista tras chocar tres vagones contra su tren en Martorell",
-      "url": "https://elpais.com/espana/catalunya/2026-11-03/hospitalizado-un-maquinista-tras-chocar-tres-vagones-contra-su-tren-en-martorell.html",
-      "fuente": "El País",
-      "fecha": "2026-11-03T19:28:54.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/JNGWY4NDDPITTOMSGEJMK4G2KI.jpg?auth=cb57f9d61e8fbef306878238c60ca04e7537d551f935fba7b04058957a98a6e9",
-      "resumen": "Los vagones, cargados de cereal, han descarrilado tras la colisión"
-    },
-    {
-      "titulo": "Este texto sobre el accidente de tren en Urda no lo escribe Iñaki Gabilondo, es un bulo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVBYN25ZaDB1Z2RWX0lKVjZvamNOSHMzc3EwanhKRXFjYnQ1Sk1WRDhKb0RqX1pxaWZOdDVRVXB6X3I2TDNXckp1T1ZVT3E1UktyU1NudWlFM1VLMjFYc1ZhVlJqNGV0Ymt0R1Q0UHl4QnpDSV9NX0hsZVdOWnlKUUM1MEQ0LTdPbEpIRTN2NTFteXRJRnNCUQ?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-03T18:19:25.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVBYN25ZaDB1Z2RWX0lKVjZvamNOSHMzc3EwanhKRXFjYnQ1Sk1WRDhKb0RqX1pxaWZOdDVRVXB6X3I2TDNXckp1T1ZVT3E1UktyU1NudWlFM1VLMjFYc1ZhVlJqNGV0Ymt0R1Q0UHl4QnpDSV9NX0hsZVdOWnlKUUM1MEQ0LTdPbEpIRTN2NTFteXRJRnNCUQ?oc=5\" target=\"_blank\">E",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Óscar Puente comparece en el Congreso por el accidente de trenes de Urda, en directo: el ministro reconstruye los hechos del siniestro y asegura que “la línea Madrid-Andalucía no está abandonada”",
-      "url": "https://www.infobae.com/espana/2026/11/03/oscar-puente-comparece-en-el-congreso-por-el-accidente-de-trenes-de-urda-en-directo-ultima-hora-del-consejo-de-ministros-y-las-primeras-medidas-tras-la-tragedia/",
-      "fuente": "Infobae",
-      "fecha": "2026-11-03T18:13:54.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/BYGBOXEX3FFEHLAV4SPEP2L45U.JPG?auth=e8ee6dcb48d5a30f989408858fbc01b83778c69d095e38e59db130a0d55f1c3b&smart=true&width=5052&height=3369",
-      "resumen": "La actividad política española vuelve a su curso después de los días de duelo por el accidente de tren. El ministro de Transportes comparece con un respaldo mínimo entre los socios de Gobierno, que al igual que la oposición exigen su salida del cargo"
-    },
-    {
-      "titulo": "Aizpurua: «Que un sistema caiga tan recurrentemente resulta desconcertante»",
-      "url": "https://www.abc.es/espana/ultima-hora-accidente-tren-urda-directo-comparecencia-20261103110818-di.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-03T18:00:05.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519732511-U20206386510ITH-U40148031219VDF-1200x840@diario_abc.JPG",
-      "resumen": "El accidente ferroviario en Urda (Toledo) dejó al menos 69 muertos y más de 200 heridos. Todas las víctimas mortales ya han sido identificadas. De los fallecidos, 54 son españoles y los otros 15 son ciudadanos extranjeros de diez nacionalidades diferentes.Óscar Puente comparece e"
     }
   ],
   "videos": [
+    {
+      "id": "uZY0pQ79BUg",
+      "titulo": "Peritos ven \"necesario aclarar\" labores de Adif en vía antes y después del accidente de Adamuz",
+      "canal": "Europa Press",
+      "fecha": "2026-11-04T22:56:46+00:00"
+    },
     {
       "id": "OVJktO3j0AA",
       "titulo": "Guardia Civil escolta traslado de vagones y restos de trenes accidentados en Urda a centro de Adif",
@@ -809,12 +813,6 @@
       "titulo": "🔴 Identificadas 36 de las 69 víctimas mortales del accidente ferroviario de Urda",
       "canal": "Antena 3 Noticias",
       "fecha": "2026-10-31T13:35:50+00:00"
-    },
-    {
-      "id": "pqYsZIbLN-E",
-      "titulo": "🔴 DIRECTO | Funeral por las víctimas de los trenes en la iglesia de Urda (Toledo)",
-      "canal": "El Mundo",
-      "fecha": "2026-10-31T12:52:21+00:00"
     }
   ]
 }
