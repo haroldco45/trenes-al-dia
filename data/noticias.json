@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-04T20:53:55.245Z",
+  "actualizado": "2026-11-05T01:25:20.074Z",
   "noticias": [
+    {
+      "titulo": "El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña",
+      "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-05T00:27:46.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/05/1512539653-RP2YlMJZPmpoNtFak6LGfnK-1200x840@diario_abc.jpg",
+      "resumen": "Hace una semana que el trágico accidente ferroviario de Urda (Toledo) sumió en la conmoción a toda España y dio un vuelco al tablero electoral. El 'shock' inicial fue mudando en preocupación y desasosiego en los centros de poder socialista, que —hasta ese momento— exhibían un ind"
+    },
+    {
+      "titulo": "La zona del accidente de Urda ha registrado 14 incidencias desde Adamuz, casi el 8% del total de la alta velocidad",
+      "url": "https://www.abc.es/economia/zona-alrededor-accidente-urda-concentra-incidencias-alta-20261105012621-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-05T00:26:21.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/05/accidente-urda-RlEEOj2YaoHPSdpSJ4DLkiL-1200x840@diario_abc.jpg",
+      "resumen": "Lo ocurrido en Urda el pasado 28 de octubre todavía está por investigar. Audios, cómo falló la seguridad de LZB, cómo cayeron otros sistemas… una concatenación de eventos que depararon en la tragedia entre el AVE de Renfe y el Iryo . Pero echando la vista atrás, los números evide"
+    },
+    {
+      "titulo": "Los maquinistas reclamaron la \"intervención de la UE\" para \"proteger la vida\" de los usuarios del AVE: \"Existe un deterioro de las condiciones de seguridad\"",
+      "url": "https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-04T21:41:46.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938139662017.jpg",
+      "resumen": "En marzo, tras el accidente de Adamuz, elevaron una queja al Parlamento Europeo en la que pedían a Europa \"amparo\" y que \"tutelase\" al Gobierno Leer"
+    },
     {
       "titulo": "Reacciones a la dimisión de Óscar Puente, en directo: El presidente de Adif, Luis Pedro Marco de la Peña, presenta su dimisión a Carlos Cuerpo tras el accidente ferroviario de Urda",
       "url": "https://www.infobae.com/espana/2026/11/04/reacciones-a-la-dimision-de-oscar-puente-en-directo-ultima-hora-del-accidente-de-urda-y-las-elecciones-generales-en-espana-el-29-n/",
@@ -34,12 +58,30 @@
       "resumen": "El presidente de Adif, Luis Pedro Marco de la Peña, ha cesado este miércoles en su cargo según confirman fuentes del administrador ferroviario a ABC. El dirigente, ha sido fulminado por el nuevo ministro de Transportes tras una reunión de urgencia con Carlos Cuerpo , y el secreta"
     },
     {
+      "titulo": "Spanish rail infrastructure chief steps down after Toledo train crash",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFQ3ZktUd3FzcEhGU3JVdUZsVHgzQUFzOXZRTEN1YXV4b3QwanhCeXg2MlF2a3FPbWxhX01UV0p6bHV5T2NBRExVcmFPV2k1VU9SR3VIN1BpUkRLNUtGOFJEaDNBTjgwR3dSVjlSMmZOVFVwUGlEWGEtZ0puUVdoQ2dFbHpxejFzSkFvNlN4MTdBeWQ0Q2RQU0xpQllnNFJCVVl5c053?oc=5",
+      "fuente": "POLITICO.eu",
+      "fecha": "2026-11-04T19:42:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFQ3ZktUd3FzcEhGU3JVdUZsVHgzQUFzOXZRTEN1YXV4b3QwanhCeXg2MlF2a3FPbWxhX01UV0p6bHV5T2NBRExVcmFPV2k1VU9SR3VIN1BpUkRLNUtGOFJEaDNBTjgwR3dSVjlSMmZOVFVwUGlEWGEtZ0puUVdoQ2dFbHpxejFzSkFvNlN4MTdBeWQ0Q2RQU0xpQllnNFJCVVl5c053?oc=5\"",
+      "idioma": "en"
+    },
+    {
       "titulo": "Entregados a sus familias los cuerpos de 65 de los 69 fallecidos en el accidente ferroviario de Urda",
       "url": "https://www.20minutos.es/nacional/entregados-sus-familias-los-cuerpos-65-los-69-fallecidos-accidente-ferroviario-urda_7057363_0.html",
       "fuente": "20minutos",
       "fecha": "2026-11-04T19:17:55.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/02/6ae9123a141e75-81506369.webp",
       "resumen": "Todas las víctimas mortales, 40 hombres y 29 mujeres, han sido identificadas y sus familias notificadas. Entre los fallecidos hay 54 españoles y 15 extranjeros."
+    },
+    {
+      "titulo": "Dimite el presidente de Adif una semana después del accidente de trenes en Toledo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0x0R1RkUjVaTkhJb05GUkJGcS1tNnJweUszc21qVmY1RG1hb2M3S19NSDFEeWhndlhJMEFHQnUtUkp3cm14bWxYWWdZOUVWTEZQZ3J5ZkxKWExwY1dnUF9XTzlXSkxyX0VoMTJsd2JtYzNnZzcxbjRsSnVTTWIyYUZ0SnJXN3VBMXllRU5JeVkta29ZcGdYLUdoQTVNZGx0SlhWaXplZkJQX3c?oc=5",
+      "fuente": "Diari ARA",
+      "fecha": "2026-11-04T19:14:30.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0x0R1RkUjVaTkhJb05GUkJGcS1tNnJweUszc21qVmY1RG1hb2M3S19NSDFEeWhndlhJMEFHQnUtUkp3cm14bWxYWWdZOUVWTEZQZ3J5ZkxKWExwY1dnUF9XTzlXSkxyX0VoMTJsd2JtYzNnZzcxbjRsSnVTTWIyYUZ0SnJXN3VBMXllRU5JeVkta29ZcGdYLUdoQTVNZGx0SlhWaXplZkJQX3",
+      "idioma": "es"
     },
     {
       "titulo": "Dimite el presidente de Adif un día después de la renuncia de Puente por el accidente de Urda",
@@ -73,6 +115,14 @@
       "fecha": "2026-11-04T17:47:02.000Z",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938118184990.jpg",
       "resumen": "Adif quiere ahora hacer reparaciones de urgencia pese a que esos tramos, como el del choque, fueron renovados a finales de 2025 Leer"
+    },
+    {
+      "titulo": "Andalucía reactiva el grupo de trabajo creado tras el accidente de Adamuz y dará ayudas de hasta 16.800 euros a las víctimas de Urda",
+      "url": "https://www.20minutos.es/andalucia/andalucia-reactiva-grupo-trabajo-creado-tras-accidente-adamuz-dara-ayudas-hasta-16-800-euros-las-victimas-urda_7057235_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-04T16:47:24.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/04/6aeb500cb89186-90609128.jpeg",
+      "resumen": "La Junta vuelve a exigir al Gobierno central una revisión \"urgente y exhaustiva\" de la línea ferroviaria de la comunidad para que el servicio, cuando se retoma, sea \"seguro\"."
     },
     {
       "titulo": "Claves para solicitar las ayudas por el accidente ferroviario de Urda: dónde, cómo y cuándo",
@@ -537,6 +587,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "Renuncia el ministro de Transportes de España a casi una semana del accidente de trenes en Toledo",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGk0dzVVT1VWZ1VoaTFMTEFUT1g0ZWxZYUIzcktEU2FpUXJxeEZQZ0tmV3AxNWw5RVU2SmFpX3VVS214cU5hTWZPTk03TDdmeUczWFRURk5zMVV5eHUwS20xQ0hWT2lNcFF6NmlIVXR2ejhtdDdiSnJrZzlYUlJXWjhGOFNVSTQ1SXVBVA?oc=5",
+      "fuente": "CNN en Español",
+      "fecha": "2026-11-03T21:18:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdGk0dzVVT1VWZ1VoaTFMTEFUT1g0ZWxZYUIzcktEU2FpUXJxeEZQZ0tmV3AxNWw5RVU2SmFpX3VVS214cU5hTWZPTk03TDdmeUczWFRURk5zMVV5eHUwS20xQ0hWT2lNcFF6NmlIVXR2ejhtdDdiSnJrZzlYUlJXWjhGOFNVSTQ1SXVBVA?oc=5\" target=\"_blank\">Renuncia el minis",
+      "idioma": "es"
+    },
+    {
       "titulo": "Dimite el ministro de Transportes de España, Óscar Puente, tras el choque de dos trenes de alta velocidad que causó 69 muertos",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01TWFzakN4bWRGVE5DUGJIdkYtUWM0TkxQNHNfdmpUdUtEb2ZNS3RKQnFqSlRJWUg2MTlwX1dsc19DYktNVlZJM1UzczZoVVc2YkhTaVN1M2hnaGh50gFiQVVfeXFMTjlVS0ltb0lTaUtWc3NTaUdFQkd5SWVTaUJ0MDdnaTlyTS1aY0U1OHJPblVPTUhaeU1ZME9keU1hTk4yZTU5UkxjaFJJT21MMmdoZDdTT0pEbHowZnJHR19UUWc?oc=5",
       "fuente": "BBC",
@@ -610,63 +669,6 @@
       "fecha": "2026-11-03T18:00:05.000Z",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/28/1519732511-U20206386510ITH-U40148031219VDF-1200x840@diario_abc.JPG",
       "resumen": "El accidente ferroviario en Urda (Toledo) dejó al menos 69 muertos y más de 200 heridos. Todas las víctimas mortales ya han sido identificadas. De los fallecidos, 54 son españoles y los otros 15 son ciudadanos extranjeros de diez nacionalidades diferentes.Óscar Puente comparece e"
-    },
-    {
-      "titulo": "Última hora del accidente de trenes de Urda, en Toledo, en directo | Puente defiende la seguridad de la línea Madrid-Sevilla: “No es una infraestructura ni abandonada ni olvidada”",
-      "url": "https://elpais.com/espana/2026-11-03/ultima-hora-del-accidente-de-trenes-de-urda-en-toledo-en-directo.html",
-      "fuente": "El País",
-      "fecha": "2026-11-03T17:56:27.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/WUYYQFGWANACNCC2CK6IHDWD3M.jpg?auth=2f8ad84b2c6eac00bfa32e2e429639e499e0c261790f4a14446237386a87c482",
-      "resumen": "El PP, a Puente: “Su responsabilidad no es explicar accidentes mortales, es evitarlos” | El comité de empresa de Adif acuerda una huelga el 17 de noviembre por la seguridad ferroviaria"
-    },
-    {
-      "titulo": "El padre de una de las víctimas: «¿Consternado usted? ¿Me toma por lelo?»",
-      "url": "https://www.abc.es/espana/padre-victimas-accidente-urda-oscar-puente-dice-20261103094249-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-03T17:55:28.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/03/Dise%c3%b1o%20sin%20t%c3%adtulo-Rem4WQAsDQfIpUtErhvCkaN-1200x840@diario_abc.png",
-      "resumen": "David Reina Reguera viajaba en uno de los trenes accidentados en Urda (Toledo) el pasado miércoles. Se dirigía al Rincón de la Victoria, su localidad natal, para disfrutar de sus vacaciones junto a su familia. A sus 22 años, este joven mecánico de trenes había cumplido por fin su"
-    },
-    {
-      "titulo": "El Gobierno reducirá las frecuencias de los trenes de alta velocidad en la línea Madrid-Sevilla tras el accidente de Urda",
-      "url": "https://www.abc.es/economia/gobierno-reducira-frecuencias-trenes-alta-velocidad-linea-20261103131245-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-03T17:46:00.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/03/ostar-matias-RCvBLfciGEh1iexJlOGGXYP-1200x840@diario_abc.jpg",
-      "resumen": "El ministro de Transportes confía en que la línea de alta velocidad Madrid-Sevilla esté operativa en unos 10 días naturales después de que la jueza autorice los trabajos de reposición de la zona del accidente de Urda . Sin embargo, una vez reabierta la línea, lo hará con menos fr"
-    },
-    {
-      "titulo": "Accidente de tren y actualidad política, en directo hoy | Vídeo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUdBUzAtYlhNVTJNNlBOaVB0Q0hfTVRDelJwbVdjN21wMS1GdkxBMFg3VmRISllodFFtZVVEdjdDLWRYYzNlSEtaR21zQXp0LVhrSUxiNFpkRGwwRF92LXZpWURWbG5lZmduMjdYc2hfNVlYdmY1aFREZ2d2YTBUTUkzSDVNZ3dOdFJ1WlNTaGpyb0Y3RzhidHpCbVBZaW9YV1RfVVhPeXJ6aUE?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-03T17:28:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVUdBUzAtYlhNVTJNNlBOaVB0Q0hfTVRDelJwbVdjN21wMS1GdkxBMFg3VmRISllodFFtZVVEdjdDLWRYYzNlSEtaR21zQXp0LVhrSUxiNFpkRGwwRF92LXZpWURWbG5lZmduMjdYc2hfNVlYdmY1aFREZ2d2YTBUTUkzSDVNZ3dOdFJ1WlNTaGpyb0Y3RzhidHpCbVBZaW9YV1RfVVhPeXJ6aU",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Puente acude a la solución frustrada en el Madrid-Málaga: trenes por vía convencional de Madrid a Ciudad Real y a Sevilla en AVE",
-      "url": "https://www.20minutos.es/nacional/puente-acude-solucion-frustrada-madrid-malaga-trenes-por-via-convencional-sevilla-ciudad-real-madrid-ave_7056746_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-03T17:06:18.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/03/6aea121fb0b888-12204226.webp",
-      "resumen": "Adif termina la retirada de los trenes de la vía en Urda y solicita al juzgado entrar a reparar las vías. El ministro indica en el Congreso que estarían listas 10 días naturales después de tener luz verde."
-    },
-    {
-      "titulo": "Los trenes circularán por vía convencional de Sevilla a Ciudad Real y hasta Madrid, en alta velocidad",
-      "url": "https://www.20minutos.es/nacional/puente-acude-solucion-frustrada-madrid-malaga-trenes-por-via-convencional-sevilla-ciudad-real-madrid-ave_7056746_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-03T17:06:18.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/03/6aea121fb0b888-12204226.webp",
-      "resumen": "Adif termina la retirada de los trenes de la vía en Urda y solicita al juzgado entrar a reparar las vías. El ministro indica en el Congreso que estarían listas 10 días naturales después de tener luz verde."
-    },
-    {
-      "titulo": "Juan del Val, sobre la gestión de Óscar Puente: «Si por una vía pasan 20 trenes y mañana pasan 40 trenes, esa vía necesita más inversión»",
-      "url": "https://www.abc.es/play/television/noticias/juan-val-claro-sobre-gestion-oscar-puente-20261103174714-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-03T16:50:05.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/03/del%20val-puente-kqMH-U40124020329TOE-1200x840@diario_abc.jpg",
-      "resumen": "El pasado 28 de octubre se produjo uno de los accidentes ferroviarios más graves de España, cerca de Urda, cuando chocaron dos trenes: uno de Iryo y un AVE de Renfe, en la línea de alta velocidad Madrid-Sevilla. El resultado fue devastador: 69 personas murieron y más de un centen"
     }
   ],
   "videos": [
