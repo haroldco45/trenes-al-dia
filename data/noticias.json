@@ -1,6 +1,30 @@
 {
-  "actualizado": "2026-11-05T22:37:58.296Z",
+  "actualizado": "2026-11-06T03:20:09.236Z",
   "noticias": [
+    {
+      "titulo": "La Agencia de Seguridad ya alertó de «prácticas inadecuadas» y fallos en las órdenes meses antes de la tragedia de Urda",
+      "url": "https://www.abc.es/espana/tecnicos-seguridad-alertaron-practicas-inadecuadas-fallos-ordenes-20261103011949-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-06T00:42:30.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/03/1519473548-RfeAJAWcgVRILwDmUjRqlIN-1200x840@diario_abc.jpg",
+      "resumen": "La Agencia Estatal de Seguridad Ferroviaria (AESF) denunció en uno de sus informes de este año que los técnicos habían detectado «prácticas inadecuadas» y graves distorsiones en la cadena de mando que ponían en riesgo la vida de los viajeros. Este documento, fechado en abril de 2"
+    },
+    {
+      "titulo": "Rodríguez Ibarra: «Da la sensación de que, para ser leal con el PSOE, hay que pensar como el secretario general»",
+      "url": "https://www.abc.es/play/television/noticias/rodriguez-ibarra-expresidente-extremadura-sensacion-leal-psoe-20261105161144-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-06T00:30:09.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/play/2026/11/05/newspaint-1793880251817-1200x840-RTSrHwwG23tVQXfvTal1U2K-1200x840@diario_abc.jpg",
+      "resumen": "La dimisión de Óscar Puente a raíz del accidente ferroviario de Urda ha vuelto a sacudir la precampaña electoral. En 'La Mesa' de Cristina Pardo, Juan Carlos Rodríguez Ibarra ha opinado sobre el exministro de Transportes y Movilidad Sostenible.Aunque no lo conocía personalmente, "
+    },
+    {
+      "titulo": "Cuerpo asegura que \"no hay ninguna previsión de cerrar\" el AVE entre Madrid y Barcelona",
+      "url": "https://www.elconfidencial.com/espana/2026-11-05/descarta-cierre-ave-madrid-barcelona-1tps_4460010/",
+      "fuente": "El Confidencial",
+      "fecha": "2026-11-05T22:39:00.000Z",
+      "imagen": "https://images.ecestaticos.com/eJr88GOFGYxbpnOru_xvZ4s2nvo=/0x0:1920x1281/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F76d%2F3fc%2Fbcb%2F76d3fcbcb6dd5a6ca4185f466af68cb9.jpg",
+      "resumen": "El Ejecutivo prioriza recuperar la confianza y garantizar la seguridad ferroviaria tras el siniestro de Urda, con 69 víctimas mortales"
+    },
     {
       "titulo": "Los investigadores de Adamuz ven indicios de que 47 trenes circularon por el carril roto en las 22 horas previas al accidente",
       "url": "https://www.20minutos.es/nacional/los-investigadores-adamuz-ven-indicios-que-47-trenes-circularon-por-carril-roto-las-22-horas-previas-accidente_7057938_0.html",
@@ -8,15 +32,6 @@
       "fecha": "2026-11-05T21:53:23.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/25/69765609ed9b59-17294745.jpeg",
       "resumen": "La causa que originó el daño en la vía aún no ha podido determinarse."
-    },
-    {
-      "titulo": "El tren Iryo accidentado en Urda pasó una revisión integral dos días antes del siniestro",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUxqVjlDb0ZKWmV0c3Vhb3ZSTGN1ZkhZN2RMcHpQV2RMQTh1NTZvTFVXRUdnMzRtX1RoVDRTaWlFSVY3UmhCTEFrVlhXLWkzalFmLWUyVXp2TzBsT1FZUVdoUG9aYUkwX0xXME1ZdEFyTlNjdUVTTEtXVW11WURvNC11MkZMNGNnT3l2ZktTYUdMUjJGdC14aGhDOWNPRUtjM1NsemVZX2g0Mko5OFF6WWEtWVJzY0RUQ2dxNlAtVzRjUFnSAcgBQVVfeXFMTlpXWVZaVG5tal9PTHhnYTFUV0lPTGx6ejVyOW5sM1VMYkFKQmUyZ3RsekdoaEUwTjd1UVItM2gxOHdSM01pZEk3VUZuN3ZxQ3ZvcUR4b3o0VDNZWjEtcExoOGdpeE5lVXA1b3Q5N1FVbW1BS2JHZXk5SGxCRFl3eFNBbV96dW1yWldtRVFYSFlDLU9sRXBWM2RoYWprczV4OG1HZldFdEJfS3Z0dnBNeEZzbEVkaTNkNEVtb2Y1dndmZWtYVldKUTk?oc=5",
-      "fuente": "Diario de León",
-      "fecha": "2026-11-05T19:05:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMUxqVjlDb0ZKWmV0c3Vhb3ZSTGN1ZkhZN2RMcHpQV2RMQTh1NTZvTFVXRUdnMzRtX1RoVDRTaWlFSVY3UmhCTEFrVlhXLWkzalFmLWUyVXp2TzBsT1FZUVdoUG9aYUkwX0xXME1ZdEFyTlNjdUVTTEtXVW11WURvNC11MkZMNGNnT3l2ZktTYUdMUjJGdC14aGhDOWNPRUtjM1NsemVZX2g0Mk",
-      "idioma": "es"
     },
     {
       "titulo": "Cuerpo y Tolón representarán al Gobierno en el funeral de las víctimas del accidente ferroviario en Urda",
@@ -41,6 +56,15 @@
       "fecha": "2026-11-05T18:38:00.000Z",
       "imagen": "https://images.ecestaticos.com/ZHK93HPcFNgAeq39lQs0SucoAzw=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc6a%2Fcdc%2F162%2Fc6acdc162f012042015f1c04e4e62ab5.jpg",
       "resumen": "La empresa pública también medirá la \"calidad percibida\" y la \"satisfacción\" de los usuarios del ferrocarril tras los accidentes de Toledo y Adamuz, que se han saldado con más de un centenar de muertos"
+    },
+    {
+      "titulo": "El tren de Iryo accidentado en Urda pasó una revisión integral dos días antes del siniestro",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTJGMEZGNWV2OTEzMjcwRDI3clU4aV9HWmJTQmFkZEx4MURfRHl3S0RSdlNHM21IMkpXUjBubEprRG1DLWcyQTJJRmpwd0Y3UmJELWlZZnRyYmFjUTlVeDBqbkpwb25nbkw3TlBWV1gzN2htTnNfNWVjWHBNT25KQTltZ0lWaUdUTE1GN3IyUmdPeUdfSmRXejVENDN0WndpdFE0NjAzWXNDenZVTF9OUFFCS3pIemI3b20tNzN1bjJSYVJMUGtkMFM5XzFEVUF3YWgxbHlHZ2FmRExOTVRJTFBnMFHSAe8BQVVfeXFMTU03cW1XQXp0RTlvTHJPQlBHMWpEU0dHVjBiQzNqUXplTDU0ekdhZGI3Z05XZU5ZRy1xNW40Qm1YTzY0TnZvbEdPSWpsM1kySnJRcWZVNDJvdzRnX01wTGZTcFE0ZUpuT2swZmdSc295ODhReWlQUEo5QlRVY0J6Ml9nVjFrcHBxSkxCblRwUlAyVWZJZmNXS0ZMeW1oYXo5dDZhM2RQQXhQS0h5NjgyU2hVdTZCQ3JGVi1DaWdReHNmcUZDb3oxVGhSN0gxWFgwXzZVODNSM2tIcndfYUVHdk9wS0tzd0lmazl0bG1aejQ?oc=5",
+      "fuente": "Libertad Digital",
+      "fecha": "2026-11-05T18:34:46.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTJGMEZGNWV2OTEzMjcwRDI3clU4aV9HWmJTQmFkZEx4MURfRHl3S0RSdlNHM21IMkpXUjBubEprRG1DLWcyQTJJRmpwd0Y3UmJELWlZZnRyYmFjUTlVeDBqbkpwb25nbkw3TlBWV1gzN2htTnNfNWVjWHBNT25KQTltZ0lWaUdUTE1GN3IyUmdPeUdfSmRXejVENDN0WndpdFE0NjAzWXNDen",
+      "idioma": "es"
     },
     {
       "titulo": "Iryo asegura que el tren accidentado en Urda pasó una revisión integral de seguridad solo dos días antes del choque",
@@ -646,32 +670,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSU9NVUE1UW5PS0JGcWctaEEzTkoxZW8zalFxMnhmVUE5LTRKTEZCRTN6bTBOT0FENExPRS1TbTJPMHZVRkFsdzRVbWZ3UGhSdXhMRWdFUWI1c0F2ZURUZVY1SThTWFFVVjFEcnVzbmJLeTFKT0RDZlYwT3FORVdGTFBKWWtXZm5JcjE5ZjZHdzhnQUJ6RkxRbWw5Ykhmd3h2b2owWTAxVi05S0",
       "idioma": "es"
-    },
-    {
-      "titulo": "22 personas siguen hospitalizadas tras el accidente de tren en Urda, cuatro de ellas en la UCI",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnVhcWJHT1dkNzFxcnNzUFFuNDBDd2xiWElaZHRnTGEwczFnd3V0YTdKRmJ4SThqYV9ja0hLaDdmb2kwVW43S2RwazhSNzBORm5uODUwNnVWc1Vuak40VmJCNm8tWWpaRkg5VHdOYlUwOVlNYnNRS2dWdUt5TkVNUmEyV05ZUFdhVUZKbUN0Y1Jid1dJNGZWM0t1bDRPZU5JV29IMGRyc091eEFXaGN3OExHV21DSjd3?oc=5",
-      "fuente": "Aragón Play",
-      "fecha": "2026-11-04T09:04:47.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORnVhcWJHT1dkNzFxcnNzUFFuNDBDd2xiWElaZHRnTGEwczFnd3V0YTdKRmJ4SThqYV9ja0hLaDdmb2kwVW43S2RwazhSNzBORm5uODUwNnVWc1Vuak40VmJCNm8tWWpaRkg5VHdOYlUwOVlNYnNRS2dWdUt5TkVNUmEyV05ZUFdhVUZKbUN0Y1Jid1dJNGZWM0t1bDRPZU5JV29IMGRyc091eE",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Concluye la búsqueda de restos biológicos y comienza la retirada de los trenes accidentados en Urda",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUZ1R0x4Wl84VEV6R3lPQ2h6ckxNZ2p1R2tMMVJXNVhic2szR1pYUng5TVo0SnNfTFVudlBONjZOdHZpaGxudWZmYXpmWmlEUm82d2JDSVJzR013U3VTOGtDdER1Qmw3d3lPQkw3QmdkbTlIU3NBMGpIbHFIM2p4Rml2cjI2djJ6RFppekFwdG9mLW53RjMzWVEtUVRvQ2ZvU3N0Ni1R0gGrAUFVX3lxTE5ueDBydS1RM0VIbnlKLTlHUVNvQmMtU1ctS2hwck92OThFblJxSVZnLVJYaXdCa090UDR2RWJFaURVd2IxVFo2b2tibmw5anhZdzBWZHlyTWFfX0gwbHZxRHhWcDRJYjljX1Q2MnZ1T0wtb3F5em9yVG41MlpvMk5uWE5aUHYtR3p5TWRzQUxtdVNEV2h1d0tDRTN1bWlKZ0lZOW4zdk41Y1YwZw?oc=5",
-      "fuente": "Telemadrid",
-      "fecha": "2026-11-04T09:02:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPYUZ1R0x4Wl84VEV6R3lPQ2h6ckxNZ2p1R2tMMVJXNVhic2szR1pYUng5TVo0SnNfTFVudlBONjZOdHZpaGxudWZmYXpmWmlEUm82d2JDSVJzR013U3VTOGtDdER1Qmw3d3lPQkw3QmdkbTlIU3NBMGpIbHFIM2p4Rml2cjI2djJ6RFppekFwdG9mLW53RjMzWVEtUVRvQ2ZvU3N0Ni1R0gGrAU",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Óscar Puente, el ministro tuitero que no descartaba suceder a Sánchez",
-      "url": "https://www.europapress.es/economia/transportes-00343/noticia-oscar-puente-ministro-tuitero-no-descartaba-suceder-sanchez-20261104093043.html",
-      "fuente": "Europa Press",
-      "fecha": "2026-11-04T08:30:43.000Z",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261104093043_120.jpg",
-      "resumen": "Óscar Puente, nacido en Valladolid en 1968, abandona el Ministerio de Transportes y Movilidad Sostenible a punto de cumplir 58 años y tras dos accidentes ferroviarios que han dejado 115 muertos en poco más de diez meses, el de Adamuz (Córdoba), ocurrido el pasado mes de enero, y "
     }
   ],
   "videos": [
