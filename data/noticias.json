@@ -1,6 +1,22 @@
 {
-  "actualizado": "2026-11-06T18:18:45.411Z",
+  "actualizado": "2026-11-06T23:25:49.746Z",
   "noticias": [
+    {
+      "titulo": "Misas y funerales: Sánchez, religioso por conveniencia",
+      "url": "https://www.abc.es/espana/sanchez-religioso-conveniencia-20261106143412-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-06T21:09:50.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/06/1513555407-R9keik7IYcOy0CpFfCBUweK-1200x840@diario_abc.jpg",
+      "resumen": "El presidente del Gobierno, Pedro Sánchez, no asistirá al funeral oficial en la Catedral de Toledo que se celebrará el 10 de noviembre por las víctimas del accidente ferroviario de Urda en el que fallecieron 69 personas. Así lo confirmó fuentes gubernamentales a ABC , aunque esta"
+    },
+    {
+      "titulo": "Sánchez alaba a Puente tras la tragedia de Urda y lo contrapone al PP: \"Ejemplo de dignidad que ellos no practican\"",
+      "url": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-06T19:42:40.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aee29a5ab49d2-31982566.jpeg",
+      "resumen": "El presidente del Gobierno ha definido al exministro de Transportes como un \"gran político\" tras su reciente dimisión por la tragedia ferroviaria de Urda."
+    },
     {
       "titulo": "Última hora de la actualidad política, en directo | Sánchez participa en el primer mitin tras el accidente ferroviario de Urda",
       "url": "https://elpais.com/espana/2026-11-06/ultima-hora-de-la-actualidad-politica-en-directo.html",
@@ -8,14 +24,6 @@
       "fecha": "2026-11-06T18:06:50.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/UXNA7446FZFKLI2QHIRG4PLCZA.jpg?auth=8739dd9c48e4bdbaede2aaebd560f8a3f67bc5624372577817d3373c0ca5be22",
       "resumen": "El presidente protagoniza un mitin en Valencia | Cuerpo se compromete a crear una oficina para las víctimas de los siniestros ferroviarios | Albares pide a la oposición que rechace las injerencias externas en los comicios del 29-N"
-    },
-    {
-      "titulo": "Misas y funerales: Sánchez, religioso por conveniencia",
-      "url": "https://www.abc.es/espana/sanchez-religioso-conveniencia-20261106143412-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-06T16:42:42.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/06/1513555407-R9keik7IYcOy0CpFfCBUweK-1200x840@diario_abc.jpg",
-      "resumen": "El presidente del Gobierno, Pedro Sánchez, no asistirá al funeral oficial en la Catedral de Toledo que se celebrará el 10 de noviembre por las víctimas del accidente ferroviario de Urda en el que fallecieron 69 personas. Así lo confirmó fuentes gubernamentales a ABC , aunque esta"
     },
     {
       "titulo": "La Fiscalía Europea investiga irregularidades en el mantenimiento y el cambio del sistema LZB de la línea de Urda",
@@ -155,6 +163,14 @@
       "idioma": "es"
     },
     {
+      "titulo": "La Fiscalía Europea abre otra investigación por posible fraude en el mantenimiento del AVE tras el accidente de Urda",
+      "url": "https://www.20minutos.es/nacional/fiscalia-europea-abre-una-segunda-investigacion-por-posible-fraude-mantenimiento-ave_7058052_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-06T09:26:59.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aed9ce8102163-63042613.jpeg",
+      "resumen": "Investiga un posible fraude con los fondos europeos en la renovación y mejora de la seguridad, señalización y sistemas de comunicaciones."
+    },
+    {
       "titulo": "La Fiscalía Europea abre una investigación por un posible fraude en el AVE tras la tragedia de Urda",
       "url": "https://www.20minutos.es/nacional/fiscalia-europea-abre-una-segunda-investigacion-por-posible-fraude-mantenimiento-ave_7058052_0.html",
       "fuente": "20minutos",
@@ -169,6 +185,15 @@
       "fecha": "2026-11-06T09:19:50.000Z",
       "imagen": "https://static.eldiario.es/clip/35bf9482-2864-409f-8508-fd029fe984ff_16-9-discover-aspect-ratio_default_0.jpg",
       "resumen": "Agentes de la UCO se han personado para requerir información en la sede del Administrador de Infraestructuras Ferroviarias (ADIF), en la Agencia Estatal de Seguridad Ferroviaria (AESF) y en el Tribunal de Cuentas en España La Fiscalía Europea investiga una posible malversación de"
+    },
+    {
+      "titulo": "La Fiscalía Europea lanza una operación con la UCO por los contratos de Adif tras el accidente de Urda",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0c5OWlZUkMyVktHR0ZaS2psLUJ4N1BoQkJvY0JlcTlQOVlZd005SVc3UDdId1hxaTctSnRKeTR0TTlpUnBHNTVWRkFLNmNncktvc2E4LXMwM0dCNjNXNldGaGZCZEhEMEJqblBUVDJ3VW5VU2dsbjVER3lrZ0JvUVE5NmpXMnJFTmN5TnMtOFl3ODdwQUw1YlFtR282TUdGeVFVVE9TbTFwd0lEWGQzR2g0aGYyekpzSl91N0k1VVfSAcYBQVVfeXFMTm1famFNTWducDM0M2toMW1naHFUS0szRElodGNFZTRqUHRJNFNlX2VBX05sRHpLYzJvSjNYQjdiZmJ4NVB2bW1xbHNSRzlDRjg0QlF3dGN1OUF6ei03MUJWTFJqc3hIZWhYd25EMGJJYlU3T1lJUlhaeW9pNHlScVVobDF5SHQ1SUdtY1FWQmJLbHZqVXZrZi1vczhjaEdSNkNqU1N6QWtoV1VZS2JmLWtLdDB5bHFZYkgwNTBYck55RWtmZFpn?oc=5",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-06T09:16:26.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0c5OWlZUkMyVktHR0ZaS2psLUJ4N1BoQkJvY0JlcTlQOVlZd005SVc3UDdId1hxaTctSnRKeTR0TTlpUnBHNTVWRkFLNmNncktvc2E4LXMwM0dCNjNXNldGaGZCZEhEMEJqblBUVDJ3VW5VU2dsbjVER3lrZ0JvUVE5NmpXMnJFTmN5TnMtOFl3ODdwQUw1YlFtR282TUdGeVFVVE9TbTFwd0",
+      "idioma": "es"
     },
     {
       "titulo": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
@@ -406,6 +431,15 @@
       "resumen": "La intención de la propuesta es “activar los mecanismos oficiales del Estado para obligar a las fuerzas políticas a definir su postura de manera urgente en pleno periodo preelectoral”<span class=\"\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-event"
     },
     {
+      "titulo": "Accidente ferroviario de Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNal83Qkx6T3VXalR6YWtmcUhPdFZQZlJHdS0yUHFoeFhOV0JlNTl2RFQ3RFBjUm1WMUY2VVZ2Z0tCUVIzbEpfa3ZhV0xNZWNCVlJtbllLMjc4UV9DUFhlV1ZyQnQtT1ltQkFqcGVaM29UdGlpWXR2dmJYMjdEVjZGOXRpdENORU92QUc5XzVydXhQcUtvVklMU2g0Ni1XS2c0NHFlQ0VWU05OZzBteXlCUUlBdFIwZEVCZmk2SHV2d1k5ZnFhRWRDaHNPNA?oc=5",
+      "fuente": "La Tribuna de Ciudad Real",
+      "fecha": "2026-11-05T11:00:58.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNal83Qkx6T3VXalR6YWtmcUhPdFZQZlJHdS0yUHFoeFhOV0JlNTl2RFQ3RFBjUm1WMUY2VVZ2Z0tCUVIzbEpfa3ZhV0xNZWNCVlJtbllLMjc4UV9DUFhlV1ZyQnQtT1ltQkFqcGVaM29UdGlpWXR2dmJYMjdEVjZGOXRpdENORU92QUc5XzVydXhQcUtvVklMU2g0Ni1XS2c0NHFlQ0VWU05OZz",
+      "idioma": "es"
+    },
+    {
       "titulo": "Spain Transport Minister Resigns After Train Crash That Killed 69",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk42VlYwNUIwbmRfX3VlY1QzUS00cjk5RDBFMHNreVQyY2l2QlJaSTV5Q2VZQS10d2xyU2cyWGlHTjRWWnVnRk5PSlN6NlRDTVUzVDYzYXRvaHJmVGl1dktMcnZZVUFUUlF3Nml6bmZxTjJxTXN4RDEycTV0cDNHdnVkb093UG1nNlM0amdrWk9CNTJucHlKY21MdW1CVm4zRUd4SEJEMmtDT0ZE?oc=5",
       "fuente": "Rus Tourism News",
@@ -638,40 +672,6 @@
       "fecha": "2026-11-04T17:47:02.000Z",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938118184990.jpg",
       "resumen": "Adif quiere ahora hacer reparaciones de urgencia pese a que esos tramos, como el del choque, fueron renovados a finales de 2025 Leer"
-    },
-    {
-      "titulo": "Andalucía reactiva el grupo de trabajo creado tras el accidente de Adamuz y dará ayudas de hasta 16.800 euros a las víctimas de Urda",
-      "url": "https://www.20minutos.es/andalucia/andalucia-reactiva-grupo-trabajo-creado-tras-accidente-adamuz-dara-ayudas-hasta-16-800-euros-las-victimas-urda_7057235_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-04T16:47:24.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/04/6aeb500cb89186-90609128.jpeg",
-      "resumen": "La Junta vuelve a exigir al Gobierno central una revisión \"urgente y exhaustiva\" de la línea ferroviaria de la comunidad para que el servicio, cuando se retoma, sea \"seguro\"."
-    },
-    {
-      "titulo": "Accidente de tren de Urda: claves para pedir las ayudas",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGlVZk5CenhMaUFTd2NiYkNqaHg2Y2tSTEdqSFhkLUJBaG1wYW12WmI5LS1NRGE5c0lROHpnNUk5bE03WEJoUHRlZkhzTFNxMFhXUjVuS09uV3o0YU5lWGZrU1cxTkhnaFdfVHM5bUFocUVLNkppTjFRaXJTdTRoTUZJNnBwZ2N5RkZwWHNfOUYweVNRMlJIR25MaFAtR1BtVzdFbmhUWWNKVWo2ZWtOSmwzWXVQY2VOTkxpdDAzRWRhQjN5QTR2MWVZRnRFcWJP?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-04T16:09:34.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGlVZk5CenhMaUFTd2NiYkNqaHg2Y2tSTEdqSFhkLUJBaG1wYW12WmI5LS1NRGE5c0lROHpnNUk5bE03WEJoUHRlZkhzTFNxMFhXUjVuS09uV3o0YU5lWGZrU1cxTkhnaFdfVHM5bUFocUVLNkppTjFRaXJTdTRoTUZJNnBwZ2N5RkZwWHNfOUYweVNRMlJIR25MaFAtR1BtVzdFbmhUWWNKVW",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Claves para solicitar las ayudas por el accidente ferroviario de Urda: dónde, cómo y cuándo",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGlVZk5CenhMaUFTd2NiYkNqaHg2Y2tSTEdqSFhkLUJBaG1wYW12WmI5LS1NRGE5c0lROHpnNUk5bE03WEJoUHRlZkhzTFNxMFhXUjVuS09uV3o0YU5lWGZrU1cxTkhnaFdfVHM5bUFocUVLNkppTjFRaXJTdTRoTUZJNnBwZ2N5RkZwWHNfOUYweVNRMlJIR25MaFAtR1BtVzdFbmhUWWNKVWo2ZWtOSmwzWXVQY2VOTkxpdDAzRWRhQjN5QTR2MWVZRnRFcWJP?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-04T16:09:34.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaGlVZk5CenhMaUFTd2NiYkNqaHg2Y2tSTEdqSFhkLUJBaG1wYW12WmI5LS1NRGE5c0lROHpnNUk5bE03WEJoUHRlZkhzTFNxMFhXUjVuS09uV3o0YU5lWGZrU1cxTkhnaFdfVHM5bUFocUVLNkppTjFRaXJTdTRoTUZJNnBwZ2N5RkZwWHNfOUYweVNRMlJIR25MaFAtR1BtVzdFbmhUWWNKVW",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El presidente de Adif presenta su dimisión a Cuerpo tras explicar el suceso de Urda",
-      "url": "https://elpais.com/espana/2026-11-04/el-presidente-de-adif-se-reune-con-cuerpo-para-explicar-el-suceso-de-urda-y-poner-el-cargo-a-disposicion.html",
-      "fuente": "El País",
-      "fecha": "2026-11-04T16:06:35.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/HWQIOVVHVZARNB4L74US3BFF2A.jpg?auth=2758874015e082ad746a68d09002c4ca05108b0bc7d05d6636f345ec63850d87",
-      "resumen": "Luis Pedro Marco de la Peña ha acudido al encuentro con el nuevo titular de Transportes después de que haya sido aprobado por el consejo de Adif un marco de financiación de 20.000 millones hasta 2030 para obras y mantenimiento"
     }
   ],
   "videos": [
