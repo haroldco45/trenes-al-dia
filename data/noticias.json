@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T16:47:27.153Z",
+  "actualizado": "2026-11-07T20:45:46.002Z",
   "noticias": [
     {
       "titulo": "Urda encara el final de la retirada de los trenes mientras once heridos siguen hospitalizados",
@@ -183,7 +183,7 @@
       "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
       "fuente": "El País",
       "fecha": "2026-11-07T04:30:01.000Z",
-      "imagen": "",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IN2D3LM5NBD65OZQJVATJKMAPE.png?auth=0c17add1d52d3b71c7799abee3dd9a4ea4ccdf1bc79c0d7ca28cf84df9d08c74&width=1200",
       "resumen": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS"
     },
     {
@@ -282,6 +282,15 @@
       "fecha": "2026-11-06T13:45:48.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcE9ndmJzWkhuOTRYVC0xWVhMazdKeV81bkg2ZE5HOGVWTnJNLUhWOTRGMXZHNTRIWjh2MW5VT21CYjZfcjVaX1VxeHR0cGlBT0NtVmF3VG1USjFzOWRMVDNEXzlmeWt1LWNKRFZGY1V5b19VS0k4MFFn0gF6QVVfeXFMTXNvR2gtSUpRd0otMldhTFY1R3JTamtaOXZhU3I0VzVhZmd5ZTc5b2",
+      "idioma": "es"
+    },
+    {
+      "titulo": "El milagroso relato de la abulense que sobrevive al tren de Toledo: \"Tengo un ángel que me está cuidando\"",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbkRMekxxV25ZbnJYNkZEV2g3ZUNJTnRkYnRMMjFIMFJ6MkppNzl2dlkwNEJ1eU44SmhBOUN5SmpqcDBDUm5yQ1VYMlFnb245VmF1UVRnTW03OEw5d0l4cnJDYTRDM01jeTRyNHRDUlJYS3MtclF3aGViMlhkUjNkNlRYUzk2TUVqT256QXVEdWVzb2lycl9pYXRicGUxeEZsVWsxTHExcDM3YklrVFVROWdoYjdWbG9LaHdWanJzaGRyX0F5bGlOMnlCNkpWN0NJR1JjQU54dVdhVVNmSVdJVVFEWVJWQUVOMUFZU2JWRlVNMnI1MFHSAfsBQVVfeXFMTTluQk1DbGx1YlhIb2l4ZlNjZ2xHanJQdGhFMWVyWDNkN0xFT1lHdWg1NFJ2Z3VjMWRCYlRtM3gtbE1CeGlGUmJyM3BiVkRvOURCSFNrT3M2VjdiMzJab0ZzbEcxbmJhLXZqRnRlbV9fNU9hc2lDUk92YW5hdVFCRjRkS2pIenhsZ2lZbGtOSXJSdXRybzdOaGxRVDF5Qll5T1VHaTFXd19VTkY1T0VkWkU2a0doUFVtcF84aTZFLW95bWVMUDVVUVNNTW5vLWhOZG5Nc25naDE4eVVTVTgwQ0JHbmNYTWJubXN0cjVRMWgyTUtkQy11anRwT2M?oc=5",
+      "fuente": "COPE",
+      "fecha": "2026-11-06T12:01:58.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbkRMekxxV25ZbnJYNkZEV2g3ZUNJTnRkYnRMMjFIMFJ6MkppNzl2dlkwNEJ1eU44SmhBOUN5SmpqcDBDUm5yQ1VYMlFnb245VmF1UVRnTW03OEw5d0l4cnJDYTRDM01jeTRyNHRDUlJYS3MtclF3aGViMlhkUjNkNlRYUzk2TUVqT256QXVEdWVzb2lycl9pYXRicGUxeEZsVWsxTHExcDM3Yk",
       "idioma": "es"
     },
     {
@@ -645,6 +654,15 @@
       "resumen": "El Gobierno regional manda una misiva en la que destaca que solo un 7% siguió el paro el 30 de octubre, pero omite que fue dos días después del accidente de tren y con la movilización parada por respeto La Policía detiene a un profesor en las protestas docentes en Madrid El Gobie"
     },
     {
+      "titulo": "El Iryo contra el que colisionó el AVE en Urda había pasado una revisión integral dos días antes que incluyó el sistema de señalización",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQk1ka0U5UWNFNE56c1ozSlhXM2pVdFFjWEpPVGR5RDJZX2ZoN1h0Q08tTkFsbHVhck9zWlJoVlhCSHE1WElTX3B6blI5blUtVzRGNzRZNVZSQ2Q2OFlQaUlxZ0FBd2VzbHh2cks4UUJwTkk4eU1qd1ZQalVmdkpkZUs2Mkg2T2JvQ19lN0wyek9kNnd5bzRsWW11bC1HU3F1UXFEX0pfUkgxemJOdjQ5U1dZS2tJU3lwSGFSVGNfcUU3ek9QMnc3NWdjdWJSdWVuZXNXSE9TREtpak9aMnRxTV85bTFsLXhLV0FaVlNSX3hfOGZnaWZEWHBn0gH_AUFVX3lxTE0ycnRvYmVjVXBUd2J3bjRsdFJtQklHRS1pRWZPRzRZN1RtZ2hwN254SFRBSmdhQmRrZVhWbFl1MVFyYThURElQZDdlempHMzhld19BQXZDdXRQVmlPckd2NE1mSmsxV3dKYU1Rc09fUkY3Z2JwQk1TSWxmVWZwclRQaGNfMGlDYkMwRlZXekQ1LUZ0LWVPU3VtNS1qb293U0F6U3JTODhvalZGcDZVeE5oY1Fkd3h6TG8wa1BwRkt0VC1oTzVWUWVQQkFZeFdsSDNlNXhVVndyWE5BaVJVTXAtWG94ZE1YRmRMOUlTVE1EUF9xMzBTaGpORmVraW5WWQ?oc=5",
+      "fuente": "20Minutos",
+      "fecha": "2026-11-05T17:53:16.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQk1ka0U5UWNFNE56c1ozSlhXM2pVdFFjWEpPVGR5RDJZX2ZoN1h0Q08tTkFsbHVhck9zWlJoVlhCSHE1WElTX3B6blI5blUtVzRGNzRZNVZSQ2Q2OFlQaUlxZ0FBd2VzbHh2cks4UUJwTkk4eU1qd1ZQalVmdkpkZUs2Mkg2T2JvQ19lN0wyek9kNnd5bzRsWW11bC1HU3F1UXFEX0pfUkgxem",
+      "idioma": "es"
+    },
+    {
       "titulo": "El Iryo contra el que chocó el AVE en Urda pasó una revisión integral solo dos días antes",
       "url": "https://www.20minutos.es/nacional/iryo-contra-que-colisiono-ave-urda-habia-pasado-una-revision-integral-dos-dias-antes-que-incluyo-sistema-senalizacion_7057852_0.html",
       "fuente": "20minutos",
@@ -660,23 +678,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlN5UFV5Y0RSRnhSQ3ctTDJxamlZUXhMZVppdmMybmhZZTQwVUxrTTUtUmhGRll0UERyRGMzRWxUazFZUHlxVkVweTFBQmhOMWVKSFhIbFJYZjJYUFU5Rl9rM0VSeGxDTHRMNEE5QkN0a0d1NEVzem9ndGp1OS05MUwxcy1CVTlyWVZwOUNCSjBnRDQxWGJmeW9fMWFzRW5MaGU00gGjAUFVX3",
       "idioma": "es"
-    },
-    {
-      "titulo": "Teorías sin pruebas sobre la injerencia israelí en el accidente ferroviario en Urda",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWVza1pjeGVpNkFmV0pZUDRUd1VoeVVOOGJlSE52UWxlQ3A2R0dzNzZ1eWlCaEV4Xy15UDNDYURrT0tzbURjTzUxUjRFVEE1dDhYVGpyY25PMk1VQWt1NmhCRnhqRnI3dlc2dDVyYVFDY29GQVI0WmZTeHB2NVYyb0gwczA1TGJFeWpwTE0xcEJMZnF2djRfQWtPVWtnTEg5SlJv?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-05T17:14:19.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMWVza1pjeGVpNkFmV0pZUDRUd1VoeVVOOGJlSE52UWxlQ3A2R0dzNzZ1eWlCaEV4Xy15UDNDYURrT0tzbURjTzUxUjRFVEE1dDhYVGpyY25PMk1VQWt1NmhCRnhqRnI3dlc2dDVyYVFDY29GQVI0WmZTeHB2NVYyb0gwczA1TGJFeWpwTE0xcEJMZnF2djRfQWtPVWtnTEg5SlJv?oc=5\" tar",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Cuerpo no acierta a desactivar la huelga de los maquinistas tras descabezar Adif y los vuelve a citar mañana",
-      "url": "https://www.elmundo.es/economia/2026/11/05/6aec46bee85ece22718b4593.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-05T16:42:01.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938714561382.jpg",
-      "resumen": "El nuevo responsable de Transportes no consigue aplacar a la plantilla mientras el regulador llama a Adif para imponerle la reducción de velocidades cuando los sistemas LZB caigan, como en Urda Leer"
     }
   ],
   "videos": [
