@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-06T23:25:49.746Z",
+  "actualizado": "2026-11-07T03:06:02.350Z",
   "noticias": [
+    {
+      "titulo": "Ni al avión ni al autobús: los usuarios del AVE prefieren no viajar",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/ave-deja-perder-pasajeros-viajan-usuarios-tren-20261107011530-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-07T00:15:30.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/07/transporte-1200x840-ksSF-U402104045259eC-1200x840@diario_abc.jpg",
+      "resumen": "La alta velocidad ferroviaria en España cerrará en 2026 un año negro con dos accidentes -Urda y Adamuz- que han costado 115 vidas. La búsqueda de alternativas para el resto de pasajeros afectados junto a cierta pérdida de confianza en el transporte por tren han marcado la manera "
+    },
     {
       "titulo": "Misas y funerales: Sánchez, religioso por conveniencia",
       "url": "https://www.abc.es/espana/sanchez-religioso-conveniencia-20261106143412-nt.html",
@@ -44,11 +52,12 @@
     },
     {
       "titulo": "La Fiscalía Europea pone en marcha una operación con la UCO por la tragedia de Urda y reclama documentación a Adif",
-      "url": "https://www.elmundo.es/espana/2026/11/06/6aed98e121efa0477c8b457d.html",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcE9ndmJzWkhuOTRYVC0xWVhMazdKeV81bkg2ZE5HOGVWTnJNLUhWOTRGMXZHNTRIWjh2MW5VT21CYjZfcjVaX1VxeHR0cGlBT0NtVmF3VG1USjFzOWRMVDNEXzlmeWt1LWNKRFZGY1V5b19VS0k4MFFn0gF6QVVfeXFMTXNvR2gtSUpRd0otMldhTFY1R3JTamtaOXZhU3I0VzVhZmd5ZTc5b2RLVVdlVlpsTjNvOFFRRDlrSmFzVk5RRG1ZTnF5T2pUZ3FaNjBZMDF6NTgzM0ZVRkQ3SkhjajluaTRTalFVTUpSbDFzYmt3OE1nZEE?oc=5",
       "fuente": "El Mundo",
       "fecha": "2026-11-06T13:45:48.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/06/17939559142457.jpg",
-      "resumen": "Pide documentación a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria. Leer"
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBVcE9ndmJzWkhuOTRYVC0xWVhMazdKeV81bkg2ZE5HOGVWTnJNLUhWOTRGMXZHNTRIWjh2MW5VT21CYjZfcjVaX1VxeHR0cGlBT0NtVmF3VG1USjFzOWRMVDNEXzlmeWt1LWNKRFZGY1V5b19VS0k4MFFn0gF6QVVfeXFMTXNvR2gtSUpRd0otMldhTFY1R3JTamtaOXZhU3I0VzVhZmd5ZTc5b2",
+      "idioma": "es"
     },
     {
       "titulo": "Cuerpo plantea crear un defensor de las víctimas de accidentes de tren",
@@ -357,11 +366,11 @@
     },
     {
       "titulo": "Cuerpo irá en representación del Gobierno al funeral de Toledo por las víctimas del accidente de trenes de Urda",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQW5TU1NicC1DLUlFcy1nSk45UkFPakRIN25DLVZ6Rzd4MzJ2V1Q5cWwzeFIwZUk2TUQwZDdGM3ZtSVFPWTRLQm5OeEZCVklCYzRpZFczNmtVRm00SFdEN01Fb0xhYmZ0dGxSSG9zVXpQNWxmQnBnOEdrMExXS3BKYTg5N0xIWVlTZEhiNnRNU0oyQ1IxbFZ2alFWMklZV1A3ZDdJc2dR0gGrAUFVX3lxTE95WDFkVXZYRmgtMUFCSEltUE1hajRPZnJxOU5oWGFtNi0zMWJaMm5aRVhPeWxPaXp0b3NEVHBkM191aTZsZ1ZXRk1tRkg0N2FxSUZSZTM0bUh5T21ySjgxSjRvSldrbHpPSU9CX1E1d1lpbDlGYUtaRVVPSlJrUC1VYkd5ZWZpRmRSUE90M29IeDFhdTk2eVRyb2JwN2ZrYWlNUWxzQTR4eGl6TQ?oc=5",
-      "fuente": "Levante-EMV",
-      "fecha": "2026-11-05T17:27:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlN5UFV5Y0RSRnhSQ3ctTDJxamlZUXhMZVppdmMybmhZZTQwVUxrTTUtUmhGRll0UERyRGMzRWxUazFZUHlxVkVweTFBQmhOMWVKSFhIbFJYZjJYUFU5Rl9rM0VSeGxDTHRMNEE5QkN0a0d1NEVzem9ndGp1OS05MUwxcy1CVTlyWVZwOUNCSjBnRDQxWGJmeW9fMWFzRW5MaGU00gGjAUFVX3lxTE1pYmM0UVVsYzlFR1VQSUdlS3B1cXBLcTJ0UGx2d0pEZ1JNVUF0dmJQcllmN3MtS3ZMbi1NLUUxRjAtbHpnakQ1d0NwWG5STWhXYVVkMjVuM1VGY0pjV2tzbnkzeUpGbDBjVlFjYm9RUmdJaHJDU1Z0YkpwWTc1Qjh6LWxzVEttZ01uRHhLV0ZOak02S3B5OWUwSDNrTHRMNUJ4TTg?oc=5",
+      "fuente": "El Periódico",
+      "fecha": "2026-11-05T17:23:33.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQW5TU1NicC1DLUlFcy1nSk45UkFPakRIN25DLVZ6Rzd4MzJ2V1Q5cWwzeFIwZUk2TUQwZDdGM3ZtSVFPWTRLQm5OeEZCVklCYzRpZFczNmtVRm00SFdEN01Fb0xhYmZ0dGxSSG9zVXpQNWxmQnBnOEdrMExXS3BKYTg5N0xIWVlTZEhiNnRNU0oyQ1IxbFZ2alFWMklZV1A3ZDdJc2dR0gGrAU",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQQlN5UFV5Y0RSRnhSQ3ctTDJxamlZUXhMZVppdmMybmhZZTQwVUxrTTUtUmhGRll0UERyRGMzRWxUazFZUHlxVkVweTFBQmhOMWVKSFhIbFJYZjJYUFU5Rl9rM0VSeGxDTHRMNEE5QkN0a0d1NEVzem9ndGp1OS05MUwxcy1CVTlyWVZwOUNCSjBnRDQxWGJmeW9fMWFzRW5MaGU00gGjAUFVX3",
       "idioma": "es"
     },
     {
@@ -429,6 +438,15 @@
       "fecha": "2026-11-05T12:41:09.000Z",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/04/28/69f0b0173d6da.jpeg",
       "resumen": "La intención de la propuesta es “activar los mecanismos oficiales del Estado para obligar a las fuerzas políticas a definir su postura de manera urgente en pleno periodo preelectoral”<span class=\"\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-event"
+    },
+    {
+      "titulo": "Las Cortes de Castilla-La Mancha guardan un minuto de silencio por las víctimas del accidente ferroviario de Urda",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOTJOV1pCU1h5M0Z3QlMxYXhSV1NOOFloUl9xSHpGZVhNVnJfUjhKZUJ6MlU3OTFVelVoa1YxekVNMHlhVmZZd2pYMFlEalp0eGlCN1FHR1paT1lDeTFQZldiTTRwaE0wdnM2Rm5PQ1l0cnBvVjczTnRkcm1NalFUc08yU295UkZsVmgzbzFVTVo0V09OeV81SWVTQnJ3TnhGUnh4QXJoOTZVNmZ1SFZQVGxfd3RDQWFHRFVHWHplRTdXZWpaMnViVHFPMFJfNkFmamhBaDJ1MUloZ1VmbThZ0gHkAUFVX3lxTFBmZGNKVjNmcDdGdkdqbDdIZU0zQkZsTWZIRlRsYzRzanowZzBYc0V0eWEyVXJTblR5aEVFcW9ZaWExQkpkZUkzSGozZmp1U1lFSXZ4a1ZkRXhvRlVaR0hiNUhvSDV4b05vUmgweXB4aU12eWxqVDc3eDRIVEpqQTNZbmxYcVFLeDNWSWRObXZIcmdMdWdSMVkwVi1EMS1NN0ZvMWNxUkhoR3VuOF8wMkE0Q0tmdHRWdnpsVjBjaE5BeEJfUkZSUFhWaGthb1Q3WGljY3dXNmV3d08wQXhDLTFJSE5Kag?oc=5",
+      "fuente": "Diario Público",
+      "fecha": "2026-11-05T11:36:34.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOTJOV1pCU1h5M0Z3QlMxYXhSV1NOOFloUl9xSHpGZVhNVnJfUjhKZUJ6MlU3OTFVelVoa1YxekVNMHlhVmZZd2pYMFlEalp0eGlCN1FHR1paT1lDeTFQZldiTTRwaE0wdnM2Rm5PQ1l0cnBvVjczTnRkcm1NalFUc08yU295UkZsVmgzbzFVTVo0V09OeV81SWVTQnJ3TnhGUnh4QXJoOTZVNm",
+      "idioma": "es"
     },
     {
       "titulo": "Accidente ferroviario de Urda (Toledo)",
@@ -549,15 +567,6 @@
       "idioma": "es"
     },
     {
-      "titulo": "Two Australians killed in high-speed Spain train crash",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdTdjclBMT2RwWHdGS0M2cEhIbjRaTjk1d2lMZGdHekU4VmVqeHpLSmRXcnJ4OTF2a0o3VURZMG1VZ1RWZDgyODJZYXJiRVBZYnM5b0lCX28zODd1Ym9SY1psVXhoZXJ0M0Q2SG5ZWFFOSUxaMkx4RENJbktCWE1ERVl3bEFuemotQ1hoTjJDaGU5SVpTTm81R2Z3QS1Cc1RTTkRTQy1od0c3NjI4Ym8xSmROTTNZcnBPUFhUZlNGUk1jVV9sbXFEeVd5ckIxYl9hOEhFSVA1ZklmMFFfR0FWNm1OVmtkN2pJSW9JeUdSaGVUU3k1UjZPNWVmaHBVUEIwRVBtZWJFbUxMUVE?oc=5",
-      "fuente": "The Daily Telegraph",
-      "fecha": "2026-11-05T03:59:05.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdTdjclBMT2RwWHdGS0M2cEhIbjRaTjk1d2lMZGdHekU4VmVqeHpLSmRXcnJ4OTF2a0o3VURZMG1VZ1RWZDgyODJZYXJiRVBZYnM5b0lCX28zODd1Ym9SY1psVXhoZXJ0M0Q2SG5ZWFFOSUxaMkx4RENJbktCWE1ERVl3bEFuemotQ1hoTjJDaGU5SVpTTm81R2Z3QS1Cc1RTTkRTQy1od0c3Nj",
-      "idioma": "en"
-    },
-    {
       "titulo": "El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña",
       "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
       "fuente": "ABC",
@@ -664,14 +673,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2RrSENxM0pNZU5ZOU9RZVp6YzFhNk43OUxja3FsbUxvOHlqTU84LWpEdnNYX1dZYWtaSXl6MHB3Zk9lcGhWT0dCTlFTQm1kc0YtSTVUa2tIbi1pcmNwYWI2R3QxS1dPLVNpRFYtUHNOaTAzS3dpZUNSV1ZvRlRaVU1mQlJqa0luQUhNeS03TjVIS0xJaU5QYm1KT3pFMzdGTENkeWMybUdwaE",
       "idioma": "es"
-    },
-    {
-      "titulo": "Los peritos judiciales alertan de que hay \"al menos\" tres deformaciones de la vía del AVE en Adamuz como la que provocó la tragedia de enero",
-      "url": "https://www.elmundo.es/andalucia/2026/11/04/6aeb6361e9cf4a6e738b456f.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-04T17:47:02.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938118184990.jpg",
-      "resumen": "Adif quiere ahora hacer reparaciones de urgencia pese a que esos tramos, como el del choque, fueron renovados a finales de 2025 Leer"
     }
   ],
   "videos": [
