@@ -1,6 +1,63 @@
 {
-  "actualizado": "2026-11-07T03:06:02.350Z",
+  "actualizado": "2026-11-07T10:37:10.439Z",
   "noticias": [
+    {
+      "titulo": "Pedro Sánchez comparece desde Tarragona en un acto de campaña junto a Salvador Illa",
+      "url": "https://www.abc.es/espana/precampana-elecciones-generales-espana-directo-ultima-hora-20261106115927-di.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-07T10:27:12.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/27/pdrsn-kM0C-U40209680208gh-1200x840@diario_abc.jpg",
+      "resumen": "Los principales candidatos de las elecciones del 29N retoman sus agendas de precampaña después del accidente ferroviario de Urda. Siguen recorriendo todo el territorio nacional para la carerra a la presidencia del Gobierno a menos de un mes para los comicios marcados por los acue"
+    },
+    {
+      "titulo": "Un total de 17 heridos en el accidente de tren de Urda continúan ingresados en hospitales de Madrid",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHR3N2FDRGc4ZGdLVWo1UWNISDFscDRLLXJldXZKYnJBVGxQZFBvR3MxdTlqS1JiTHVrSFpCYmtXM3ZjRU1UR01Ud0Y5VFVRb2tiR29qOURodmpULVdYVW4zY1R3VVNWTlpQNWZLRERaN0VvejRucHVfTEhQOTFaVUFGZ2VqVENnZnBEQ3VqWTdBQjVYRkJ1M0I2YmJhSWpuRHh2ODg5MVhjVzFjd2JhSmU0aU0zengwNTZaXzdB?oc=5",
+      "fuente": "Servimedia",
+      "fecha": "2026-11-07T10:11:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHR3N2FDRGc4ZGdLVWo1UWNISDFscDRLLXJldXZKYnJBVGxQZFBvR3MxdTlqS1JiTHVrSFpCYmtXM3ZjRU1UR01Ud0Y5VFVRb2tiR29qOURodmpULVdYVW4zY1R3VVNWTlpQNWZLRERaN0VvejRucHVfTEhQOTFaVUFGZ2VqVENnZnBEQ3VqWTdBQjVYRkJ1M0I2YmJhSWpuRHh2ODg5MVhjVz",
+      "idioma": "es"
+    },
+    {
+      "titulo": "El PP critica que Sánchez no vaya al funeral religioso por las víctimas pero use al Papa cuando le conviene",
+      "url": "https://www.europapress.es/nacional/noticia-pp-critica-sanchez-no-vaya-funeral-religioso-victimas-use-papa-cuando-le-conviene-20261107110315.html",
+      "fuente": "Europa Press",
+      "fecha": "2026-11-07T10:03:15.000Z",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261107110315_120.jpg",
+      "resumen": "La portavoz del PP en el Congreso, Ester Muñoz, ha recriminado este sábado al presidente del Gobierno, Pedro Sánchez, que no vaya a a acudir al funeral por las víctimas el accidente ferroviario de Urda (Toledo) con el argumento de que no participa en ceremonias religiosas cuando,"
+    },
+    {
+      "titulo": "Once heridos del accidente ferroviario de Urda continúan hospitalizados en Castilla-La Mancha",
+      "url": "https://www.eldiario.es/castilla-la-mancha/social/once-heridos-accidente-ferroviario-urda-continuan-hospitalizados-castilla-mancha_1_13646047.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-07T09:43:20.000Z",
+      "imagen": "https://static.eldiario.es/clip/f3f21022-5cf6-467a-8d5e-eb6eabb68800_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "Dos de estas personas siguen en cuidados intensivos, ambas en el Hospital Universitario de Toledo Por qué el AVE ha sido crucial para el progreso de Ciudad Real en 35 años y cómo puede truncarlo la tragedia de Urda El n&uacute;mero de heridos que tuvieron que ser hospitalizados p"
+    },
+    {
+      "titulo": "El AVE no deja de perder pasajeros: cómo viajan ahora los usuarios del tren",
+      "url": "https://www.abc.es/economia/cuentas-corrientes/ave-deja-perder-pasajeros-viajan-usuarios-tren-20261107011530-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-07T07:42:51.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/07/transporte-1200x840-ksSF-U402104045259eC-1200x840@diario_abc.jpg",
+      "resumen": "La alta velocidad ferroviaria en España cerrará en 2026 un año negro con dos accidentes -Urda y Adamuz- que han costado 115 vidas. La búsqueda de alternativas para el resto de pasajeros afectados junto a cierta pérdida de confianza en el transporte por tren han marcado la manera "
+    },
+    {
+      "titulo": "La Fiscalía europea alerta de posibles fraudes en los contratos de Adif tras los accidentes de Adamuz y Urda",
+      "url": "https://www.lavanguardia.com/vida/20261107/11678322/fiscalia-europea-alerta-posibles-fraudes-contratos-adif-accidentes-adamuz-urda.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-07T05:00:00.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/03/6ae9c28dd1b9c.jpeg",
+      "resumen": "El ministerio público abre dos causas junto a la UCO, requiere documentación, y&nbsp; no descarta imputaciones<span class=\"\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-events: auto;\" tabindex=\"-1\"></span>"
+    },
+    {
+      "titulo": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
+      "url": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html",
+      "fuente": "El País",
+      "fecha": "2026-11-07T04:30:01.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IN2D3LM5NBD65OZQJVATJKMAPE.png?auth=0c17add1d52d3b71c7799abee3dd9a4ea4ccdf1bc79c0d7ca28cf84df9d08c74&width=1200",
+      "resumen": "Un mes después, el PP ha perdido algo de terreno en todas las encuestadoras, y el accidente de Urda apenas ha movido el promedio. PP y Vox suman mayoría en nueve de cada diez simulaciones del modelo de EL PAÍS"
+    },
     {
       "titulo": "Ni al avión ni al autobús: los usuarios del AVE prefieren no viajar",
       "url": "https://www.abc.es/economia/cuentas-corrientes/ave-deja-perder-pasajeros-viajan-usuarios-tren-20261107011530-nt.html",
@@ -8,6 +65,30 @@
       "fecha": "2026-11-07T00:15:30.000Z",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/07/transporte-1200x840-ksSF-U402104045259eC-1200x840@diario_abc.jpg",
       "resumen": "La alta velocidad ferroviaria en España cerrará en 2026 un año negro con dos accidentes -Urda y Adamuz- que han costado 115 vidas. La búsqueda de alternativas para el resto de pasajeros afectados junto a cierta pérdida de confianza en el transporte por tren han marcado la manera "
+    },
+    {
+      "titulo": "La dimisión de Óscar Puente: la defensa de la democracia parlamentaria",
+      "url": "https://www.eldiario.es/blog/mano-a-mano/dimision-oscar-puente-defensa-democracia-parlamentaria_132_13645497.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-06T21:22:16.000Z",
+      "imagen": "https://static.eldiario.es/clip/b34db411-ec50-499c-8800-86f77909ce2d_16-9-discover-aspect-ratio_default_0_x378y381.jpg",
+      "resumen": "El ministro dimitió cuando debía, después de dar las explicaciones oportunas en el Congreso del los Diputados, poniendo en valor el lugar que el Parlamento debe jugar en un sistema parlamentario de gobierno El accidente ferroviario de Urda de la semana pasada, colocaba en el cent"
+    },
+    {
+      "titulo": "Recomponerse tras el shock",
+      "url": "https://www.eldiario.es/andalucia/desdeelsur/recomponerse-shock_132_13629577.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-06T21:22:13.000Z",
+      "imagen": "https://static.eldiario.es/clip/d635bd26-68bf-4d92-b221-0cb9d5b76c0e_16-9-discover-aspect-ratio_default_0_x1284y1132.jpg",
+      "resumen": "La tragedia del accidente de trenes deprimió al país e hizo asumir, casi como inevitable, la derrota progresista en las generales. La vida, con sus giros de guión, no obstante, apunta hoy a la esperanza en la resistencia y el resurgir global de las izquierdas Las victorias histór"
+    },
+    {
+      "titulo": "Sánchez reinicia la campaña con la \"ejemplaridad\" de Puente como antítesis de la política de PP y Vox",
+      "url": "https://www.eldiario.es/politica/sanchez-reinicia-campana-ejemplaridad-puente-antitesis-politica-pp-vox_1_13644941.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-06T21:22:05.000Z",
+      "imagen": "https://static.eldiario.es/clip/b03c88bf-6188-405d-89ea-52f1337e4a0b_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "La estrategia electoral muta por la tragedia ferroviaria y el PSOE intenta buscar en la salida del ministro una épica que aplaque el derrotismo y movilice a los votantes de izquierdas desencantados La dimisión de Puente vuelve a cambiar el paso de la campaña Si las campa&ntilde;a"
     },
     {
       "titulo": "Misas y funerales: Sánchez, religioso por conveniencia",
@@ -18,12 +99,28 @@
       "resumen": "El presidente del Gobierno, Pedro Sánchez, no asistirá al funeral oficial en la Catedral de Toledo que se celebrará el 10 de noviembre por las víctimas del accidente ferroviario de Urda en el que fallecieron 69 personas. Así lo confirmó fuentes gubernamentales a ABC , aunque esta"
     },
     {
+      "titulo": "Sánchez alaba a Puente en su primer mitin tras la tragedia de Urda y lo opone con el PP: \"Ejemplo de dignidad que ellos no practican\"",
+      "url": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-06T19:42:40.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aee29a5ab49d2-31982566.jpeg",
+      "resumen": "El presidente del Gobierno ha definido al exministro de Transportes como un \"gran político\" tras su reciente dimisión por la tragedia ferroviaria de Urda."
+    },
+    {
       "titulo": "Sánchez alaba a Puente tras la tragedia de Urda y lo contrapone al PP: \"Ejemplo de dignidad que ellos no practican\"",
       "url": "https://www.20minutos.es/nacional/sanchez-alaba-puente-su-primer-mitin-tras-tragedia-urda-un-ejemplo-dignidad-que-oposicion-no-practica_7058402_0.html",
       "fuente": "20minutos",
       "fecha": "2026-11-06T19:42:40.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aee29a5ab49d2-31982566.jpeg",
       "resumen": "El presidente del Gobierno ha definido al exministro de Transportes como un \"gran político\" tras su reciente dimisión por la tragedia ferroviaria de Urda."
+    },
+    {
+      "titulo": "Por qué el AVE ha sido crucial para el progreso de Ciudad Real en 35 años y cómo puede truncarlo la tragedia de Urda",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/ave-sido-crucial-progreso-ciudad-real-35-anos-truncarlo-tragedia-urda_1_13643929.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-06T18:40:04.000Z",
+      "imagen": "https://static.eldiario.es/clip/d8be3d1b-8c9e-4438-95c6-51e3bfd894d9_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "A las numerosas incidencias que los usuarios de este tramo denuncian desde hace años se suma ahora el corte de una línea para la que los ingenieros industriales de la provincia piden una “auditoría de abajo a arriba” ante un sistema que consideran “quebrado” Los usuarios del AVE "
     },
     {
       "titulo": "Última hora de la actualidad política, en directo | Sánchez participa en el primer mitin tras el accidente ferroviario de Urda",
@@ -155,6 +252,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "Retiran otros tres vagones del accidente ferroviario de Urda, donde solo quedan tres más",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXJZdm82aFNLU0dXY3M2eHNRd3JiODRoZVQ3VGNuMGxhd0NWVHJqQ2VzVUhyR0RTcmR6SGtMSW1HTEQya182T0JtY0gxMndyTnljOWg4RUZKMnNDQU5DNnhQSU1NaFRBSUc0cm42bEhha1NPSHpmLUtDU2pQRjAwUlpyaUdyUC02LVNUMWZuRzk1bXlLVFZjdnNQUGpzeEFzZURva1ZLa280MHB3VE5ady11Y1ZOQ1dkb2J4T0NQcDF3RmJGSUE?oc=5",
+      "fuente": "Diario de Santiago",
+      "fecha": "2026-11-06T09:39:57.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXJZdm82aFNLU0dXY3M2eHNRd3JiODRoZVQ3VGNuMGxhd0NWVHJqQ2VzVUhyR0RTcmR6SGtMSW1HTEQya182T0JtY0gxMndyTnljOWg4RUZKMnNDQU5DNnhQSU1NaFRBSUc0cm42bEhha1NPSHpmLUtDU2pQRjAwUlpyaUdyUC02LVNUMWZuRzk1bXlLVFZjdnNQUGpzeEFzZURva1ZLa280MH",
+      "idioma": "es"
+    },
+    {
       "titulo": "La Fiscalía Europea abre una nueva investigación por presunto fraude de fondos tras el accidente en Urda y acude a Adif",
       "url": "https://www.europapress.es/nacional/noticia-fiscalia-europea-abre-investigacion-posible-fraude-fondos-comunitarios-ave-accidente-urda-20261106102906.html",
       "fuente": "Europa Press",
@@ -272,6 +378,15 @@
       "fecha": "2026-11-06T04:30:01.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT05PZmJoSjBidENSMi1fT0gwc3JuR1N4THZ3MElxMnpDeTF0eHV5QzhHN0ItRHBQZ2h1NEVFSGc3V0hoTDVDcGtYUDRTTmc0Y1pCdlBWSEVMOEdsZzBRTlFtcGFjZkh3ekVtcXhpRU9sNzBvVW1XQ3piaVJHblhubl84OTlZUXluN2w3N2dsMml5MTA1VjZJTVU5TmJXWlUxNXkwU3NGNnN6ZW",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Trenes parados cada cinco días en la línea Madrid-Andalucía por las caídas en el sistema de seguridad LZB, que falló en Urda",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEZSLUhWN2lWYXR1bnZDRjJLNGI2dTNUZUZEVjgxN0s4Z1JZRlRsdUZBNzdKbVdIMWRJcXZETmp6NTA1SUZ4a3pTa1VyTVoyc2tjcFg0X2VJSE93WVB4NUJwem0yeFdJX0lWSzh1YUZBNFNiZGZnQjhKRzZjZGtkZDZtb1VHRG1TWmt1OUtqcm5xTm90U0FiNFp2RHEwLXNyTHFQaWdOdHc2NjJ6MC1kaE9Pa2h0THlLQ1hLLUxUa2FTZmR0d29EczBtQzRWSUNWN1l6aUJqdmlEX1JkVDRnZkFlVTN4U3dYeTRpYk51SVp4SzBfZDBMTkdn0gGOAkFVX3lxTE1jTVV5UXZLMEZ1bXVFVk5HaU1EY2lRbmh5aFFUN2FaYmRfdWRDNWZCellLQ2ZIVVpYLVZDNC1rZGM4Mk5MbXhaSldWWGRzX21PWFlELWJPbUpQc2wxdkNiSHVVUFpVa2VFanNNRTJiZUdOUVE2OUFERjZ4c0MyZDlCQi1ONE92VmtIbm9RODVBc185UHowM1FJRktzc05PUXp2Y1Jtbjl0N2hZYXZ2VDh5TFM4QWNlRGdxUGVQcDFBd3ZDd1BHZ0JZNFVHclY4UmZrZFVfc3RwQlExb3ljN21OOXNndEVYVEprT0VwLXI5T0RYYWFobWdpZzZ0VVFwdzdTUkJZaU5RY29vNEJUQQ?oc=5",
+      "fuente": "La Razón",
+      "fecha": "2026-11-06T02:45:15.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNWEZSLUhWN2lWYXR1bnZDRjJLNGI2dTNUZUZEVjgxN0s4Z1JZRlRsdUZBNzdKbVdIMWRJcXZETmp6NTA1SUZ4a3pTa1VyTVoyc2tjcFg0X2VJSE93WVB4NUJwem0yeFdJX0lWSzh1YUZBNFNiZGZnQjhKRzZjZGtkZDZtb1VHRG1TWmt1OUtqcm5xTm90U0FiNFp2RHEwLXNyTHFQaWdOdHc2Nj",
       "idioma": "es"
     },
     {
@@ -556,123 +671,6 @@
       "fecha": "2026-11-05T04:30:01.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/DO4RJWP2SZBKNDHNBYL5IIQ4OA.jpeg?auth=25f480f0fc11e49bd88847d65b8ac3550c9aab0a74cb467752d3ce89ad3a44c5",
       "resumen": "Una de las mejores científicas españolas, Marta Shahbazi, murió en la colisión de trenes en Urda. Su directora de tesis recuerda que “tenía una curiosidad que parecía no agotarse nunca, pero también una cualidad menos frecuente: sabía qué hacer con ella”"
-    },
-    {
-      "titulo": "LZB, ERTMS y CDI 113 + 200: una semana descifrando los 17 minutos del accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1pTV0JqS0xFSFhtNXFmd3hHMnlNajZiV3l0WkgzRVlvMnpITWQ4ZmpJUnczVzgxTWo0U1pDVGtNLUpVY0FvRUl0Sy1HUHZubVFvUE5vdUs5NmVxV0hmMkxPb1Y3RFdmUDhzclY4TXY5bW1YVl9hcHkzY014ZENGQU5scFhxMTN0bVdEVjlZT1JPRVA4d0VyaVIwWk9HMnFGVHVGS1pYclRpeFc1MGduTEJqeU1ra0JZWXlfQVJRd0lzS0nSAdcBQVVfeXFMTjhBWnY4ckd4S2hYNGhDMVU3R29YaVdkdFJPbWlPQm5qT05EWTBKa2ZwV0NNSXI3Q0N2OUJfRV9hTllacFdQS2V3bE9BMS1sSVd1UVFSemtPaGhGdm9lYThULWkwOS16aVM4TS05b2tGUXJOWHhRNUNXZEdSNlo3c0tZczRva2lqbVJ5Y0hKSnVObTJhUHJMY2VEMHBKc0ZnNG1HSUhTM0htV01SUE1GTHpBQ3d1R09TVlQzb1Z5a3lKYkdFSkw1NUhhbGpFU1VYRmhodVItWm8?oc=5",
-      "fuente": "EL PAÍS",
-      "fecha": "2026-11-05T04:30:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN1pTV0JqS0xFSFhtNXFmd3hHMnlNajZiV3l0WkgzRVlvMnpITWQ4ZmpJUnczVzgxTWo0U1pDVGtNLUpVY0FvRUl0Sy1HUHZubVFvUE5vdUs5NmVxV0hmMkxPb1Y3RFdmUDhzclY4TXY5bW1YVl9hcHkzY014ZENGQU5scFhxMTN0bVdEVjlZT1JPRVA4d0VyaVIwWk9HMnFGVHVGS1pYclRpeF",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El PSOE se aferra a la dimisión de Puente y al cese del presidente de Adif para reflotar la campaña",
-      "url": "https://www.abc.es/espana/psoe-aferra-dimision-puente-resetear-campana-20261105012723-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-05T00:27:46.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/05/1512539653-RP2YlMJZPmpoNtFak6LGfnK-1200x840@diario_abc.jpg",
-      "resumen": "Hace una semana que el trágico accidente ferroviario de Urda (Toledo) sumió en la conmoción a toda España y dio un vuelco al tablero electoral. El 'shock' inicial fue mudando en preocupación y desasosiego en los centros de poder socialista, que —hasta ese momento— exhibían un ind"
-    },
-    {
-      "titulo": "La zona del accidente de Urda ha registrado 14 incidencias desde Adamuz, casi el 8% del total de la alta velocidad",
-      "url": "https://www.abc.es/economia/zona-alrededor-accidente-urda-concentra-incidencias-alta-20261105012621-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-05T00:26:21.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/05/accidente-urda-RlEEOj2YaoHPSdpSJ4DLkiL-1200x840@diario_abc.jpg",
-      "resumen": "Lo ocurrido en Urda el pasado 28 de octubre todavía está por investigar. Audios, cómo falló la seguridad de LZB, cómo cayeron otros sistemas… una concatenación de eventos que depararon en la tragedia entre el AVE de Renfe y el Iryo . Pero echando la vista atrás, los números evide"
-    },
-    {
-      "titulo": "Granada se queda sin vuelos de refuerzo a Madrid tras el accidente de tren en Urda",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFA4bnE0NWtST0phOVZDdjFJbUlDYS13ZFlCNVM2NkJpaDVZRE1RTDBnZ2NFZUZvSEc4RHJ4WmhkREpobWFxdkxrUzgwMjBYMzV6dlZJelpEU3VpWkZMUzJOelZSZ0prQ0dvUWc1NlZaQ1ZsQTg3S3h2X0w0T1VQdWdOQl9nZWxiR2w0emVGRmUzX2xfMUtCeVFjUDlfQ2FzSC1V0gGoAUFVX3lxTFBPNDE4RU9ha0dpb1Rza3NTVEplaXhqNHV5aUsxalA0ZDVvOW13S0hqcFVmYWpxTVVyTFFmelBjUWN4ZzBkOGNwbjRxWnlkYk5PQmk4LXJwNkVqTHdXLTJ6cWRsSERqT3dyb2JXV3lYV2dQeWliU2kyZlBzX0Y1VWRhc21rZU9vaTZWV2MwMzc4WlJlUTc2SDhNTWRzakdnZHN3V0RaaGdyVQ?oc=5",
-      "fuente": "Ideal",
-      "fecha": "2026-11-04T23:10:51.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNFA4bnE0NWtST0phOVZDdjFJbUlDYS13ZFlCNVM2NkJpaDVZRE1RTDBnZ2NFZUZvSEc4RHJ4WmhkREpobWFxdkxrUzgwMjBYMzV6dlZJelpEU3VpWkZMUzJOelZSZ0prQ0dvUWc1NlZaQ1ZsQTg3S3h2X0w0T1VQdWdOQl9nZWxiR2w0emVGRmUzX2xfMUtCeVFjUDlfQ2FzSC1V0gGoAUFVX3",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Los maquinistas reclamaron la \"intervención de la UE\" para \"proteger la vida\" de los usuarios del AVE: \"Existe un deterioro de las condiciones de seguridad\"",
-      "url": "https://www.elmundo.es/cataluna/2026/11/04/6aeb6df4fdddffb96a8b4594.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-04T21:41:46.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938139662017.jpg",
-      "resumen": "En marzo, tras el accidente de Adamuz, elevaron una queja al Parlamento Europeo en la que pedían a Europa \"amparo\" y que \"tutelase\" al Gobierno Leer"
-    },
-    {
-      "titulo": "Reacciones a la dimisión de Óscar Puente, en directo: El presidente de Adif, Luis Pedro Marco de la Peña, presenta su dimisión a Carlos Cuerpo tras el accidente ferroviario de Urda",
-      "url": "https://www.infobae.com/espana/2026/11/04/reacciones-a-la-dimision-de-oscar-puente-en-directo-ultima-hora-del-accidente-de-urda-y-las-elecciones-generales-en-espana-el-29-n/",
-      "fuente": "Infobae",
-      "fecha": "2026-11-04T20:50:19.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/ZURINEYZEFGX5HHOZWAJI5OXJU.jpg?auth=2ce65ddba6c9bba8699387a3dfd2e7a4c91bbf3821f67a6d7309adf95cdf416c&smart=true&width=1920&height=1341",
-      "resumen": "El ministro anunció su dimisión ayer, casi una semana tras el alcance de trenes. Este miércoles, Feijóo y Abascal, que según todas las encuestas previas al siniestro podrían formar gobierno, continúan con sus agendas públicas con entrevistas, encuentros con medios y mítines"
-    },
-    {
-      "titulo": "El Rey defiende la fórmula de las cumbres iberoamericanas «como contrapunto a las tensiones y rivalidades» en América",
-      "url": "https://www.abc.es/espana/rey-defiende-formula-cumbres-iberoamericanas-contrapunto-tensiones-20261104200849-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-04T20:32:09.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/04/cimera-U20609936686vqB-RlKPs6mexWpDcG4TTkaOIrM-1200x840@diario_abc.jpg",
-      "resumen": "Primero, un minuto de silencio.Y como no podía ser de otro modo, Su Majestad el Rey comenzó su discurso de inauguración de la XXX Cumbre Iberoamericana, en el Teatro Real de Madrid, con un sentido pésame por las víctimas del accidente ferroviario e Urda, a cuyo funeral asistirán "
-    },
-    {
-      "titulo": "Dimite el presidente de la empresa pública ferroviaria española Adif tras el accidente",
-      "url": "https://www.infobae.com/america/agencias/2026/11/04/dimite-el-presidente-de-la-empresa-publica-ferroviaria-espanola-adif-tras-el-accidente/",
-      "fuente": "Infobae",
-      "fecha": "2026-11-04T20:16:45.000Z",
-      "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
-      "resumen": ""
-    },
-    {
-      "titulo": "Spanish rail infrastructure chief steps down after Toledo train crash",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFQ3ZktUd3FzcEhGU3JVdUZsVHgzQUFzOXZRTEN1YXV4b3QwanhCeXg2MlF2a3FPbWxhX01UV0p6bHV5T2NBRExVcmFPV2k1VU9SR3VIN1BpUkRLNUtGOFJEaDNBTjgwR3dSVjlSMmZOVFVwUGlEWGEtZ0puUVdoQ2dFbHpxejFzSkFvNlN4MTdBeWQ0Q2RQU0xpQllnNFJCVVl5c053?oc=5",
-      "fuente": "POLITICO.eu",
-      "fecha": "2026-11-04T19:42:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPRFQ3ZktUd3FzcEhGU3JVdUZsVHgzQUFzOXZRTEN1YXV4b3QwanhCeXg2MlF2a3FPbWxhX01UV0p6bHV5T2NBRExVcmFPV2k1VU9SR3VIN1BpUkRLNUtGOFJEaDNBTjgwR3dSVjlSMmZOVFVwUGlEWGEtZ0puUVdoQ2dFbHpxejFzSkFvNlN4MTdBeWQ0Q2RQU0xpQllnNFJCVVl5c053?oc=5\"",
-      "idioma": "en"
-    },
-    {
-      "titulo": "Entregados a sus familias los cuerpos de 65 de los 69 fallecidos en el accidente ferroviario de Urda",
-      "url": "https://www.20minutos.es/nacional/entregados-sus-familias-los-cuerpos-65-los-69-fallecidos-accidente-ferroviario-urda_7057363_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-04T19:17:55.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/02/6ae9123a141e75-81506369.webp",
-      "resumen": "Todas las víctimas mortales, 40 hombres y 29 mujeres, han sido identificadas y sus familias notificadas. Entre los fallecidos hay 54 españoles y 15 extranjeros."
-    },
-    {
-      "titulo": "Dimite el presidente de Adif una semana después del accidente de trenes en Toledo",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0x0R1RkUjVaTkhJb05GUkJGcS1tNnJweUszc21qVmY1RG1hb2M3S19NSDFEeWhndlhJMEFHQnUtUkp3cm14bWxYWWdZOUVWTEZQZ3J5ZkxKWExwY1dnUF9XTzlXSkxyX0VoMTJsd2JtYzNnZzcxbjRsSnVTTWIyYUZ0SnJXN3VBMXllRU5JeVkta29ZcGdYLUdoQTVNZGx0SlhWaXplZkJQX3c?oc=5",
-      "fuente": "Diari ARA",
-      "fecha": "2026-11-04T19:14:30.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0x0R1RkUjVaTkhJb05GUkJGcS1tNnJweUszc21qVmY1RG1hb2M3S19NSDFEeWhndlhJMEFHQnUtUkp3cm14bWxYWWdZOUVWTEZQZ3J5ZkxKWExwY1dnUF9XTzlXSkxyX0VoMTJsd2JtYzNnZzcxbjRsSnVTTWIyYUZ0SnJXN3VBMXllRU5JeVkta29ZcGdYLUdoQTVNZGx0SlhWaXplZkJQX3",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Dimite el presidente de Adif un día después de la renuncia de Puente por el accidente de Urda",
-      "url": "https://www.20minutos.es/nacional/dimite-presidente-adif-un-dia-despues-renuncia-puente-por-accidente-urda_7057308_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-04T18:39:25.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/04/27/69ef7fae427a09-27196336.r_d.722-868-6400.jpeg",
-      "resumen": "Marco de la Peña ha puesto su cargo a disposición de Cuerpo en una reunión este miércoles a la que también ha sido convocado el secretario de Estado de Transportes, José Antonio Santano. El vicepresidente primero ha aceptado su renuncia."
-    },
-    {
-      "titulo": "Adif advierte de que la vía en el punto del siniestro de Adamuz vuelve a presentar deformaciones",
-      "url": "https://elpais.com/espana/2026-11-04/adif-advierte-de-que-la-via-en-el-punto-del-siniestro-de-adamuz-vuelve-a-presentar-deformaciones.html",
-      "fuente": "El País",
-      "fecha": "2026-11-04T18:20:25.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/7M64T6RGTVG2XDHJ5YGITKVENA.jpg?auth=73ba760b3475457e4463f1f516ea97710dfdfc3625506a9e5f93bceacc1ab0e9",
-      "resumen": "Los peritos judiciales recelan de que el administrador ferroviario vuelva a realizar labores de mantenimiento justo en la zona que fue reconstruida por el accidente y con la obra en garantía"
-    },
-    {
-      "titulo": "Ouigo extiende su cancelación de trenes entre Madrid y Andalucía hasta el 15 de noviembre por el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2RrSENxM0pNZU5ZOU9RZVp6YzFhNk43OUxja3FsbUxvOHlqTU84LWpEdnNYX1dZYWtaSXl6MHB3Zk9lcGhWT0dCTlFTQm1kc0YtSTVUa2tIbi1pcmNwYWI2R3QxS1dPLVNpRFYtUHNOaTAzS3dpZUNSV1ZvRlRaVU1mQlJqa0luQUhNeS03TjVIS0xJaU5QYm1KT3pFMzdGTENkeWMybUdwaEs2YmlYc05wd1VMWXRfcjJKeFEzbnVRSThUWk1ZOVhmRmJQckQ5TGoyMUhyVU04UHRhWS11RVNB0gH2AUFVX3lxTE9VaFlucVdYbVlPSU03aWlQa2FyS0hScEw5bVEwRTgzR3EybjAtU3BIQTltTkJPanN5Z3ExLU15Tm53dFhfOXZlajNpekhHelQtX19reC1wZmdQUmVyQ2txcUc5UVNSUjNGNHVSenFIeFNaeEtaNFdaU0lpeXJVVE00SGtCRTBxd2lpclB1WWdNNGk3TTk3d2ZRMkVWeFNQaG9TbmFwQThtX095cmctb1lGQU9tM1BxX1N5Tm15bHgyXzJ0YW1Nc1FyaDZFUkNjNU84cGdPNkVlQmJFeS1pVHA3UTVXQlZOQmpraHYtYXlHaHlyeUw4QQ?oc=5",
-      "fuente": "La Razón",
-      "fecha": "2026-11-04T17:50:55.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa2RrSENxM0pNZU5ZOU9RZVp6YzFhNk43OUxja3FsbUxvOHlqTU84LWpEdnNYX1dZYWtaSXl6MHB3Zk9lcGhWT0dCTlFTQm1kc0YtSTVUa2tIbi1pcmNwYWI2R3QxS1dPLVNpRFYtUHNOaTAzS3dpZUNSV1ZvRlRaVU1mQlJqa0luQUhNeS03TjVIS0xJaU5QYm1KT3pFMzdGTENkeWMybUdwaE",
-      "idioma": "es"
     }
   ],
   "videos": [
