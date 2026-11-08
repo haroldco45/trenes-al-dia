@@ -1,6 +1,22 @@
 {
-  "actualizado": "2026-11-08T18:59:36.815Z",
+  "actualizado": "2026-11-08T22:49:10.154Z",
   "noticias": [
+    {
+      "titulo": "Al menos siete muertos y 112 heridos tras descarrilar un tren en Guiza (Egipto)",
+      "url": "https://www.abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-08T19:43:37.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/08/tren-egipto-RuOE3ikZ9bCsKOdZV14ZGiK-1200x840@diario_abc.jpg",
+      "resumen": "Al menos siete personas han muerto y 112 han resultado heridas después de que varios vagones de un tren de pasajeros volcaran en la línea ferroviaria que conecta El Cairo con Asuán , a la altura del cruce de Jarza, en la gobernación egipcia de Guiza, según ha informado el Ministe"
+    },
+    {
+      "titulo": "Un choque de trenes en Egipto deja al menos siete muertos y más de un centenar de heridos",
+      "url": "https://www.20minutos.es/internacional/choque-trenes-egipto-muertos-heridos_7058744_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-08T19:24:36.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/08/6af0cce945cbc4-81734995.webp",
+      "resumen": "El accidente se produjo en la línea ferroviaria que conecta El Cairo con Asuán, cuando dos trenes colisionaron y varios vagones descarrilaron."
+    },
     {
       "titulo": "La caja negra del Iryo revela que el choque movió la cola del tren a 47 km/h",
       "url": "https://www.lavanguardia.com/vida/20261108/11679339/caja-negra-iryo-revela-choque-movio-cola-tren-47-km-h.html",
@@ -34,6 +50,14 @@
       "fecha": "2026-11-08T15:39:58.000Z",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/08/tren-egipto-RuOE3ikZ9bCsKOdZV14ZGiK-1200x840@diario_abc.jpg",
       "resumen": "Al menos cuatro personas han muerto y 88 han resultado heridas después de que varios vagones de un tren de pasajeros volcaran en la línea ferroviaria que conecta El Cairo con Asuán , a la altura del cruce de Jarza, en la gobernación egipcia de Guiza, según ha informado el Ministe"
+    },
+    {
+      "titulo": "Al menos siete muertos y 125 heridos por la colisión de dos trenes en la provincia egipcia de Giza",
+      "url": "https://elpais.com/internacional/2026-11-08/varios-muertos-y-heridos-por-la-colision-de-dos-trenes-en-la-provincia-egipcia-de-giza.html",
+      "fuente": "El País",
+      "fecha": "2026-11-08T15:30:45.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YT6QOCNUONEQ3CRQPTCJTBXD7A.jpg?auth=dceead1894706ebffd5206a02e3b7668aa9cab2934b9742c5b9e9810e3d2ee59",
+      "resumen": "El Gobierno egipcio informa de que el número de víctimas podría aumentar a medida que avancen las labores de rescate"
     },
     {
       "titulo": "Al menos cuatro muertos y 88 heridos por la colisión de dos trenes en la provincia egipcia de Giza",
@@ -652,36 +676,15 @@
       "fecha": "2026-11-06T09:19:50.000Z",
       "imagen": "https://static.eldiario.es/clip/35bf9482-2864-409f-8508-fd029fe984ff_16-9-discover-aspect-ratio_default_0.jpg",
       "resumen": "Agentes de la UCO se han personado para requerir información en la sede del Administrador de Infraestructuras Ferroviarias (ADIF), en la Agencia Estatal de Seguridad Ferroviaria (AESF) y en el Tribunal de Cuentas en España La Fiscalía Europea investiga una posible malversación de"
-    },
-    {
-      "titulo": "Hospitales de Madrid atienden a 18 heridos por accidente ferroviario en Urda, dos en UCI",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaEZjeVV3cTJQNWtNMVVUdDBVV1Ytc2Nra0ZnWEVYVEd5OGdLYWtqVEFMRnZMU3BjVDFoYXR5S2loaWY5Z19PS25ieUpERlVXV1Zld3NfMlg1ZFdZbDk1eDdWd1lMUU1rbjJ2M0FJSlM0bUl3RWowQW1nYU45T1ZpenFsSTF4SlBXZGl4MkcwS0NLemJ3X3MteXEzblFyZ3VDVHhlMkFydkJyRUdKRVV3NmotTENReVB4MGI5YjZ5TlRGNTY1S1N5bHpqWk5ZSGQzR3F3Z3dqZjkxU3pZN3g0SDBJWGJHN1RIWWNqMU9EZ9IB9AFBVV95cUxOX2ZYYThabzUwZGZWUXdkelc5Zm04TTA5NUdnRXl6OHd0anNVc1dZVkM4ZFNMa29wZDZRWjVwYXIweVJLWGswVWhQbDJxd3pJT1Jaa29tTHVSaGphQjF4ZTdwZDlIWmh4SjlpZ09qMy1FQURrLVplNGRDeHU2OEdrZHVnRFdfWkw2TGgtazNzb3NmcWFfX3U3Q0Z6X0F4WUp6eThFVGI1Q05DM2tGM3YwZGZFVmRuNl9UZEVGbGhhRlFFQXdTQ09sQmxHMmVUeHBXZVJhSE0zSncwbXk4aXV4V1dVV2lHQVZ1R2oxLW1uSnNibng1?oc=5",
-      "fuente": "Diario en Positivo",
-      "fecha": "2026-11-06T09:19:30.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaEZjeVV3cTJQNWtNMVVUdDBVV1Ytc2Nra0ZnWEVYVEd5OGdLYWtqVEFMRnZMU3BjVDFoYXR5S2loaWY5Z19PS25ieUpERlVXV1Zld3NfMlg1ZFdZbDk1eDdWd1lMUU1rbjJ2M0FJSlM0bUl3RWowQW1nYU45T1ZpenFsSTF4SlBXZGl4MkcwS0NLemJ3X3MteXEzblFyZ3VDVHhlMkFydkJyRU",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La Fiscalía Europea lanza una operación con la UCO por los contratos de Adif tras el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0c5OWlZUkMyVktHR0ZaS2psLUJ4N1BoQkJvY0JlcTlQOVlZd005SVc3UDdId1hxaTctSnRKeTR0TTlpUnBHNTVWRkFLNmNncktvc2E4LXMwM0dCNjNXNldGaGZCZEhEMEJqblBUVDJ3VW5VU2dsbjVER3lrZ0JvUVE5NmpXMnJFTmN5TnMtOFl3ODdwQUw1YlFtR282TUdGeVFVVE9TbTFwd0lEWGQzR2g0aGYyekpzSl91N0k1VVfSAcYBQVVfeXFMTm1famFNTWducDM0M2toMW1naHFUS0szRElodGNFZTRqUHRJNFNlX2VBX05sRHpLYzJvSjNYQjdiZmJ4NVB2bW1xbHNSRzlDRjg0QlF3dGN1OUF6ei03MUJWTFJqc3hIZWhYd25EMGJJYlU3T1lJUlhaeW9pNHlScVVobDF5SHQ1SUdtY1FWQmJLbHZqVXZrZi1vczhjaEdSNkNqU1N6QWtoV1VZS2JmLWtLdDB5bHFZYkgwNTBYck55RWtmZFpn?oc=5",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-06T09:16:26.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0c5OWlZUkMyVktHR0ZaS2psLUJ4N1BoQkJvY0JlcTlQOVlZd005SVc3UDdId1hxaTctSnRKeTR0TTlpUnBHNTVWRkFLNmNncktvc2E4LXMwM0dCNjNXNldGaGZCZEhEMEJqblBUVDJ3VW5VU2dsbjVER3lrZ0JvUVE5NmpXMnJFTmN5TnMtOFl3ODdwQUw1YlFtR282TUdGeVFVVE9TbTFwd0",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La Fiscalía Europea abre una investigación por fraude de fondos UE en la seguridad del AVE tras el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEJHTFZLQ1dBbnJTQnhrMElGekM0OHVKUndxdzhIQV9XWnc5MWN6cnFOc2dzbU1Qb0dJVHFEVFJuVDNxcUdtY1AxeXEzQkNCRUgyNnV6dUlSMlB2YmZ1Vzdla0UxYkg1UFZJcWE5T3h3Q3BJdDJXbGw3OUdjQWRkWUF0eEZZVjhHS2RuSVNWV2RNVkdER0pKVDA2b0VWcXB1U3RfaUxQRHBEWU5iZUc1VXBwaVRMUnhpZHFkbXdlRnJVRTNHNWtaVHk1N2ZUcERybzkxdXE5eExTaVdJNG9xbjRXMkV4d1XSAewBQVVfeXFMT09LTEF4UGF5S1hXNGFrNFlBMVBYRWk3WW4tdG5tUUYzc2hUUU5xZkRKb2U5Tmd6eWd0cFZtbHVfMU9XRGJoOTl4aDlLak5zYVhzV2k0YXB6bHN5UzdkQWpSZFpIT0xMZjBQbThHd1dueXY5SWtMb2M2ei1VeGIwaU5yVmVtRXhheEZaVS0tLURBWF80NmJTaGxlRkpDRE16UVBrSTZXQnJFSzQ0XzB5d09TWlBZVXR2cTlWRUhyNDgtTU5SWnN4TE9qcldZaWpuYWFPcEJKbHBBVS1YT1E4YnFab0FISGVLT0U0QzU?oc=5",
-      "fuente": "El Español",
-      "fecha": "2026-11-06T09:14:28.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEJHTFZLQ1dBbnJTQnhrMElGekM0OHVKUndxdzhIQV9XWnc5MWN6cnFOc2dzbU1Qb0dJVHFEVFJuVDNxcUdtY1AxeXEzQkNCRUgyNnV6dUlSMlB2YmZ1Vzdla0UxYkg1UFZJcWE5T3h3Q3BJdDJXbGw3OUdjQWRkWUF0eEZZVjhHS2RuSVNWV2RNVkdER0pKVDA2b0VWcXB1U3RfaUxQRHBEWU",
-      "idioma": "es"
     }
   ],
   "videos": [
+    {
+      "id": "y7Fd7Q8PMWk",
+      "titulo": "Accidente ferroviario en Egipto deja al menos siete muertos | RTVE Noticias",
+      "canal": "RTVE Noticias",
+      "fecha": "2026-11-08T21:16:41+00:00"
+    },
     {
       "id": "nYvwP_vrWp8",
       "titulo": "Al menos cuatro muertos por la colisión de dos trenes en Egipto, Giza #shorts",
@@ -819,12 +822,6 @@
       "titulo": "Un guardia civil relata el rescate de la única superviviente del vagón 8 en los trenes de Toledo",
       "canal": "El Mundo",
       "fecha": "2026-10-31T17:09:28+00:00"
-    },
-    {
-      "id": "seWUXoDlcmA",
-      "titulo": "Avanza la investigación del accidente ferroviario | RTVE Noticias",
-      "canal": "RTVE Noticias",
-      "fecha": "2026-10-31T16:20:21+00:00"
     }
   ]
 }
