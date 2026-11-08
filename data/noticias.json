@@ -1,6 +1,66 @@
 {
-  "actualizado": "2026-11-08T14:12:58.558Z",
+  "actualizado": "2026-11-08T18:59:36.815Z",
   "noticias": [
+    {
+      "titulo": "La caja negra del Iryo revela que el choque movió la cola del tren a 47 km/h",
+      "url": "https://www.lavanguardia.com/vida/20261108/11679339/caja-negra-iryo-revela-choque-movio-cola-tren-47-km-h.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-08T18:01:15.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/29/6ae35b0271a41.jpeg",
+      "resumen": "La maquinista se intentó poner en contacto con el jefe de tripulantes del tren, que no le respondía. Seis minutos después, todavía no lo hacía"
+    },
+    {
+      "titulo": "El impacto del AVE en Urda hizo que el tren Iryo se desplazara a 47 km/h en tres segundos, según la caja negra",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGtPTXdEVm1kQVVEaU9ObFd1UHc3elJ1ZXVXejJUUGFfM1Bad1I1UXFRcFJ3U3BjbGZPNnJVckx2R2FMVGMtZ0hKay1sNG1hQ3JKTEphOUVsYkhZZFFGZlljU2VJY2hTc19ISVdhdEdxN0djVmhiN3l3UURzSlFOd3k1U3pNS29ZdTM4NEpTVFphMHlwbGY5UGNfc3prLXRyQi1kTWZUdi0zV1hqUzJsdFJCRlpQZ3ZiVXNPTkE4T2ZyczJQdHfSAcsBQVVfeXFMT2lMX08zVnFCNkYyNUgzVEJYWEloMC1rM3BaeV9qZGlMc1lTNzR0UElNM3NRT3hKb3FmVlVXem05ZnJMWG9nd0Q5UHBBWmU3b2NqbWUzUjJPc1VaNjNSN05CSjhlVWhpYThrcW45RU42Y0M2UWM4QkRRMmZlTDZjYXRycHlFeFlfMUJhMzhaeXNoSDFSNkthOW1TRGpHanlxckZNdUZvS1F2YmhCRzVSU29wcnRmZGlGbTZMUEFjN0JSZjF0ZmI1LXZLSnc?oc=5",
+      "fuente": "Diari de Tarragona",
+      "fecha": "2026-11-08T17:57:17.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOZGtPTXdEVm1kQVVEaU9ObFd1UHc3elJ1ZXVXejJUUGFfM1Bad1I1UXFRcFJ3U3BjbGZPNnJVckx2R2FMVGMtZ0hKay1sNG1hQ3JKTEphOUVsYkhZZFFGZlljU2VJY2hTc19ISVdhdEdxN0djVmhiN3l3UURzSlFOd3k1U3pNS29ZdTM4NEpTVFphMHlwbGY5UGNfc3prLXRyQi1kTWZUdi0zV1",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Silencio desde Atocha: lo que la caja negra del Iryo destapa sobre el choque de Urda",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2Y4WGtHWmZpTG9JOGZvbk8yV013NzhReHdQenVYNVAxYWZWQ1Zyam9TRVZWbDJFaUdpeGp5MmZsRXZNbXNSZ1BmM3hYWEhHcjZzNU1EbVFfaTNIQ0FvdVJXUmdGVXNmUURydHd0eGJhWC1Rd2hfYzNZWjJzOVJzRFdNTVEyOHhJM1ptbzdKNUc4eDY4OGlXX0c3LU1Dell0SzFyV0RITk1nT0Q3Rkg4UUpZMmZSQnk1cTIwQWFfWUhRS0R0YnhBdlFUdHJqUkpfWE5KQm1hZmlianN4TEE?oc=5",
+      "fuente": "MUNDIARIO",
+      "fecha": "2026-11-08T16:06:49.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPU2Y4WGtHWmZpTG9JOGZvbk8yV013NzhReHdQenVYNVAxYWZWQ1Zyam9TRVZWbDJFaUdpeGp5MmZsRXZNbXNSZ1BmM3hYWEhHcjZzNU1EbVFfaTNIQ0FvdVJXUmdGVXNmUURydHd0eGJhWC1Rd2hfYzNZWjJzOVJzRFdNTVEyOHhJM1ptbzdKNUc4eDY4OGlXX0c3LU1Dell0SzFyV0RITk1nT0",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Al menos cuatro muertos y 88 heridos tras descarrilar un tren en Guiza (Egipto)",
+      "url": "https://www.abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-08T15:39:58.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/11/08/tren-egipto-RuOE3ikZ9bCsKOdZV14ZGiK-1200x840@diario_abc.jpg",
+      "resumen": "Al menos cuatro personas han muerto y 88 han resultado heridas después de que varios vagones de un tren de pasajeros volcaran en la línea ferroviaria que conecta El Cairo con Asuán , a la altura del cruce de Jarza, en la gobernación egipcia de Guiza, según ha informado el Ministe"
+    },
+    {
+      "titulo": "Al menos cuatro muertos y 88 heridos por la colisión de dos trenes en la provincia egipcia de Giza",
+      "url": "https://elpais.com/internacional/2026-11-08/varios-muertos-y-heridos-por-la-colision-de-dos-trenes-en-la-provincia-egipcia-de-giza.html",
+      "fuente": "El País",
+      "fecha": "2026-11-08T15:30:45.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/YT6QOCNUONEQ3CRQPTCJTBXD7A.jpg?auth=dceead1894706ebffd5206a02e3b7668aa9cab2934b9742c5b9e9810e3d2ee59",
+      "resumen": "El Gobierno egipcio informa de que el número de víctimas podría aumentar a medida que avancen las labores de rescate"
+    },
+    {
+      "titulo": "La caja negra del tren Iryo revela los minutos previos al choque que dejó 69 muertos en España",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnRLeUUzMHp4Tlp1eENRbF9DZ2YzQnJfeUJZQWJiSnNxMTRYeEt6RkRpcVgwdTNMWEZ5cnJaM0owUXBmeDlDZTVJVDB1d0tZQmg5RUZobEV5MURPS3Q5N3praVhseC01RUZQTlh0TTJYbkFrM0ZXN0lNaWI2TUdLTzI2U3lzd2h5Q1F3OC1IeGNXYnBkeGFlUG1hTzg1aGx5NnZ5bjA2ZHpJQ2tuVWJRa0lVd2JFeXhMb0hScG5ZdG1FUHc4RzVGOHJyblRRTllxcnItb2dKRm1wbUxiSWZiSg?oc=5",
+      "fuente": "Metro Ecuador",
+      "fecha": "2026-11-08T15:28:04.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQnRLeUUzMHp4Tlp1eENRbF9DZ2YzQnJfeUJZQWJiSnNxMTRYeEt6RkRpcVgwdTNMWEZ5cnJaM0owUXBmeDlDZTVJVDB1d0tZQmg5RUZobEV5MURPS3Q5N3praVhseC01RUZQTlh0TTJYbkFrM0ZXN0lNaWI2TUdLTzI2U3lzd2h5Q1F3OC1IeGNXYnBkeGFlUG1hTzg1aGx5NnZ5bjA2ZHpJQ2",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Accidente ferroviario de Urda (Toledo)",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmlnQnhTUy1WVWhRa0tjdS1uUEFHdllXNzlkd2lNLU5nSmJfa2tocldhMTFIQVhHOHVYRGxXdVBlbFpoUlVLa3NmUFFRcmFvMEZvbXdJSnRoZVI4T1lDV1UwNTMyTVFqQ0ZhTVVuVHNTY2lYR1RUZEV2NVF4WmRWam9yajRiQ29QQk1xQ3pCbDhUZHQ2bHRmZGdlZ18tQjdITHlMR1pfeTYzZTQ5SjVRZ3FJbG00dnFDZzF3WjdCaFR3eE8tRmZId2lVSQ?oc=5",
+      "fuente": "La Tribuna de Ciudad Real",
+      "fecha": "2026-11-08T13:54:28.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOVmlnQnhTUy1WVWhRa0tjdS1uUEFHdllXNzlkd2lNLU5nSmJfa2tocldhMTFIQVhHOHVYRGxXdVBlbFpoUlVLa3NmUFFRcmFvMEZvbXdJSnRoZVI4T1lDV1UwNTMyTVFqQ0ZhTVVuVHNTY2lYR1RUZEV2NVF4WmRWam9yajRiQ29QQk1xQ3pCbDhUZHQ2bHRmZGdlZ18tQjdITHlMR1pfeTYzZT",
+      "idioma": "es"
+    },
     {
       "titulo": "Al menos 64 heridos en una colisión entre dos trenes en la provincia egipcia de Giza",
       "url": "https://www.infobae.com/america/agencias/2026/11/08/al-menos-64-heridos-en-una-colision-entre-dos-trenes-en-la-provincia-egipcia-de-giza/",
@@ -33,6 +93,15 @@
       "fecha": "2026-11-08T12:53:48.000Z",
       "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/08/feijoo-malaga-mitin-RinGWitzQMHjb3G3qU3IDKN-1200x840@diario_abc.jpg",
       "resumen": "Alberto Núñez Feijóo ha pedido este domingo desde Málaga que los directos de Adif devuelvan las gratificaciones que ha cobrado tras el accidente de Urda (Toledo). «Dedicaré el dinero a cada traviesa, cada kilómetro de catenaria y a cada vía. A lo que no lo dedicaré es a pagar gra"
+    },
+    {
+      "titulo": "La caja negra del Iryo revela que la maquinista intentó contactar con Atocha varias veces antes del choque",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTllYlRpWnJkZFF5WXFydkpMMFJxWTNxZEZWUHZsQkl6RHpNdGYtWC0xY2hPUXU0NHZEdENUWmNpNG0yTDNqZEthbWhnZUUyVENyLUJBajgtWXFVd1YwQjJXdnppSUhoUzFROHVpUFlVczR3NElCSlVUdkhjUFQzMWFNc2NuRkk5WjdmLVM0eU9UWmdkTklNUkJrOEkxMlBFRG1vcTV3STBlYXhtNGNJTU9yZHFmRDFEdll1bkNEcUN4c3NvMHZLOFFZS1YxOFRXSkdPZFlNYw?oc=5",
+      "fuente": "Telecinco",
+      "fecha": "2026-11-08T12:18:31.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWTllYlRpWnJkZFF5WXFydkpMMFJxWTNxZEZWUHZsQkl6RHpNdGYtWC0xY2hPUXU0NHZEdENUWmNpNG0yTDNqZEthbWhnZUUyVENyLUJBajgtWXFVd1YwQjJXdnppSUhoUzFROHVpUFlVczR3NElCSlVUdkhjUFQzMWFNc2NuRkk5WjdmLVM0eU9UWmdkTklNUkJrOEkxMlBFRG1vcTV3STBlYX",
+      "idioma": "es"
     },
     {
       "titulo": "RTVE emitirá en directo el próximo 10 de noviembre el funeral por las víctimas del accidente ferroviario de Urda",
@@ -395,6 +464,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "La Fiscalía Europea abre otra investigación a España tras el accidente de tren de Urda",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQclhxUFZETDZsUmRzSlhjNjhlcTZXSVlGRWIxcE94MFI4SkE4VzZlTEFRQ1UzNnpnd3hCMFJ1Sk9jS0pTYUJpV2dXV0JCQjl5ZTYtY1lOU2RDM3djejAxZ0FwelhhYTFPa2ZVZndYd1QydV9yX2RueVUySHdXMUlVQXludjROQ3lZam1LNkRIQU9sMHNmLVZLajBlZ0w?oc=5",
+      "fuente": "Diariocrítico.com",
+      "fecha": "2026-11-06T13:30:55.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQclhxUFZETDZsUmRzSlhjNjhlcTZXSVlGRWIxcE94MFI4SkE4VzZlTEFRQ1UzNnpnd3hCMFJ1Sk9jS0pTYUJpV2dXV0JCQjl5ZTYtY1lOU2RDM3djejAxZ0FwelhhYTFPa2ZVZndYd1QydV9yX2RueVUySHdXMUlVQXludjROQ3lZam1LNkRIQU9sMHNmLVZLajBlZ0w?oc=5\" target=\"_bla",
+      "idioma": "es"
+    },
+    {
       "titulo": "El milagroso relato de la abulense que sobrevive al tren de Toledo: \"Tengo un ángel que me está cuidando\"",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQbkRMekxxV25ZbnJYNkZEV2g3ZUNJTnRkYnRMMjFIMFJ6MkppNzl2dlkwNEJ1eU44SmhBOUN5SmpqcDBDUm5yQ1VYMlFnb245VmF1UVRnTW03OEw5d0l4cnJDYTRDM01jeTRyNHRDUlJYS3MtclF3aGViMlhkUjNkNlRYUzk2TUVqT256QXVEdWVzb2lycl9pYXRicGUxeEZsVWsxTHExcDM3YklrVFVROWdoYjdWbG9LaHdWanJzaGRyX0F5bGlOMnlCNkpWN0NJR1JjQU54dVdhVVNmSVdJVVFEWVJWQUVOMUFZU2JWRlVNMnI1MFHSAfsBQVVfeXFMTTluQk1DbGx1YlhIb2l4ZlNjZ2xHanJQdGhFMWVyWDNkN0xFT1lHdWg1NFJ2Z3VjMWRCYlRtM3gtbE1CeGlGUmJyM3BiVkRvOURCSFNrT3M2VjdiMzJab0ZzbEcxbmJhLXZqRnRlbV9fNU9hc2lDUk92YW5hdVFCRjRkS2pIenhsZ2lZbGtOSXJSdXRybzdOaGxRVDF5Qll5T1VHaTFXd19VTkY1T0VkWkU2a0doUFVtcF84aTZFLW95bWVMUDVVUVNNTW5vLWhOZG5Nc25naDE4eVVTVTgwQ0JHbmNYTWJubXN0cjVRMWgyTUtkQy11anRwT2M?oc=5",
       "fuente": "COPE",
@@ -601,88 +679,21 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTEJHTFZLQ1dBbnJTQnhrMElGekM0OHVKUndxdzhIQV9XWnc5MWN6cnFOc2dzbU1Qb0dJVHFEVFJuVDNxcUdtY1AxeXEzQkNCRUgyNnV6dUlSMlB2YmZ1Vzdla0UxYkg1UFZJcWE5T3h3Q3BJdDJXbGw3OUdjQWRkWUF0eEZZVjhHS2RuSVNWV2RNVkdER0pKVDA2b0VWcXB1U3RfaUxQRHBEWU",
       "idioma": "es"
-    },
-    {
-      "titulo": "La Fiscalía Europea investiga un presunto fraude en las obras de la alta velocidad tras el accidente de Urda",
-      "url": "https://elpais.com/espana/2026-11-06/la-fiscalia-europea-investiga-un-presunto-fraude-en-las-obras-de-la-alta-velocidad-tras-el-accidente-de-urda.html",
-      "fuente": "El País",
-      "fecha": "2026-11-06T09:12:28.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/ZKI6SCWZTNGL5NDIMWL6LUXSSE.jpg?auth=8514ad97ba16f533b7b80562e562821566454f00181c37df425c84e63950d5e8",
-      "resumen": "La UCO acude a Adif, el Tribunal de Cuentas y la Agencia Estatal de Seguridad Ferroviaria a requerir documentación"
-    },
-    {
-      "titulo": "Paco Lagares, abogado de las víctimas: \"Hace falta un pacto de Estado por la seguridad ferroviaria\"",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXJqTjVMcTNmQVd0MDZ5Rnp0TzVSRldPbHMzdTF3WGdKMDBCd3FBUmVQOFA0eXF0aXFRcTFvLXowUVp2VEJEUWI2Q1BHUnNDRnRzX3kxZVBsOGR4aUpGZW5VV2QxYjJaS19BQ2hFcHlVNGR5NUlnX3BubkJxdGstUllTSVN2S2dhZ1N3am9ickRYV2V0bVluWGJkeUJ4d1RmVVlxVEJvVTJSWGZ2RzFwcndNTUduRXZXM0w0NWNPU1l1UFEtb2FuVTFBM1BUMTk4eFFSNFlqYnRnWkRrb0ZaelpTajFHbkpwR19j0gHrAUFVX3lxTE9rRUpza0NLTnhJYTRsa2JwUHVYMXRGcG1vc2hpdlU1R2F5T2J2Q1J6ZklOQlNzdUVSdEtrY3k3TDJsZVplNEVJZTBnS3VQaHA2bm03bjNGMkp1bG8xbDltZEY0OExZVW8wZS1pVHZSTThldEN5LUkyWjg0Z3JoOGtTb2xCdWdKRDlTLTdtRFVwSlVVNDhTSDdUN1hwdS0xVlE4WFJaOHhvME54ZmxOYXp6S3VYcmRNdkVtcTRFNFlEa1VfeFVDWXVackRiVGx6eFliTVUwLThoMVJnLWRJS0ZjOXVkUERqc1p2OFU?oc=5",
-      "fuente": "Antena 3 Noticias",
-      "fecha": "2026-11-06T08:59:27.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXJqTjVMcTNmQVd0MDZ5Rnp0TzVSRldPbHMzdTF3WGdKMDBCd3FBUmVQOFA0eXF0aXFRcTFvLXowUVp2VEJEUWI2Q1BHUnNDRnRzX3kxZVBsOGR4aUpGZW5VV2QxYjJaS19BQ2hFcHlVNGR5NUlnX3BubkJxdGstUllTSVN2S2dhZ1N3am9ickRYV2V0bVluWGJkeUJ4d1RmVVlxVEJvVTJSWG",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Dos personas heridas en el accidente de tren de Urda (Toledo) siguen en la UCI, tras más de una semana después de la tragedia",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNb0xaOUY3ckZDTUlGNzlXdnU2RS1MV2s1a1VRdTZEbU1rSVA4YmZ5bU9GZkszTXFCSFA5U1BZcjVIYVBXMFNoeG9wNFNESjN3VlM4Y2lvSVFTOUgzU3NyRS1uZHlMVXh3eElWektheUZoajhGUW04M3RMUmpzZHUxRnNWTFNOTTM0MUNlZ19pa2V6UWdSdGZuLS1EMXM1R3VDRnhGaXNaRUxwcU1hSlRRVDhWSXdDX1RVdjhSVlpPcnFQOUFOV0VVYTdkaXltampsVVUxM2FkZGF6aV8tNW04WVRpUnZ3Wm1mNkR5b3ZmQmNNVEJJY3dXU0txODhwejVpc0tSamEzTHlNU3pPakk1OU130gGmAkFVX3lxTE0zb0dXb2YtVzQwWUVpcldaQ19zMEtxUlpUQnJ1LWRUNDlFdUFhNVd6ZEdwcENCYnRPQklfRWdWNnJvZFoweWJ6b0RPT3dfNVRVRlowcjdmN3hDa3hVTW55ZWlFOTdkNVNXRVNsb3VhX1hneGpIZ0ZmU3c3NmcxQ1FIN25nV1hmQUF3LXpFaDMtQmxqYWc2MEFNdkRpejM3T1RXeEZGTU03VzRiT0hzNHA2dFV3WWdlZDFMQzdqcHI3NTlubWl0anRFakxYRW0zZzJEUHd2YnRfX3JKTG5VWUxLYjVlQU43eWJJdk41R3ZTN09YeW1jRVQ1UWxNMy11RXBBMGFCOWQyLTE3VkJfREJGVGNfZGlKbklDd2xJOVZQWTd2Y2pnUQ?oc=5",
-      "fuente": "Cadena SER",
-      "fecha": "2026-11-06T08:32:21.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikgJBVV95cUxNb0xaOUY3ckZDTUlGNzlXdnU2RS1MV2s1a1VRdTZEbU1rSVA4YmZ5bU9GZkszTXFCSFA5U1BZcjVIYVBXMFNoeG9wNFNESjN3VlM4Y2lvSVFTOUgzU3NyRS1uZHlMVXh3eElWektheUZoajhGUW04M3RMUmpzZHUxRnNWTFNOTTM0MUNlZ19pa2V6UWdSdGZuLS1EMXM1R3VDRnhGaXNaRUxwcU",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tren Iryo de Urda pasó una revisión en profundidad dos días antes del siniestro y su resultado fue favorable",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdi1ZME5rb3VGNlBaaUxGLTZYaVYwTDJvV3U5YjdYUGhGMGpkOEZoRFVKMjBMUUg3cE15alRMZnNuTzQwNHd5TUdQaG96Y0o2RzVuSWxKWWVQSDBNd3J3RDlDWm5ndG9pcEl4dGtEb0tZTDFxX2RSQldkaDl2NXN6cVgzMTFQLS02dHZuSUloTFE5UnZJbjk3RjYzMHJSYko0aWlNbkhFOUJrQlQ0WmMwQ2hta1pPM0dGOXh2Wmx4c25ieGRMVkhyZ3RNVHppaXhuT0dOc0ZlZlhmTkNVcXdmclEtVkZQaHBBUDF3NkFSaVRJa3ZEdmQ4czhQREJRUdIB_gFBVV95cUxOSW1MSWd1bEdvb0phVFdJdHMyeEtYMkY2dXVsVTZjdzl0cVdDcG9CcDVMZ3NYMkliaG5IVFVkby1wWVZNTjdZNHFQQndjeWZPM2tmczdMSDl1cHg0WU1Db2NSSm93cFpKR3M3QlJPZG9rd29UU0IyaHpoVHNSNDBkbWNYYUFvZXlrbmo1UDVCTVBlTnlra3hjN1dYTks0U2RaeGhBZ29vRDBZTkhkdkdodUFxWE5MNnNGUFlhc2N0Sk1fNFAxVndDRTFWSXZ2NWw5VVpfY0JYME5fb29nOTlSN19QSXdqbDMxZ2k1MVZHV2FEQnhtdjRHZUJQWE0tUQ?oc=5",
-      "fuente": "LaSexta",
-      "fecha": "2026-11-06T08:19:05.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxQdi1ZME5rb3VGNlBaaUxGLTZYaVYwTDJvV3U5YjdYUGhGMGpkOEZoRFVKMjBMUUg3cE15alRMZnNuTzQwNHd5TUdQaG96Y0o2RzVuSWxKWWVQSDBNd3J3RDlDWm5ndG9pcEl4dGtEb0tZTDFxX2RSQldkaDl2NXN6cVgzMTFQLS02dHZuSUloTFE5UnZJbjk3RjYzMHJSYko0aWlNbkhFOUJrQl",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Bajan a 15 los heridos ingresados en Castilla-La Mancha por el accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFNGSnRuRzk1VnhUZXlKZ0ZYRjVyWV9RR0N3d2MzUWdUWDBSQTliTDZReW10b1FEY2VUakw1WG5rUGsxbXhta21ydzNnY2tzMUZ2ZVNmX3E4LV9tQ1NyMUhxTGEtZVY0Tk5lME1UMXFtLWMyeHhPVTdlOFJvZEo1MlFPb29TQkpQdTNLWVlUVHFuNFpBakJaRk5iYk45SDZWeTU1eTd6R0d5SXhPQjk4aTJqUEViTkhjak5sOWZSMzJ1bHFK0gHKAUFVX3lxTE1oaHJUeWRJSlZ5RFNuZ2J2cm51WWdhVjFuR1NtdTNxY1FtOERDcmZxQ3BxaENEbkpnQ2p3a1JjSnNPY0NsczVBUWRqaEJWeXhUV3Npc1BydEh4RVBYd0xkc2EtUTBraGNZamtGU1ZKNnpQcDhHV3hxY0tNUEpSSWFObl9tWHBIRVREZnV4VjdwN1JYck9DenozalVPS3I1ZHNIdFFDTHVDZnVDTnhwVjVwNGVUYVkySmJtd0xkS3BNMVNkUDEyX1IxWkE?oc=5",
-      "fuente": "heraldo.es",
-      "fecha": "2026-11-06T08:18:19.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPNFNGSnRuRzk1VnhUZXlKZ0ZYRjVyWV9RR0N3d2MzUWdUWDBSQTliTDZReW10b1FEY2VUakw1WG5rUGsxbXhta21ydzNnY2tzMUZ2ZVNmX3E4LV9tQ1NyMUhxTGEtZVY0Tk5lME1UMXFtLWMyeHhPVTdlOFJvZEo1MlFPb29TQkpQdTNLWVlUVHFuNFpBakJaRk5iYk45SDZWeTU1eTd6R0d5SX",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tren Iryo implicado en el accidente de Urda pasó una revisión dos días antes del siniestro",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWZ0Q1RMS04tY3A5aGlxSWZmanpKSXdGX2NsMkZucDk2TldEc0s1WkR2UDMybEFXMDVHdEpuOGtqQ1lNRXFjdE9sVkFUQ1I3eF9rMzh3X2lCUWNqV3NGZFZ1VVJsYXhqTi0xdTdpZndGWWZMQkVGTDg1cmFVQzhhMmlYSlRZQ0IwS25aQVpjVEJSN3JWemdxSUl1clpLb3lzOHcxZHZZZ21CTXBLTGw1QXNnalFKcEtRdDFMYmVRZmE?oc=5",
-      "fuente": "cmmedia.es",
-      "fecha": "2026-11-06T07:27:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWZ0Q1RMS04tY3A5aGlxSWZmanpKSXdGX2NsMkZucDk2TldEc0s1WkR2UDMybEFXMDVHdEpuOGtqQ1lNRXFjdE9sVkFUQ1I3eF9rMzh3X2lCUWNqV3NGZFZ1VVJsYXhqTi0xdTdpZndGWWZMQkVGTDg1cmFVQzhhMmlYSlRZQ0IwS25aQVpjVEJSN3JWemdxSUl1clpLb3lzOHcxZHZZZ21CTX",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Actualidad política en España, en directo: última hora del posible fraude de fondos europeos en el AVE y el caso Koldo",
-      "url": "https://www.europapress.es/nacional/noticia-actualidad-politica-espana-directo-ultima-hora-uco-caso-koldo-pedro-sanchez-20261106082432.html",
-      "fuente": "Europa Press",
-      "fecha": "2026-11-06T07:24:32.000Z",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261106082432_120.jpg",
-      "resumen": "El consejero de Fomento y Movilidad, Mario Muñoz-Atanet, ha reclamado este viernes al nuevo ministro de Transportes, Carlos Cuerpo, que busque \"soluciones\" para \"paliar en la medida de lo posible la desconexión\" que está sufriendo Andalucía como consecuencia del accidente ferrovi"
-    },
-    {
-      "titulo": "Los otros héroes del accidente de tren de Toledo: «Por cada minuto que se retrasa una transfusión, aumenta un 5% el riesgo de muerte",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dUSm1pN0FnTmtUZHJpRFNLWHAyWDNmNGtVLTktbkhNZEdaWTdxR1RCTWwzZDZWZmhrNmNtU0t0NEJmUXdKbzdCS0JVdUlWY0JwOWRFbUoyZkhZMEdmYWljUEJoSkVpMFA3MVZlUTJaUkltWVVEa1ZwUFlFV24wVmlDUQ?oc=5",
-      "fuente": "Gaceta Médica",
-      "fecha": "2026-11-06T07:23:58.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3dUSm1pN0FnTmtUZHJpRFNLWHAyWDNmNGtVLTktbkhNZEdaWTdxR1RCTWwzZDZWZmhrNmNtU0t0NEJmUXdKbzdCS0JVdUlWY0JwOWRFbUoyZkhZMEdmYWljUEJoSkVpMFA3MVZlUTJaUkltWVVEa1ZwUFlFV24wVmlDUQ?oc=5\" target=\"_blank\">Los otros héroes del accident",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El tren de Iryo de Urda pasó una revisión a fondo dos días antes del siniestro",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT05PZmJoSjBidENSMi1fT0gwc3JuR1N4THZ3MElxMnpDeTF0eHV5QzhHN0ItRHBQZ2h1NEVFSGc3V0hoTDVDcGtYUDRTTmc0Y1pCdlBWSEVMOEdsZzBRTlFtcGFjZkh3ekVtcXhpRU9sNzBvVW1XQ3piaVJHblhubl84OTlZUXluN2w3N2dsMml5MTA1VjZJTVU5TmJXWlUxNXkwU3NGNnN6ZWRQLWprZ3JDdmNVb0FsNnhyY9IB0AFBVV95cUxOSUVZNGJXRUx2ODdhU1FIS1ctVXV6dEg2WEttZXZndGhLZHJyTV9uSW10VUpCb1NNODlRSEtNYS1uU1VEYWcyYVRsVk1RUFNxUzVEUy12Z1JOVnM5aVoyanB3MmIwc000SmtQMVhacW0zWHRBS0FGazhBamZrRnVCWlhlVmFCYkFSLXdIc0JQY1pMRFRVVW9YTWE4S0JKRXJoeTJHdHVzMmNrczNrcWppZmZuQmhMN1NraUhxdEhQdEVWd2gzTjkzTkhhaWtzdU5w?oc=5",
-      "fuente": "EL PAÍS",
-      "fecha": "2026-11-06T04:30:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOT05PZmJoSjBidENSMi1fT0gwc3JuR1N4THZ3MElxMnpDeTF0eHV5QzhHN0ItRHBQZ2h1NEVFSGc3V0hoTDVDcGtYUDRTTmc0Y1pCdlBWSEVMOEdsZzBRTlFtcGFjZkh3ekVtcXhpRU9sNzBvVW1XQ3piaVJHblhubl84OTlZUXluN2w3N2dsMml5MTA1VjZJTVU5TmJXWlUxNXkwU3NGNnN6ZW",
-      "idioma": "es"
     }
   ],
   "videos": [
+    {
+      "id": "nYvwP_vrWp8",
+      "titulo": "Al menos cuatro muertos por la colisión de dos trenes en Egipto, Giza #shorts",
+      "canal": "EL PAÍS",
+      "fecha": "2026-11-08T17:42:52+00:00"
+    },
+    {
+      "id": "T9HL5oBxNGs",
+      "titulo": "Una colisión entre dos trenes en Egipto se salda con cuatro muertos y 88 heridos | EL PAÍS",
+      "canal": "EL PAÍS",
+      "fecha": "2026-11-08T17:23:12+00:00"
+    },
     {
       "id": "S4Di9_3NtKQ",
       "titulo": "Candidatos y partidos políticos retoman la precampaña tras el accidente ferroviario de Urda",
@@ -814,18 +825,6 @@
       "titulo": "Avanza la investigación del accidente ferroviario | RTVE Noticias",
       "canal": "RTVE Noticias",
       "fecha": "2026-10-31T16:20:21+00:00"
-    },
-    {
-      "id": "YjvvzOBN5R0",
-      "titulo": "Vaquero (PNV) cree que Puente debe \"asumir responsabilidades\" del accidente ferroviario de Urda",
-      "canal": "Europa Press",
-      "fecha": "2026-10-31T16:15:55+00:00"
-    },
-    {
-      "id": "cBykC_oZosw",
-      "titulo": "Urda (Toledo) acoge una emotiva misa por las víctimas del accidente ferroviario #Toledo #Urda #Misa",
-      "canal": "El Mundo",
-      "fecha": "2026-10-31T15:47:49+00:00"
     }
   ]
 }
