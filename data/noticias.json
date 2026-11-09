@@ -1,6 +1,38 @@
 {
-  "actualizado": "2026-11-08T22:49:10.154Z",
+  "actualizado": "2026-11-09T02:31:18.534Z",
   "noticias": [
+    {
+      "titulo": "PP y Vox suman 199 escaños sin que apenas influya el accidente del AVE",
+      "url": "https://www.abc.es/espana/accidente-urda-apenas-altera-bloques-29n-derecha-20261108023004-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-09T01:40:14.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/08/1200x840-RqXpEFGkynGX7zH3kBNb9wL-1200x840@diario_abc.jpg",
+      "resumen": "En los intestinos de la política, en los aparatos de los partidos, se suele decir que las encuestas hay que tomárselas como una fotografía. Una imagen que define un instante concreto, pero a la que determinadas situaciones pueden darle la vuelta bruscamente. Lo que cuenta, claro "
+    },
+    {
+      "titulo": "El PP se compromete a aumentar la presencia militar en Ceuta y Melilla",
+      "url": "https://www.abc.es/espana/pp-compromete-aumentar-presencia-militar-ceuta-melilla-20261110012024-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-09T00:21:02.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/10/1516414370-RxjCPMFOUKquwiieYoEA7RP-1200x840@diario_abc.jpg",
+      "resumen": "Aunque la actualidad avanza a ritmo vertiginoso y nuevos acontecimientos —especialmente el trágico accidente ferroviario de Urda— han dejado en segundo plano el asalto masivo a la frontera de Ceuta los últimos días de julio, miles de inmigrantes siguen deambulando por las calles "
+    },
+    {
+      "titulo": "Miriam González: \"No debería haber 69 muertos para que Europa investigue Adif\"",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/09/6af0ad57e9cf4a39438b457a.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-08T23:50:19.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/08/17941578861028.jpg",
+      "resumen": "Se estrena el 29-N y asegura que busca generar consensos. Denuncia con ahínco el clientelismo en las instituciones, en especial a raíz del accidente ferroviario de Urda Leer"
+    },
+    {
+      "titulo": "PP y Vox suman 199 diputados con un 50,4% votos y Sánchez no remonta la tragedia de los trenes",
+      "url": "https://www.elmundo.es/espana/encuestas/2026/11/08/6af066bee85eceae5a8b4598.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-08T21:43:36.000Z",
+      "imagen": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&cg=rss-elmundo&ci=es-widgetueditorial&si=http://www.elmundo.es/rss/index.xml",
+      "resumen": "Feijóo mantiene su ventaja frente al líder del PSOE, que llega a la campaña 26 escaños por debajo Leer"
+    },
     {
       "titulo": "Al menos siete muertos y 112 heridos tras descarrilar un tren en Guiza (Egipto)",
       "url": "https://www.abc.es/internacional/cuatro-muertos-heridos-tras-descarrilar-tren-guiza-20261108163958-nt.html",
@@ -188,11 +220,12 @@
     },
     {
       "titulo": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
-      "url": "https://www.elmundo.es/economia/2026/11/07/6aef1a7ffdddff8b688b45a0.html",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EVzdMYkhxTzVaRG5QTWpsWWV3cXJKSWJpb2M0cWNFdC1CVUJodlJOU0FjajNJWVV4N2I5V0o3bVRvQThIWWhXWjgzSFRzOVh5dHUwc1RwT1kwQ2N6OXdka1RFbUxnQ1dja2oxREREMU5XOERxemUxLTdQVk3SAXxBVV95cUxOeDA5RU04S2lDWUNJRkkxNXVtTFdWZFhOUTI4QVZLaXdyTFhxNGZDM0h3OExJM3ZRZFBZcDlWcjNmaUROVGQwYk1DQy1mN0FrNmpOdE1pODZRYXlLdDRnSGpJeEZfbTNsdDZSMmYyLUFlZkI3UGlsbnFHa1Vu?oc=5",
       "fuente": "El Mundo",
       "fecha": "2026-11-07T21:49:04.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/07/17940762357108.jpg",
-      "resumen": "Los datos del tren arrollado en Urda reflejan que fue brutalmente lanzado por el impacto del AVE a una velocidad de 47 km/h en tres segundos Leer"
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9EVzdMYkhxTzVaRG5QTWpsWWV3cXJKSWJpb2M0cWNFdC1CVUJodlJOU0FjajNJWVV4N2I5V0o3bVRvQThIWWhXWjgzSFRzOVh5dHUwc1RwT1kwQ2N6OXdka1RFbUxnQ1dja2oxREREMU5XOERxemUxLTdQVk3SAXxBVV95cUxOeDA5RU04S2lDWUNJRkkxNXVtTFdWZFhOUTI4QVZLaXdyTFhxNG",
+      "idioma": "es"
     },
     {
       "titulo": "Urda encara el final de la retirada de los trenes mientras once heridos siguen hospitalizados",
@@ -366,11 +399,12 @@
     },
     {
       "titulo": "La Fiscalía europea alerta de posibles fraudes en los contratos de Adif tras los accidentes de Adamuz y Urda",
-      "url": "https://www.lavanguardia.com/vida/20261107/11678322/fiscalia-europea-alerta-posibles-fraudes-contratos-adif-accidentes-adamuz-urda.html",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY29odVJkTVJnQlZCeG1NUEZGUy1ibjEwLXJINjdrZHZQZjJrZU9RYUxSQks1UjV2TEV4Qzh0Q0VxUmE2VGR5UHdoZXVmbkhGYzd5LUxrUjVfOER4QjNyTVBOcmYyaEVSNG41Y1drVVl0TTNSc2RZRG0tZEctOHVSTDJXV0x5UVBpaHVIWUVhcWpFVUdROHIwbnptUGtScjIySXNFVGVpdUVtb1JSMmw0U25ld2lfQzB0MGJwdHJwajlEOHI0UEVwcVl4b0k1MlJ20gHWAUFVX3lxTFA5SWhnZzlGUFk5RGNNeG5Mck13d2Q0dlA2TWk4RHk3bjFGeGdydFBhZWJtbEdQbTVZVHg2VEoyUk1FSHQtYTh0RnIwSkphLUYtaDYyazVKQmN2aEtrMlFEVjNHWjN3VXJISzB2Uk9VaUJmV05YYWQ0MEI0X1JJYmxzak5UdzBhSk9sWU0xN2N3U1VMTUhBZVd1c1NQd0ZjSVoyTVBqQkR5eXdpSkxIeGZ4elR4eHBEUFh3Z2FzYXRDVjVwQ1M3blZvSTRxQjhWWGRuYTRoSEE?oc=5",
       "fuente": "La Vanguardia",
       "fecha": "2026-11-07T05:00:00.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/03/6ae9c28dd1b9c.jpeg",
-      "resumen": "El ministerio público abre dos causas junto a la UCO, requiere documentación, y&nbsp; no descarta imputaciones<span class=\"\" contenteditable=\"false\" aria-hidden=\"true\" style=\"user-select: none; pointer-events: auto;\" tabindex=\"-1\"></span>"
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNY29odVJkTVJnQlZCeG1NUEZGUy1ibjEwLXJINjdrZHZQZjJrZU9RYUxSQks1UjV2TEV4Qzh0Q0VxUmE2VGR5UHdoZXVmbkhGYzd5LUxrUjVfOER4QjNyTVBOcmYyaEVSNG41Y1drVVl0TTNSc2RZRG0tZEctOHVSTDJXV0x5UVBpaHVIWUVhcWpFVUdROHIwbnptUGtScjIySXNFVGVpdUVtb1",
+      "idioma": "es"
     },
     {
       "titulo": "¿Se mueven las encuestas desde la convocatoria y tras el accidente de tren?",
@@ -643,39 +677,6 @@
       "fecha": "2026-11-06T09:29:06.000Z",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261106102906_120.jpg",
       "resumen": "La Fiscalía Europea (EPPO) ha abierto una nueva investigación sobre un presunto fraude de fondos europeos destinados a la renovación y la mejora de la seguridad en la línea de alta velocidad Madrid-Sevilla, en la que se produjo el accidente mortal cerca de Urda (Toledo), y ha ord"
-    },
-    {
-      "titulo": "Transportes abre el plazo para solicitar las ayudas destinadas a las víctimas del accidente de tren en Urda",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT3dTMnE2aDFKeGtnOC0taGo4cVhOQlVBeEw4dGpOMWdEakpqWFd6czdlX3hYM013REhoSk1DQ3FCLXZsYWJYZXk4TV9Jamk2VmFYTGtjazZBOWlEb0J6MVRvRS1UUW1rVWpxQ0pxdGpXYmVJbkhwRFNkSTVISTUzZWNjTV9BRU1iRFNwS3QybE1pYm5Vc2phR2ZxMGZOa3ZrNG9aZWp1eUd2WURaRDFyT3Bfby1fUTE3bGRnYkJDX3Q1M2JjeW1feWVMdi1qSzZFMWQ0NDFuUEd2ZHl0d3NJQVdaa3JoTFFTUEFnSFFDLU1OSWpLR00yNkltSHrSAYICQVVfeXFMTXlqaUlPRlB4QmtGOXhQNC1fSHdXd1ZSQThGQlJsYWt6SVZUaGZEWVp2Nno3Ul9yV1JUX3ZMbVJBS21qOTVNN1hkUk1XQVY0TlloRWNFaXZTQlN4bGp5V1plbzdDQWE3eUM1R1RKbFBjVzNGNk5lMjNkZXgwMU91cFZlTHR2bXktN0VXU2V2RnRYNHNNYWVENmRLM0c3Z3FtSzlQUEpZLWdFU1lGN0ZBYXhKN25zZkxUZG40bVdiTXFSVVR3d2dTZGtnUGRLR2ZZVXRFUE9jRG1zN2RCT3J3a21FeE9tTGNmQ1NWeUlXVVVlRnVGWjVYcG03QjJqaE5PSWhR?oc=5",
-      "fuente": "El Español",
-      "fecha": "2026-11-06T09:28:23.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi_AFBVV95cUxOT3dTMnE2aDFKeGtnOC0taGo4cVhOQlVBeEw4dGpOMWdEakpqWFd6czdlX3hYM013REhoSk1DQ3FCLXZsYWJYZXk4TV9Jamk2VmFYTGtjazZBOWlEb0J6MVRvRS1UUW1rVWpxQ0pxdGpXYmVJbkhwRFNkSTVISTUzZWNjTV9BRU1iRFNwS3QybE1pYm5Vc2phR2ZxMGZOa3ZrNG9aZWp1eUd2WU",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La Fiscalía Europea abre otra investigación por posible fraude en el mantenimiento del AVE tras el accidente de Urda",
-      "url": "https://www.20minutos.es/nacional/fiscalia-europea-abre-una-segunda-investigacion-por-posible-fraude-mantenimiento-ave_7058052_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-06T09:26:59.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aed9ce8102163-63042613.jpeg",
-      "resumen": "Investiga un posible fraude con los fondos europeos en la renovación y mejora de la seguridad, señalización y sistemas de comunicaciones."
-    },
-    {
-      "titulo": "La Fiscalía Europea abre una investigación por un posible fraude en el AVE tras la tragedia de Urda",
-      "url": "https://www.20minutos.es/nacional/fiscalia-europea-abre-una-segunda-investigacion-por-posible-fraude-mantenimiento-ave_7058052_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-06T09:26:59.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/06/6aed9ce8102163-63042613.jpeg",
-      "resumen": "Investiga un posible fraude con los fondos europeos en la renovación y mejora de la seguridad, señalización y sistemas de comunicaciones."
-    },
-    {
-      "titulo": "La Fiscalía Europea abre otra investigación por fraude en la alta velocidad tras el accidente de Urda",
-      "url": "https://www.eldiario.es/politica/fiscalia-europea-abre-investigacion-fraude-alta-velocidad-accidente-urda_1_13643016.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-06T09:19:50.000Z",
-      "imagen": "https://static.eldiario.es/clip/35bf9482-2864-409f-8508-fd029fe984ff_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "Agentes de la UCO se han personado para requerir información en la sede del Administrador de Infraestructuras Ferroviarias (ADIF), en la Agencia Estatal de Seguridad Ferroviaria (AESF) y en el Tribunal de Cuentas en España La Fiscalía Europea investiga una posible malversación de"
     }
   ],
   "videos": [
