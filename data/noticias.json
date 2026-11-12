@@ -1,13 +1,30 @@
 {
-  "actualizado": "2026-11-12T12:28:40.372Z",
+  "actualizado": "2026-11-12T20:22:56.353Z",
   "noticias": [
     {
+      "titulo": "Feijóo arranca en Cataluña su carrera hacia La Moncloa: \"El cambio es imparable. Por Urda, por Ceuta, por España\"",
+      "url": "https://www.elmundo.es/cataluna/2026/11/12/6af6099321efa070728b45ce.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-12T19:27:40.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/12/17945115879064.jpg",
+      "resumen": "Apela a la gestión para acabar con \"ocho años de decadencia y corrupción\" y promete volcar el dinero de los españoles \"en trenes, seguridad, vivienda o pensiones\" Leer"
+    },
+    {
+      "titulo": "Ingenieros de caminos proponen el GPS para localizar trenes de Alta Velocidad que Óscar Puente desechó",
+      "url": "https://www.abc.es/espana/andalucia/colegio-ingenieros-caminos-propone-trenes-alta-velocidad-20261112125806-nts.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-12T19:03:24.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/12/tren-alta-velocidad-R1dbNP4QOjg93fTo89MXmiO-1200x840@diario_abc.jpg",
+      "resumen": "La caída del sistema de seguridad LZB -que supervisa la velocidad, la posición y la distancia entre trenes- en la línea férrea de Alta Velocidad entre Madrid y Andalucía desencadenó una tragedia mayúscula a primera hora de la mañana del pasado 28 de octubre, y en la que perdieron"
+    },
+    {
       "titulo": "Toledo pierde turistas andaluces por los problemas de tren tras el accidente de Urda y la hostelería nota sus efectos",
-      "url": "https://www.encastillalamancha.es/castilla-la-mancha-cat/toledo/toledo-pierde-turistas-andaluces-por-los-problemas-de-tren-tras-el-accidente-de-urda-y-la-hosteleria-nota-sus-efectos/",
-      "fuente": "encastillalamancha",
-      "fecha": "2026-11-12T12:10:54.000Z",
-      "imagen": "https://www.encastillalamancha.es/wp-content/uploads/2026/11/tomas-palencia-1200x628.jpg",
-      "resumen": "... The post Toledo pierde turistas andaluces por los problemas de tren tras el accidente de Urda y la hostelería nota sus efectos appeared first on ENCLM ."
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSzdDMHUxQXljR0dPV2FGWVJnUGVFaEpBNHVINHRhNXBpQUJFdkRyazBfZ1lPUUJLdFBGWXFEYWNTa1NoWFMzZ0tVMnNmLXltbEtnYXA2bS1mSVYzckJuNC15VlUwRElEa1NJQVRmOTNfSzRrZk1veTZHYkJ2RERLRm1hOXItX3VtNm5mYV9SU2lDQXVNbS1vcERJNjJsSm1sVFRqcl9IUk5fNS0tYmNsanEzV0JHZHgyQ0xBek9QUEh4cUVabW9idVNyM21KNXM4QVdrOEtTamltaEFYWUVqbGFLNHJNeEMzN2hvOFh1aUIwZlh5LW9MVll6TkM3cGc4anRJcldrOFNqd1pOdUY4?oc=5",
+      "fuente": "ENCLM",
+      "fecha": "2026-11-12T12:10:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxNSzdDMHUxQXljR0dPV2FGWVJnUGVFaEpBNHVINHRhNXBpQUJFdkRyazBfZ1lPUUJLdFBGWXFEYWNTa1NoWFMzZ0tVMnNmLXltbEtnYXA2bS1mSVYzckJuNC15VlUwRElEa1NJQVRmOTNfSzRrZk1veTZHYkJ2RERLRm1hOXItX3VtNm5mYV9SU2lDQXVNbS1vcERJNjJsSm1sVFRqcl9IUk5fNS",
+      "idioma": "es"
     },
     {
       "titulo": "Casi tres horas de trayecto para llegar a Madrid: la complicada situación de los usuarios de tren tras el cierre de la línea de Urda",
@@ -25,6 +42,15 @@
       "fecha": "2026-11-12T09:21:29.000Z",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/11/69b13492ef3a8.r_d.1250-833-0.jpeg",
       "resumen": "El análisis de los datos&nbsp;deberá de alcanzar la interpretación del comportamiento global de cada tren y determinación de posibles causas y factores contribuyentes del accidente, dice la magistrada"
+    },
+    {
+      "titulo": "El aviso de un pasajero y los protocolos que siguió el maquinista evitaron que un Iryo chocase con los dos trenes de Urda",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2lVNHF5RXg5NjVPRnR4c1BfVUx0TmlCOFpzbC1HbUFBajh1TzZQbG9DWFpNZ2tYTHh1Tm01RkxYREN2RERNbkQxazR6S1MwTmIyYnhIZWlOT3VzcXoxQVRDVU1jdVlXM2s5cnk3dmRkSFEwRVJrMnF5SmxvU1V1RVJ0SDIweFpjdnJ1S3NzaS1BVkNXUjRoamFmMmtpWm5LNWZfVG5zenlLcEV5S2VJMHhLWFZrcFRHN0l4RU1ZaFJiZ3ctTTRObXIxelJEb0VI0gHWAUFVX3lxTE9NYUZKY3pyTTNNVTlUUTdfZGVmOFRzTEpfUzdEdkdMc0RpM29XTW5TRF9WSUJucnJVaE5QdUFRZnN1amVZLU1EbnhDQi1ZNldkc20yN3h4amMzQ2F3TFFTSHE0M09lVEJFX1hIalMxaTBOQ0JZQW9ZNktTUDVVN0JUemdsRjdRS2VwcHpNWFpDQmE4Mk8yYTBuNldRems1Zkx4LVZmVzhjX1ZacGZubXdaMmtwMzRHTVBJcmtvR1ZvUUtGMWoxZTd5M3JIR1pkQWdBQ1h5Wmc?oc=5",
+      "fuente": "El Debate",
+      "fecha": "2026-11-12T03:25:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY2lVNHF5RXg5NjVPRnR4c1BfVUx0TmlCOFpzbC1HbUFBajh1TzZQbG9DWFpNZ2tYTHh1Tm01RkxYREN2RERNbkQxazR6S1MwTmIyYnhIZWlOT3VzcXoxQVRDVU1jdVlXM2s5cnk3dmRkSFEwRVJrMnF5SmxvU1V1RVJ0SDIweFpjdnJ1S3NzaS1BVkNXUjRoamFmMmtpWm5LNWZfVG5zenlLcE",
+      "idioma": "es"
     },
     {
       "titulo": "El aviso desesperado de un pasajero al maquinista evitó que un Iryo chocase también con los dos trenes de Urda",
@@ -671,30 +697,6 @@
       "fecha": "2026-11-09T11:40:56.000Z",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/09/17942241792742.jpg",
       "resumen": "El gestor de las vías de alta velocidad dice que los incentivos que aprobó Pedro Marco de la Peña es una renovación y que llega a 5.200 trabajadores. En el anterior Adif declaró cumplidos el 100% de los objetivos entre 2023 y 2025, cuando despidió a su presidente y empezaron los "
-    },
-    {
-      "titulo": "Al menos siete muertos y más de 100 heridos tras la colisión de dos trenes en Egipto",
-      "url": "https://www.lavanguardia.com/internacional/20261109/11679778/egipto-accidente-de-tren-guiza-al-ayyat-fallecidos-heridos-transporte-ferroviario-investigacion.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-09T10:50:54.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/09/6af1773dcddaf.jpeg",
-      "resumen": "El choque por alcance entre dos convoyes al sur de Guiza provoca el descarrilamiento de varios vagones y reactiva las críticas sobre la seguridad ferroviaria en el país"
-    },
-    {
-      "titulo": "RTVE cancela ‘La promesa’ y emite en directo un especial por el funeral de las víctimas de Urda",
-      "url": "https://elpais.com/television/2026-11-09/rtve-emite-en-directo-un-especial-por-el-funeral-de-las-victimas-de-urda-y-cancela-la-promesa.html",
-      "fuente": "El País",
-      "fecha": "2026-11-09T09:25:37.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/5IFJ25CJONPMNCBT436NPXCRBA.jpg?auth=b7a25d739eed83c952b1b3a9678aeaf1372d30e17fe2a9efe2450f2ddc3d03c5",
-      "resumen": "Pepa Bueno y Marc Sala presentarán este martes 10 de noviembre una cobertura especial desde Toledo para rendir homenaje a las 69 víctimas mortales del accidente ferroviario"
-    },
-    {
-      "titulo": "Adif, en el foco: visitas de la UCO, nuevos amaños en el caso Koldo y un supuesto fraude en la línea del accidente en Urda",
-      "url": "https://www.20minutos.es/nacional/adif-foco-dos-visitas-uco-nuevos-amanos-caso-koldo-un-supuesto-fraude-mantenimiento-linea-urda_7058200_0.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-09T06:19:42.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/22/697203805fadb7-30138719.jpeg",
-      "resumen": "La investigación del caso Koldo se centra en nuevos supuestos amaños promovidos desde Adif, mientras que la Fiscalía Europea investiga un supuesto fraude en el mantenimiento de la línea Madrid-Sevilla."
     }
   ],
   "videos": [
