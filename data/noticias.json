@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-12T20:22:56.353Z",
+  "actualizado": "2026-11-13T01:24:37.419Z",
   "noticias": [
+    {
+      "titulo": "44 partidos sin perder y un recuerdo a las víctimas de Urda y a de Miguel: \"Fueron momentos muy duros también para nosotros\"",
+      "url": "https://www.elmundo.es/deportes/futbol/2026/11/12/6af6150fe85ece92458b4576.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-12T22:44:42.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/12/17945226684441.jpg",
+      "resumen": "El árbitro fue protagonista en Praga: el penalti, el gol anulado a Yeremy y la expulsión de Krejci pasaron por revisión. Porro se acordó del accidente de tren y del delantero del Tenerife. Leer"
+    },
     {
       "titulo": "Feijóo arranca en Cataluña su carrera hacia La Moncloa: \"El cambio es imparable. Por Urda, por Ceuta, por España\"",
       "url": "https://www.elmundo.es/cataluna/2026/11/12/6af6099321efa070728b45ce.html",
@@ -689,14 +697,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWZTZVRlT1FhMUozVzloVzhZZjF2RmtOemNhUFZkZkR0NUQydXYySTBBSEtuNklVRkRBUjBDNzRicUZKWDFtWFpDOURqWGZnOTJzQ2Z6dTVZbjNpaHR4U0IxSUJGanhyZklqVFJYbnhXVVhGZHhUZ1ZKSm9jMm5RcjVNX2oyWTh6dGJnY2MtbHNZcTJBTGdBOEY5NE0wbWMtVkZEWFhWLTRuME",
       "idioma": "es"
-    },
-    {
-      "titulo": "Adif confirma que su ex presidente aprobó horas antes de dimitir por la tragedia de Urda un plan de incentivos para su dirección",
-      "url": "https://www.elmundo.es/economia/2026/11/09/6af18df8e4d4d88f658b458c.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-09T11:40:56.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/09/17942241792742.jpg",
-      "resumen": "El gestor de las vías de alta velocidad dice que los incentivos que aprobó Pedro Marco de la Peña es una renovación y que llega a 5.200 trabajadores. En el anterior Adif declaró cumplidos el 100% de los objetivos entre 2023 y 2025, cuando despidió a su presidente y empezaron los "
     }
   ],
   "videos": [
