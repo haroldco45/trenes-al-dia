@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T22:48:45.024Z",
+  "actualizado": "2026-11-14T02:59:35.294Z",
   "noticias": [
     {
       "titulo": "Los 8 momentos del primer debate electoral: del choque entre Cuerpo y Figaredo a la promesa de un millón de viviendas del PP",
@@ -10,15 +10,6 @@
       "resumen": "Los representantes de PSOE, Vox, Frente Amplio y el Partido Popular han confrontado sus propuestas sobre trenes, alquileres, pensiones, salarios e impuestos en laSexta"
     },
     {
-      "titulo": "El Gobierno nombra nuevos responsables en Renfe y Adif tras el accidente de Urda, en Toledo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU9HNVQ1Ylo5bG9kLVl2UjFyM0VvMW43bWxMb3RJX1lBRXJ1ZnFCY3hzYnZRYUNodlJUZ1JLcUxfdDBaTlV3cVE0Rm5SdnY1blVRUTNtTHpMMTRjenozYjFGeWpTTTh6SGVHdDNZeGh2cWxxcUdkbDBVTFBmWmxQblpqcDAyUDk2a1RlR3dDT3QxSmdsR0ZadnJFSS1kcjU5eHB5YnBRUW44VGpFdEdUQ09Hcng?oc=5",
-      "fuente": "RTVE.es",
-      "fecha": "2026-11-13T20:03:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU9HNVQ1Ylo5bG9kLVl2UjFyM0VvMW43bWxMb3RJX1lBRXJ1ZnFCY3hzYnZRYUNodlJUZ1JLcUxfdDBaTlV3cVE0Rm5SdnY1blVRUTNtTHpMMTRjenozYjFGeWpTTTh6SGVHdDNZeGh2cWxxcUdkbDBVTFBmWmxQblpqcDAyUDk2a1RlR3dDT3QxSmdsR0ZadnJFSS1kcjU5eHB5YnBRUW44VG",
-      "idioma": "es"
-    },
-    {
       "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
       "fuente": "Spanien Press",
@@ -26,6 +17,15 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0",
       "idioma": "en"
+    },
+    {
+      "titulo": "El Gobierno nombra nuevos responsables en Renfe y Adif tras el accidente de Urda, en Toledo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU9HNVQ1Ylo5bG9kLVl2UjFyM0VvMW43bWxMb3RJX1lBRXJ1ZnFCY3hzYnZRYUNodlJUZ1JLcUxfdDBaTlV3cVE0Rm5SdnY1blVRUTNtTHpMMTRjenozYjFGeWpTTTh6SGVHdDNZeGh2cWxxcUdkbDBVTFBmWmxQblpqcDAyUDk2a1RlR3dDT3QxSmdsR0ZadnJFSS1kcjU5eHB5YnBRUW44VGpFdEdUQ09Hcng?oc=5",
+      "fuente": "RTVE.es",
+      "fecha": "2026-11-13T15:02:21.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU9HNVQ1Ylo5bG9kLVl2UjFyM0VvMW43bWxMb3RJX1lBRXJ1ZnFCY3hzYnZRYUNodlJUZ1JLcUxfdDBaTlV3cVE0Rm5SdnY1blVRUTNtTHpMMTRjenozYjFGeWpTTTh6SGVHdDNZeGh2cWxxcUdkbDBVTFBmWmxQblpqcDAyUDk2a1RlR3dDT3QxSmdsR0ZadnJFSS1kcjU5eHB5YnBRUW44VG",
+      "idioma": "es"
     },
     {
       "titulo": "Carlos Cuerpo stops the president of Renfe two weeks after the Urda accident",
@@ -149,6 +149,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "Un accidente ferroviario en Urda, Toledo, deja varios fallecidos",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWxObjg4V2l3RDdBXzdlcjYtOHVTMlQwLXBDUjNhUkw5RzRsNEd5TVlCRVFyS2VlbkozZmt4X3NsamtFQ2FPYjhQV0xmVTQ2V2lKSDRrWlZIWFN6czRGTDdaLU90NW5tSkhOeFNqdmNvamJiZDVlZktWOTFmTXNHbjlUbzdpalAxVFpLVHFQQV9RbGdtWUp1ci1nX2tkRGY3TkNMZU1zS0RCT3pTV1UwRFVVSGVWbnI5TFZkeTNBeGxLdEx5Qnhv?oc=5",
+      "fuente": "El Día de Valladolid",
+      "fecha": "2026-11-12T10:47:53.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQUWxObjg4V2l3RDdBXzdlcjYtOHVTMlQwLXBDUjNhUkw5RzRsNEd5TVlCRVFyS2VlbkozZmt4X3NsamtFQ2FPYjhQV0xmVTQ2V2lKSDRrWlZIWFN6czRGTDdaLU90NW5tSkhOeFNqdmNvamJiZDVlZktWOTFmTXNHbjlUbzdpalAxVFpLVHFQQV9RbGdtWUp1ci1nX2tkRGY3TkNMZU1zS0RCT3",
+      "idioma": "es"
+    },
+    {
       "titulo": "Casi tres horas de trayecto para llegar a Madrid: la complicada situación de los usuarios de tren tras el cierre de la línea de Urda",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0lKb2FNdGdDU1FFUkU5dkpvSGZDU09ocVJMUFVxQ0dZSEg5enFUQnZOdWpLYkg1OGlGMllEMnBicEJub1Y0amtTOGI1aElrYlVFN29yZE11QnU1dTNPZS1uQ2FoelR4UWVtdGNzUW1HZVR0ZHlHN0hPTGd3bm5jNzY1TkJCSDBiUVRKdU5xUGM5VlFX0gGaAUFVX3lxTFB4YVA1NmlaZmp3MXFGZklTVTR6aWliekxReEZhUm5uSVQzUUMwc1ViSzA5NWlFX2x4MHRfOUNIZmY5ejJhUzlvZk1zSmJ4OTdyOUVqN01UMjd3WEpyYkV3QlhXaGpxNlZwZndPZXVEejh3b2JLdDcwWWZ2Y3JYNVYxZGdRUWtGTzZnUWQzY3dRS05qOUNSNk1jVWc?oc=5",
       "fuente": "Telemadrid",
@@ -207,6 +216,15 @@
       "fecha": "2026-11-11T14:05:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHpfc2VHakdrcmVXX0F2RjRPWVNvaWJfN0pXLXZaWS0zS1pqUjIzSmN4ZmU1cGZGUE9nNUthYmtBUHo5WXdUa3JjZ2llUk5ORmV0V1M2TG9DOVRQWk9vVkUxX3NNN0xOYXZteFZkYWZ2LVhpdVN6dmVWWk81SXRNdVlfbUpPcTZqWm1vdkxwakxlSWVNb0NPbzNhSQ?oc=5\" target=\"_blan",
+      "idioma": "es"
+    },
+    {
+      "titulo": "El Parlamento andaluz se une en un «profundo dolor» ante el accidente de tren de Urda",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdElQblljQUsxMVI2ZkhCSVJoZnpUZWItRDV1S0dIbFptX19ZbjBPVVpNWTA3d0Vvdl9VbUlseW05emlVSl8ybmdFTmlreUFMVGxLUHZ6NmxKc3JzSF9KY2dVVC13U1daRGRqWmR1UVVpYlNyTXdEaHdWZF84bW9Zd0VrLTl5UE5mVm44aFlYcHJMZ05BUVlwdNIBngFBVV95cUxOQkxUdmVtZEd0Y3ZTbW9xSFFfM1dLb3FkTkdkRkExMzZFT0ZjcmRyM2VsYTMxX2N3dWtYTzhlUGhURFRQYndFWUV0dXoyaUVpejl1LUMzNUdmNFVvWVlGRmpzeXNPZmJiOUpQUEdWN1c1cXpKRVpBcGowOXhVRXFnbTRnOGl1WENFZXNSUGhRSlJvdmpnOHF6bWtWYW1ldw?oc=5",
+      "fuente": "The Objective",
+      "fecha": "2026-11-11T12:47:14.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNdElQblljQUsxMVI2ZkhCSVJoZnpUZWItRDV1S0dIbFptX19ZbjBPVVpNWTA3d0Vvdl9VbUlseW05emlVSl8ybmdFTmlreUFMVGxLUHZ6NmxKc3JzSF9KY2dVVC13U1daRGRqWmR1UVVpYlNyTXdEaHdWZF84bW9Zd0VrLTl5UE5mVm44aFlYcHJMZ05BUVlwdNIBngFBVV95cUxOQkxUdmVtZE",
       "idioma": "es"
     },
     {
@@ -404,11 +422,11 @@
     },
     {
       "titulo": "El arzobispo de Toledo pide esclarecer las causas del accidente de tren de Urda: \"Que nunca vuelva a ocurrir\"",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVpfXzRqTGxBb1UtdkxvQWhIYS1DYUNXV2ZabGlobXhtdnB0R2RkYkM2MlNnTE9OeFhMZ19CSmpNb0VXY19vV3prd1A0NWZjZkhGaWZ6Wm53d3FXVnVDQnY2akdQTHl1dEo5RTFORXo5ZkxQblZ5eHc0R3NWNFl5YnF2YktTVW5QRVlUR3BIQzVqaGpyNWxhZndoRk5sS0xKMklzM1hJMTRpVkFWdVp4SWFTN0I0RXFqZUE3ZDAyazNQdnZjU21N0gHMAUFVX3lxTFBwNmFONFhKS0NGQkJsR2d5aS1QbjRSWnNpS2lEaDFEVXNfeENKU2NhdkxfeERzblhFeE9HMmlubjc5VThFM3h2UG0xeHJjcVRISUpaYTJGSW5laXcyMWQ4eDRCQWJNMjBDZW8yME54MDJhZnBZdUFoMkxjc0V2Qmg3T2JTSjZON3ZHbU14YVZYNkdOWDBFNXJ5SENuREZiVThaSW5Nem9XRE5vQXdBeGpGbGlzdnkxZ3Z3ZHNLTGFDS0hQb0l6TWREOFdsbg?oc=5",
-      "fuente": "La Provincia",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OGNMQkJSMVJkVmxMS19rRU5mcXJyYUJpTmhBZW5QWWl2SWvSAdIBQVVfeXFMTWM0X1JmV3dkUmFwaTgzeVlfZWJscDlQM1cyN1JIM3dVdTRBdTdHbk10aFN4MDNRMmppVnhROGVKRkZ6bnlDMlQ3ZzN2VFhvU2pWN3VWRTY0SElyazgyQUFpRFZNR09iRTNZQlBaeU5JaVZCS1Y4Rnd1QmQwVFBsbVFPNC1qVnVXeEs0a2JxOGVQVFBDU1FvWnNPZlpZV2NmelFvSjh4dnNXY2hYRV91RDluWEpZWFVBcnlDc2hFeE9VYzFHbDdiRHVUaTA4V2N1NWFR?oc=5",
+      "fuente": "El Correo Gallego",
       "fecha": "2026-11-10T20:42:21.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxONVpfXzRqTGxBb1UtdkxvQWhIYS1DYUNXV2ZabGlobXhtdnB0R2RkYkM2MlNnTE9OeFhMZ19CSmpNb0VXY19vV3prd1A0NWZjZkhGaWZ6Wm53d3FXVnVDQnY2akdQTHl1dEo5RTFORXo5ZkxQblZ5eHc0R3NWNFl5YnF2YktTVW5QRVlUR3BIQzVqaGpyNWxhZndoRk5sS0xKMklzM1hJMTRpVk",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OG",
       "idioma": "es"
     },
     {
@@ -680,23 +698,6 @@
       "fecha": "2026-11-10T10:38:57.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/SDSHU25UP5DLDDNR4YRQSCPA6Q.jpg?auth=b8edf54010b48f673a24e419eb6c9dc15b13213762529fe3de76fdc36a85b0c5",
       "resumen": "El Consejo de Ministros aprueba un real decreto ley que incluye iniciativas para ampliar la protección de los trabajadores del sector y arma la estructura del Defensor de las Víctimas"
-    },
-    {
-      "titulo": "El Gobierno crea un Defensor de víctimas de accidentes y aprueba nuevas medidas de refuerzo de la seguridad ferroviaria",
-      "url": "https://www.eldiario.es/economia/gobierno-crea-defensor-victimas-accidentes-aprueba-nuevas-medidas-refuerzo-seguridad-ferroviaria_1_13651432.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-10T10:18:01.000Z",
-      "imagen": "https://static.eldiario.es/clip/9cc99e37-0dce-4aa8-8487-39e57e91ed38_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "El Consejo de Ministros ha dado luz verde a un Real Decreto-Ley que mejora las condiciones de los profesionales del transporte ferroviario que clarifica el cómputo de los tiempos de conducción de los maquinistas y refuerza la supervisión de la Agencia Estatal de Seguridad Ferrovi"
-    },
-    {
-      "titulo": "La alerta de la maquinista del Iryo a sus pasajeros en el accidente de Urda: \"¡No salgan!\"",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3JOY2lPMXZqWGRJNFUtbFVqSVdsQXFJQ0Q0dDNKQjAzQUFUZVUyZUZvN2EwZjZOSExtVEowYUxGVG1qa0g5bHFLUUNIRlBnU0ZHLWM0VFRhVWwzUkpxaWpiT2liQ0VkM3VIZnRBMTBFX09uWjE2cDlaNnNMM1FJTlB3NW85YVM4c3hCdmJjWEF3UGpXcktCa1BVUndSVU5neUNIMFpIZnRyY296cy1uMVJmSjl6Q2RnbXUyYVEwSW10ZktlQm9hdUFTWm1MNVZSQ0E?oc=5",
-      "fuente": "Telecinco",
-      "fecha": "2026-11-10T07:58:46.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOS3JOY2lPMXZqWGRJNFUtbFVqSVdsQXFJQ0Q0dDNKQjAzQUFUZVUyZUZvN2EwZjZOSExtVEowYUxGVG1qa0g5bHFLUUNIRlBnU0ZHLWM0VFRhVWwzUkpxaWpiT2liQ0VkM3VIZnRBMTBFX09uWjE2cDlaNnNMM1FJTlB3NW85YVM4c3hCdmJjWEF3UGpXcktCa1BVUndSVU5neUNIMFpIZnRyY2",
-      "idioma": "es"
     }
   ],
   "videos": [
