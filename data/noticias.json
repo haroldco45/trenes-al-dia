@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-14T10:10:32.223Z",
+  "actualizado": "2026-11-14T16:42:02.654Z",
   "noticias": [
+    {
+      "titulo": "'The Economist' apunta que el accidente de Urda será un \"sombrío telón de fondo para las elecciones\"",
+      "url": "https://www.20minutos.es/nacional/the-economist-apunta-que-accidente-urda-sera-un-sombrio-telon-fondo-para-las-elecciones_7061127_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-14T14:18:56.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/07/6aef0b1e9e1f81-15698816.jpeg",
+      "resumen": "La publicación británica cuestiona la falta de mantenimiento de la red ferroviaria y advierte del impacto político de la tragedia a dos semanas de las elecciones generales."
+    },
     {
       "titulo": "Trabajadores ferroviarios mantienen la huelga a la espera de medidas y tras cambios en Renfe y Adif",
       "url": "https://www.20minutos.es/nacional/los-trabajadores-ferroviarios-mantienen-huelga-espera-medidas-tras-cambios-renfe-adif_7061063_0.html",
@@ -689,15 +697,6 @@
       "fecha": "2026-11-10T10:58:13.000Z",
       "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/06/6aee57348ac5a.jpeg",
       "resumen": "El nuevo cargo&nbsp;coordinará la atención a los afectados y sus familiares"
-    },
-    {
-      "titulo": "El Cristo de Urda presidirá en la Catedral de Toledo el funeral por las víctimas del accidente ferroviario",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDB1YUJQOGY2cUUydmdXcGtZUEYzOXhpUzUya3NPWndxMFFubWpjc1RRNXcyR0xoR2FpQU4yZzh0eXRRSk83cmVybzdva1NlS3VScUYyTzJyR2ExdnA3d1VoV0FKRHpITE1RQnp6NnNlNXN5cHotWEZFQzNUeVFZZnBiZmMza3lPQTJxeHk1Rkt2dUNrbGJGS2p5aGdUR2lYOXlEWXJtZ2FtVTR4aVYxRDlmaTB3dHpaZlY0Wmp6Zll6d21jcEdkdjhoMFNtUXYzUHBONFZCSlFmOC1HT1ZZcnJaMlo?oc=5",
-      "fuente": "Mundo Cofrade",
-      "fecha": "2026-11-10T10:58:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDB1YUJQOGY2cUUydmdXcGtZUEYzOXhpUzUya3NPWndxMFFubWpjc1RRNXcyR0xoR2FpQU4yZzh0eXRRSk83cmVybzdva1NlS3VScUYyTzJyR2ExdnA3d1VoV0FKRHpITE1RQnp6NnNlNXN5cHotWEZFQzNUeVFZZnBiZmMza3lPQTJxeHk1Rkt2dUNrbGJGS2p5aGdUR2lYOXlEWXJtZ2FtVT",
-      "idioma": "es"
     }
   ],
   "videos": [
