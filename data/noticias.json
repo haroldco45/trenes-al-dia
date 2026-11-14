@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-14T02:59:35.294Z",
+  "actualizado": "2026-11-14T10:10:32.223Z",
   "noticias": [
+    {
+      "titulo": "Trabajadores ferroviarios mantienen la huelga a la espera de medidas y tras cambios en Renfe y Adif",
+      "url": "https://www.20minutos.es/nacional/los-trabajadores-ferroviarios-mantienen-huelga-espera-medidas-tras-cambios-renfe-adif_7061063_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-14T10:04:56.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/14/6af830be2b4558-57373079.jpeg",
+      "resumen": "Los sindicatos exigen aplicar las medidas de seguridad pendientes tras el accidente de Urda, pese a los nuevos nombramientos en Renfe y Adif."
+    },
     {
       "titulo": "Los 8 momentos del primer debate electoral: del choque entre Cuerpo y Figaredo a la promesa de un millón de viviendas del PP",
       "url": "https://www.infobae.com/espana/2026/11/13/los-8-momentos-del-primer-debate-electoral-del-choque-entre-cuerpo-y-figaredo-a-la-promesa-de-un-millon-de-viviendas-del-pp/",
@@ -230,7 +238,7 @@
     {
       "titulo": "Diez heridos en el accidente de tren en Urda permanecen en hospitales de Castilla-La Mancha, ninguno en UCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOVN6eVpxcmxUUmxGdEk?oc=5",
-      "fuente": "cmmedia.es",
+      "fuente": "CMMedia",
       "fecha": "2026-11-11T12:17:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOV",
@@ -690,14 +698,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUDB1YUJQOGY2cUUydmdXcGtZUEYzOXhpUzUya3NPWndxMFFubWpjc1RRNXcyR0xoR2FpQU4yZzh0eXRRSk83cmVybzdva1NlS3VScUYyTzJyR2ExdnA3d1VoV0FKRHpITE1RQnp6NnNlNXN5cHotWEZFQzNUeVFZZnBiZmMza3lPQTJxeHk1Rkt2dUNrbGJGS2p5aGdUR2lYOXlEWXJtZ2FtVT",
       "idioma": "es"
-    },
-    {
-      "titulo": "El Gobierno aprueba el refuerzo en la seguridad ferroviaria: más inspecciones de trenes y los maquinistas podrán parar si advierten riesgos",
-      "url": "https://elpais.com/espana/2026-11-10/el-gobierno-lanza-el-refuerzo-en-la-seguridad-ferroviaria-mas-inspecciones-y-los-maquinistas-podran-parar-si-advierten-riesgos.html",
-      "fuente": "El País",
-      "fecha": "2026-11-10T10:38:57.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/SDSHU25UP5DLDDNR4YRQSCPA6Q.jpg?auth=b8edf54010b48f673a24e419eb6c9dc15b13213762529fe3de76fdc36a85b0c5",
-      "resumen": "El Consejo de Ministros aprueba un real decreto ley que incluye iniciativas para ampliar la protección de los trabajadores del sector y arma la estructura del Defensor de las Víctimas"
     }
   ],
   "videos": [
