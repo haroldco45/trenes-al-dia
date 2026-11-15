@@ -1,12 +1,54 @@
 {
-  "actualizado": "2026-11-15T08:21:44.229Z",
+  "actualizado": "2026-11-15T15:49:30.700Z",
   "noticias": [
+    {
+      "titulo": "Sánchez plantea una gestión \"profesional y de perfil técnico\" de Adif y Renfe tras las tragedias de Adamuz y Urda y propone un pacto de Estado por la seguridad ferroviaria",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6af9cc63fdddffc4208b4589.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-15T15:25:54.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/15/17947562962223.jpg",
+      "resumen": "\"Tras las tragedias ferroviarias ocurridas en 2026, tenemos la obligación de garantizar la seguridad de la red ferroviaria y recuperar la confianza de quienes viajan y trabajan en ella\", recoge el programa del PSOE Leer"
+    },
+    {
+      "titulo": "Descarrila un tren de mercancías en Madrid por el desprendimiento de un talud",
+      "url": "https://elpais.com/economia/2026-11-15/descarrila-un-tren-de-mercancias-en-madrid-por-el-desprendimiento-de-un-talud.html",
+      "fuente": "El País",
+      "fecha": "2026-11-15T15:12:53.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/GE2YLRWT5VNEZINZBFF64EBUHU.jpg?auth=8b1bba0b143e3295ad2f32ed91dc1be6a3b6325bb4e4f4a4a6076e7ab97425d9",
+      "resumen": "El siniestro se ha producido en la localidad de Zarzalejo, dejando heridas leves al maquinista y motivando el corte de la línea Madrid-Ávila"
+    },
+    {
+      "titulo": "La interrupción en el tren por el accidente de Urda causa entre 1,3 y 1,5 millones de pérdidas diarias en Sevilla",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHd2eFNmUGZveW5hTVM3WjRPOXZ3amt1UFh5Z1pxLVFYQVFadzZLcDRxSDB4ZVY2RGZ3OG5OSlFKcEtZSnhDanZMWDladmN4Y2dXTXhrZi1ta09BX1Y0WDRSQTBUQXhTNy1NSWJMdVlKdWpNclB3MlRBUDBuM3Fpck1mdHlIMEVWMHFqVFIzU0M0ZVgyZnZacmtXLXBWWW5LMnZrZUsxRjhtRmdGd3Q1bzkxcjk1d3lLUi1WckdnMEt1RE5BYUZYV3UwclRtVm5RMkQ2WmZ30gHbAUFVX3lxTFBSLU5uNFhhTV9ZRFc4Zk1GSzhnclRaeDVqdDMxcUJoWllzTGVGeFlpazZDdUNmSGxlejh6SUFJcWp4S3VQZXJINEdDdzN3QVBYVXpzek91YkVfdEx3dWREUzI1NGtKS3R6QXJiUlpfamRQa1RRV2ppb2VyRWNjVHNQYVJrUU1BLTZ6WmsxOGZOS0thQ3ZVbUptbERfamNiYUxkX1FYS28wY05XMW1YajRkcHRNR2JielEyVDRrOUIwNWQwZXFlcldPTVQzekZYSFF3bTlYbV9rdkI3dw?oc=5",
+      "fuente": "El Debate",
+      "fecha": "2026-11-15T11:33:54.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHd2eFNmUGZveW5hTVM3WjRPOXZ3amt1UFh5Z1pxLVFYQVFadzZLcDRxSDB4ZVY2RGZ3OG5OSlFKcEtZSnhDanZMWDladmN4Y2dXTXhrZi1ta09BX1Y0WDRSQTBUQXhTNy1NSWJMdVlKdWpNclB3MlRBUDBuM3Fpck1mdHlIMEVWMHFqVFIzU0M0ZVgyZnZacmtXLXBWWW5LMnZrZUsxRjhtRm",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Descarrila un tren de mercancías en Madrid y resulta herido leve el maquinista",
+      "url": "https://www.lavanguardia.com/vida/20261115/11684721/descarrila-tren-mercancias-madrid-resulta-herido-leve-maquinista.html",
+      "fuente": "La Vanguardia",
+      "fecha": "2026-11-15T09:27:32.000Z",
+      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/15/6af99c4a94e29.jpeg",
+      "resumen": "El accidente causa retrasos en la línea de Madrid con Ávila"
+    },
+    {
+      "titulo": "España es líder en accidente de trenes y hay otro país que ya van a 385 km/h",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUtCMFNYSGxHMmFqZ1RSUzZqZzA1RzlHQXk4VlA2dFdUVW81Q3JJejNoMnlzc1dtVWxZa2pJenRpQzJhcWF1cWMyUXNsMFRHZ0U2WmI1NWVVQXRxNFY4NEt4ekRDQko3RkdDZ0NSbEFyZmVfSTV0Vk1XRFVWVFNiRDdpV0ZoVzFSS2xsdERXSUlubVp6dlZkRXlwWnhsWmFKTklZS1NCMlN4cF9kZzRCNmNB?oc=5",
+      "fuente": "Hoy Aragón",
+      "fecha": "2026-11-15T09:12:17.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNTUtCMFNYSGxHMmFqZ1RSUzZqZzA1RzlHQXk4VlA2dFdUVW81Q3JJejNoMnlzc1dtVWxZa2pJenRpQzJhcWF1cWMyUXNsMFRHZ0U2WmI1NWVVQXRxNFY4NEt4ekRDQko3RkdDZ0NSbEFyZmVfSTV0Vk1XRFVWVFNiRDdpV0ZoVzFSS2xsdERXSUlubVp6dlZkRXlwWnhsWmFKTklZS1NCMlN4cF",
+      "idioma": "es"
+    },
     {
       "titulo": "El informe que rechazó en 2025 el presidente de Adif cifraba en 780 millones el déficit en mantenimiento",
       "url": "https://www.abc.es/espana/informe-adif-rechazo-presidente-adamuz-alertaba-deficit-20261113020132-nt.html",
       "fuente": "ABC",
-      "fecha": "2026-11-15T07:46:52.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/13/adif_recorte_01-kiND-RK9zdRyzdsEX4Z5bR4z8K2K-1200x840@diario_abc.jpg",
+      "fecha": "2026-11-15T07:47:18.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/13/adif-1200x840-U206590080227tG-RK9zdRyzdsEX4Z5bR4z8K2K-1200x840@diario_abc.jpg",
       "resumen": "ABC ha tenido acceso en exclusiva al informe que el responsable de mantenimiento de Adif, Raúl Míguez, presentó al presidente del gestor ferroviario, Luis Pedro Marco de la Peña, tres meses antes del accidente de Adamuz. El documento, cuya existencia negó Adif en un comunicado, f"
     },
     {
@@ -455,11 +497,11 @@
     },
     {
       "titulo": "El arzobispo de Toledo pide esclarecer las causas del accidente de tren de Urda: \"Que nunca vuelva a ocurrir\"",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OGNMQkJSMVJkVmxMS19rRU5mcXJyYUJpTmhBZW5QWWl2SWvSAdIBQVVfeXFMTWM0X1JmV3dkUmFwaTgzeVlfZWJscDlQM1cyN1JIM3dVdTRBdTdHbk10aFN4MDNRMmppVnhROGVKRkZ6bnlDMlQ3ZzN2VFhvU2pWN3VWRTY0SElyazgyQUFpRFZNR09iRTNZQlBaeU5JaVZCS1Y4Rnd1QmQwVFBsbVFPNC1qVnVXeEs0a2JxOGVQVFBDU1FvWnNPZlpZV2NmelFvSjh4dnNXY2hYRV91RDluWEpZWFVBcnlDc2hFeE9VYzFHbDdiRHVUaTA4V2N1NWFR?oc=5",
-      "fuente": "El Correo Gallego",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJWQ2FJa20zRFYtazA1MUtjdGpjbi1RQjZOUUV6NXZnY2VOd181VU41ZFgxS1I4cWJrdU9VcVlRWjlpTy1jMU1nOGkyUUpZT2VzbVpoTjNmX0pQU05qWjVrcFR1VjdHaF9wci1lLU05Y3ZUakVCOURUcnBpUUtFdzNUU2JnSEtHbWpQQ0kxUGljV1p0NUNJZHdCWktrQmM4QklrUWh6dzFSdVB4dmtwbWhjTXp2LXZVMGlZWjIyb9IBvwFBVV95cUxPQzM2Q3FYWlp2R01oWVlKWTVDVWpXNzdTemMxT2xNRWhlcXR0QUl5a0V4bFFBSWF6TGg4Q0JSeUpXX05aeDUtQUN5V29LVjZLR0NNUi14cUh3d3pWZ3A4Z2dweHBZY3hmOXkyd3lUcFlGeERYZURuT2ZheVRxUlRzMHFqZmxLdkg2VTA0NzJZS3hjMWhXVG1scnNfNXo1M2w3aGVkQzRIb0ZCZ05XdFRKR2x5N0N1NXVyeXJyOGhNSQ?oc=5",
+      "fuente": "El Periódico",
       "fecha": "2026-11-10T20:42:21.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OG",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJWQ2FJa20zRFYtazA1MUtjdGpjbi1RQjZOUUV6NXZnY2VOd181VU41ZFgxS1I4cWJrdU9VcVlRWjlpTy1jMU1nOGkyUUpZT2VzbVpoTjNmX0pQU05qWjVrcFR1VjdHaF9wci1lLU05Y3ZUakVCOURUcnBpUUtFdzNUU2JnSEtHbWpQQ0kxUGljV1p0NUNJZHdCWktrQmM4QklrUWh6dzFSdV",
       "idioma": "es"
     },
     {
@@ -654,50 +696,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcFpSRkloYzFrTEtjV2pqdGpYcDRSWjI0ODlUV0xsS3h1elFDclBMeERma0REaEVnS2tJN1hjSWkzZlkzT21LQXRBU0tyVjRDaUtBUDFHaUJkVXkxODRFM2dsbFJZSVNYWjNpaklqa3dydjFSS244LUhqeHJPYVBnTzNZYWs4X05ScGdMTTNYSzdFT0txQnE0VjA0NnJNWnRZbmlNZEV3ZVdmZz",
       "idioma": "es"
-    },
-    {
-      "titulo": "Cuidado con los contenidos que afirman que José María Aznar se reunió con \"el operador de trenes\" días antes del accidente de Urda: no hay rastro y FAES dice que es falso",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPT2RNbmhQZ2hlSElUQjUtZUdIUk94T3o0M2ZBNkMzbDJHeXVDV1ZrMVlWRzZqQWUwWjVKN1VYWkVjb0xiTWlKcDhNWE5TYjM5d1kySTFTRkFWSEFrR0xnS3lIZ3FueFZzNDFVNmVXdlNRZlViczE1MEJ5VUV2d0ZFX24xUXpaNklZekphZmRZUmpEaWV1QmdmaGNwLVUwd19QU0ctS1BOb1IxaVFFTkl3ZnN4QW1Jc3Zqc2h4TndSMnhLcHRZYnB3QzdZSFYwdUtIekozaXFFZ2xjTE8xZGktaWx1b1BaSkFuSXdvY2hqQjZvQ2VyM2V2cEtPdG9TOXpDWTRHU0FBdW5nOWxQcnRIZVJnTWsxdktjX3JwUFNvNmVzWlFhWFowMWc0UVE?oc=5",
-      "fuente": "Maldita.es",
-      "fecha": "2026-11-10T16:09:26.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAJBVV95cUxPT2RNbmhQZ2hlSElUQjUtZUdIUk94T3o0M2ZBNkMzbDJHeXVDV1ZrMVlWRzZqQWUwWjVKN1VYWkVjb0xiTWlKcDhNWE5TYjM5d1kySTFTRkFWSEFrR0xnS3lIZ3FueFZzNDFVNmVXdlNRZlViczE1MEJ5VUV2d0ZFX24xUXpaNklZekphZmRZUmpEaWV1QmdmaGNwLVUwd19QU0ctS1BOb1IxaV",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La misa funeral por las víctimas del accidente de trenes de Urda se celebra hoy en Toledo",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEE1dVdMVnAtZGc1aFI0UXlxLVowdkswX3FPMGNIbWFYTUI2OFlveC1COVd0X19ycmM0VmI5VjBidmNQdUtqMkYzLWdDVDZ3dWFvTGFneDFDWDdteU1EbUFKeERSQUJnOG13V2MyMnFESHg1OG9KN0JNYzlWZlItclhPbmZaOUdZRHB3dlR1RXpEUkFBNzhOT1cxZU1uRFROWWVybmtObFRVdWJkcllqVmRPQlZnRHM?oc=5",
-      "fuente": "Espacio Diario",
-      "fecha": "2026-11-10T16:08:46.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEE1dVdMVnAtZGc1aFI0UXlxLVowdkswX3FPMGNIbWFYTUI2OFlveC1COVd0X19ycmM0VmI5VjBidmNQdUtqMkYzLWdDVDZ3dWFvTGFneDFDWDdteU1EbUFKeERSQUJnOG13V2MyMnFESHg1OG9KN0JNYzlWZlItclhPbmZaOUdZRHB3dlR1RXpEUkFBNzhOT1cxZU1uRFROWWVybmtObFRVdW",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Gobierno aprobó dotar de lectores de QR para el DNI digital a las mesas electorales del 29N un día antes del accidente de tren en Urda y dos antes de publicarlo en el BOE",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWG56VFZiWGlUbE1zV2ttUlZWTjFaYVBneUtISU12czRDZGZTVDJHX2tVY3lkSVpERWhjWTRYbmdVTVR2RV9raC0yYmVLam5jZXRnaFFhR1c2QXowSHpkdm5GaUpUWFVJWEViVU5FTDFhN3p4LTVYRzFnXy0wdW1WT1VzTlVmVnVGSUNJWGxKQVJiZWctWmU3R214R2VXLTh5T1RiZDFqZURZV1JMZl9KOEJaRUw3Rk82UWVULXR0MHBhY015Y0NRc3FIZGR1YVZjQVE?oc=5",
-      "fuente": "Maldita.es",
-      "fecha": "2026-11-10T16:06:12.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWG56VFZiWGlUbE1zV2ttUlZWTjFaYVBneUtISU12czRDZGZTVDJHX2tVY3lkSVpERWhjWTRYbmdVTVR2RV9raC0yYmVLam5jZXRnaFFhR1c2QXowSHpkdm5GaUpUWFVJWEViVU5FTDFhN3p4LTVYRzFnXy0wdW1WT1VzTlVmVnVGSUNJWGxKQVJiZWctWmU3R214R2VXLTh5T1RiZDFqZURZV1",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Gobierno aprobó dotar de lectores de QR para el DNI electrónico a las mesas electorales del 29N un día antes del accidente de tren en Urda y dos antes de publicarlo en el BOE",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWG56VFZiWGlUbE1zV2ttUlZWTjFaYVBneUtISU12czRDZGZTVDJHX2tVY3lkSVpERWhjWTRYbmdVTVR2RV9raC0yYmVLam5jZXRnaFFhR1c2QXowSHpkdm5GaUpUWFVJWEViVU5FTDFhN3p4LTVYRzFnXy0wdW1WT1VzTlVmVnVGSUNJWGxKQVJiZWctWmU3R214R2VXLTh5T1RiZDFqZURZV1JMZl9KOEJaRUw3Rk82UWVULXR0MHBhY015Y0NRc3FIZGR1YVZjQVE?oc=5",
-      "fuente": "Maldita.es",
-      "fecha": "2026-11-10T16:06:12.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWG56VFZiWGlUbE1zV2ttUlZWTjFaYVBneUtISU12czRDZGZTVDJHX2tVY3lkSVpERWhjWTRYbmdVTVR2RV9raC0yYmVLam5jZXRnaFFhR1c2QXowSHpkdm5GaUpUWFVJWEViVU5FTDFhN3p4LTVYRzFnXy0wdW1WT1VzTlVmVnVGSUNJWGxKQVJiZWctWmU3R214R2VXLTh5T1RiZDFqZURZV1",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Rollán, sobre la ausencia de Sánchez en el funeral: \"Si temes un recibimiento frío, obedece a que tu gestión ha sido gélida\"",
-      "url": "https://www.elconfidencial.com/espana/2026-11-10/funeral-victimas-accidente-tren-urda-1hms-1svm_4462206/",
-      "fuente": "El Confidencial",
-      "fecha": "2026-11-10T14:25:00.000Z",
-      "imagen": "https://images.ecestaticos.com/uv9b0ushr7n2RLjuXwLnIS3_Ojg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffca%2F348%2F3d9%2Ffca3483d9caea8fbf2ce6d3b08914710.jpg",
-      "resumen": "El presidente del Senado cuestiona la ausencia del jefe del Ejecutivo en la ceremonia por las 69 víctimas del siniestro ferroviario de Urda y reclama cercanía con las familias"
     }
   ],
   "videos": [
