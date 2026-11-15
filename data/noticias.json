@@ -1,6 +1,23 @@
 {
-  "actualizado": "2026-11-14T21:16:24.674Z",
+  "actualizado": "2026-11-15T08:21:44.229Z",
   "noticias": [
+    {
+      "titulo": "El informe que rechazó en 2025 el presidente de Adif cifraba en 780 millones el déficit en mantenimiento",
+      "url": "https://www.abc.es/espana/informe-adif-rechazo-presidente-adamuz-alertaba-deficit-20261113020132-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-15T07:46:52.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/13/adif_recorte_01-kiND-RK9zdRyzdsEX4Z5bR4z8K2K-1200x840@diario_abc.jpg",
+      "resumen": "ABC ha tenido acceso en exclusiva al informe que el responsable de mantenimiento de Adif, Raúl Míguez, presentó al presidente del gestor ferroviario, Luis Pedro Marco de la Peña, tres meses antes del accidente de Adamuz. El documento, cuya existencia negó Adif en un comunicado, f"
+    },
+    {
+      "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
+      "fuente": "Spanien Press",
+      "fecha": "2026-11-15T01:24:25.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0",
+      "idioma": "en"
+    },
     {
       "titulo": "'The Economist' apunta que el accidente de Urda será un \"sombrío telón de fondo para las elecciones\"",
       "url": "https://www.20minutos.es/nacional/the-economist-apunta-que-accidente-urda-sera-un-sombrio-telon-fondo-para-las-elecciones_7061127_0.html",
@@ -33,15 +50,6 @@
       "fecha": "2026-11-13T22:44:27.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/Q7POMUDUHZB2HLVBXUAI22YSPM.png?auth=bdcbe5f13dfa4269e1956170396d110b9a7c3e45f2507accdf887621bf98abd1&smart=true&width=1917&height=1023",
       "resumen": "Los representantes de PSOE, Vox, Frente Amplio y el Partido Popular han confrontado sus propuestas sobre trenes, alquileres, pensiones, salarios e impuestos en laSexta"
-    },
-    {
-      "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
-      "fuente": "Spanien Press",
-      "fecha": "2026-11-13T15:04:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0",
-      "idioma": "en"
     },
     {
       "titulo": "El Gobierno nombra nuevos responsables en Renfe y Adif tras el accidente de Urda, en Toledo",
@@ -255,7 +263,7 @@
     {
       "titulo": "Diez heridos en el accidente de tren en Urda permanecen en hospitales de Castilla-La Mancha, ninguno en UCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOVN6eVpxcmxUUmxGdEk?oc=5",
-      "fuente": "CMMedia",
+      "fuente": "cmmedia.es",
       "fecha": "2026-11-11T12:17:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOV",
@@ -690,14 +698,6 @@
       "fecha": "2026-11-10T14:25:00.000Z",
       "imagen": "https://images.ecestaticos.com/uv9b0ushr7n2RLjuXwLnIS3_Ojg=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ffca%2F348%2F3d9%2Ffca3483d9caea8fbf2ce6d3b08914710.jpg",
       "resumen": "El presidente del Senado cuestiona la ausencia del jefe del Ejecutivo en la ceremonia por las 69 víctimas del siniestro ferroviario de Urda y reclama cercanía con las familias"
-    },
-    {
-      "titulo": "Sánchez se escuda en su laicismo para no ir a la misa de Urda, pese a haber acudido a al menos seis actos religiosos",
-      "url": "https://www.abc.es/espana/sanchez-escuda-laicismo-misa-urda-pese-haber-20261110101502-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-10T11:14:18.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/10/1410302395-RGjdgX6GiV1BZBMHxbdnPFI-1200x840@diario_abc.jpg",
-      "resumen": "El presidente del Gobierno, Pedro Sánchez, no acudirá este martes a la misa funeral en recuerdo de las 69 víctimas mortales del trágico accidente ferroviario de Urda (Toledo) . Su ausencia en la ceremonia religiosa, que ha generado cierta controversia a escasos veinte días de las"
     }
   ],
   "videos": [
