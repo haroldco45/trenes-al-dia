@@ -1,6 +1,40 @@
 {
-  "actualizado": "2026-11-16T07:51:43.012Z",
+  "actualizado": "2026-11-16T18:16:59.263Z",
   "noticias": [
+    {
+      "titulo": "La Agencia de Seguridad Ferroviaria blinda la exigencia de la doble verificación de las órdenes de Adif a los maquinistas",
+      "url": "https://elpais.com/economia/2026-11-16/la-agencia-de-seguridad-ferroviaria-blinda-la-exigencia-de-la-doble-verificacion-de-las-ordenes-de-adif-a-los-maquinistas.html",
+      "fuente": "El País",
+      "fecha": "2026-11-16T16:43:32.000Z",
+      "imagen": "https://imagenes.elpais.com/resizer/v2/IVVLSBQ5DVBD3P46PEACOFJJPQ.jpg?auth=ed67f6e78c48053b2ae145f0567068a53dad01a804d01be2684931a4030342ff",
+      "resumen": "La marcha lenta o “a la vista” será obligatoria cuando se caiga el sistema LZB en la línea Madrid-Sevilla, en contra de lo que sucedió en el siniestro de Urda"
+    },
+    {
+      "titulo": "WATCH: Armed robbers 'take advantage of Toledo train disaster' to raid jewellery shop and steal nearly half a million",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkZqQUZVTTR3M3cweWc5RVJkbXUtLWJrTmtTc2xyelBsVlZiYU9wdWF5dFdJTXVQcDVSdWNJRDcxVnZPOUdubWRmRGpMNDV4NHg1YzRxY21xclFIMmx6RVp5Y0xHLTdIZ0Fld3dhNmZZaXIwZEVrSEt1Wnh1MmtxSVZwdWNUdUZxTjFXVVZYZVNqTnI4VUVMMw?oc=5",
+      "fuente": "Olive Press News Spain",
+      "fecha": "2026-11-16T15:30:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPVkZqQUZVTTR3M3cweWc5RVJkbXUtLWJrTmtTc2xyelBsVlZiYU9wdWF5dFdJTXVQcDVSdWNJRDcxVnZPOUdubWRmRGpMNDV4NHg1YzRxY21xclFIMmx6RVp5Y0xHLTdIZ0Fld3dhNmZZaXIwZEVrSEt1Wnh1MmtxSVZwdWNUdUZxTjFXVVZYZVNqTnI4VUVMMw?oc=5\" target=\"_blank\">W",
+      "idioma": "en"
+    },
+    {
+      "titulo": "El turismo japonés da la espalda a Toledo por el miedo tras el accidente de tren de Urda y el turismo americano no llega por el caos aéreo en EEUU",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOS2dhYUlLTWU4T09DamNfV3ZKUVVVTm9pZ3JzTUJIYXEtYy15bGhIek5GZmdHMVVwaE1JOUxSVWZkOWpGLUlHaWVoaTdKcXZadVBDLWJwOGlPNDY1cUxXek9TN09Gek9XMmZfbS1JdUxUZk1mNnJ0STBjME1yc1ZOWU0xTHNOVmxYbV8wVUdCb1dCNGRaQjdsMnkyQ0lyRkhqSE84S01NV2syN0U3Szl6Unp3RnZHbWc1MVlpWXJNR29NZnJFX0p2bWxfZmthQV9XQzlnVmJjRUo5ZXpLNEVXMkc2YlQ2Q2pNaWJSeEV4RXVpcHk3NEVmT1VBMVdQUVJzcWtLWktsMVpEOFM5cTFRdGxVRzBkd054SVkzM1hxaUdZNGJmOEpnVnd2aUxxUdIBswJBVV95cUxNbjhwUHo5TXJ3ejFacGd6ZVVsODh3dVFHTi1Pb2tLLXdsZlhqSWR5SktnSGYwTFpGRUhLZHh1bmx2OHhKeHRLMk5LYUg4eU5tMGU4bXZfZnluU21DRldpUkt2MktMcUIwRkV1dm5DUUExRHI5MzVFSjcyUnYteTRFUzNzVVdhcmVQVlBBd3Y1eldNazJQZHlzRHJhUEpSV1J1d1QyLTVMRGM5UFRZbTJnbnlmTGhGd1U1bTdqRW5VSHB4UFBlUWVXdmxJNzBSckIxTWhEUkx2emFXSzMxX3NtWERBNFpWTDlVT3k1eDJ4c05yRVd6VS04eVZlb0hkeU9TcEtuUkFra1hNeF9xSXNkVHA2U3FjM2hVUEh3VjBBaHB4SHpOc3FuaXBKeE9DWjY4SGk0?oc=5",
+      "fuente": "COPE",
+      "fecha": "2026-11-16T14:14:50.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgJBVV95cUxOS2dhYUlLTWU4T09DamNfV3ZKUVVVTm9pZ3JzTUJIYXEtYy15bGhIek5GZmdHMVVwaE1JOUxSVWZkOWpGLUlHaWVoaTdKcXZadVBDLWJwOGlPNDY1cUxXek9TN09Gek9XMmZfbS1JdUxUZk1mNnJ0STBjME1yc1ZOWU0xTHNOVmxYbV8wVUdCb1dCNGRaQjdsMnkyQ0lyRkhqSE84S01NV2syN0",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Cuerpo convoca a expertos aeronáuticos para elaborar en dos semanas un \"plan de choque\" para el sector ferroviario",
+      "url": "https://www.20minutos.es/nacional/cuerpo-convoca-expertos-aeronauticos-otros-paises-para-elaborar-dos-semanas-un-plan-choque-para-sector-ferroviario_7061442_0.html",
+      "fuente": "20minutos",
+      "fecha": "2026-11-16T08:38:27.000Z",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/15/6ad09a0905e616-31828751.r_d.460-338-20014.png",
+      "resumen": "Este lunes se constituirá el \"comité de expertos\" que anunció el viernes para auditar en los próximos dos meses el sistema, como \"germen\" de un pacto de Estado sobre el tren. Los sindicatos ferroviarios mantienen la huelga para este martes y el Gobierno aprobará un nuevo decreto "
+    },
     {
       "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
@@ -372,7 +406,7 @@
     {
       "titulo": "Diez heridos en el accidente de tren en Urda permanecen en hospitales de Castilla-La Mancha, ninguno en UCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOVN6eVpxcmxUUmxGdEk?oc=5",
-      "fuente": "cmmedia.es",
+      "fuente": "CMMedia",
       "fecha": "2026-11-11T12:17:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOV",
@@ -658,40 +692,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXlzNXZscjZwQTc1TEJYT0s2V2hEZW9FVG5ZQXJGSVVybzhMSWdlbzU0d1FGb3ltQ1RvSzRyR0RaZVN6UFh3cHlGUHAwSVVVTE1lVGg0M2VnN2xxS2xPaXJfSi0wRnFkRkRqZmFjM3dUbzJMTEF4aE5NNDRKa0wybTdMYzlzYnV4OEJuNHlUTElaay1ndVpQajUyZjd2c2pIUjlpTlZwZjdMQn",
       "idioma": "es"
-    },
-    {
-      "titulo": "Los reyes asisten al funeral de Toledo por las víctimas del accidente de tren en Urda",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS250U0pJUDh2WEhsWUpnS3ZZTXlub2xQMXRZQ191YXZnMWpYTmNBT2R5c0VieTRWa0thOEJqUVhhRmtGcW1OS2N5QWxRM1R2OEZ5MTF1WVRaVE8wTmlRY0JYS1g0Z0hVQmJ3MWQ1a1YxbENBS3lOUTcwdzJmUTB4ajhR0gGCAUFVX3lxTFBrWmprQl82ZGhoWEVnajZNajVRaG9BalozZGFndFZsamc3MVFVNUpwMjdTS21vZUNCTGZUdmM0Z0tqaE1MRWNiRmY0ZEZvbHl6eXItNUYxdFZkX2pPWEI5VVhEWmVNSzI4ZFgwdmtxUTIyQTBGbnVVRmVoYjlxcG5Ba3c?oc=5",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-10T18:57:11.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOS250U0pJUDh2WEhsWUpnS3ZZTXlub2xQMXRZQ191YXZnMWpYTmNBT2R5c0VieTRWa0thOEJqUVhhRmtGcW1OS2N5QWxRM1R2OEZ5MTF1WVRaVE8wTmlRY0JYS1g0Z0hVQmJ3MWQ1a1YxbENBS3lOUTcwdzJmUTB4ajhR0gGCAUFVX3lxTFBrWmprQl82ZGhoWEVnajZNajVRaG9BalozZGFndF",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Una misa solemne para despedir a las 69 víctimas de Urda y dar consuelo a las familias: “No estáis solos”",
-      "url": "https://www.lavanguardia.com/vida/20261110/11681121/cristo-milagros-69-velas-despedir-victimas-urda.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-10T18:56:09.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/10/6af368ac4067c.jpeg",
-      "resumen": "Los Reyes asisten a la misa en la catedral de Toledo por los fallecidos en la colisión de trenes"
-    },
-    {
-      "titulo": "La Catedral de Toledo acoge el funeral por las 69 víctimas del accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkc2OUg3dkp3ZkoxeGxKWGszaGFmc0xodmw5ZFZDcHRKQ05kTDdzX3pjNWU3b1UzV05TeDYxTnQ4NVNTUDZVS0JxaTA4NjV1QnhOUk82QklqVkpidU1ReEl0N1pRT05idWZwWWpKQWt4bVVHSHRvQzcydGFBZjZCZjVILW5MeUlhMGRZNHhXNkZIbDQ2RFZQWUNPeGNoSTNvYTZoadIBqgFBVV95cUxNbEdCbDRWdDJzYmNxa3B5SlRiQlB6OXdUVXhLcFJCck5ONTBJVk44cm5zbW0yY0psR2ZHOFhueHVkb1l6WjJ2Mm1YUm8ycHAzU2FOQkpGdTY2WVg0eUw4SnlOZU1CbHd6V0pXWHljMWhkRkN3NkxzSm5mX1pmWkdDU3JCaUhWb0d6dGMtM0R5dWRGdUhXTUN0cF9PbWQ2RS10MkZ1ZnpqekZIZw?oc=5",
-      "fuente": "Demócrata",
-      "fecha": "2026-11-10T18:23:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkc2OUg3dkp3ZkoxeGxKWGszaGFmc0xodmw5ZFZDcHRKQ05kTDdzX3pjNWU3b1UzV05TeDYxTnQ4NVNTUDZVS0JxaTA4NjV1QnhOUk82QklqVkpidU1ReEl0N1pRT05idWZwWWpKQWt4bVVHSHRvQzcydGFBZjZCZjVILW5MeUlhMGRZNHhXNkZIbDQ2RFZQWUNPeGNoSTNvYTZoadIBqgFBVV",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Toledo despide a las víctimas de Urda entre el luto, los aplausos a los Reyes y la indignación: \"Sánchez no viene porque tiene mucho miedo al pueblo\"",
-      "url": "https://www.elmundo.es/espana/2026/11/10/6af339c3fdddff9e3e8b45ae.html",
-      "fuente": "El Mundo",
-      "fecha": "2026-11-10T18:14:17.000Z",
-      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/10/17943344056306.jpg",
-      "resumen": "Sus Majestades presiden en la Catedral una misa funeral en memoria de los 69 fallecidos en el accidente de tren, arropados por ciudadanos que critican la ausencia del presidente del Gobierno Leer"
     }
   ],
   "videos": [
