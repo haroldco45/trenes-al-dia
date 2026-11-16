@@ -1,6 +1,23 @@
 {
-  "actualizado": "2026-11-16T00:56:22.228Z",
+  "actualizado": "2026-11-16T07:51:43.012Z",
   "noticias": [
+    {
+      "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
+      "fuente": "Spanien Press",
+      "fecha": "2026-11-16T05:16:32.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0",
+      "idioma": "en"
+    },
+    {
+      "titulo": "La estación de AVE en Parla, la promesa de Óscar Puente de la que nada más se supo tras Adamuz y Urda",
+      "url": "https://www.elconfidencial.com/espana/madrid/2026-11-16/la-estacion-de-ave-en-parla-la-promesa-de-oscar-puente-de-la-que-nada-mas-se-supo-tras-adamuz-y-urda_4462477/",
+      "fuente": "El Confidencial",
+      "fecha": "2026-11-16T04:00:00.000Z",
+      "imagen": "https://images.ecestaticos.com/wH4vrmOz93ZYjow4WzNVT1AlpYU=/0x0:2272x1595/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F862%2F1f6%2Ff2a%2F8621f6f2a3d00d61c98d5eaefaa87581.jpg",
+      "resumen": "Transportes anunció hace un año una nueva infraestructura para descongestionar Atocha, mientras el mantenimiento de la vía de Andalucía se desplomaba. El ministerio reconoce que no hay novedades"
+    },
     {
       "titulo": "Sentido recuerdo de la selección española a Jesús de Miguel en el Metropolitano",
       "url": "https://www.20minutos.es/deportes/futbol/sentido-recuerdo-seleccion-espanola-jesus-miguel-metropolitano_7061385_0.html",
@@ -16,6 +33,15 @@
       "fecha": "2026-11-15T20:19:16.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/XXQBJVPT5VH7TKHWW527CG2Q4A.JPG?auth=e727552dae355becaab4588f43528d0d24d15f3dc0c38d36b824f9ae27dfbe38&smart=true&width=4955&height=2787",
       "resumen": "Los jugadores españoles sacaron todas las camisetas que ha vestido Jesús de Miguel"
+    },
+    {
+      "titulo": "Nuevo accidente ferroviario en España: descarriló una locomotora en Madrid y hay un maquinista herido",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnpJbk9YZ2xnS1hMd19WVGd1dmdCOWZiVjJnT3E1Q3pzWUdiYjhJYXR0Z2dzSWtYXzA5QzBWVm9JU1dxZWRkMXU0SmRRU3dSR2tzM0VUSWEtOGJjc3BESnlhV1RPVDBEZWJJaVYwWDk5NWlZZXVJMTdadC1Td3MxX1h1MDkyVHNvb2RhVmUxZ3pGYjdyZUtVZWRibTNwRFVTenNtU0tldWE0dzRHZEM5S0owNjJIam1CUWtsMFNzYjZUTjJJZHVfMHh6dTI3RThi0gHkAUFVX3lxTFBJS1ZsbzVLQVF6cU83dktTUTA1SzlZeEw1Snh2d1hpZXBJT1ZMR2dDeGNneHBRRkZRQVZtTlRvajJwTkRHdmtBNUx0b3ZYSkk4QVZLdXRuODNqdng3aHlaU3BNSkQwdkJ1U3NhZzlCQjlHbEpZZDRrdXBROXlGYUhhQVNWcHJHUmZwaTBCRmlJbGY5ZVBqbE5uSDZmdTRjZmFsbnFnbjZxYjRkVDMydjVTQ2E4WDdtTUdPc0NEUVIzN1dCNlZoZFZxUzJXbE5sdjlSOFlDeDBzM0c0cVFZUDdXdDd0Ug?oc=5",
+      "fuente": "TN",
+      "fecha": "2026-11-15T18:34:51.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUnpJbk9YZ2xnS1hMd19WVGd1dmdCOWZiVjJnT3E1Q3pzWUdiYjhJYXR0Z2dzSWtYXzA5QzBWVm9JU1dxZWRkMXU0SmRRU3dSR2tzM0VUSWEtOGJjc3BESnlhV1RPVDBEZWJJaVYwWDk5NWlZZXVJMTdadC1Td3MxX1h1MDkyVHNvb2RhVmUxZ3pGYjdyZUtVZWRibTNwRFVTenNtU0tldWE0dz",
+      "idioma": "es"
     },
     {
       "titulo": "Nuevo accidente ferroviario en España: tren de mercancías se descarrila cerca de Madrid y obliga a suspender varias conexiones",
@@ -100,15 +126,6 @@
       "fecha": "2026-11-15T06:53:02.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/13/6af724c31117f6-65500279.jpeg",
       "resumen": "También cambia el trato con las víctimas de accidentes: Del 'yo no soldé el carril' a recibir a las de Adamuz y Angrois y acudir al funeral en la Catedral de Toledo por las de Urda."
-    },
-    {
-      "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0ZjaW1CZHJURnFnX2RZZm5PV3pIbDRSdHlwcGdfX2N5RURhaHM?oc=5",
-      "fuente": "Spanien Press",
-      "fecha": "2026-11-15T01:24:25.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0VkMnRmZTlqcDJoRWhmYUV4elZqemRySjM0bUNYQVdIZ2NxNHJyRUUtQklBYjM4aHFqelFMUE85VkF6dGF2SXI0UC1hUVl6VE04MWhNYzNFVmhaWFhzcjY3LW0zdFlrSTlXWTRFR2NmWFhZSUpBUF92bl9FckVRZGJLTHFVQUpLd1BWbk9JNTZVeEFnaTdLTk1IRUxGRnNjSW5sbno5bVJVc0",
-      "idioma": "en"
     },
     {
       "titulo": "'The Economist' apunta que el accidente de Urda será un \"sombrío telón de fondo para las elecciones\"",
@@ -675,24 +692,6 @@
       "fecha": "2026-11-10T18:14:17.000Z",
       "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/10/17943344056306.jpg",
       "resumen": "Sus Majestades presiden en la Catedral una misa funeral en memoria de los 69 fallecidos en el accidente de tren, arropados por ciudadanos que critican la ausencia del presidente del Gobierno Leer"
-    },
-    {
-      "titulo": "Así ha sido la misa funeral en la catedral de Toledo por las víctimas del tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnJ4OUhqdzNLMVpwelFMQWFCUjFrcUswWDZUUlVHaGx5UVprTDNWZGtYNVNicjA0ZXB2RWRmRGQ4bkhmQVpuUkpUV0F0SzVpSmFpaVB6cUVnNFRpcjlHYTBtbmdneV9lRS1MNzBoZE1BNTdWQ2dXRXlfZXdYSFQxTDc5ci1pSFZPcU5hOFFBUHVSMEk3bE5QQm5Id3JLOVQ5elkwR1REODE4RmdTTVVoLUNESy0tMFkxbWtGTw?oc=5",
-      "fuente": "101TV",
-      "fecha": "2026-11-10T18:01:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMnJ4OUhqdzNLMVpwelFMQWFCUjFrcUswWDZUUlVHaGx5UVprTDNWZGtYNVNicjA0ZXB2RWRmRGQ4bkhmQVpuUkpUV0F0SzVpSmFpaVB6cUVnNFRpcjlHYTBtbmdneV9lRS1MNzBoZE1BNTdWQ2dXRXlfZXdYSFQxTDc5ci1pSFZPcU5hOFFBUHVSMEk3bE5QQm5Id3JLOVQ5elkwR1REODE4Rm",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La maquinista del Iryo alertó del riesgo de electrocución tras el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEtia3lUVkgtZG5USXBrd3NodURuRzVrejhIXy1BeTlzVEluVXN1a0p1aUVybWdqMlUwSHBxUk5kZ1lvZFRYWXo3N1hNVFlLaEZvdjdObU5jRTFfWnNfbko0VDhyNjRqMk9NNU5tT2VHa1pkLV9Dd2RTQVoxY3VYdVRycUhSUkdSMFVDLUdxTWtLcThEZ1MzNjJ1enIxSmYzLURRR0NjQUFobTRDdG9IVTBYSVZlOEd3VlM5SnFGT0RFZ3FRazBQUUdGUXQ0OWtibXBqVtIB1AFBVV95cUxNNTJRT1ByMDNHYVRZTmR1d2dqZTdUVjdtUHNaVnAxNEp4cGh1ak5HS2FIWHJMWUstZmZ5U2V6cFVHUFdERkk4aUdDaE43MlAyenJLQk1KclNLXzRLbzdMNF9wTl9vQW1fQ0FCNmwtdlNHU0xFSkpkUnQxMGdsM25RZVFDQzdjbzgyUldidWRXZjVpTDdra0xjdzYwLVJQa21DbGtRNmRjenhQa3lOY0ZDRG90Zm93YUtIeTdkaGxZRV9XMTJPcTlDZTJXNzFuRU1FMG5OeA?oc=5",
-      "fuente": "Antena 3 Noticias",
-      "fecha": "2026-11-10T17:51:32.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOeEtia3lUVkgtZG5USXBrd3NodURuRzVrejhIXy1BeTlzVEluVXN1a0p1aUVybWdqMlUwSHBxUk5kZ1lvZFRYWXo3N1hNVFlLaEZvdjdObU5jRTFfWnNfbko0VDhyNjRqMk9NNU5tT2VHa1pkLV9Dd2RTQVoxY3VYdVRycUhSUkdSMFVDLUdxTWtLcThEZ1MzNjJ1enIxSmYzLURRR0NjQUFobT",
-      "idioma": "es"
     }
   ],
   "videos": [
