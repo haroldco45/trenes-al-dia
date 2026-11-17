@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-16T18:16:59.263Z",
+  "actualizado": "2026-11-17T01:59:58.478Z",
   "noticias": [
+    {
+      "titulo": "Renfe lanzó una auditoría externa de su personal y sistemas de seguridad un mes antes del accidente de Urda",
+      "url": "https://www.abc.es/economia/renfe-lanzo-auditoria-externa-personal-sistemas-seguridad-20261117020212-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-17T01:02:12.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/11/17/renfe-ave-Rvt5fYXXewGG7BQdr86u4hM-1200x840@diario_abc.jpg",
+      "resumen": "Renfe inició el lanzamiento de un contrato público para realizar una auditoría externa que evalúe y vigile a todo su personal, maquinistas incluidos, así como sus sistemas de seguridad, un mes antes del accidente de Urda. Así se desprende de la documentación que el propio operado"
+    },
     {
       "titulo": "La Agencia de Seguridad Ferroviaria blinda la exigencia de la doble verificación de las órdenes de Adif a los maquinistas",
       "url": "https://elpais.com/economia/2026-11-16/la-agencia-de-seguridad-ferroviaria-blinda-la-exigencia-de-la-doble-verificacion-de-las-ordenes-de-adif-a-los-maquinistas.html",
@@ -28,12 +36,30 @@
       "idioma": "es"
     },
     {
+      "titulo": "Seguridad Ferroviaria refuerza los protocolos para circular tras una caída del LZB como la del accidente de Urda",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZUFndmg2WEhGWk01MDlyR1NBbVg3U1ZaUTBvLU95a2VMTWtaWHdoMGpWWWp5cGhJeklpOWJOb1pkRjVNLTZtMXljV2pTV3A3a2FwNTdWajlWMG03UUlxMmc2UjN0bkxpOUd2c2ZEWnhGRzdKZmEtSExyb0plOXFUaVN4MkxqLTVhWHp1Z1IxYlNLY05sU3FSOWZHTHJMYVcxUGJmRm1FaDBndzhmc3pRZzJSQ1ZPWVItY0J0emVndlhZNHdnTEtIYU0wdGI1ZjBsdG5JSzFvQ1V4a09GVXpWMmJjOGhqWDhxTngzRzViSm02M1FwOE1LTVkzMF9sZXJNcnUyVlFMWUVPUFdlVjBFdHFmMVJ6QV9q0gGDAkFVX3lxTFAzOEpPNmswb1ZXR2ptSnJlaWcwTzZjSzJDbjQ4R0VST0xBaElMN2FPNGthcElSTzNzejdzRjJoeHBjTkhJOUtBSVJoTmVsdi1yZTNrN3JoLVdyMVhxTFE5c0FhWi1mcmZHN3R5T01XYU9nSDFqMXNOUGIta2hETmQ4YWRzbzYwNlE2c2tSdFVNYW1QT0ZZbmZxYjZGcGROallWVkxac0JaaGJPVEZXNjZTSnRTdEMwOUNac0xDUVdfX3RSYzU4MG1VLUdQeTZGZk9MeDViY2VXX0hVc3gyVTN1RVQ2YlczMDA1TVp0MnZLWFJPM1BjVEIwTFFFZ2dJV0Z5MFk?oc=5",
+      "fuente": "El Economista",
+      "fecha": "2026-11-16T12:49:16.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAJBVV95cUxOZUFndmg2WEhGWk01MDlyR1NBbVg3U1ZaUTBvLU95a2VMTWtaWHdoMGpWWWp5cGhJeklpOWJOb1pkRjVNLTZtMXljV2pTV3A3a2FwNTdWajlWMG03UUlxMmc2UjN0bkxpOUd2c2ZEWnhGRzdKZmEtSExyb0plOXFUaVN4MkxqLTVhWHp1Z1IxYlNLY05sU3FSOWZHTHJMYVcxUGJmRm1FaDBndz",
+      "idioma": "es"
+    },
+    {
       "titulo": "Cuerpo convoca a expertos aeronáuticos para elaborar en dos semanas un \"plan de choque\" para el sector ferroviario",
       "url": "https://www.20minutos.es/nacional/cuerpo-convoca-expertos-aeronauticos-otros-paises-para-elaborar-dos-semanas-un-plan-choque-para-sector-ferroviario_7061442_0.html",
       "fuente": "20minutos",
       "fecha": "2026-11-16T08:38:27.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/10/15/6ad09a0905e616-31828751.r_d.460-338-20014.png",
       "resumen": "Este lunes se constituirá el \"comité de expertos\" que anunció el viernes para auditar en los próximos dos meses el sistema, como \"germen\" de un pacto de Estado sobre el tren. Los sindicatos ferroviarios mantienen la huelga para este martes y el Gobierno aprobará un nuevo decreto "
+    },
+    {
+      "titulo": "BREAKING NEWS: At Least Ten Reported Dead Following High-Speed Train Collision in Spain",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3dlUXJHM3JaSldmM1FPUEdDR05kYVlteDFYZE5rZ2F3QjZJaHl2clRKbjl2Q1ZxcHVyQ0FGNDJCU040aHg5SE50elZkenJsRkdnblVqOEtvd1JpZkczUk9UMUpxcXpzOHJiZUdoMmsxajBKQUFjLU1CQmtGbHNkR1g0MEtCQ3dkcmdRUkZRYVAzZXg5R0staGk1cS1YcU1DVXhIWS03c0V4ZHVHTGtLbXNpQVBLYkJtckRQdw?oc=5",
+      "fuente": "Spanien Press",
+      "fecha": "2026-11-16T06:43:57.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3dlUXJHM3JaSldmM1FPUEdDR05kYVlteDFYZE5rZ2F3QjZJaHl2clRKbjl2Q1ZxcHVyQ0FGNDJCU040aHg5SE50elZkenJsRkdnblVqOEtvd1JpZkczUk9UMUpxcXpzOHJiZUdoMmsxajBKQUFjLU1CQmtGbHNkR1g0MEtCQ3dkcmdRUkZRYVAzZXg5R0staGk1cS1YcU1DVXhIWS03c0V4ZH",
+      "idioma": "en"
     },
     {
       "titulo": "Toledo Rail Disaster: Reports of 64 Dead as Spain Awaits Answers from Transport Minister Óscar Puente",
@@ -51,6 +77,15 @@
       "fecha": "2026-11-16T04:00:00.000Z",
       "imagen": "https://images.ecestaticos.com/wH4vrmOz93ZYjow4WzNVT1AlpYU=/0x0:2272x1595/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F862%2F1f6%2Ff2a%2F8621f6f2a3d00d61c98d5eaefaa87581.jpg",
       "resumen": "Transportes anunció hace un año una nueva infraestructura para descongestionar Atocha, mientras el mantenimiento de la vía de Andalucía se desplomaba. El ministerio reconoce que no hay novedades"
+    },
+    {
+      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
+      "fuente": "ABC News - Breaking News, Latest News and Videos",
+      "fecha": "2026-11-15T22:56:53.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
+      "idioma": "en"
     },
     {
       "titulo": "Sentido recuerdo de la selección española a Jesús de Miguel en el Metropolitano",
@@ -406,7 +441,7 @@
     {
       "titulo": "Diez heridos en el accidente de tren en Urda permanecen en hospitales de Castilla-La Mancha, ninguno en UCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOVN6eVpxcmxUUmxGdEk?oc=5",
-      "fuente": "CMMedia",
+      "fuente": "cmmedia.es",
       "fecha": "2026-11-11T12:17:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOV",
@@ -464,15 +499,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdG9iM3ljZldSTThjQ2RBU1hRWjFPaFM3WFJjYU1jSk84RDJwTVFpNmd1SXdPYWVWU2NncjJ3YnpZMkNOMDFZY2JqRVpaUUpvMnRPTlRveHJTbVluVFk1MlRDdy1GeC1MVmMwQl9VYnFRSDhuZ0VmT3lRMWl5aHVGT19SbkFiTHptWkljMVJOc0tvdFhzYWc4NUdMX3VaRk1JNFlzZlBBSUdQZj",
       "idioma": "es"
-    },
-    {
-      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
-      "fuente": "ABC News - Breaking News, Latest News and Videos",
-      "fecha": "2026-11-11T01:48:16.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
-      "idioma": "en"
     },
     {
       "titulo": "“Que se asuman responsabilidades”: arzobispo exige justicia en funeral por las víctimas del tren de Toledo",
@@ -571,15 +597,6 @@
       "idioma": "es"
     },
     {
-      "titulo": "BREAKING NEWS: At Least Ten Reported Dead Following High-Speed Train Collision in Spain",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3dlUXJHM3JaSldmM1FPUEdDR05kYVlteDFYZE5rZ2F3QjZJaHl2clRKbjl2Q1ZxcHVyQ0FGNDJCU040aHg5SE50elZkenJsRkdnblVqOEtvd1JpZkczUk9UMUpxcXpzOHJiZUdoMmsxajBKQUFjLU1CQmtGbHNkR1g0MEtCQ3dkcmdRUkZRYVAzZXg5R0staGk1cS1YcU1DVXhIWS03c0V4ZHVHTGtLbXNpQVBLYkJtckRQdw?oc=5",
-      "fuente": "Spanien Press",
-      "fecha": "2026-11-10T20:56:33.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOb3dlUXJHM3JaSldmM1FPUEdDR05kYVlteDFYZE5rZ2F3QjZJaHl2clRKbjl2Q1ZxcHVyQ0FGNDJCU040aHg5SE50elZkenJsRkdnblVqOEtvd1JpZkczUk9UMUpxcXpzOHJiZUdoMmsxajBKQUFjLU1CQmtGbHNkR1g0MEtCQ3dkcmdRUkZRYVAzZXg5R0staGk1cS1YcU1DVXhIWS03c0V4ZH",
-      "idioma": "en"
-    },
-    {
       "titulo": "Funeral de Estado en España por las 69 víctimas del choque de trenes de alta velocidad en Urda",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNnBXY2tzdVJabnRBSDJ5NmxUZVhOaXVtZWpESzJnbG9wUGhJbnNTTHg5dGNxNF9PU2ZSeHJFaEVfakZfX21yaWt0MGdSZGZOdU02UlZ3anBXb1NVUVNfYTZsOUJQLVpPNmRDWHh6NGdGeTdGU252OUd5Q3lyVXdBR0pWS3BkX2o0TEVDVzFQWmNtVlBZdF9uc2FtRGxfMkNfcnN5Z1hjZmNfVHp2Y2gxU0JsUFBYNjNEZFdVQUhlYmE3OWdITGRiZk5sR2F1MUphSEpjR24xZ09nbWs?oc=5",
       "fuente": "Diario de Yucatán",
@@ -598,11 +615,11 @@
     },
     {
       "titulo": "El arzobispo de Toledo pide esclarecer las causas del accidente de tren de Urda: \"Que nunca vuelva a ocurrir\"",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJWQ2FJa20zRFYtazA1MUtjdGpjbi1RQjZOUUV6NXZnY2VOd181VU41ZFgxS1I4cWJrdU9VcVlRWjlpTy1jMU1nOGkyUUpZT2VzbVpoTjNmX0pQU05qWjVrcFR1VjdHaF9wci1lLU05Y3ZUakVCOURUcnBpUUtFdzNUU2JnSEtHbWpQQ0kxUGljV1p0NUNJZHdCWktrQmM4QklrUWh6dzFSdVB4dmtwbWhjTXp2LXZVMGlZWjIyb9IBvwFBVV95cUxPQzM2Q3FYWlp2R01oWVlKWTVDVWpXNzdTemMxT2xNRWhlcXR0QUl5a0V4bFFBSWF6TGg4Q0JSeUpXX05aeDUtQUN5V29LVjZLR0NNUi14cUh3d3pWZ3A4Z2dweHBZY3hmOXkyd3lUcFlGeERYZURuT2ZheVRxUlRzMHFqZmxLdkg2VTA0NzJZS3hjMWhXVG1scnNfNXo1M2w3aGVkQzRIb0ZCZ05XdFRKR2x5N0N1NXVyeXJyOGhNSQ?oc=5",
-      "fuente": "El Periódico",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OGNMQkJSMVJkVmxMS19rRU5mcXJyYUJpTmhBZW5QWWl2SWvSAdIBQVVfeXFMTWM0X1JmV3dkUmFwaTgzeVlfZWJscDlQM1cyN1JIM3dVdTRBdTdHbk10aFN4MDNRMmppVnhROGVKRkZ6bnlDMlQ3ZzN2VFhvU2pWN3VWRTY0SElyazgyQUFpRFZNR09iRTNZQlBaeU5JaVZCS1Y4Rnd1QmQwVFBsbVFPNC1qVnVXeEs0a2JxOGVQVFBDU1FvWnNPZlpZV2NmelFvSjh4dnNXY2hYRV91RDluWEpZWFVBcnlDc2hFeE9VYzFHbDdiRHVUaTA4V2N1NWFR?oc=5",
+      "fuente": "El Correo Gallego",
       "fecha": "2026-11-10T20:42:21.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPMGJWQ2FJa20zRFYtazA1MUtjdGpjbi1RQjZOUUV6NXZnY2VOd181VU41ZFgxS1I4cWJrdU9VcVlRWjlpTy1jMU1nOGkyUUpZT2VzbVpoTjNmX0pQU05qWjVrcFR1VjdHaF9wci1lLU05Y3ZUakVCOURUcnBpUUtFdzNUU2JnSEtHbWpQQ0kxUGljV1p0NUNJZHdCWktrQmM4QklrUWh6dzFSdV",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWdyUGJ1enhlM3M5WDB6RnljYWNBUFY2ZmFSdUd3UnhKRGpZeTd1VDF5OXhzLWRZQmJueG5uODJBdzJER0plU0ExbXE5NVpTeEdTZVY1QTQ5OU5iMWktbVFPa3doMkpZOEtDbjhJMzhQS1k4TUpVNlRCSjZTQVJLbTdEc0pVdXU5WGlZRUlpLXdfYm9zVjdLcmNwTnpiMWFxYTBQdTRyRno1OG",
       "idioma": "es"
     },
     {
@@ -674,24 +691,6 @@
       "fecha": "2026-11-10T19:37:11.000Z",
       "imagen": "https://static.eldiario.es/clip/f2a4bd86-ae88-4e68-aa00-7ac0d952c382_16-9-discover-aspect-ratio_default_0.jpg",
       "resumen": "La Catedral de Toledo ha acogido una ceremonia homenaje a las personas que fallecieron al chocar dos trenes el pasado 28 de octubre y a quienes lograron sobrevivir al siniestro El Pleno de las Cortes de Castilla-La Mancha guarda un minuto de silencio por las víctimas de Urda El e"
-    },
-    {
-      "titulo": "Los reyes presiden la misa en honor a las 69 víctimas del accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHZ2UldDdnUzUFFxTlB5X3U3S0QyUk1tUENrUzZOSW9qWV9FalpXOFpjWVprendqbWVJeTlOd1doNnRYMmNMRFQ2QUt0QTBWVGFFWUxHNEVwSzN2UURacDg1TWJhTGF2aFB4WUpwcjMxaXM4YmEzZFNYdHZiU2tHYXdYUVNveFFEMExQcms1VEkwLWo0eGhmVFRsRXJsellKZnhKaC1YMHRjc2cyXzBVMGtDT2J6MUctY21EMdIBwgFBVV95cUxPNU9mY1RFdHc0dEE3Ti1QdmJxbU1JNldsYXVqUTlHbFkzdENYQWVNYnlscldQNTlOT1loWGdWMEdiNFV5WGp1RVc5MHdjTVdDQVpkX2lPT29LQU9yTUxuZnBhMnlXc3V1aXo4c2JVQU9aVzNpanFGSDl5ZEthZTBabjV3T3pSaVlyRndhVFoxd1d0amtWYmMwSmw2NGtQdk5FUlRlQV9RQThQcGpVU3U5clM3RmljY0NfRHk3aUhkaW4xdw?oc=5",
-      "fuente": "Faro de Vigo",
-      "fecha": "2026-11-10T19:14:28.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHZ2UldDdnUzUFFxTlB5X3U3S0QyUk1tUENrUzZOSW9qWV9FalpXOFpjWVprendqbWVJeTlOd1doNnRYMmNMRFQ2QUt0QTBWVGFFWUxHNEVwSzN2UURacDg1TWJhTGF2aFB4WUpwcjMxaXM4YmEzZFNYdHZiU2tHYXdYUVNveFFEMExQcms1VEkwLWo0eGhmVFRsRXJsellKZnhKaC1YMHRjc2",
-      "idioma": "es"
-    },
-    {
-      "titulo": "⛪ El Cristo de Urda sale de su pueblo por primera vez en 400 años por el funeral de las víctimas del accidente de tren 🎥 EFE #CristodeUrda #Toledo #AccidentedeTren #Historia",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXlzNXZscjZwQTc1TEJYT0s2V2hEZW9FVG5ZQXJGSVVybzhMSWdlbzU0d1FGb3ltQ1RvSzRyR0RaZVN6UFh3cHlGUHAwSVVVTE1lVGg0M2VnN2xxS2xPaXJfSi0wRnFkRkRqZmFjM3dUbzJMTEF4aE5NNDRKa0wybTdMYzlzYnV4OEJuNHlUTElaay1ndVpQajUyZjd2c2pIUjlpTlZwZjdMQnp1TlhXYnhYdktTVWJ6Zzg3UEUtUklvQkxXdXRHa1lVaVdwLUFnQjVEUjNtb3k4Nnl6TmtaUWZpMA?oc=5",
-      "fuente": "Facebook",
-      "fecha": "2026-11-10T18:59:05.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXlzNXZscjZwQTc1TEJYT0s2V2hEZW9FVG5ZQXJGSVVybzhMSWdlbzU0d1FGb3ltQ1RvSzRyR0RaZVN6UFh3cHlGUHAwSVVVTE1lVGg0M2VnN2xxS2xPaXJfSi0wRnFkRkRqZmFjM3dUbzJMTEF4aE5NNDRKa0wybTdMYzlzYnV4OEJuNHlUTElaay1ndVpQajUyZjd2c2pIUjlpTlZwZjdMQn",
-      "idioma": "es"
     }
   ],
   "videos": [
