@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-17T19:43:21.834Z",
+  "actualizado": "2026-11-18T02:18:37.068Z",
   "noticias": [
+    {
+      "titulo": "Adif debía por contrato supervisar el material bajo sospecha en la vía de los 46 muertos en Adamuz",
+      "url": "https://www.elmundo.es/andalucia/2026/11/17/6afc4531fdddff025c8b4587.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-17T21:50:43.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/12/17733267033742.jpg",
+      "resumen": "Pagó medio millón de euros por el material que un ex trabajador de la cantera de donde procedía ha denunciado a la juez que es defectuoso Leer"
+    },
     {
       "titulo": "Víctimas de Adamuz anuncian un Pacto de Estado de seguridad ferroviaria con rechazo del PP",
       "url": "https://www.infobae.com/espana/agencias/2026/11/17/victimas-de-adamuz-anuncian-un-pacto-de-estado-de-seguridad-ferroviaria-con-rechazo-del-pp/",
@@ -44,6 +52,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "Un choque de trenes deja a 46 heridos en la República Checa",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjJlWEdEa0JuWGJsMW11VDBIbFFFWlJJTHktUnhUUUZxaHE4N3cxSXRIbmVvRU9qSENGQ2VkYWxBVVhaSk81X1hmQ0w5eFdjTWlpYmNyM09WQnZuMEdMSFdQeC0zdjRuZnlGeklYWFZPZEQybHBEXzFFaklGcldkaEc4WUlWTXV3?oc=5",
+      "fuente": "El Dia.com.do",
+      "fecha": "2026-11-17T15:29:32.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjJlWEdEa0JuWGJsMW11VDBIbFFFWlJJTHktUnhUUUZxaHE4N3cxSXRIbmVvRU9qSENGQ2VkYWxBVVhaSk81X1hmQ0w5eFdjTWlpYmNyM09WQnZuMEdMSFdQeC0zdjRuZnlGeklYWFZPZEQybHBEXzFFaklGcldkaEc4WUlWTXV3?oc=5\" target=\"_blank\">Un choque de trenes dej",
+      "idioma": "es"
+    },
+    {
       "titulo": "El Gobierno precisará los tiempos del trabajo del personal de control ferroviario para reforzar la seguridad",
       "url": "https://www.eldiario.es/economia/gobierno-precisara-tiempos-trabajo-personal-control-ferroviario-reforzar-seguridad_1_13671360.html",
       "fuente": "eldiario.es",
@@ -60,12 +77,12 @@
       "resumen": "Seis formaciones ya han firmado y Vox ha mostrado su intención de suscribir un pacto que pide reforzar las garantías de seguridad ferroviaria, la atención a las víctimas y los juzgados para que las investigaciones de siniestros no se eternicen. Las víctimas consideran \"incomprens"
     },
     {
-      "titulo": "Un choque de trenes deja a 46 heridos en la República Checa",
+      "titulo": "Un choque de trenes provoca 46 heridos en Praga",
       "url": "https://elpais.com/internacional/2026-11-17/un-choque-de-trenes-deja-decenas-de-heridos-en-la-republica-checa.html",
       "fuente": "El País",
       "fecha": "2026-11-17T12:57:24.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/ADOVAIUMJFEK3L3ERGHW72XZZU.jpg?auth=f5486ce1feaef0dfb4070d23564b4241dde164889477e36b3f352fdc53f551e9",
-      "resumen": "La colisión, a baja velocidad, se ha producido en las inmediaciones de la estación central de Praga"
+      "resumen": "La colisión, a baja velocidad, se ha producido en las inmediaciones de la estación central de la capital checa"
     },
     {
       "titulo": "Consecuencias legales del accidente ferroviario de Urda (Toledo): responsabilidad civil e indemnizaciones a las víctimas",
@@ -74,6 +91,15 @@
       "fecha": "2026-11-17T12:25:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQelh1QXJMYlExdTZwckdxQk1KUHRobFRXeERrTE8zYjZZT2hkemY1cGc2TDM4SExDTkN0UEw0bkhHbFE3enFLb0N4TGREUGdONmsyYVRVeWdRbThldEdDeXd4aGsyN1pvMGNldG1qNW1VYkRwSHhWMXQ5Z0RJdV9ldkw3Ni05V0huNlRIV1B1OVNrTFp1eS1SZjM3ZjA2cUFaQVNKam5fNS04cU",
+      "idioma": "es"
+    },
+    {
+      "titulo": "\"La seguridad no puede esperar\": nueva huelga ferroviaria tras el accidente de Urda",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVgyU0Z2YmwzSC1YV2twWENEWEVUc3RmZVFlbWJpZFZBNm9yUTBmQ2lPbW1TN253LVo3SlhWOFBYVjdQbnpBa2hzSmVCcENybWhJWmw5LVZHZy1HTTNqNmplbExwcGI1cUM0d3FhWEM5Y0liQzI5SjJjR2RnWUw3TmdjUGE3TFRxRGIwUnI0bEJBMXZjYjJXaUpMWU3SAaIBQVVfeXFMTVpwb20tUHZKNkNPeFpZVHZyTTFFN1FtUVhaR1A5UWVHWmdRNk16SWduaENmbGdfT0o2MEk1ZTduUF9VQVBiVGE3cUFDMTRyak1QeHNnV2E5M05VZ1RfQzJlbkFZQ2E4WUlVQzJPRGUtWVBOS0JYcWF5MGlXblFmQ0k4MzdLV1FKNk5mM2JGNmJ3cnR5cm10RlptR19DSThVUktn?oc=5",
+      "fuente": "Telemadrid",
+      "fecha": "2026-11-17T11:09:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRVgyU0Z2YmwzSC1YV2twWENEWEVUc3RmZVFlbWJpZFZBNm9yUTBmQ2lPbW1TN253LVo3SlhWOFBYVjdQbnpBa2hzSmVCcENybWhJWmw5LVZHZy1HTTNqNmplbExwcGI1cUM0d3FhWEM5Y0liQzI5SjJjR2RnWUw3TmdjUGE3TFRxRGIwUnI0bEJBMXZjYjJXaUpMWU3SAaIBQVVfeXFMTVpwb2",
       "idioma": "es"
     },
     {
@@ -387,6 +413,15 @@
       "idioma": "es"
     },
     {
+      "titulo": "Imágenes falsas y teorías sin pruebas tras el accidente de trenes en Urda – Agur Fakes",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmhvTURPU3V0Ym9PLVBuNDAzWFlWbElwNVU5SjJkblExc0ZRN2NhYVBuUTFJbXF5amlaeEpZa1NDaHdCM0JUMmFURGFoS2ZBVkd3VGNQLUc5R0wyUVd2cUFjclh4RDF5OTdTZTNYV3JKeHZzaFNBYUFlOGU0OXFFaHJQanNZSFUzeXlySnBQR0JuSGV3NVM2QjNtSTdmaU1BLWFKYktqRzYxZldPQmc?oc=5",
+      "fuente": "tele7.tv",
+      "fecha": "2026-11-14T06:51:47.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmhvTURPU3V0Ym9PLVBuNDAzWFlWbElwNVU5SjJkblExc0ZRN2NhYVBuUTFJbXF5amlaeEpZa1NDaHdCM0JUMmFURGFoS2ZBVkd3VGNQLUc5R0wyUVd2cUFjclh4RDF5OTdTZTNYV3JKeHZzaFNBYUFlOGU0OXFFaHJQanNZSFUzeXlySnBQR0JuSGV3NVM2QjNtSTdmaU1BLWFKYktqRzYxZl",
+      "idioma": "es"
+    },
+    {
       "titulo": "Lorena Velázquez, la maquinista granadina de Iryo que sobrevivió al trágico choque de trenes en Toledo",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHJBWlhpY1hCSWExLTZ5U3dVR29GeFBMVmthZDVGRXpsTUZKZ2l2TW4yMkpQc0NwQXFmc1VKUjhsZ0Nhd0c5OTNBN00xX0U5Mm5vdHZEaEdydjhTdVo1T1pDQXNHQUY5dzVTcEVWdmpDMFNWTzZJLXc0ZE9USUJZQnVoWGNvVWxqZ3dZRHExam81Zy1LVGI0OXdwMFlHTDVOb1QtNktfOFEwak5zVGZSRGVFS1lzUFU4WGFCanVJc0IyUVlhNDBubDBfcw?oc=5",
       "fuente": "La Gaceta de Granada",
@@ -586,6 +621,15 @@
       "resumen": "El incidente ocurrió el miércoles 11 de noviembre de 2026 en la carrera 9 con calle 185, al norte de la capital, donde los equipos de socorro asistieron a la víctima y aún no se conocen las causas ni su condición"
     },
     {
+      "titulo": "Europa guarda silencio por las 69 víctimas del accidente de tren de Urda",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVlZaWNtTHFJN1lJYzA4akhBZUFzbjdyZUYyXzF1cWpFZVcyVjNwZHdJajNuXzFNTzkwclAtZGQ1MlpqVHdUaFZySmJFd0dSSjNUdGJmSURHa2VHQUZ0amFYbHNjbWZVZ0tibWNhZTNiMnhzMGhNUVdJVUltUl9vbTB4aWRJaTdISFlQRDNGZ05wMk1mTmUwNWhMZnVVOEZKazhxdElfV2R5QzBHSmxDVGc3SXZVaHZmUW5STQ?oc=5",
+      "fuente": "El Digital de Albacete",
+      "fecha": "2026-11-11T16:57:49.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVlZaWNtTHFJN1lJYzA4akhBZUFzbjdyZUYyXzF1cWpFZVcyVjNwZHdJajNuXzFNTzkwclAtZGQ1MlpqVHdUaFZySmJFd0dSSjNUdGJmSURHa2VHQUZ0amFYbHNjbWZVZ0tibWNhZTNiMnhzMGhNUVdJVUltUl9vbTB4aWRJaTdISFlQRDNGZ05wMk1mTmUwNWhMZnVVOEZKazhxdElfV2R5Qz",
+      "idioma": "es"
+    },
+    {
       "titulo": "69 velas encendidas: el emotivo adiós de los reyes de España a las víctimas del accidente de tren",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZS0wQWJVQ00wNGFzaDJMZnFEalI4dm02UzRNdnRxT0EyMHFYNXlUVjMwUEdDRUZOMnZIX1dWZnVNUVRaYUxrUy1EZVpYdmlhX3BkbkFmRFJXb09OYmJ3Q29jN0Z0ZHpLZ0JKd1BRMWVxOG1pVnYtV2Itd1RsSVpDODZjWG5nSFZtZThac3JTS09EeDV5Nm55SzNuNmpFdw?oc=5",
       "fuente": "Enterate Noticias",
@@ -615,10 +659,19 @@
     {
       "titulo": "Diez heridos en el accidente de tren en Urda permanecen en hospitales de Castilla-La Mancha, ninguno en UCI",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOVN6eVpxcmxUUmxGdEk?oc=5",
-      "fuente": "cmmedia.es",
+      "fuente": "CMMedia",
       "fecha": "2026-11-11T12:17:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSEdwS0hRQ1dwbzdhUG1MT1ZhOWJxMVJuendxaDAwcnJPenJCcEg4SEt5VU9sM2FFZUxpQ2IyTGtJUk9UT1A5YzVKNmoxQkhRZk0tZXV3dEowVkRwSnk2dHVGSnQ1RThWMFl4Q1RzNTh2eVhfbnRSUDJOa0dOeUEyWU5HTjB4LUlKUGpSWXVDZkxLaXJNYkFuY3JoUGNQanFIMHFKemZrc0lSOV",
+      "idioma": "es"
+    },
+    {
+      "titulo": "La caja negra del Iryo revela que la maquinista intentó \"reportar a Atocha en 3-4 ocasiones sin contestación\" antes del choque",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EVzdMYkhxTzVaRG5QTWpsWWV3cXJKSWJpb2M0cWNFdC1CVUJodlJOU0FjajNJWVV4N2I5V0o3bVRvQThIWWhXWjgzSFRzOVh5dHUwc1RwT1kwQ2N6OXdka1RFbUxnQ1dja2oxREREMU5XOERxemUxLTdQVk3SAXxBVV95cUxOeDA5RU04S2lDWUNJRkkxNXVtTFdWZFhOUTI4QVZLaXdyTFhxNGZDM0h3OExJM3ZRZFBZcDlWcjNmaUROVGQwYk1DQy1mN0FrNmpOdE1pODZRYXlLdDRnSGpJeEZfbTNsdDZSMmYyLUFlZkI3UGlsbnFHa1Vu?oc=5",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-11T10:49:28.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9EVzdMYkhxTzVaRG5QTWpsWWV3cXJKSWJpb2M0cWNFdC1CVUJodlJOU0FjajNJWVV4N2I5V0o3bVRvQThIWWhXWjgzSFRzOVh5dHUwc1RwT1kwQ2N6OXdka1RFbUxnQ1dja2oxREREMU5XOERxemUxLTdQVk3SAXxBVV95cUxOeDA5RU04S2lDWUNJRkkxNXVtTFdWZFhOUTI4QVZLaXdyTFhxNG",
       "idioma": "es"
     },
     {
@@ -628,59 +681,6 @@
       "fecha": "2026-11-11T10:04:36.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbi1nNEpBSVRDTGdqTE1JMDB2STA4ZFZHTV8xM3M0Xy00Sm5qNTd2SXR1ODdvaWduQ3Z4REVLaTF4SmtBMmtRQ2JNQ3dtVmlVdnBaS2ZNaFN0U3lKdERLZHEtVTJYZHdsbTljcVNRNllVbFRGVUxxVF93S1U5OElqZW9UdkdURzY3SDkyTEZnWlJYTWNvd1V4X0pKQ2czQ0N1bzR1bnJnSWhhSE",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El rey Felipe VI y la reina Letizia presiden en Toledo la misa en honor a las 69 víctimas del accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHd0Y0RZeFZIX29sREExVDFsb2x6RzZqbDY0d1dvbGh4Vkp6bTQwS2ZHNmpLR1BVUFZjZHI3MGdaU2JYWUhzSU9RZjZfdGd4Q2JDamRUMXhua3M5OXR3VzUyVk82MFZtSE82Q0EwbTFNcUgtZGk1TDd1OHZHVjhtdE16Y1hfQXV2MFUxbG9EV3dSM3dnQXd5RXpCRjhlNVZjNXNoQzRHM0NoYWxjVHFXc0U2ZjlhS2N0?oc=5",
-      "fuente": "Woman Madame Figaro",
-      "fecha": "2026-11-11T08:17:57.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHd0Y0RZeFZIX29sREExVDFsb2x6RzZqbDY0d1dvbGh4Vkp6bTQwS2ZHNmpLR1BVUFZjZHI3MGdaU2JYWUhzSU9RZjZfdGd4Q2JDamRUMXhua3M5OXR3VzUyVk82MFZtSE82Q0EwbTFNcUgtZGk1TDd1OHZHVjhtdE16Y1hfQXV2MFUxbG9EV3dSM3dnQXd5RXpCRjhlNVZjNXNoQzRHM0NoYW",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Choque de trenes en Urda: el último paciente que permanecía en UCI tras el accidente pasa a planta y restan solo 10 ingresados",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPX2pZd0YzUzFZUmtWS0s0eEtUenZvYzN6aWRlWDhWekFBRlVDOUtMVjF0Sm5LZ1F5aHlaek5Iam9tREwzV0JidUpFdEdwQV83Snh0dWtPb1VlcFpKUGpKTHNfdDA5TEZpZUVjNzJhRlhxR1NneVY2eTFwZDNkT0JhSHRuNy1TSC1xNjdkRC1FaVZvdWYwTmtkSS1zNk9lSDBMaURpNE4xZ1hBdlp1Umd0UURYNUZpOHF3YVVWaGkwTVloVHlqanBNVVFvbU1BSHMyOVpkdHRKRjNBSnlZTUFmTnUwU3lueHpQbTBUUG4wdmxncFU0enAzbjlORzY5Z2RV0gGGAkFVX3lxTFBhOXYyUUpya3dPa2pRMjZCUzI4a0diOGhjS2M5TFVPVm5paTEzcmFwd0tPWlZFSmliemNqNWpRdURsNFZmZjBtS2pEeGRKWHhlUFB4cnNEak51cHBkZHhjOVNna2xOR0pFbXVFQ1NzX1pJVk85VTVhOUpLMldubGcycVplNjVlYzBzQzNsQ3hKb1RYX1pFMFRGUU42eEFVZExYZUlyZ1pfZWU5RUhJdnVsRXllczdNQ2N4dktjLXZUbjFUdGZBRHhuYkNPaVJBWm9MeUdSdDNINkU0S1lLRXFQMVZub2hXT3J1SHdYeS1paUFQRGx3b3o5QjR4bG1WTGhOa1IxT3c?oc=5",
-      "fuente": "heraldo.es",
-      "fecha": "2026-11-11T08:13:30.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPX2pZd0YzUzFZUmtWS0s0eEtUenZvYzN6aWRlWDhWekFBRlVDOUtMVjF0Sm5LZ1F5aHlaek5Iam9tREwzV0JidUpFdEdwQV83Snh0dWtPb1VlcFpKUGpKTHNfdDA5TEZpZUVjNzJhRlhxR1NneVY2eTFwZDNkT0JhSHRuNy1TSC1xNjdkRC1FaVZvdWYwTmtkSS1zNk9lSDBMaURpNE4xZ1hBdl",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Así ha sido la misa funeral por las 69 víctimas del accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY21iMHpZRDdyaDk5Q1lLOUI3d3Jfcks4aG9QMEZHeWdaWk1rLURWSXd3YnFuQkgwUEE1dTZ1aEs1OVY3YllsMXNiNWRPdWtxSG82ME9XUjJ0Zzd2Y19TcVRDZ09MM25YNVp0dUJkZllBa2hVMUhxcnpIdzJyU0swMEFlM2JxeFh0WG1LRzdadzZVRzlqMjJ3SzBhLUxQY0IzSnpwZ0pOZ0JCZTBEZmg1alVKWVhWaEc0ZWxUbWh6NS1fb0ZKbE51ZHVadDEtbkYtbDNTNDZaU04xTmZUUEptQV9B?oc=5",
-      "fuente": "La Razón",
-      "fecha": "2026-11-11T07:40:23.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPY21iMHpZRDdyaDk5Q1lLOUI3d3Jfcks4aG9QMEZHeWdaWk1rLURWSXd3YnFuQkgwUEE1dTZ1aEs1OVY3YllsMXNiNWRPdWtxSG82ME9XUjJ0Zzd2Y19TcVRDZ09MM25YNVp0dUJkZllBa2hVMUhxcnpIdzJyU0swMEFlM2JxeFh0WG1LRzdadzZVRzlqMjJ3SzBhLUxQY0IzSnpwZ0pOZ0JCZT",
-      "idioma": "es"
-    },
-    {
-      "titulo": "España llora en la catedral",
-      "url": "https://www.abc.es/espana/espana-llora-catedral-20261110210030-nt.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-11T02:01:48.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/10/1520084167-U20978908959EbE-RD1DSVGCGkJVcd6turygXOK-1200x840@diario_abc.jpg",
-      "resumen": "En Toledo, la Catedral que impulsó Fernando III, el Santo, estaba a rebosar con los familiares de las sesenta y nueve víctimas del accidente de tren de Urda. Ochocientos años después, Sus Majestades los Reyes han presidido las exequias de nuestros paisanos, entre el dolor y la ra"
-    },
-    {
-      "titulo": "España despide en un funeral multitudinario a las víctimas del accidente de tren",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdG9iM3ljZldSTThjQ2RBU1hRWjFPaFM3WFJjYU1jSk84RDJwTVFpNmd1SXdPYWVWU2NncjJ3YnpZMkNOMDFZY2JqRVpaUUpvMnRPTlRveHJTbVluVFk1MlRDdy1GeC1MVmMwQl9VYnFRSDhuZ0VmT3lRMWl5aHVGT19SbkFiTHptWkljMVJOc0tvdFhzYWc4NUdMX3VaRk1JNFlzZlBBSUdQZjTSAbgBQVVfeXFMTlNlS01laFNoUDRQOHpnNzNQM20wbEdXUVhNNi1SUlh0RXUxWThUTTducmV5REJtd0JnNmdULVNsaFJ0MEl0SmZnNVh0enpHbDlycU54RThydjZwYkpDNTdCOU10QnhobHN3LTJwOEo3c1cwdTluQ3dfTGlnM1lTU2w2N1ZyQlRPYzV5UGthY2JhQUtJMjIwTHNzaXg4MkJLNHJVNXVxc20yWjJyc0x0WHZMd092MEhyYw?oc=5",
-      "fuente": "Última Hora",
-      "fecha": "2026-11-11T02:00:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdG9iM3ljZldSTThjQ2RBU1hRWjFPaFM3WFJjYU1jSk84RDJwTVFpNmd1SXdPYWVWU2NncjJ3YnpZMkNOMDFZY2JqRVpaUUpvMnRPTlRveHJTbVluVFk1MlRDdy1GeC1MVmMwQl9VYnFRSDhuZ0VmT3lRMWl5aHVGT19SbkFiTHptWkljMVJOc0tvdFhzYWc4NUdMX3VaRk1JNFlzZlBBSUdQZj",
-      "idioma": "es"
-    },
-    {
-      "titulo": "“Que se asuman responsabilidades”: arzobispo exige justicia en funeral por las víctimas del tren de Toledo",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekN0LUlIbGl0Z0c0TEJwejJyWVFpVEJuRFZWbmlpU3BFLVFBYmlvNHdqZU9qV0ttOTlUWnpxOUw4YWZFbXVMTjIzcUl4S1JkajVWZlNHWU9hTmpIU3R0WXZqekxocWFBcjY2dUR2V0NVNXFwOEhhNVB1aXJHdS0ya0lGUC1FbTFhZTJ3WnVYb3JNcVQwRXVyZHA5a2ZQdW85a05TdlFuZ29neVFNWUhlenB4bkFKYnVnZ3NRR2hFUVJXTjFnc0xZNWx0Mk5MTFNqWkRHanBPNXVRVmVpanVuc0RQd3Y?oc=5",
-      "fuente": "www.adn40.mx",
-      "fecha": "2026-11-11T01:39:59.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxOekN0LUlIbGl0Z0c0TEJwejJyWVFpVEJuRFZWbmlpU3BFLVFBYmlvNHdqZU9qV0ttOTlUWnpxOUw4YWZFbXVMTjIzcUl4S1JkajVWZlNHWU9hTmpIU3R0WXZqekxocWFBcjY2dUR2V0NVNXFwOEhhNVB1aXJHdS0ya0lGUC1FbTFhZTJ3WnVYb3JNcVQwRXVyZHA5a2ZQdW85a05TdlFuZ29neV",
       "idioma": "es"
     }
   ],
