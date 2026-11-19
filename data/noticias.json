@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-18T19:20:17.974Z",
+  "actualizado": "2026-11-19T01:25:22.378Z",
   "noticias": [
+    {
+      "titulo": "Carta abierta del padre de Raquel, la embarazada de Adamuz, al futuro presidente del Gobierno",
+      "url": "https://www.abc.es/espana/padre-raquel-embarazada-adamuz-envia-carta-futuro-20261119020050-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-19T01:00:50.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/19/1510143104-RggbWydH4QBvh0OaMm9nxwJ-1200x840@diario_abc.jpg",
+      "resumen": "Diez meses han pasado de la tragedia ferroviaria de Adamuz. Ese es el tiempo que lleva luchando la familia de Raquel García, la mujer que estaba embarazada y dio a luz al pequeño Teo. Alberto García, su padre, escribe una carta en ABC en la que se dirige al futuro presidente del "
+    },
     {
       "titulo": "El Congreso aprueba el decreto de seguridad ferroviaria, así como el de las ayudas a víctimas de Urda (Toledo)",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdV9Fc3FsTTFaSUl4QWpuSUhuc3pVcWkzTHFnR3hnUy1kNXZGQjRKRU1zZXQ4S1JaUzhmSU5MVEQyc2l6R0dsWW9yYjBNOW12bk1wNDlZc09BbVpibUtZV0pBMENMRUR2V2ItNGllOGdLZnlLczJuUWpuc2RlU1pORzFOeXBoNjcteEc4d2w0TjJiQi1FbU0ycFZRS252U0hnaGtYNnl4LXZVcXhxVTE2ZDBPZlFndmQtMFJQcW81NzNSVGhDLV9XcnhoRGTSAeABQVVfeXFMTlZ3SW0ydnJjRmJ2SHR6TExzTHo2Tk52MHZSdVFSbnB0aTZOMEl5ZXV5V1QxYnA3LXh5TUpPVmMzdWpjMy1aRHd0QjNiWE1DWFFCNjBNdXQ5aXJVNXA5MkpRQklWOXg0WWtkZGtXeHEyN2V6OGVVNDQzR3N4d0RzNld2WXVsWkJWUTdoZV9Tc0hqejJrQ0xjQVZBZnhiT1JhTlNuZW9SbC14SzB2OC1KaW5PRVpEM2dDYWFoSUZqTF84ekJzdDB2bTJwRE9JQ1RqSkV2dGdNaGY4cTU4VmdsMWc?oc=5",
@@ -25,6 +33,15 @@
       "fecha": "2026-11-18T15:05:45.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzNYLWMwVTNDMUpxOG5MTXlxb016N1ZyT3owa2pMdTJJQVRwN21Jb0hUR2lkVXpkRXl6VUdiNXIzNmFQZ2QxU3p1WTluRE5Ua1JSRW9iYk9oTnpvbVhsTkhEWkF0eWJqSmdMVGZlUlVQQXc3NVdxZ0xYblJsejdSOE9icnc2OFc3czUzSjFfdktBakhOaE9kUHNFN2RjQlNwcmRPZEd5Q3Nqa3",
+      "idioma": "es"
+    },
+    {
+      "titulo": "Dos heridos del accidente ferroviario de Urda han sido trasladados al Hospital de Parapléjicos de Toledo",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWVlbHFTQ2JTd3lRa0g2aTRXdWt2VlZiVjdTZWJsMHZJVUVKQnRqQkctcDRSVHNTYlNEaEltdzhzMXNpbWp1S0RvaFJVcDNXZy11bDc0OTA3V1pPb2dTQ2YycFNlMS0xS1pfMzl6QjVHVlhYanQwdGxDcGFEV21vMm5JQTJiUjBGb2t5VlBpRk91SlRfbm1wU3Y2NENNazdqSlVtcVg3ZkwyNEloQkVjaTlSRS1iRmtSVDFMOFdwNzJfbjJFdHpyckgxTnVQZnfSAdQBQVVfeXFMUG1QazhEandSamtuTkRua0RnSjJOQzdZT3g3T1JoeFFTd1haa0VKQVR4Skx2MEdRaEcwTnpDcTY5M2pHSW1pd2ZrTmpaUWxZbEZxbUszSGd5cG5qSk5yUGs3aXFOS1l1NV8zS3NXdTBDbVY5aF85ZE1qSnBTX3FHeUJIdWxjanp1QW5sYW9zRWo1UlZlX1pNYXFqbndZUFNENURLU25hTmNSeHFlQ0ZQSEhQU1VhNU9XZ2lLNE1PbTg5SlFBNTBKaUdBRGRxZkpVTi1IU0g?oc=5",
+      "fuente": "ABC",
+      "fecha": "2026-11-18T12:38:51.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxNSWVlbHFTQ2JTd3lRa0g2aTRXdWt2VlZiVjdTZWJsMHZJVUVKQnRqQkctcDRSVHNTYlNEaEltdzhzMXNpbWp1S0RvaFJVcDNXZy11bDc0OTA3V1pPb2dTQ2YycFNlMS0xS1pfMzl6QjVHVlhYanQwdGxDcGFEV21vMm5JQTJiUjBGb2t5VlBpRk91SlRfbm1wU3Y2NENNazdqSlVtcVg3ZkwyNE",
       "idioma": "es"
     },
     {
@@ -664,24 +681,6 @@
       "fecha": "2026-11-11T22:23:26.000Z",
       "imagen": "https://www.infobae.com/resizer/v2/XBWX6D5WSVAJBBKOFRWHHH7YIA.png?auth=953b327c4ca6383a2efaaab166e7b7cbe5fe8d3f88f28d83d1173d8cf518ece7&smart=true&width=2752&height=1536",
       "resumen": "El incidente ocurrió el miércoles 11 de noviembre de 2026 en la carrera 9 con calle 185, al norte de la capital, donde los equipos de socorro asistieron a la víctima y aún no se conocen las causas ni su condición"
-    },
-    {
-      "titulo": "Europa guarda silencio por las 69 víctimas del accidente de tren de Urda",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVlZaWNtTHFJN1lJYzA4akhBZUFzbjdyZUYyXzF1cWpFZVcyVjNwZHdJajNuXzFNTzkwclAtZGQ1MlpqVHdUaFZySmJFd0dSSjNUdGJmSURHa2VHQUZ0amFYbHNjbWZVZ0tibWNhZTNiMnhzMGhNUVdJVUltUl9vbTB4aWRJaTdISFlQRDNGZ05wMk1mTmUwNWhMZnVVOEZKazhxdElfV2R5QzBHSmxDVGc3SXZVaHZmUW5STQ?oc=5",
-      "fuente": "El Digital de Albacete",
-      "fecha": "2026-11-11T16:57:49.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNQVlZaWNtTHFJN1lJYzA4akhBZUFzbjdyZUYyXzF1cWpFZVcyVjNwZHdJajNuXzFNTzkwclAtZGQ1MlpqVHdUaFZySmJFd0dSSjNUdGJmSURHa2VHQUZ0amFYbHNjbWZVZ0tibWNhZTNiMnhzMGhNUVdJVUltUl9vbTB4aWRJaTdISFlQRDNGZ05wMk1mTmUwNWhMZnVVOEZKazhxdElfV2R5Qz",
-      "idioma": "es"
-    },
-    {
-      "titulo": "69 velas encendidas: el emotivo adiós de los reyes de España a las víctimas del accidente de tren",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZS0wQWJVQ00wNGFzaDJMZnFEalI4dm02UzRNdnRxT0EyMHFYNXlUVjMwUEdDRUZOMnZIX1dWZnVNUVRaYUxrUy1EZVpYdmlhX3BkbkFmRFJXb09OYmJ3Q29jN0Z0ZHpLZ0JKd1BRMWVxOG1pVnYtV2Itd1RsSVpDODZjWG5nSFZtZThac3JTS09EeDV5Nm55SzNuNmpFdw?oc=5",
-      "fuente": "Enterate Noticias",
-      "fecha": "2026-11-11T15:15:46.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNZS0wQWJVQ00wNGFzaDJMZnFEalI4dm02UzRNdnRxT0EyMHFYNXlUVjMwUEdDRUZOMnZIX1dWZnVNUVRaYUxrUy1EZVpYdmlhX3BkbkFmRFJXb09OYmJ3Q29jN0Z0ZHpLZ0JKd1BRMWVxOG1pVnYtV2Itd1RsSVpDODZjWG5nSFZtZThac3JTS09EeDV5Nm55SzNuNmpFdw?oc=5\" target=\"_",
-      "idioma": "es"
     }
   ],
   "videos": [
