@@ -1,6 +1,22 @@
 {
-  "actualizado": "2026-11-19T18:34:41.314Z",
+  "actualizado": "2026-11-20T01:09:18.198Z",
   "noticias": [
+    {
+      "titulo": "Sánchez pide perdón a víctimas de Adamuz y Urda, a instancias de Feijóo: \"Es un dolor que me llevaré conmigo\"",
+      "url": "https://www.europapress.es/nacional/noticia-sanchez-pide-perdon-victimas-adamuz-urda-instancias-feijoo-dolor-me-llevare-conmigo-20261119230618.html",
+      "fuente": "Europa Press",
+      "fecha": "2026-11-19T22:06:18.000Z",
+      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261119230618_120_v2.jpg",
+      "resumen": "El líder del PP, Alberto Núñez Feijóo, ha retado este jueves al presidente del Gobierno, Pedro Sánchez, a pedir perdón a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Urda (Toledo), algo a lo que el candidato socialista a la reelección ha accedido: \"Si yo teng"
+    },
+    {
+      "titulo": "Feijóo exige a Sánchez que pida perdón en el cara a cara por Urda y Adamuz: \"¿Si se muriera un familiar suyo se pondría a bailar?\"",
+      "url": "https://www.elconfidencial.com/espana/2026-11-19/feijoo-sanchez-urda-adamuz-debate-elecciones_4468853/",
+      "fuente": "El Confidencial",
+      "fecha": "2026-11-19T22:00:00.000Z",
+      "imagen": "https://images.ecestaticos.com/Dvxz9ttFCsHsJy1ncP_ewNIHhHI=/0x0:2272x1515/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F38d%2Ff5f%2F51a%2F38df5f51a4aec35d8905b1fbc43e2558.jpg",
+      "resumen": "El debate del 29-N ha alcanzado su pico de tensión por la crisis en Transportes. Feijóo ha exigido disculpas a Sánchez por los accidentes de tren, vinculando el ministerio a la corrupción y afeándole su actitud pública tras la tragedia"
+    },
     {
       "titulo": "Adif realizará mañana la primera valoración de vía de Urda tras la autorización de la juez",
       "url": "https://www.infobae.com/espana/agencias/2026/11/19/adif-realizara-manana-la-primera-valoracion-de-via-de-urda-tras-la-autorizacion-de-la-juez/",
@@ -8,6 +24,15 @@
       "fecha": "2026-11-19T18:18:37.000Z",
       "imagen": "https://www.infobae.com/assets/images/logos/fallback-promo-image-1200x630.png",
       "resumen": ""
+    },
+    {
+      "titulo": "La jueza autoriza a Adif a reparar las vías del accidente ferroviario de Urda con dos condiciones para evitar otro caso como el de Adamuz",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUtZVmMzNXZ0ajFNNXoyLUlBWVFfU1RQQXgwYlRlak9jQ0tySl84bVktQ2ZvRmVGQXctcS1xaTJrd21zTjdKZXdxcUJWZVk0SkFNOGF2TzA0NElhS0FnZEVFS1R2cE00MTVSb0ItVm1vNmVaOFJmaWtFSDZqX3l6T3ZuV2hFRjRNRnZfcWFXaXJ4LWh0QVR0Mnd0TUt2Zi1WbTY3SlJkS3HSAa4BQVVfeXFMTkRDeXZWTFNqRjV3VWlBMTJ2Y0pUOGNfRlcxdGpWaUlMdWJtV0E2ZzR4bTNud3VHckxLVm05a3R0T0VPVzdfMnFtVEdmUENsdmxjcExreWxvamhwVUlDTkZIa2dUMF9yTFpnTFkzV2lLUmZJY1VHUGt4dXk5Tl9nRkUxWXdvQnBMa1ZBMDFVQkZoZEM2YXV0MWo0WU1VQjI3TUZrU3VQMDNnbXliNUV3?oc=5",
+      "fuente": "Telemadrid",
+      "fecha": "2026-11-19T16:54:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMUtZVmMzNXZ0ajFNNXoyLUlBWVFfU1RQQXgwYlRlak9jQ0tySl84bVktQ2ZvRmVGQXctcS1xaTJrd21zTjdKZXdxcUJWZVk0SkFNOGF2TzA0NElhS0FnZEVFS1R2cE00MTVSb0ItVm1vNmVaOFJmaWtFSDZqX3l6T3ZuV2hFRjRNRnZfcWFXaXJ4LWh0QVR0Mnd0TUt2Zi1WbTY3SlJkS3HSAa",
+      "idioma": "es"
     },
     {
       "titulo": "Carta abierta del padre de Raquel, la embarazada de Adamuz, al futuro presidente del Gobierno",
@@ -60,15 +85,6 @@
       "fecha": "2026-11-19T13:51:07.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVUxhNzF6ZEN4TmZRQmdCNndKSVRrdF9sb0FJNEw2bU9NVVNtSnJlbmludHU0UG80ckVvWW8wVVJ1M21pRXZ6LTJMdGFERWJDOG80a0JyOVlyMlVfMXRxZXdRZlUyQndZU1pESVZBUzZnd25zUlViN3BkclhzQWtXdFBMbGVTOTlXYkpRMDlQSTBYZkFlODVFQS1QYWZXUE5NcVhjb0QtSlMtV2",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La jueza autoriza a ADIF a reparar las vías del accidente ferroviario de Urda",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhybmROdENQaWpHY2xXZmVBYnJYMFluN2F0MjU1TmFKazJtWW5XQUY1UFZiRUM3Mndxc21scjdGZWowU3pIRUU1dU91SE80XzM5cFp6cXFNbHJJMXlRYml4XzhPeVZFT25OY1g2SDB2d3poSW5Ua202REt3dWFhX1FLMGMxZ3BXekFWT3Zvbkc5MVBlSml5Q01FTEtQbjBaSm1raUVzNjl6bnc1YkE?oc=5",
-      "fuente": "somosCLM",
-      "fecha": "2026-11-19T13:03:11.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONXhybmROdENQaWpHY2xXZmVBYnJYMFluN2F0MjU1TmFKazJtWW5XQUY1UFZiRUM3Mndxc21scjdGZWowU3pIRUU1dU91SE80XzM5cFp6cXFNbHJJMXlRYml4XzhPeVZFT25OY1g2SDB2d3poSW5Ua202REt3dWFhX1FLMGMxZ3BXekFWT3Zvbkc5MVBlSml5Q01FTEtQbjBaSm1raUVzNjl6bn",
       "idioma": "es"
     },
     {
@@ -174,6 +190,15 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFhDcHJpTWQxeGV1MzItbVFqLXgwZXFtRmFjTkpLd2RYRUloR25ScE80dFFqWnBfSFU4Vjc1aDFkbmVzWTRHdGhjcGpSdjJSLXkxbnpRek9ZX3FTblcyWmdPYjBPUl9TWGZLMjVOR1Q5OUpDMWE5TVdGYWMySWE5bUJyQjdaNmcxd2RwNU9Ob3hseWNJbnFsSEhZczlqTnZEMDhqem00b3lUaW",
       "idioma": "es"
+    },
+    {
+      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
+      "fuente": "ABC News - Breaking News, Latest News and Videos",
+      "fecha": "2026-11-19T04:17:34.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
+      "idioma": "en"
     },
     {
       "titulo": "El Congreso convalida los decretos de medidas para reforzar los trenes y ayudas a las víctimas de",
@@ -304,15 +329,6 @@
       "fecha": "2026-11-17T14:38:16.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/06/6a9d7d7476d8a8-59112572.jpeg",
       "resumen": "Seis formaciones ya han firmado y Vox ha mostrado su intención de suscribir un pacto que pide reforzar las garantías de seguridad ferroviaria, la atención a las víctimas y los juzgados para que las investigaciones de siniestros no se eternicen. Las víctimas consideran \"incomprens"
-    },
-    {
-      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
-      "fuente": "ABC News - Breaking News, Latest News and Videos",
-      "fecha": "2026-11-17T13:38:45.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
-      "idioma": "en"
     },
     {
       "titulo": "Un choque de trenes provoca 46 heridos en Praga",
@@ -666,24 +682,6 @@
       "fecha": "2026-11-14T08:00:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUjdKQm5ILTRfTjZuQU1COUI3SVZmMWdXYjJvRlVuWk5RR0JZT2htNWhjVlZpVkE1Sm1fUmxhWHlIcnBuYVE1SlJFRTRwYlhtRXh5VmJIMERwZFRZZ0NGUmxqRVY4aHZzVFY5T0JVbzZUT09wQjlUWW04b2FISjNHdjNIV2pxNkQxeTBvODBJa3BnbzVvdDY5UXlkdktFV1MtOG5fZUhOR0Y0S0",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Imágenes falsas y teorías sin pruebas tras el accidente de trenes en Urda – Agur Fakes",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmhvTURPU3V0Ym9PLVBuNDAzWFlWbElwNVU5SjJkblExc0ZRN2NhYVBuUTFJbXF5amlaeEpZa1NDaHdCM0JUMmFURGFoS2ZBVkd3VGNQLUc5R0wyUVd2cUFjclh4RDF5OTdTZTNYV3JKeHZzaFNBYUFlOGU0OXFFaHJQanNZSFUzeXlySnBQR0JuSGV3NVM2QjNtSTdmaU1BLWFKYktqRzYxZldPQmc?oc=5",
-      "fuente": "tele7.tv",
-      "fecha": "2026-11-14T06:51:47.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmhvTURPU3V0Ym9PLVBuNDAzWFlWbElwNVU5SjJkblExc0ZRN2NhYVBuUTFJbXF5amlaeEpZa1NDaHdCM0JUMmFURGFoS2ZBVkd3VGNQLUc5R0wyUVd2cUFjclh4RDF5OTdTZTNYV3JKeHZzaFNBYUFlOGU0OXFFaHJQanNZSFUzeXlySnBQR0JuSGV3NVM2QjNtSTdmaU1BLWFKYktqRzYxZl",
-      "idioma": "es"
-    },
-    {
-      "titulo": "Lorena Velázquez, la maquinista granadina de Iryo que sobrevivió al trágico choque de trenes en Toledo",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHJBWlhpY1hCSWExLTZ5U3dVR29GeFBMVmthZDVGRXpsTUZKZ2l2TW4yMkpQc0NwQXFmc1VKUjhsZ0Nhd0c5OTNBN00xX0U5Mm5vdHZEaEdydjhTdVo1T1pDQXNHQUY5dzVTcEVWdmpDMFNWTzZJLXc0ZE9USUJZQnVoWGNvVWxqZ3dZRHExam81Zy1LVGI0OXdwMFlHTDVOb1QtNktfOFEwak5zVGZSRGVFS1lzUFU4WGFCanVJc0IyUVlhNDBubDBfcw?oc=5",
-      "fuente": "La Gaceta de Granada",
-      "fecha": "2026-11-14T05:42:01.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHJBWlhpY1hCSWExLTZ5U3dVR29GeFBMVmthZDVGRXpsTUZKZ2l2TW4yMkpQc0NwQXFmc1VKUjhsZ0Nhd0c5OTNBN00xX0U5Mm5vdHZEaEdydjhTdVo1T1pDQXNHQUY5dzVTcEVWdmpDMFNWTzZJLXc0ZE9USUJZQnVoWGNvVWxqZ3dZRHExam81Zy1LVGI0OXdwMFlHTDVOb1QtNktfOFEwak",
       "idioma": "es"
     }
   ],
