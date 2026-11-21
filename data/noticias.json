@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-20T23:56:11.778Z",
+  "actualizado": "2026-11-21T06:53:48.304Z",
   "noticias": [
+    {
+      "titulo": "El \"caos\" de ir a trabajar con la línea AVE Madrid-Sevilla cortada desde hace semanas: \"Perjuicios por todos los sitios”",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/caos-trabajar-linea-ave-madrid-sevilla-cortada-semanas-perjuicios-sitios_1_13671288.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-20T19:06:33.000Z",
+      "imagen": "https://static.eldiario.es/clip/7d10e91f-79a7-4499-8c68-a893c0f8053f_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "Los dos mil viajeros que se desplazan a diario desde Andalucía, Ciudad Real y Puertollano hasta Madrid han visto su rutina totalmente alterada con el cierre tras el accidente de Urda. La afectación es tal que un tercio de los usuarios se plantean mudarse a la capital de España La"
+    },
     {
       "titulo": "Adif inicia la inspección del tramo de vía en el que se produjo el accidente de Urda como paso previo a su reparación",
       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQd1FTMW5ZbEhvbjZuM1V2NmM5Z1E4dGNzNF9VYzNseUZFS0M1VGwxQWtPT0FjRW9pTzlaM0NQTV9pUWZKUFJsclk2bUd6R0NxZTRKUlZDMXFYMkljY3Exd1MzUkVmNkJ3V0p5S2h3TnYzelpZc0hQX3hTUWNGRlB6VU1fNzBiS3VvekNpd2JReTQtZ0RUdTNZSURQdGZGWmJDbHB5UXpzTUZseF8tX1ZjTGhnVGltNzFsRFdDTlZ0YnhxSURxN0lVMy03c21vUGd0LU12V3hUSkVYMWF4dU50QUNwZFJCQkNsbERMZ2ZpSlVfNTZiV3ROclBRVWl0QlJxMVFFR2FRVVI0QWPSAZ8CQVVfeXFMTUlNQlBuUDI3Z0REUURTN2lSMkVwSmNOeXlWVnRtYWZ5VmpJX1RGeC1MLWdUcXRuM3RnZXhPeFhPdDAwZ3F1dHFBaklhQjViZmZkemJRWU5iNTljd3JFd0k1RFVKVFY2OGdZQzltalI1R2xpODNYUHd2UVF1Nmh0NkVpZUtpZTkzWDFOVnV2LUhpWW9yVDZPVDZIRGl5bW8wOVhzdkJmd1B1YnJWak1VTUpOVlRmZFpOclZGcXNEUjQ2U0o4V1A0QzcxZTJ3TTBLNWxCeFRxeXBpZDdyUWFiRndOMGFWOGpONTY4M3dPaVh1Vk9TQzFYb3lMVm5mV2R1dzhPODEwckFfUTlkUWZaQ3hIcmlFdFRKWmdlNXduZFE?oc=5",
@@ -123,11 +131,11 @@
     },
     {
       "titulo": "La jueza instructora del accidente de Urda autoriza a Adif a reconstruir el tramo de vía afectado",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmFvdHd0X2R5S2kwczhJWlg0VFZnaVV4Qk1rN1ljVmVLSExiZ1V5RUFqTnJ5MTk0Ynl0Sm4zZGF5SGxTNWgxZTRSMnJSeE1ESzcxUF9KeDhLc3pfZHlWSWVhaThzQUlwam5NLWV5ZWlVN2tVcWd0QmtINDB3dW5rR1R2SGtLTFM4NGUyamxhTk15eGdkaUM0UlBsU0p0Rk4xQ0JSczNZZzM4ejNzZTd4QjlwcXFUanNrT1c5S3d4Q3lsNFQ4TnVxVURLSDRZdndGbmhB0gHYAUFVX3lxTFBzRUo4R28waXBSQXhUTzhDbUxsZm9pdkR0ajI3cnNFbndxdnFhZU41bDAtRmpCSGNwTkVtQWhsMnpRSXRxNW5YYmd3ZjBYX0RvcFZHcTdrc2ljQjlqSXlOZnotVzVmWjRLVUZrQk0wNUZiN0pzUXl2NTFRQWVNbGtDYzBRTHVmSC01dnMxUVY4cy1yck03SHBCLW1nR1pYR2lvVlg3OEE5emI3UjF4S05WY05KbU9Pd2N1Ykpwa3dsZlNFY2YwSnNJN2JYN0dLNWxQWjBDWm4wMw?oc=5",
-      "fuente": "El Progreso de Lugo",
-      "fecha": "2026-11-19T12:58:36.000Z",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYUpjVDBoVHJuNjJwei1fR21renJna2EzR1gteHBlV0MxWEtFSVpEc3ZUWDFLXzJvRjVCSWJBSGJYX25zRFpTbWNDV19vXzdTV3J2cF9nQnFRalptdnNNRzA2NEliWkNEaUo4MHByeWNxcDBwYjRmQXlfY3o5QXNFMVgxSmxoSHk5cmZnazhGVnVmR2gxZzF6ekJyQXhmQXJNLXRwSmk0bGktQldmWEZoUzhoTzJ3RHoyQ1J4UG03ZlAtU0dDWGx6M1FKNzN4ZHlsaEtnQ2ZLWkZlR203a2J3TEQ3d9IB4wFBVV95cUxNYUpjVDBoVHJuNjJwei1fR21renJna2EzR1gteHBlV0MxWEtFSVpEc3ZUWDFLXzJvRjVCSWJBSGJYX25zRFpTbWNDV19vXzdTV3J2cF9nQnFRalptdnNNRzA2NEliWkNEaUo4MHByeWNxcDBwYjRmQXlfY3o5QXNFMVgxSmxoSHk5cmZnazhGVnVmR2gxZzF6ekJyQXhmQXJNLXRwSmk0bGktQldmWEZoUzhoTzJ3RHoyQ1J4UG03ZlAtU0dDWGx6M1FKNzN4ZHlsaEtnQ2ZLWkZlR203a2J3TEQ3dw?oc=5",
+      "fuente": "Diario de Pontevedra",
+      "fecha": "2026-11-19T12:59:05.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZmFvdHd0X2R5S2kwczhJWlg0VFZnaVV4Qk1rN1ljVmVLSExiZ1V5RUFqTnJ5MTk0Ynl0Sm4zZGF5SGxTNWgxZTRSMnJSeE1ESzcxUF9KeDhLc3pfZHlWSWVhaThzQUlwam5NLWV5ZWlVN2tVcWd0QmtINDB3dW5rR1R2SGtLTFM4NGUyamxhTk15eGdkaUM0UlBsU0p0Rk4xQ0JSczNZZzM4ej",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYUpjVDBoVHJuNjJwei1fR21renJna2EzR1gteHBlV0MxWEtFSVpEc3ZUWDFLXzJvRjVCSWJBSGJYX25zRFpTbWNDV19vXzdTV3J2cF9nQnFRalptdnNNRzA2NEliWkNEaUo4MHByeWNxcDBwYjRmQXlfY3o5QXNFMVgxSmxoSHk5cmZnazhGVnVmR2gxZzF6ekJyQXhmQXJNLXRwSmk0bGktQl",
       "idioma": "es"
     },
     {
@@ -238,7 +246,7 @@
     {
       "titulo": "La jueza autoriza a Adif a iniciar la reparación de la vía afectada por el accidente de Urda",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFhDcHJpTWQxeGV1MzItbVFqLXgwZXFtRmFjTkpLd2RYRUloR25ScE80dFFqWnBfSFU4Vjc1aDFkbmVzWTRHdGhjcGpSdjJSLXkxbnpRek9ZX3FTblcyWmdPYjBPUl9TWGZLMjVOR1Q5OUpDMWE5TVdGYWMySWE5bUJyQjdaNmcxd2RwNU9Ob3hseWNJbnFsSEhZczlqTnZEMDhqem00b3lUaWlKUHJXQVpKLTRGa0tiYUtLZXkteEU?oc=5",
-      "fuente": "cmmedia.es",
+      "fuente": "CMMedia",
       "fecha": "2026-11-19T10:50:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFhDcHJpTWQxeGV1MzItbVFqLXgwZXFtRmFjTkpLd2RYRUloR25ScE80dFFqWnBfSFU4Vjc1aDFkbmVzWTRHdGhjcGpSdjJSLXkxbnpRek9ZX3FTblcyWmdPYjBPUl9TWGZLMjVOR1Q5OUpDMWE5TVdGYWMySWE5bUJyQjdaNmcxd2RwNU9Ob3hseWNJbnFsSEhZczlqTnZEMDhqem00b3lUaW",
@@ -677,14 +685,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHd2eFNmUGZveW5hTVM3WjRPOXZ3amt1UFh5Z1pxLVFYQVFadzZLcDRxSDB4ZVY2RGZ3OG5OSlFKcEtZSnhDanZMWDladmN4Y2dXTXhrZi1ta09BX1Y0WDRSQTBUQXhTNy1NSWJMdVlKdWpNclB3MlRBUDBuM3Fpck1mdHlIMEVWMHFqVFIzU0M0ZVgyZnZacmtXLXBWWW5LMnZrZUsxRjhtRm",
       "idioma": "es"
-    },
-    {
-      "titulo": "Descarrila un tren de mercancías en Madrid y resulta herido leve el maquinista",
-      "url": "https://www.lavanguardia.com/vida/20261115/11684721/descarrila-tren-mercancias-madrid-resulta-herido-leve-maquinista.html",
-      "fuente": "La Vanguardia",
-      "fecha": "2026-11-15T09:27:32.000Z",
-      "imagen": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/11/15/6af99c4a94e29.jpeg",
-      "resumen": "El accidente causa retrasos en la línea de Madrid con Ávila"
     }
   ],
   "videos": [
