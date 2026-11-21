@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-21T06:53:48.304Z",
+  "actualizado": "2026-11-21T15:14:25.789Z",
   "noticias": [
+    {
+      "titulo": "La tragedia de Urda obliga a PP y PSOE a poner el foco en la seguridad ferroviaria",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3REbmNTbnBoSVdqVDM4Z3pOS3h2UFpvaFRzNC1tSUZkV2Z2Vm9HQUp0N3lYX3ZqMXd5TlRkaktlSjlqaXhNT04xdFJSSktfNzBIeEczOXdYelNDVDRxdzVKOWZOdlozYWh5SmFMeERNb0NBTXM1QS0wY1lRRFpYdldVV18wWUNFemptRzhycnBEMDlDRDBlYVJLVU5fdEpwREo3aDhQbG9vcEZmUkhoaHJNbnBvMUd5Y1ZRRnFzRdIBxAFBVV95cUxPYzA3R2V3akNMTk9zaHlZVGZWaXdDTnVOczluYmR2dzhxVTFJcFlTc25uTGtCZHk1WVNzcFU4WmRMWV9mLVQtWWFiRFYza2dJS0g0azl0VDE4VzZqRFV3NWNWZ2JNTVgwVTRRLWVxU0ZQRmM2UUtNRzBlZUo1cElLSFNXMW50anZwanRDUUY0ZzFrZUdRaHdROVRMZzVZZGl3OWs5OERDdDNJQl9iM3BzWkh0N1k1U1E2Y09PZWl1X21KZDVj?oc=5",
+      "fuente": "MUNDIARIO",
+      "fecha": "2026-11-21T10:58:47.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3REbmNTbnBoSVdqVDM4Z3pOS3h2UFpvaFRzNC1tSUZkV2Z2Vm9HQUp0N3lYX3ZqMXd5TlRkaktlSjlqaXhNT04xdFJSSktfNzBIeEczOXdYelNDVDRxdzVKOWZOdlozYWh5SmFMeERNb0NBTXM1QS0wY1lRRFpYdldVV18wWUNFemptRzhycnBEMDlDRDBlYVJLVU5fdEpwREo3aDhQbG9vcE",
+      "idioma": "es"
+    },
+    {
+      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
+      "fuente": "ABC News - Breaking News, Latest News and Videos",
+      "fecha": "2026-11-21T08:46:22.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
+      "idioma": "en"
+    },
     {
       "titulo": "El \"caos\" de ir a trabajar con la línea AVE Madrid-Sevilla cortada desde hace semanas: \"Perjuicios por todos los sitios”",
       "url": "https://www.eldiario.es/castilla-la-mancha/provincias/ciudad_real/caos-trabajar-linea-ave-madrid-sevilla-cortada-semanas-perjuicios-sitios_1_13671288.html",
@@ -157,11 +175,11 @@
     },
     {
       "titulo": "La jueza autoriza a Adif a reconstruir el tramo de vía afectado por el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHJQSHZBNzcyWTN3M25yTnpXUWlrZ3BPNTRuQnZqYlV3S1Rpdk94VjI0dGlTdHpXS3JFSWxpald5V283dWljN3pRX09VX0NJZnNiSkFxU0NfUjlWazBJaF9HXzBOVlFybC01OWhxd2tmZS1qcVdKWE9nZDJOQklhb01ZTUhQN3p0MVU5VnVLYkpoTjRIdzduME01d3FVQWJlQmNQVElMUVo5ZjkzTEVibE9JM0dOdUFHTm01cHF6MVhoaHBj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlpEVDZXNGU0eFZMenlEQ2p1c1gtdjJONkk4bWNyeXhuREJBWDk1ZzNIR05ma1ViaUljNGtzckk5Mk9HVWx3YkFWeGZMUXU4RFVVRVZUdE1HM0dVeUl1a2tTN3pOUE9wbmpnZXJpREdnUFY5RHkwNUFRODNSLVVqa2xTd0JReHRzV1ptM3NWWTFTVE1yQXZwdHFMaEFIV1NPeXpsWlpFWXp4eklFcVFKWHRpNk4xN1ItcDVqakdDU1MxYmRf?oc=5",
       "fuente": "RTVE.es",
       "fecha": "2026-11-19T11:46:26.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHJQSHZBNzcyWTN3M25yTnpXUWlrZ3BPNTRuQnZqYlV3S1Rpdk94VjI0dGlTdHpXS3JFSWxpald5V283dWljN3pRX09VX0NJZnNiSkFxU0NfUjlWazBJaF9HXzBOVlFybC01OWhxd2tmZS1qcVdKWE9nZDJOQklhb01ZTUhQN3p0MVU5VnVLYkpoTjRIdzduME01d3FVQWJlQmNQVElMUVo5Zj",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlpEVDZXNGU0eFZMenlEQ2p1c1gtdjJONkk4bWNyeXhuREJBWDk1ZzNIR05ma1ViaUljNGtzckk5Mk9HVWx3YkFWeGZMUXU4RFVVRVZUdE1HM0dVeUl1a2tTN3pOUE9wbmpnZXJpREdnUFY5RHkwNUFRODNSLVVqa2xTd0JReHRzV1ptM3NWWTFTVE1yQXZwdHFMaEFIV1NPeXpsWlpFWXp4ek",
       "idioma": "es"
     },
     {
@@ -251,15 +269,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRFhDcHJpTWQxeGV1MzItbVFqLXgwZXFtRmFjTkpLd2RYRUloR25ScE80dFFqWnBfSFU4Vjc1aDFkbmVzWTRHdGhjcGpSdjJSLXkxbnpRek9ZX3FTblcyWmdPYjBPUl9TWGZLMjVOR1Q5OUpDMWE5TVdGYWMySWE5bUJyQjdaNmcxd2RwNU9Ob3hseWNJbnFsSEhZczlqTnZEMDhqem00b3lUaW",
       "idioma": "es"
-    },
-    {
-      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
-      "fuente": "ABC News - Breaking News, Latest News and Videos",
-      "fecha": "2026-11-19T04:17:34.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
-      "idioma": "en"
     },
     {
       "titulo": "El Congreso convalida los decretos de medidas para reforzar los trenes y ayudas a las víctimas de",
@@ -675,15 +684,6 @@
       "fecha": "2026-11-15T13:35:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzREbzRZdDRsLXprSTlaMXJibmlUNGI4WEd2RXZsZDRBVElfMVppelVyYjI2MjdjZFNjR3d2QXVNc0xrYzd1RmgxanEzTjdqcXozSkNlV3J0OEprX2NZemdiTF9JdWtVdGtUdDhrVHk5Q1hac2RUVGI1R0s1bmc4TE05WGhibGdUckhJa1F6NGlydzJLdWxpNElhUWk1N3lYQkFn0gGoAUFVX3",
-      "idioma": "es"
-    },
-    {
-      "titulo": "La interrupción en el tren por el accidente de Urda causa entre 1,3 y 1,5 millones de pérdidas diarias en Sevilla",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHd2eFNmUGZveW5hTVM3WjRPOXZ3amt1UFh5Z1pxLVFYQVFadzZLcDRxSDB4ZVY2RGZ3OG5OSlFKcEtZSnhDanZMWDladmN4Y2dXTXhrZi1ta09BX1Y0WDRSQTBUQXhTNy1NSWJMdVlKdWpNclB3MlRBUDBuM3Fpck1mdHlIMEVWMHFqVFIzU0M0ZVgyZnZacmtXLXBWWW5LMnZrZUsxRjhtRmdGd3Q1bzkxcjk1d3lLUi1WckdnMEt1RE5BYUZYV3UwclRtVm5RMkQ2WmZ30gHbAUFVX3lxTFBSLU5uNFhhTV9ZRFc4Zk1GSzhnclRaeDVqdDMxcUJoWllzTGVGeFlpazZDdUNmSGxlejh6SUFJcWp4S3VQZXJINEdDdzN3QVBYVXpzek91YkVfdEx3dWREUzI1NGtKS3R6QXJiUlpfamRQa1RRV2ppb2VyRWNjVHNQYVJrUU1BLTZ6WmsxOGZOS0thQ3ZVbUptbERfamNiYUxkX1FYS28wY05XMW1YajRkcHRNR2JielEyVDRrOUIwNWQwZXFlcldPTVQzekZYSFF3bTlYbV9rdkI3dw?oc=5",
-      "fuente": "El Debate",
-      "fecha": "2026-11-15T11:33:54.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUHd2eFNmUGZveW5hTVM3WjRPOXZ3amt1UFh5Z1pxLVFYQVFadzZLcDRxSDB4ZVY2RGZ3OG5OSlFKcEtZSnhDanZMWDladmN4Y2dXTXhrZi1ta09BX1Y0WDRSQTBUQXhTNy1NSWJMdVlKdWpNclB3MlRBUDBuM3Fpck1mdHlIMEVWMHFqVFIzU0M0ZVgyZnZacmtXLXBWWW5LMnZrZUsxRjhtRm",
       "idioma": "es"
     }
   ],
