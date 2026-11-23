@@ -1,6 +1,23 @@
 {
-  "actualizado": "2026-11-21T15:14:25.789Z",
+  "actualizado": "2026-11-23T03:57:38.442Z",
   "noticias": [
+    {
+      "titulo": "El comité de seguridad de Adif no se reúne desde un año antes de Adamuz y Urda",
+      "url": "https://www.abc.es/espana/organo-responsable-seguridad-adif-reunio-ultima-vez-20261121013941-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-23T00:40:05.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/21/adif-1200x1840-RywPI0dWGARLX92SEl5aoSL-1200x840@diario_abc.jpg",
+      "resumen": "El órgano supervisor de accidentes de tráfico ferroviario no se reúne desde diciembre de 2024, según las actas de las dos últimas convocatorias a las que ha tenido acceso en exclusiva ABC. Técnicos de Adif denuncian que esta suspensión de las reuniones del Comité General de Segur"
+    },
+    {
+      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
+      "fuente": "ABC News - Breaking News, Latest News and Videos",
+      "fecha": "2026-11-21T21:52:37.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
+      "idioma": "en"
+    },
     {
       "titulo": "La tragedia de Urda obliga a PP y PSOE a poner el foco en la seguridad ferroviaria",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3REbmNTbnBoSVdqVDM4Z3pOS3h2UFpvaFRzNC1tSUZkV2Z2Vm9HQUp0N3lYX3ZqMXd5TlRkaktlSjlqaXhNT04xdFJSSktfNzBIeEczOXdYelNDVDRxdzVKOWZOdlozYWh5SmFMeERNb0NBTXM1QS0wY1lRRFpYdldVV18wWUNFemptRzhycnBEMDlDRDBlYVJLVU5fdEpwREo3aDhQbG9vcEZmUkhoaHJNbnBvMUd5Y1ZRRnFzRdIBxAFBVV95cUxPYzA3R2V3akNMTk9zaHlZVGZWaXdDTnVOczluYmR2dzhxVTFJcFlTc25uTGtCZHk1WVNzcFU4WmRMWV9mLVQtWWFiRFYza2dJS0g0azl0VDE4VzZqRFV3NWNWZ2JNTVgwVTRRLWVxU0ZQRmM2UUtNRzBlZUo1cElLSFNXMW50anZwanRDUUY0ZzFrZUdRaHdROVRMZzVZZGl3OWs5OERDdDNJQl9iM3BzWkh0N1k1U1E2Y09PZWl1X21KZDVj?oc=5",
@@ -9,15 +26,6 @@
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQM3REbmNTbnBoSVdqVDM4Z3pOS3h2UFpvaFRzNC1tSUZkV2Z2Vm9HQUp0N3lYX3ZqMXd5TlRkaktlSjlqaXhNT04xdFJSSktfNzBIeEczOXdYelNDVDRxdzVKOWZOdlozYWh5SmFMeERNb0NBTXM1QS0wY1lRRFpYdldVV18wWUNFemptRzhycnBEMDlDRDBlYVJLVU5fdEpwREo3aDhQbG9vcE",
       "idioma": "es"
-    },
-    {
-      "titulo": "'Inexplicable' order probed as cause of train crash that killed at least 69: Official - ABC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeXFMUGhlMzZpel9WazFtWHJfU2dINk5ZLUYzNTZmRmFLSTQwNkxVT3NJUXFHLW4ybGZTeFRtSko2UVBuRGlvQVBkZ0hYME1VeTJSVnJzNjhmSjQwdEkzMk1YOWM4R2VUbjlQblVjekhJQTFNOE1PUTNfbUt0bjRZWWZnVHgzZExsYXA5WHBJMmhjM2ZMT01rMGtET3ZDN3hkc05ETEt3UzI3dlk?oc=5",
-      "fuente": "ABC News - Breaking News, Latest News and Videos",
-      "fecha": "2026-11-21T08:46:22.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPZzdYdG5iNnI5b0lKZkk0eGRmRU45RFJYSW9rUDZ3d2pVcGQ0YjVLYlB0a2NBaTl4OUdHQ3dWdFJPUUxJaXlFX0lYV2pjQXZHUzVnUFhEVWZHWXY3MjgzTmx1QW5VTkZ5WjdFUWhkbXFyQXh1WFZGUl9SV1dtTmkxMWROQnRoTHVMRFkzMEk2WDh3Y2JmM3dDUzJYekFaWk1DbkHSAacBQVVfeX",
-      "idioma": "en"
     },
     {
       "titulo": "El \"caos\" de ir a trabajar con la línea AVE Madrid-Sevilla cortada desde hace semanas: \"Perjuicios por todos los sitios”",
@@ -676,15 +684,6 @@
       "fecha": "2026-11-15T15:12:53.000Z",
       "imagen": "https://imagenes.elpais.com/resizer/v2/GE2YLRWT5VNEZINZBFF64EBUHU.jpg?auth=8b1bba0b143e3295ad2f32ed91dc1be6a3b6325bb4e4f4a4a6076e7ab97425d9",
       "resumen": "El siniestro se ha producido en la localidad de Zarzalejo, dejando heridas leves al maquinista y motivando el corte de la línea Madrid-Ávila"
-    },
-    {
-      "titulo": "El gobierno de Sánchez financió a Marruecos trenes con el sistema ETCS N2 que podría haber evitado el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzREbzRZdDRsLXprSTlaMXJibmlUNGI4WEd2RXZsZDRBVElfMVppelVyYjI2MjdjZFNjR3d2QXVNc0xrYzd1RmgxanEzTjdqcXozSkNlV3J0OEprX2NZemdiTF9JdWtVdGtUdDhrVHk5Q1hac2RUVGI1R0s1bmc4TE05WGhibGdUckhJa1F6NGlydzJLdWxpNElhUWk1N3lYQkFn0gGoAUFVX3lxTE1GbXlPbDBTWEFDUVptaW5BNWdILXh0akZFdXd1dTc5ZGZhTktjUnJLWWtRRjMxaW03WnB5VDdWMDJ4VjUzZjVnSm1wZ1lvc3AzbmxMTkFFY1dReVVXS2V6ZWM0aHdYVnRwX0Y5RnZualpRTF9FU3lFZWxOeDMyd3FJb2NSSGtIRkEtSHoycWZQaHJDMTNLdzBrOFJ4WmtTTGVBMVdVaElWcQ?oc=5",
-      "fuente": "Telemadrid",
-      "fecha": "2026-11-15T13:35:00.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNTzREbzRZdDRsLXprSTlaMXJibmlUNGI4WEd2RXZsZDRBVElfMVppelVyYjI2MjdjZFNjR3d2QXVNc0xrYzd1RmgxanEzTjdqcXozSkNlV3J0OEprX2NZemdiTF9JdWtVdGtUdDhrVHk5Q1hac2RUVGI1R0s1bmc4TE05WGhibGdUckhJa1F6NGlydzJLdWxpNElhUWk1N3lYQkFn0gGoAUFVX3",
-      "idioma": "es"
     }
   ],
   "videos": [
