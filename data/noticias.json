@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-25T15:57:43.161Z",
+  "actualizado": "2026-11-26T00:11:15.381Z",
   "noticias": [
+    {
+      "titulo": "El Gobierno andaluz de PP y Vox incluye por primera vez al \"concebido no nacido\" como beneficiario de ayudas públicas",
+      "url": "https://www.eldiario.es/andalucia/gobierno-andaluz-pp-vox-incluye-primera-vez-concebido-no-nacido-beneficiario-ayudas-publicas_1_13692437.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-25T14:40:34.000Z",
+      "imagen": "https://static.eldiario.es/clip/5725d0e6-cbe7-4ce4-a6c1-7f56aa868745_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "El Ejecutivo de Juanma Moreno aprueba un decreto ley de ayudas a víctimas directas e indirectas del accidente ferroviario de Urda que reconoce al embrión como miembro familiar a efectos administrativos. El objetivo, dice la Junta, es beneficiar al bebé de una mujer embarazada que"
+    },
     {
       "titulo": "Los peritos judiciales apuntan a la rotura de la soldadura de carril como causa más probable del accidente de Adamuz",
       "url": "https://www.europapress.es/andalucia/noticia-peritos-judiciales-apuntan-rotura-soldadura-carril-causa-mas-probable-siniestro-adamuz-20261125130424.html",
@@ -681,15 +689,6 @@
       "fecha": "2026-11-17T04:00:00.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdTdiYUVZbXRzSnUzeWROQ0p1OWZJOVBLUGM1VGNjVzRCWVZ5LUd1dkttS2NBaHZlaVh3UTZoYU15WmNKZ1VhVEZhZXZWc1hPZ3B2Tk5JODJGakdWMnprTm13Y0NKekg2QjEySFdmMy1JVmxyMGx1aGZseXVibmpCcDlPQjNOWk9ZS2dCa1RuREpsVnhYcFVjSEloTUdsZ0NzZDlJeXQtVVQ3N1",
-      "idioma": "es"
-    },
-    {
-      "titulo": "El Gobierno refuerza las tripulaciones de los trenes para afrontar situaciones de emergencia tras los siniestros de Urda y Adamuz",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSnVSaDE5UVVZdWN1NWVQQ0staWMzdlhvN0I1X3VCTDZiLWd1cjJQcEJLOUVVQ2dSVzBTOWxqWTFWZ1FjZVpidGFoeE92VGhOYzNIcjF6YWFDQS00UTNYdmhuYVB0ZjJ2cGlyT3ZiczFYY1J5a2N1TVFmX3NsbVhXWXlNQXBYQmNIbTJ2djlZcFBqdlFURk1naDFHaFNFbElrTm50UXkwdTlSVERyWU9ldjJ2ekp1b1ZNM3UxcnZmeUQtWko3ZFNwNkFnS3lLMFZQeVlDcFdQem14Y2NHdzduWHRibUFoOVV5NVlpRnJ4dFh3X0tZWkHSAYoCQVVfeXFMUGx1a3U0X0FOUXdsZ05wUTNUV0NYbHlWa3BtUDd6aVRWeFFTNzlBZG9rYmlQSVFNZVVEakF4d29USnJmaEQtWl9YRWR2NDByeHN0bWg3NDVZdVY2STQ0UlFzWFAteXY0NkJKeUtMYWp5WGJ6NmtFc3JYTHVBdDhCNXZEWUNrTkF2NkpDdTd0MVhEd2Vpbl9GdVQtY3pKVmtEZERTSzM2OG1DMGpwU2tUT3BnTVRlZ3o0d3FOVnZpczctNklid2FxUjVfcGdaWUZoZDEtUWhqd05NUGxKVEh5LWRBRGI5eGtIT1p1VjlqdFJfQ3l3eXBXUFRiajdsd292UUZYQm81UkRnbnc?oc=5",
-      "fuente": "La Razón",
-      "fecha": "2026-11-17T01:59:17.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSnVSaDE5UVVZdWN1NWVQQ0staWMzdlhvN0I1X3VCTDZiLWd1cjJQcEJLOUVVQ2dSVzBTOWxqWTFWZ1FjZVpidGFoeE92VGhOYzNIcjF6YWFDQS00UTNYdmhuYVB0ZjJ2cGlyT3ZiczFYY1J5a2N1TVFmX3NsbVhXWXlNQXBYQmNIbTJ2djlZcFBqdlFURk1naDFHaFNFbElrTm50UXkwdTlSVE",
       "idioma": "es"
     }
   ],
