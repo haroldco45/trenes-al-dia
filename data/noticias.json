@@ -1,6 +1,39 @@
 {
-  "actualizado": "2026-11-26T08:49:02.967Z",
+  "actualizado": "2026-11-26T18:55:48.920Z",
   "noticias": [
+    {
+      "titulo": "Pedro Sánchez, sobre su infancia: «Yo fui un penalti. Mi madre tenía 18 años y mi padre 20. Se casaron ya embarazada ella»",
+      "url": "https://www.abc.es/gente/pedro-sanchez-sobre-infancia-penalti-madre-anos-20261126161845-nt.html",
+      "fuente": "ABC",
+      "fecha": "2026-11-26T17:43:54.000Z",
+      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/11/27/pedro-sanchez-infancia-kVqD-U40512862959rz-1200x840@diario_abc.jpg",
+      "resumen": "Desde que anunciara el adelanto electoral en octubre tras la falta de apoyos para aprobar los decretos Maricarmen, Pedro Sánchez no ha dejado de estar en el foco de la polémica: la crisis de la vivienda, el accidente de tren de Urda , los casos de corrupción en el PSOE y las caus"
+    },
+    {
+      "titulo": "La jueza prorroga el secreto del sumario por el accidente ferroviario de Urda (Toledo)",
+      "url": "https://www.encastillalamancha.es/justicia-y-tribunales-cat/la-jueza-prorroga-el-secreto-del-sumario-por-el-accidente-ferroviario-de-urda-toledo/",
+      "fuente": "encastillalamancha",
+      "fecha": "2026-11-26T16:56:50.000Z",
+      "imagen": "https://www.encastillalamancha.es/wp-content/uploads/2026/11/urda-tren-accidente-26-1-1-1200x628.jpg",
+      "resumen": "... The post La jueza prorroga el secreto del sumario por el accidente ferroviario de Urda (Toledo) appeared first on ENCLM ."
+    },
+    {
+      "titulo": "La investigación del accidente ferroviario de Urda seguirá bajo secreto de sumario hasta el 28 de diciembre",
+      "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-ferroviario-urda-seguira-secreto-sumario-28-diciembre_1_13696666.html",
+      "fuente": "eldiario.es",
+      "fecha": "2026-11-26T16:28:17.000Z",
+      "imagen": "https://static.eldiario.es/clip/c36fbbd8-a602-4e3b-97be-d38160993b03_16-9-discover-aspect-ratio_default_0.jpg",
+      "resumen": "La jueza prorroga un mes la medida a petición de la Fiscalía y levanta las restricciones de acceso y grabación de imágenes en la zona del siniestro El Gobierno declara el accidente ferroviario de Urda como emergencia de protección civil para poder activar ayudas La jueza que inst"
+    },
+    {
+      "titulo": "La jueza prorroga el secreto del sumario por el accidente ferroviario de Urda",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdE9zVU04MGk0ZTVFdGJjclk3b1cxLTctaXFoT0dhUnIxUnpxY3lRUmN4U3hmeWhaa1FCeEpBc0tnRVFiT0JrZUJpMVdsOF9XWFdCM05sSjZPVUFzSnJDdEkwTG5QNkxmUExNVWRadXA5R3pKVTJFWmk3M1hHdUZyUklKNjV5R1NNR0k3aElGc0wyc0tUX3AtQThITE9uYVExZVBfNEpmX0YzT3pJMzJST2U2MXN5bVpianlFTHlCX3BJNXVjRTBIdW51VU9qRHJ0NzZ3VzlKcHlnX3o4ZnVPOFVkdGhiZw?oc=5",
+      "fuente": "El Ideal Gallego",
+      "fecha": "2026-11-26T16:10:07.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdE9zVU04MGk0ZTVFdGJjclk3b1cxLTctaXFoT0dhUnIxUnpxY3lRUmN4U3hmeWhaa1FCeEpBc0tnRVFiT0JrZUJpMVdsOF9XWFdCM05sSjZPVUFzSnJDdEkwTG5QNkxmUExNVWRadXA5R3pKVTJFWmk3M1hHdUZyUklKNjV5R1NNR0k3aElGc0wyc0tUX3AtQThITE9uYVExZVBfNEpmX0YzT3",
+      "idioma": "es"
+    },
     {
       "titulo": "ACCIDENTE TREN URDA | El Ministerio de Transportes se reunió para adjudicar las clases de yoga y pilates a sus empleados 82 minutos después de la tragedia ferroviaria de Urda",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGlhUHVfaWxGTDZKNXlid2llMmxlT1lvUTBmcjVFNnFaYVl3SVNpM0RES2lrNzdfMVFiaTdoMUt1WWJNTEp1RDFOZjFqQk9GYmU4QWVmRWJaTG9xS05jUDBFNVZhVVY0YXF3UE9SUFJGSXlBaEpuLU9NYXRSVDMxWHoxRXY5ZGVWSTI0eG9CNlRXdzRrTjNyRXpKQktxM3JIajlhQWdnU3d1aFE4X1FaUkctV2VvUVM4RFHSAb8BQVVfeXFMT1RwMzhoMzBvRmtMMnItVjJDYjZzc0ZIME8wNUlLeFpSdUtJbzVRS1VKR3c3dFExLW5iaS1IN05kWk40UEdVQTRra01ybm01bDlKNGpCVmNZNGR3eERGT2hUZjNWVHRqY1ROYnpQMjZ3X1VIQnFXRDZYZ0pmNWR0Yk9DYmVrYVZvR195WHBvUGhISUZYUDV2dkRJWk1JbjhLSFpyYmY3Z3FyOGJwVjRTd1BWUHVpR3FkX0RadFNQaGs?oc=5",
@@ -45,12 +78,21 @@
       "idioma": "es"
     },
     {
+      "titulo": "Renfe pregunta a pasajeros habituales de la línea Madrid-Andalucía por los cortes por Urda y valo",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckJGcnlZajRvbVVDV3RjU0Y3TVVMNzc4OWNlOVFjTWhJZ19vdnBJVU5PR21FeVN4Tk9FYklHSENBeFV4OXpicUVqTHNQQ19ubDc2YklOMWozSWhiV0Q3eVVlWV9zY1o0WDhBZlRfT3BldTI2bmJkNzZoZ25JZGw2NFRQZkdKOU9SR1gwTFFUT0JWajJmaFFrbGM1ZlBpNEhMY2hxaXpiZng1bjFlU0N3X0Ztcm3SAbQBQVVfeXFMT3JCRnJ5WWo0b21VQ1d0Y1NGN01VTDc3ODljZTlRY01oSWdfb3ZwSVVOT0dtRXlTeE5PRWJJR0hDQXhVeDl6YnFFakxzUENfbmw3NmJJTjFqM0loYldEN3lVZVlfc2NaNFg4QWZUX09wZXUyNm5iZDc2aGduSWRsNjRUUGZHSjlPUkdYMExRVE9CVmoyZmhRa2xjNWZQaTRITGNocWl6YmZ4NW4xZVNDd19GbXJt?oc=5",
+      "fuente": "LaCerca.com",
+      "fecha": "2026-11-25T11:27:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPckJGcnlZajRvbVVDV3RjU0Y3TVVMNzc4OWNlOVFjTWhJZ19vdnBJVU5PR21FeVN4Tk9FYklHSENBeFV4OXpicUVqTHNQQ19ubDc2YklOMWozSWhiV0Q3eVVlWV9zY1o0WDhBZlRfT3BldTI2bmJkNzZoZ25JZGw2NFRQZkdKOU9SR1gwTFFUT0JWajJmaFFrbGM1ZlBpNEhMY2hxaXpiZng1bj",
+      "idioma": "es"
+    },
+    {
       "titulo": "Ouigo amplía hasta el 3 de diciembre la cancelación de sus trenes entre Madrid y Andalucía tras el accidente de Urda",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkl4VGVTU3NDQ05sRE5lTWk5M2g0cjNXdzJkeGlsQnVmWkpoVDk2dzRWUlF6TVExNy1PWGx2YUxoYkx1MV9iR1dKaFBNRGhSX3BFcS1vTGpLTXdVYW5sTlF4LVFxWnFGM041OV85Wl8tRnRBcFBnNmhWUk1XenQ3NW13YzVlaHpBMzdLanFXMExuQTZ6aERGRXM3SVZYaGFhTjl0WElpNjRkZVdvZXBSZ3E5UnVMUE9MM1ZtVkVSVGVKUE5HQmx2SXFqUjFBRXFRV0FzcmlLNkZMN1BtbzVza1BR?oc=5",
-      "fuente": "somosCLM",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnkyQjA1MFhIR0hvNmw2RXEyX1NpUG9DVnlzcENzLXE0TnVJM0UzNWR0Uks5VHh0ZTd5Zmc4cHJJZ2tDTFRtUndSMnQyNGRQanhUVThwalJmU0NIQVVLWGFFNTMwN0FKWE4xRE9Uc29JWWhFN1A1MTVETVk2ZVdwMnpXS0xqTGZjNTVZTkVqa0NyN1hXSC1saEtHRWRtc3NHeW9feVFIUExYN1l0YTNocTRYbjFBWlBaUDZGUzVxSF9nUE1YSmpKY2JxMlBpSm05WFZYVHphZ2I1TEZpeEZxaEE0akV4dmhiM3ptd0REM1hYbXJOR2pwODdn?oc=5",
+      "fuente": "enTomelloso.com",
       "fecha": "2026-11-25T08:15:11.000Z",
       "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkl4VGVTU3NDQ05sRE5lTWk5M2g0cjNXdzJkeGlsQnVmWkpoVDk2dzRWUlF6TVExNy1PWGx2YUxoYkx1MV9iR1dKaFBNRGhSX3BFcS1vTGpLTXdVYW5sTlF4LVFxWnFGM041OV85Wl8tRnRBcFBnNmhWUk1XenQ3NW13YzVlaHpBMzdLanFXMExuQTZ6aERGRXM3SVZYaGFhTjl0WElpNjRkZV",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnkyQjA1MFhIR0hvNmw2RXEyX1NpUG9DVnlzcENzLXE0TnVJM0UzNWR0Uks5VHh0ZTd5Zmc4cHJJZ2tDTFRtUndSMnQyNGRQanhUVThwalJmU0NIQVVLWGFFNTMwN0FKWE4xRE9Uc29JWWhFN1A1MTVETVk2ZVdwMnpXS0xqTGZjNTVZTkVqa0NyN1hXSC1saEtHRWRtc3NHeW9feVFIUExYN1",
       "idioma": "es"
     },
     {
@@ -651,46 +693,6 @@
       "fecha": "2026-11-17T10:19:29.000Z",
       "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261117111929_120.jpg",
       "resumen": "Un exempleado de la empresa que suministra a Adif el balasto de las vías de tren advierte a la jueza de la Sección Civil y de Instrucción del Tribunal de Instancia de Montoro (Córdoba), Plaza número 2, que lleva la causa del siniestro ferroviario de Adamuz, que el domingo 18 de e"
-    },
-    {
-      "titulo": "El Gobierno da una semana al comité de técnicos del sistema ferroviario para que diseñe un plan de choque",
-      "url": "https://www.eldiario.es/economia/gobierno-da-semana-comite-tecnicos-sistema-ferroviario-disene-plan-choque_1_13669978.html",
-      "fuente": "eldiario.es",
-      "fecha": "2026-11-17T10:04:38.000Z",
-      "imagen": "https://static.eldiario.es/clip/220856d9-39a3-4f5f-9109-5f42fae25ae4_16-9-discover-aspect-ratio_default_0.jpg",
-      "resumen": "En tres meses tienen que elaborar un Libro Blanco con los objetivos prioritarios de mejorar mantenimiento y la seguridad de las infraestructuras ferroviarias Cuerpo nombra a Inmaculada Gutiérrez nueva presidenta de Renfe y sitúa a Joaquim Hortalà al frente de Adif El Gobierno ha "
-    },
-    {
-      "titulo": "Un extrabajador de la cantera que suministró piedra para las vías donde ocurrió el accidente de Adamuz denuncia que Adif utilizó balasto defectuoso en ese tramo",
-      "url": "https://www.infobae.com/espana/2026/11/17/un-extrabajador-de-la-cantera-que-suministro-piedra-para-las-vias-donde-ocurrio-el-accidente-de-adamuz-denuncia-que-adif-utilizo-balasto-defectuoso-en-ese-tramo/",
-      "fuente": "Infobae",
-      "fecha": "2026-11-17T09:20:45.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/6BYGYYKZCRCVZE7LAS3ONETP3I.jpg?auth=7457d7028bfac965fee6725679026634011dc5acabed75f2be8d0f21df237597&smart=true&width=1920&height=1080",
-      "resumen": "El exempleado, que asegura haber sido despedido por negarse a fabricar y comercializar piedra que incumplía los requisitos técnicos, sostiene que el material podía fragmentarse con el paso de los trenes"
-    },
-    {
-      "titulo": "Un extrabajador de la cantera del balasto de Adamuz da pistas a la jueza sobre material “defectuoso” en el punto del siniestro",
-      "url": "https://elpais.com/espana/2026-11-17/un-extrabajador-de-la-cantera-del-balasto-de-adamuz-da-pistas-a-la-jueza-sobre-material-defectuoso-en-el-punto-del-siniestro.html",
-      "fuente": "El País",
-      "fecha": "2026-11-17T08:36:30.000Z",
-      "imagen": "https://imagenes.elpais.com/resizer/v2/BYM76COTQVBUFCDCWNA4P65RE4.jpg?auth=664d28dd109f19dba620325b957d726b54c3c9502dea9ec8ce96455706380e79",
-      "resumen": "La instrucción esperará al informe de los peritos judiciales y se lleva a una pieza separada el testimonio que habla de la tendencia de las piedras a fragmentarse bajo la carga de los trenes"
-    },
-    {
-      "titulo": "Giro en la investigación de Adamuz: un técnico despedido dice que el balasto colocado en el tramo era defectuoso",
-      "url": "https://www.abc.es/espana/andalucia/cordoba/giro-investigacion-adamuz-tecnico-despedido-dice-balasto-20261117090617-nts.html",
-      "fuente": "ABC",
-      "fecha": "2026-11-17T08:10:15.000Z",
-      "imagen": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/11/17/adamuz-kBIC-U40387380200keE-1200x840@diario_abc.jpg",
-      "resumen": "La instrucción judicial en torno al accidente ferroviario registrado en el tramo de Adamuz acaba de dar un giro sustancial. Un técnico con más de tres décadas de experiencia en el sector ha comparecido formalmente ante el Juzgado de Primera Instancia e Instrucción nº 2 de Montoro"
-    },
-    {
-      "titulo": "Las imágenes de la huelga de trenes",
-      "url": "https://www.20minutos.es/nacional/las-imagenes-huelga-trenes-que-protesta-por-una-mayor-seguridad_7061932_1.html",
-      "fuente": "20minutos",
-      "fecha": "2026-11-17T07:41:05.000Z",
-      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/17/6afc00740da191-45117046.jpeg",
-      "resumen": "España afronta una nueva jornada de huelga en el sector ferroviario veinte días después del accidente de Urda. El paro de 24 horas afecta a Adif, Renfe, Ouigo e Iryo."
     }
   ],
   "videos": [
