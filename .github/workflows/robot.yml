@@ -36,7 +36,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "Nada nuevo"
           else
-            git commit -m "Robot $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia"
+            git commit -m "[skip netlify] Robot $(TZ=America/Bogota date '+%Y-%m-%d %H:%M') hora Colombia"
             git pull --rebase
             git push
           fi
