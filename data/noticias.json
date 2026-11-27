@@ -1,6 +1,14 @@
 {
-  "actualizado": "2026-11-26T18:55:48.920Z",
+  "actualizado": "2026-11-27T02:07:11.363Z",
   "noticias": [
+    {
+      "titulo": "Sánchez enmienda a Sánchez y se redime en el 'reality' del debate a cuatro: choque, \"motosierra\", \"aticazo\" de Ayuso y guiño a Colau",
+      "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b08bbfffdddffd0068b45a3.html",
+      "fuente": "El Mundo",
+      "fecha": "2026-11-26T23:13:09.000Z",
+      "imagen": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/11/27/17957346773857.jpg",
+      "resumen": "Cambia su puesta en escena y frente a asuntos incómodos como los trenes o la corrupción desgasta a Feijóo con la negativa de Abascal a condenar la violencia machista. Lo usa para pedir el voto femenino Leer"
+    },
     {
       "titulo": "Pedro Sánchez, sobre su infancia: «Yo fui un penalti. Mi madre tenía 18 años y mi padre 20. Se casaron ya embarazada ella»",
       "url": "https://www.abc.es/gente/pedro-sanchez-sobre-infancia-penalti-madre-anos-20261126161845-nt.html",
@@ -18,6 +26,15 @@
       "resumen": "... The post La jueza prorroga el secreto del sumario por el accidente ferroviario de Urda (Toledo) appeared first on ENCLM ."
     },
     {
+      "titulo": "La jueza instructora del accidente ferroviario de Urda prorroga hasta el 28 de diciembre el secreto de sumario",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHJPajZpMC1WMUMxX2VXYWF3bFhVaUxSOTV1eXI4M213TFBZdHNOM1BzR29Ba2w2eDAya1YwNWlPaXkzekM4ZUVKdzdrUE5KVVlEdlFfSWZLS3RyZTFoYUg2NmhzUFVobHluNENkcUZMMDV4TzJlclpKTmNfZnFwaW15TEZwVzVnZWJOc3owT0Q2SGJsRXJBQUFaRDk0RWl6b3M5bHhnMjVXWFBKeTNYdkViVUxHQm9PdlY3b0NsTULSAcYBQVVfeXFMTndleklQcGxtOFFqV0sxOS1PZnRtSWVkNUNZU1FLYlZ4RnZuc01jcDJnZ2cyNGF6ZHM2Q0lIVzU5V2d6QkFkN2dQckJwUDRDUFkwYzcxUkZ2eHpxVVByRkx3YUZBbXdXZjdRTlQ3V3l5Wk11ZE5wcmFCVXJsTjI1NWZvcXk5TnhNa3pjcE5qRXF2V1Z5eGNQb2JRS1Iwb1d6SkZOcjF6dGQ2YlhyZ1A5a3NXR0Q4cW9GWW8tMVpHc1ZleW4weDhB?oc=5",
+      "fuente": "Diario Público",
+      "fecha": "2026-11-26T16:37:45.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRHJPajZpMC1WMUMxX2VXYWF3bFhVaUxSOTV1eXI4M213TFBZdHNOM1BzR29Ba2w2eDAya1YwNWlPaXkzekM4ZUVKdzdrUE5KVVlEdlFfSWZLS3RyZTFoYUg2NmhzUFVobHluNENkcUZMMDV4TzJlclpKTmNfZnFwaW15TEZwVzVnZWJOc3owT0Q2SGJsRXJBQUFaRDk0RWl6b3M5bHhnMjVXWF",
+      "idioma": "es"
+    },
+    {
       "titulo": "La investigación del accidente ferroviario de Urda seguirá bajo secreto de sumario hasta el 28 de diciembre",
       "url": "https://www.eldiario.es/castilla-la-mancha/provincias/toledo/investigacion-accidente-ferroviario-urda-seguira-secreto-sumario-28-diciembre_1_13696666.html",
       "fuente": "eldiario.es",
@@ -32,15 +49,6 @@
       "fecha": "2026-11-26T16:10:07.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdE9zVU04MGk0ZTVFdGJjclk3b1cxLTctaXFoT0dhUnIxUnpxY3lRUmN4U3hmeWhaa1FCeEpBc0tnRVFiT0JrZUJpMVdsOF9XWFdCM05sSjZPVUFzSnJDdEkwTG5QNkxmUExNVWRadXA5R3pKVTJFWmk3M1hHdUZyUklKNjV5R1NNR0k3aElGc0wyc0tUX3AtQThITE9uYVExZVBfNEpmX0YzT3",
-      "idioma": "es"
-    },
-    {
-      "titulo": "ACCIDENTE TREN URDA | El Ministerio de Transportes se reunió para adjudicar las clases de yoga y pilates a sus empleados 82 minutos después de la tragedia ferroviaria de Urda",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGlhUHVfaWxGTDZKNXlid2llMmxlT1lvUTBmcjVFNnFaYVl3SVNpM0RES2lrNzdfMVFiaTdoMUt1WWJNTEp1RDFOZjFqQk9GYmU4QWVmRWJaTG9xS05jUDBFNVZhVVY0YXF3UE9SUFJGSXlBaEpuLU9NYXRSVDMxWHoxRXY5ZGVWSTI0eG9CNlRXdzRrTjNyRXpKQktxM3JIajlhQWdnU3d1aFE4X1FaUkctV2VvUVM4RFHSAb8BQVVfeXFMT1RwMzhoMzBvRmtMMnItVjJDYjZzc0ZIME8wNUlLeFpSdUtJbzVRS1VKR3c3dFExLW5iaS1IN05kWk40UEdVQTRra01ybm01bDlKNGpCVmNZNGR3eERGT2hUZjNWVHRqY1ROYnpQMjZ3X1VIQnFXRDZYZ0pmNWR0Yk9DYmVrYVZvR195WHBvUGhISUZYUDV2dkRJWk1JbjhLSFpyYmY3Z3FyOGJwVjRTd1BWUHVpR3FkX0RadFNQaGs?oc=5",
-      "fuente": "todoalicante.es",
-      "fecha": "2026-11-26T03:24:37.000Z",
-      "imagen": "",
-      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGlhUHVfaWxGTDZKNXlid2llMmxlT1lvUTBmcjVFNnFaYVl3SVNpM0RES2lrNzdfMVFiaTdoMUt1WWJNTEp1RDFOZjFqQk9GYmU4QWVmRWJaTG9xS05jUDBFNVZhVVY0YXF3UE9SUFJGSXlBaEpuLU9NYXRSVDMxWHoxRXY5ZGVWSTI0eG9CNlRXdzRrTjNyRXpKQktxM3JIajlhQWdnU3d1aF",
       "idioma": "es"
     },
     {
@@ -93,6 +101,15 @@
       "fecha": "2026-11-25T08:15:11.000Z",
       "imagen": "",
       "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQnkyQjA1MFhIR0hvNmw2RXEyX1NpUG9DVnlzcENzLXE0TnVJM0UzNWR0Uks5VHh0ZTd5Zmc4cHJJZ2tDTFRtUndSMnQyNGRQanhUVThwalJmU0NIQVVLWGFFNTMwN0FKWE4xRE9Uc29JWWhFN1A1MTVETVk2ZVdwMnpXS0xqTGZjNTVZTkVqa0NyN1hXSC1saEtHRWRtc3NHeW9feVFIUExYN1",
+      "idioma": "es"
+    },
+    {
+      "titulo": "ACCIDENTE TREN URDA | El Ministerio de Transportes se reunió para adjudicar las clases de yoga y pilates a sus empleados 82 minutos después de la tragedia ferroviaria de Urda",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGlhUHVfaWxGTDZKNXlid2llMmxlT1lvUTBmcjVFNnFaYVl3SVNpM0RES2lrNzdfMVFiaTdoMUt1WWJNTEp1RDFOZjFqQk9GYmU4QWVmRWJaTG9xS05jUDBFNVZhVVY0YXF3UE9SUFJGSXlBaEpuLU9NYXRSVDMxWHoxRXY5ZGVWSTI0eG9CNlRXdzRrTjNyRXpKQktxM3JIajlhQWdnU3d1aFE4X1FaUkctV2VvUVM4RFHSAb8BQVVfeXFMT1RwMzhoMzBvRmtMMnItVjJDYjZzc0ZIME8wNUlLeFpSdUtJbzVRS1VKR3c3dFExLW5iaS1IN05kWk40UEdVQTRra01ybm01bDlKNGpCVmNZNGR3eERGT2hUZjNWVHRqY1ROYnpQMjZ3X1VIQnFXRDZYZ0pmNWR0Yk9DYmVrYVZvR195WHBvUGhISUZYUDV2dkRJWk1JbjhLSFpyYmY3Z3FyOGJwVjRTd1BWUHVpR3FkX0RadFNQaGs?oc=5",
+      "fuente": "todoalicante.es",
+      "fecha": "2026-11-25T08:00:00.000Z",
+      "imagen": "",
+      "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGlhUHVfaWxGTDZKNXlid2llMmxlT1lvUTBmcjVFNnFaYVl3SVNpM0RES2lrNzdfMVFiaTdoMUt1WWJNTEp1RDFOZjFqQk9GYmU4QWVmRWJaTG9xS05jUDBFNVZhVVY0YXF3UE9SUFJGSXlBaEpuLU9NYXRSVDMxWHoxRXY5ZGVWSTI0eG9CNlRXdzRrTjNyRXpKQktxM3JIajlhQWdnU3d1aF",
       "idioma": "es"
     },
     {
@@ -677,22 +694,6 @@
       "fecha": "2026-11-17T10:51:31.000Z",
       "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/17/6afc2bbb8d26e7-64329633.jpeg",
       "resumen": "La jueza del accidente de Adamuz incorpora la denuncia de un exempleado que avisa que el balasto es \"defectuoso\""
-    },
-    {
-      "titulo": "Un accidente entre dos trenes en Praga deja decenas de heridos: la Policía de República Checa investiga la causa",
-      "url": "https://www.infobae.com/espana/2026/11/17/un-accidente-entre-dos-trenes-en-praga-deja-decenas-de-heridos-la-policia-de-republica-checa-investiga-la-causa/",
-      "fuente": "Infobae",
-      "fecha": "2026-11-17T10:27:31.000Z",
-      "imagen": "https://www.infobae.com/resizer/v2/YTX4KXHGHVBKVKJIWQDKFSXP3Y.jpg?auth=1e8eb0cf19c808262243642e7f4a7a61e24e645e13d65a490a6a830c83e7d9e1&smart=true&width=2048&height=1536",
-      "resumen": "Por el momento no se conocen detalles del motivo. “Los investigadores están ahora en el lugar”, han comunicado las autoridades"
-    },
-    {
-      "titulo": "La jueza del accidente de Adamuz incorpora la denuncia de un exempleado que avisa que el balasto es \"defectuoso\"",
-      "url": "https://www.europapress.es/andalucia/noticia-jueza-accidente-adamuz-incorpora-denuncia-exempleado-avisa-balasto-defectuoso-20261117111929.html",
-      "fuente": "Europa Press",
-      "fecha": "2026-11-17T10:19:29.000Z",
-      "imagen": "https://img.europapress.es/fotoweb/fotonoticia_20261117111929_120.jpg",
-      "resumen": "Un exempleado de la empresa que suministra a Adif el balasto de las vías de tren advierte a la jueza de la Sección Civil y de Instrucción del Tribunal de Instancia de Montoro (Córdoba), Plaza número 2, que lleva la causa del siniestro ferroviario de Adamuz, que el domingo 18 de e"
     }
   ],
   "videos": [
